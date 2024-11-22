@@ -1,10 +1,21 @@
 # awesome-machine-learning-startups
-List of startups doing AI &amp; ML. Built automatically, hence unreliable. Inspired by [this list from Berlin](https://github.com/jrieke/awesome-machine-learning-startups-berlin).Work in progress.
+List of startups doing AI &amp; ML. Built automatically, hence unreliable. Inspired by [this](https://github.com/jrieke/awesome-machine-learning-startups-berlin).Work in progress. Let me know if you want other cities. 
+
+Fields: 👁 Computer Vision, 📚 Natural Language Processing, 🤖 Robotics, 💉 Medicine, 🚗 Self-Driving Cars, 🗣 Voice & Sound, 🤖 Chatbots & Customer Service, 🧾 Document Processing, 🔎 Search & Recommendation, 🔬 Science & Engineering, 💰 Business, 👔 Consulting, 🚀 Other 
 
 Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan), [Paris](#paris)
 
 ## Berlin
-### 📚 Natural Language Processing
+### Berlin - 👁 Computer Vision
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Mobius Labs | [Link](https://mobiuslabs.com/) | [View LinkedIn](https://www.linkedin.com/company/mobiuslabs) | Berlin, DE | 2018 | [18](https://www.linkedin.com/company/mobiuslabs/people/) | 4966 | [Series A](https://www.crunchbase.com/organization/mobius-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| EyeEm | [Link](https://www.eyeem.com) | [View LinkedIn](https://www.linkedin.com/company/eyeem) | Berlin, DE | N/A | [140](https://www.linkedin.com/company/eyeem/people/) | 16970 | [Private Equity](https://www.crunchbase.com/organization/eyeem?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Photography |
+| nyris GmbH | [Link](https://nyris.io) | [View LinkedIn](https://www.linkedin.com/company/nyris) | Berlin, DE | 2015 | [37](https://www.linkedin.com/company/nyris/people/) | 4357 | - | Software Development |
+| Birds.ai | [Link](https://birds.ai/projects) | [View LinkedIn](https://www.linkedin.com/company/birds-ai) | Delft, NL | 2016 | [0](https://www.linkedin.com/company/birds-ai/people/) | 1222 | - | Software Development |
+| PXL Vision | [Link](https://www.pxl-vision.com/en/contact/?utm_campaign=&utm_source=linkedin&utm_medium=social&utm_term=not_set&&utm_content=) | [View LinkedIn](https://www.linkedin.com/company/pxl-vision) | Zurich, CH | 2017 | [35](https://www.linkedin.com/company/pxl-vision/people/) | 2957 | [Seed](https://www.crunchbase.com/organization/pxl-vision-ag?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Berlin - 📚 Natural Language Processing
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | deepset | [Link](https://www.deepset.ai/) | [View LinkedIn](https://www.linkedin.com/company/deepset-ai) | Berlin, DE | 2018 | [83](https://www.linkedin.com/company/deepset-ai/people/) | 18419 | [Series B](https://www.crunchbase.com/organization/deepset?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
@@ -14,53 +25,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Lengoo | [Link](https://www.lengoo.com/) | [View LinkedIn](https://www.linkedin.com/company/lengoo) | Berlin, DE | N/A | [52](https://www.linkedin.com/company/lengoo/people/) | 4874 | [Series B](https://www.crunchbase.com/organization/lengoo-gmbh?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | Locoia | [Link](https://www.locoia.com/) | [View LinkedIn](https://www.linkedin.com/company/locoia) | Hamburg, DE | 2019 | [16](https://www.linkedin.com/company/locoia/people/) | 800 | - | Software Development |
 
-### 🗣 Voice & Sound
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Ada Health | [Link](https://ada.com/careers/) | [View LinkedIn](https://www.linkedin.com/company/ada-health) | Berlin, DE | 2011 | [286](https://www.linkedin.com/company/ada-health/people/) | 36278 | [Series B](https://www.crunchbase.com/organization/adahealth?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Hospitals and Health Care |
-| Rasa | [Link](https://rasa.com/) | [View LinkedIn](https://www.linkedin.com/company/rasa) | San Francisco, US | 2016 | [133](https://www.linkedin.com/company/rasa/people/) | 20299 | - | Software Development |
-| Solvemate | [Link](https://www.solvemate.com/en/) | [View LinkedIn](https://www.linkedin.com/company/solvemate) | Berlin, DE | 2015 | [0](https://www.linkedin.com/company/solvemate/people/) | 2703 | [Series Unknown](https://www.crunchbase.com/organization/solvemate?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🤖 Chatbots & Customer Service
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Rasa | [Link](https://rasa.com/) | [View LinkedIn](https://www.linkedin.com/company/rasa) | San Francisco, US | 2016 | [133](https://www.linkedin.com/company/rasa/people/) | 20299 | - | Software Development |
-| Solvemate | [Link](https://www.solvemate.com/en/) | [View LinkedIn](https://www.linkedin.com/company/solvemate) | Berlin, DE | 2015 | [0](https://www.linkedin.com/company/solvemate/people/) | 2703 | [Series Unknown](https://www.crunchbase.com/organization/solvemate?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| i2X | - | [View LinkedIn](https://www.linkedin.com/company/i2x) | N/A, N/A | N/A | [1](https://www.linkedin.com/company/i2x/people/) | 13 | - | Venture Capital and Private Equity Principals |
-| Chatlayer by Sinch | [Link](https://chatlayer.ai) | [View LinkedIn](https://www.linkedin.com/company/chatlayer) | Antwerp, BE | N/A | [8](https://www.linkedin.com/company/chatlayer/people/) | 3436 | - | IT Services and IT Consulting |
-| Sinch Engage | [Link](https://api.whatsapp.com/send?phone=4989416173170&text=Hello%20Sinch%20Engage%20Team%2C%20I%20want%20more%20information%20about%20your%20messaging%20solution) | [View LinkedIn](https://www.linkedin.com/company/sinchengage) | München, DE | 2008 | [28](https://www.linkedin.com/company/messengerpeople/people/) | 4916 | - | IT Services and IT Consulting |
-
-### 👁 Computer Vision
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Mobius Labs | [Link](https://mobiuslabs.com/) | [View LinkedIn](https://www.linkedin.com/company/mobiuslabs) | Berlin, DE | 2018 | [18](https://www.linkedin.com/company/mobiuslabs/people/) | 4966 | [Series A](https://www.crunchbase.com/organization/mobius-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| EyeEm | [Link](https://www.eyeem.com) | [View LinkedIn](https://www.linkedin.com/company/eyeem) | Berlin, DE | N/A | [140](https://www.linkedin.com/company/eyeem/people/) | 16970 | [Private Equity](https://www.crunchbase.com/organization/eyeem?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Photography |
-| nyris GmbH | [Link](https://nyris.io) | [View LinkedIn](https://www.linkedin.com/company/nyris) | Berlin, DE | 2015 | [37](https://www.linkedin.com/company/nyris/people/) | 4357 | - | Software Development |
-| Birds.ai | [Link](https://birds.ai/projects) | [View LinkedIn](https://www.linkedin.com/company/birds-ai) | Delft, NL | 2016 | [0](https://www.linkedin.com/company/birds-ai/people/) | 1222 | - | Software Development |
-| PXL Vision | [Link](https://www.pxl-vision.com/en/contact/?utm_campaign=&utm_source=linkedin&utm_medium=social&utm_term=not_set&&utm_content=) | [View LinkedIn](https://www.linkedin.com/company/pxl-vision) | Zurich, CH | 2017 | [35](https://www.linkedin.com/company/pxl-vision/people/) | 2957 | [Seed](https://www.crunchbase.com/organization/pxl-vision-ag?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🧾 Document Processing
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Levity | [Link](https://levity.nl) | [View LinkedIn](https://www.linkedin.com/company/levity) | Amsterdam, NL | 2011 | [1](https://www.linkedin.com/company/levity/people/) | 30 | - | Technology, Information and Internet |
-| Konfuzio | [Link](https://konfuzio.com) | [View LinkedIn](https://www.linkedin.com/company/ai-software-konfuzio) | Aßlar, DE | 2016 | [9](https://www.linkedin.com/company/konfuzio/people/) | 1186 | [Non Equity Assistance](https://www.crunchbase.com/organization/konfuzio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Hypatos | [Link](http://www.hypatos.ai) | [View LinkedIn](https://www.linkedin.com/company/hypatos) | Potsdam, DE | 2018 | [85](https://www.linkedin.com/company/hypatos/people/) | 3517 | [Series A](https://www.crunchbase.com/organization/hypatos?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Parashift | [Link](https://www.parashift.com.au) | [View LinkedIn](https://www.linkedin.com/company/parashift) | Adelaide, AU | 2013 | [11](https://www.linkedin.com/company/parashift/people/) | 253 | - | Software Development |
-
-### 🔎 Search & Recommendation
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Productsup | [Link](https://www.productsup.com) | [View LinkedIn](https://www.linkedin.com/company/productsup) | Berlin, DE | N/A | [262](https://www.linkedin.com/company/productsup/people/) | 12903 | [Series B](https://www.crunchbase.com/organization/productsup?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Tagtoo | [Link](https://www.tagtoo.com.tw/index_en.html) | [View LinkedIn](https://www.linkedin.com/company/tagtoo) | Taipei, TW | 2011 | [50](https://www.linkedin.com/company/tagtoo/people/) | 548 | [Series B](https://www.crunchbase.com/organization/tagtoo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Advertising Services |
-| Blue Yonder | [Link](https://blueyonder.com/) | [View LinkedIn](https://www.linkedin.com/company/blueyonder) | Scottsdale, US | 1985 | [6704](https://www.linkedin.com/company/blueyonder/people/) | 236116 | - | Software Development |
-| Viszen | [Link](https://www.viszen.tech/) | [View LinkedIn](https://www.linkedin.com/company/viszentech) | Johannesburg, ZA | 2019 | [2](https://www.linkedin.com/company/viszen/people/) | 60 | - | IT Services and IT Consulting |
-
-### 🚗 Self-driving Cars
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| ENWAY a Bucher Company | [Link](http://enway.ai/) | [View LinkedIn](https://www.linkedin.com/company/enway) | Berlin, DE | 2017 | [15](https://www.linkedin.com/company/enway/people/) | 2551 | [Seed](https://www.crunchbase.com/organization/enway?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🤖 Robots
+### Berlin - 🤖 Robotics
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Micropsi Industries | [Link](http://www.micropsi-industries.com) | [View LinkedIn](https://www.linkedin.com/company/micropsi-industries) | Berlin, DE | 2014 | [69](https://www.linkedin.com/company/micropsi-industries/people/) | 9340 | [Series B](https://www.crunchbase.com/organization/micropsi-industries?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
@@ -69,7 +34,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | German Bionic | [Link](http://www.germanbionic.com/) | [View LinkedIn](https://www.linkedin.com/company/germanbionic) | Berlin, DE | 2017 | [78](https://www.linkedin.com/company/germanbionic/people/) | 7554 | [Series A](https://www.crunchbase.com/organization/german-bionic-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
 | Studio Magazino | [Link](http://www.magazino.it) | [View LinkedIn](https://www.linkedin.com/company/magazino) | San Giovanni in Marignano, IT | 2000 | [13](https://www.linkedin.com/company/magazino/people/) | 22 | - | Graphic Design |
 
-### 💉 Medicine
+### Berlin - 💉 Medicine
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Ada Health | [Link](https://ada.com/careers/) | [View LinkedIn](https://www.linkedin.com/company/ada-health) | Berlin, DE | 2011 | [286](https://www.linkedin.com/company/ada-health/people/) | 36278 | [Series B](https://www.crunchbase.com/organization/adahealth?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Hospitals and Health Care |
@@ -81,7 +46,44 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Aignostics | [Link](http://www.aignostics.com) | [View LinkedIn](https://www.linkedin.com/company/aignostics) | Berlin, DE | 2018 | [116](https://www.linkedin.com/company/aignostics/people/) | 6681 | [Series B](https://www.crunchbase.com/organization/aignostics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | Plusdental | [Link](https://plusdental.es) | [View LinkedIn](https://www.linkedin.com/company/plusdental) | Córdoba, ES | 2017 | [4](https://www.linkedin.com/company/plusdental/people/) | 120 | - | N/A |
 
-### 🔬 Science & Engineering
+### Berlin - 🚗 Self-Driving Cars
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| ENWAY a Bucher Company | [Link](http://enway.ai/) | [View LinkedIn](https://www.linkedin.com/company/enway) | Berlin, DE | 2017 | [15](https://www.linkedin.com/company/enway/people/) | 2551 | [Seed](https://www.crunchbase.com/organization/enway?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Berlin - 🗣 Voice & Sound
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Ada Health | [Link](https://ada.com/careers/) | [View LinkedIn](https://www.linkedin.com/company/ada-health) | Berlin, DE | 2011 | [286](https://www.linkedin.com/company/ada-health/people/) | 36278 | [Series B](https://www.crunchbase.com/organization/adahealth?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Hospitals and Health Care |
+| Rasa | [Link](https://rasa.com/) | [View LinkedIn](https://www.linkedin.com/company/rasa) | San Francisco, US | 2016 | [133](https://www.linkedin.com/company/rasa/people/) | 20299 | - | Software Development |
+| Solvemate | [Link](https://www.solvemate.com/en/) | [View LinkedIn](https://www.linkedin.com/company/solvemate) | Berlin, DE | 2015 | [0](https://www.linkedin.com/company/solvemate/people/) | 2703 | [Series Unknown](https://www.crunchbase.com/organization/solvemate?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Berlin - 🤖 Chatbots & Customer Service
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Rasa | [Link](https://rasa.com/) | [View LinkedIn](https://www.linkedin.com/company/rasa) | San Francisco, US | 2016 | [133](https://www.linkedin.com/company/rasa/people/) | 20299 | - | Software Development |
+| Solvemate | [Link](https://www.solvemate.com/en/) | [View LinkedIn](https://www.linkedin.com/company/solvemate) | Berlin, DE | 2015 | [0](https://www.linkedin.com/company/solvemate/people/) | 2703 | [Series Unknown](https://www.crunchbase.com/organization/solvemate?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| i2X | - | [View LinkedIn](https://www.linkedin.com/company/i2x) | N/A, N/A | N/A | [1](https://www.linkedin.com/company/i2x/people/) | 13 | - | Venture Capital and Private Equity Principals |
+| Chatlayer by Sinch | [Link](https://chatlayer.ai) | [View LinkedIn](https://www.linkedin.com/company/chatlayer) | Antwerp, BE | N/A | [8](https://www.linkedin.com/company/chatlayer/people/) | 3436 | - | IT Services and IT Consulting |
+| Sinch Engage | [Link](https://api.whatsapp.com/send?phone=4989416173170&text=Hello%20Sinch%20Engage%20Team%2C%20I%20want%20more%20information%20about%20your%20messaging%20solution) | [View LinkedIn](https://www.linkedin.com/company/sinchengage) | München, DE | 2008 | [28](https://www.linkedin.com/company/messengerpeople/people/) | 4916 | - | IT Services and IT Consulting |
+
+### Berlin - 🧾 Document Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Levity | [Link](https://levity.nl) | [View LinkedIn](https://www.linkedin.com/company/levity) | Amsterdam, NL | 2011 | [1](https://www.linkedin.com/company/levity/people/) | 30 | - | Technology, Information and Internet |
+| Konfuzio | [Link](https://konfuzio.com) | [View LinkedIn](https://www.linkedin.com/company/ai-software-konfuzio) | Aßlar, DE | 2016 | [9](https://www.linkedin.com/company/konfuzio/people/) | 1186 | [Non Equity Assistance](https://www.crunchbase.com/organization/konfuzio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Hypatos | [Link](http://www.hypatos.ai) | [View LinkedIn](https://www.linkedin.com/company/hypatos) | Potsdam, DE | 2018 | [85](https://www.linkedin.com/company/hypatos/people/) | 3517 | [Series A](https://www.crunchbase.com/organization/hypatos?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Parashift | [Link](https://www.parashift.com.au) | [View LinkedIn](https://www.linkedin.com/company/parashift) | Adelaide, AU | 2013 | [11](https://www.linkedin.com/company/parashift/people/) | 253 | - | Software Development |
+
+### Berlin - 🔎 Search & Recommendation
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Productsup | [Link](https://www.productsup.com) | [View LinkedIn](https://www.linkedin.com/company/productsup) | Berlin, DE | N/A | [262](https://www.linkedin.com/company/productsup/people/) | 12903 | [Series B](https://www.crunchbase.com/organization/productsup?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Tagtoo | [Link](https://www.tagtoo.com.tw/index_en.html) | [View LinkedIn](https://www.linkedin.com/company/tagtoo) | Taipei, TW | 2011 | [50](https://www.linkedin.com/company/tagtoo/people/) | 548 | [Series B](https://www.crunchbase.com/organization/tagtoo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Advertising Services |
+| Blue Yonder | [Link](https://blueyonder.com/) | [View LinkedIn](https://www.linkedin.com/company/blueyonder) | Scottsdale, US | 1985 | [6704](https://www.linkedin.com/company/blueyonder/people/) | 236116 | - | Software Development |
+| Viszen | [Link](https://www.viszen.tech/) | [View LinkedIn](https://www.linkedin.com/company/viszentech) | Johannesburg, ZA | 2019 | [2](https://www.linkedin.com/company/viszen/people/) | 60 | - | IT Services and IT Consulting |
+
+### Berlin - 🔬 Science & Engineering
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Merantix Capital | [Link](http://www.merantix.com) | [View LinkedIn](https://www.linkedin.com/company/merantix-capital) | Berlin, DE | 2016 | [35](https://www.linkedin.com/company/merantix/people/) | 16193 | [Seed](https://www.crunchbase.com/organization/merantix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Venture Capital and Private Equity Principals |
@@ -90,7 +92,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | TWAICE | [Link](http://www.twaice.com) | [View LinkedIn](https://www.linkedin.com/company/twaice) | Munich, DE | N/A | [143](https://www.linkedin.com/company/twaice/people/) | 14029 | [Series A](https://www.crunchbase.com/organization/twaice?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | Teraki | [Link](https://www.teraki.com) | [View LinkedIn](https://www.linkedin.com/company/teraki) | Berlin, DE | 2015 | [24](https://www.linkedin.com/company/teraki/people/) | 12512 | [Series A](https://www.crunchbase.com/organization/teraki?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
 
-### 💰 Business
+### Berlin - 💰 Business
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Zeitgold (acquired by Deel) | [Link](http://www.zeitgold.com) | [View LinkedIn](https://www.linkedin.com/company/zeitgold) | Berlin, DE | 2015 | [7](https://www.linkedin.com/company/zeitgold/people/) | 3035 | [Series B](https://www.crunchbase.com/organization/zeitgold?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
@@ -102,22 +104,13 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Taxfix | [Link](http://taxfix.de/en) | [View LinkedIn](https://www.linkedin.com/company/taxfix) | Berlin, DE | 2016 | [342](https://www.linkedin.com/company/taxfix/people/) | 24569 | [Series D](https://www.crunchbase.com/organization/taxfix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
 | SumUp | [Link](https://go.sumup.com/globalcareers) | [View LinkedIn](https://www.linkedin.com/company/sumup) | London, GB | 2012 | [3474](https://www.linkedin.com/company/sumup/people/) | 141400 | [Debt Financing](https://www.crunchbase.com/organization/sumup?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
 
-### 👔 Consulting
+### Berlin - 👔 Consulting
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | DCMN | [Link](https://dcmn.com/) | [View LinkedIn](https://www.linkedin.com/company/dcmn) | Berlin, DE | 2010 | [124](https://www.linkedin.com/company/dcmn/people/) | 10317 | [Debt Financing](https://www.crunchbase.com/organization/dcmn?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Advertising Services |
 | DataScienceLAB | [Link](http://www.datasciencelab.it/) | [View LinkedIn](https://www.linkedin.com/company/datasciencelab) | Bologna, IT | 2014 | [3](https://www.linkedin.com/company/datasciencelab/people/) | 126 | - | Business Consulting and Services |
 
-### 🚀 Other
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| HelloFresh | [Link](https://careers.hellofresh.com/global/en) | [View LinkedIn](https://www.linkedin.com/company/hellofresh) | Berlin, DE | 2011 | [15519](https://www.linkedin.com/company/hellofresh/people/) | 377619 | [Series G](https://www.crunchbase.com/organization/hellofresh?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Consumer Services |
-| AUTO1 Group | [Link](https://www.auto1-group.com/careers/) | [View LinkedIn](https://www.linkedin.com/company/auto1-group) | Berlin, DE | 2012 | [3643](https://www.linkedin.com/company/auto1-group/people/) | 92839 | [Convertible Note](https://www.crunchbase.com/organization/auto1-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Blinkist | [Link](https://www.blinkist.com/business) | [View LinkedIn](https://www.linkedin.com/company/blinkist) | Berlin, DE | N/A | [189](https://www.linkedin.com/company/blinkist/people/) | 52574 | [Series C](https://www.crunchbase.com/organization/blinkist?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | E-Learning Providers |
-| Adjust | [Link](http://www.adjust.be) | [View LinkedIn](https://www.linkedin.com/company/adjust) | Bruxelles, BE | 2003 | [9](https://www.linkedin.com/company/adjust/people/) | 985 | - | Advertising Services |
-| sennder | [Link](http://www.sennder.com) | [View LinkedIn](https://www.linkedin.com/company/sennder) | Berlin, DE | 2015 | [927](https://www.linkedin.com/company/sennder/people/) | 42658 | [Series D](https://www.crunchbase.com/organization/sennder?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Truck Transportation |
-| wefox | [Link](http://www.wefox.com) | [View LinkedIn](https://www.linkedin.com/company/wefox) | Berlin, DE | 2015 | [561](https://www.linkedin.com/company/wefox/people/) | 36455 | [Series Unknown](https://www.crunchbase.com/organization/wefox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Insurance |
-
+### Berlin - 🚀 Other
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | HelloFresh | [Link](https://careers.hellofresh.com/global/en) | [View LinkedIn](https://www.linkedin.com/company/hellofresh) | Berlin, DE | 2011 | [15519](https://www.linkedin.com/company/hellofresh/people/) | 377619 | [Series G](https://www.crunchbase.com/organization/hellofresh?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Consumer Services |
@@ -128,7 +121,17 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | wefox | [Link](http://www.wefox.com) | [View LinkedIn](https://www.linkedin.com/company/wefox) | Berlin, DE | 2015 | [561](https://www.linkedin.com/company/wefox/people/) | 36455 | [Series Unknown](https://www.crunchbase.com/organization/wefox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Insurance |
 
 ## London
-### 📚 Natural Language Processing
+### London - 👁 Computer Vision
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Google DeepMind | [Link](http://www.deepmind.google) | [View LinkedIn](https://www.linkedin.com/company/googledeepmind) | London, GB | 2010 | [4160](https://www.linkedin.com/company/deepmind/people/) | 1102173 | [Series A](https://www.crunchbase.com/organization/deepmind?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Research Services |
+| FACULTY | [Link](http://www.wearefaculty.com) | [View LinkedIn](https://www.linkedin.com/company/faculty) | New York, US | 2012 | [137](https://www.linkedin.com/company/faculty/people/) | 2710 | - | Advertising Services |
+| Tractable | [Link](http://www.tractable.ai) | [View LinkedIn](https://www.linkedin.com/company/tractable) | London, GB | 2014 | [227](https://www.linkedin.com/company/tractable/people/) | 24334 | [Series E](https://www.crunchbase.com/organization/tractable?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Cortexica | [Link](https://www.cortexica.com/contact-us/) | [View LinkedIn](https://www.linkedin.com/company/cortexica) | London, GB | 2008 | [7](https://www.linkedin.com/company/cortexica/people/) | 1904 | [Series Unknown](https://www.crunchbase.com/organization/cortexica?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| VivaCity | [Link](http://www.vivacitylabs.com) | [View LinkedIn](https://www.linkedin.com/company/vivacity-labs) | London, GB | 2015 | [121](https://www.linkedin.com/company/vivacity-labs/people/) | 5351 | [Series Unknown](https://www.crunchbase.com/organization/vivacity-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Mobius Labs | [Link](http://www.mobiuslabs.com) | [View LinkedIn](https://www.linkedin.com/company/mobius-labs) | Indianapolis, US | N/A | [1](https://www.linkedin.com/company/mobius-labs/people/) | 17 | - | Software Development |
+
+### London - 📚 Natural Language Processing
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Papercup | [Link](http://www.papercuponline.com) | [View LinkedIn](https://www.linkedin.com/company/papercupindia) | Kolkata, IN | 2010 | [10](https://www.linkedin.com/company/papercup/people/) | 822 | - | Retail |
@@ -140,61 +143,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | REINFER | - | [View LinkedIn](https://www.linkedin.com/company/reinfer) | Las Palmas de Gran Canaria, ES | 1998 | [7](https://www.linkedin.com/company/reinfer/people/) | 48 | - | Wholesale Building Materials |
 | Intellegens | [Link](http://www.intellegens.hr) | [View LinkedIn](https://www.linkedin.com/company/intellegens) | 10000 Zagreb, HR | 2013 | [6](https://www.linkedin.com/company/intellegens/people/) | 349 | - | Software Development |
 
-### 🗣 Voice & Sound
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Sonantic | [Link](https://www.sonantic.io) | [View LinkedIn](https://www.linkedin.com/company/sonantic) | London, GB | 2018 | [3](https://www.linkedin.com/company/sonantic/people/) | 3057 | [Seed](https://www.crunchbase.com/organization/speak-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Research Services |
-| Boom.ai | [Link](http://www.boom.ai) | [View LinkedIn](https://www.linkedin.com/company/boom-ai) | Lehi, US | 2007 | [17](https://www.linkedin.com/company/boom-ai/people/) | 756 | - | Software Development |
-| SOUNDOUT (PTY) LTD | [Link](http://www.soundout.co.za) | [View LinkedIn](https://www.linkedin.com/company/soundout) | Cape town, ZA | 2009 | [1](https://www.linkedin.com/company/soundout/people/) | 19 | - | Events Services |
-| AudioStack | [Link](http://www.audiostack.ai) | [View LinkedIn](https://www.linkedin.com/company/audiostack-ai) | London, GB | 2019 | [45](https://www.linkedin.com/company/aflorithmic-labs/people/) | 7310 | - | Software Development |
-
-### 🤖 Chatbots & Customer Service
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| PolyAI | [Link](https://poly.ai) | [View LinkedIn](https://www.linkedin.com/company/polyai) | London, GB | N/A | [199](https://www.linkedin.com/company/polyai/people/) | 35474 | [Series C](https://www.crunchbase.com/organization/poly-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Infobip | [Link](https://www.infobip.com?utm_medium=social&utm_source=linkedin&utm_campaign=reach%20--%20social%20--%20global%20--%20about&utm_term=all%20--%20fans%20--%20visit%20website%20LI&utm_content=about-us%20--%20english) | [View LinkedIn](https://www.linkedin.com/company/infobip) | London, GB | 2006 | [3347](https://www.linkedin.com/company/infobip/people/) | 341422 | [Debt Financing](https://www.crunchbase.com/organization/infobip?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Digital Genius | [Link](http://www.digitalgenius.com.au) | [View LinkedIn](https://www.linkedin.com/company/digital-genius) | Milton, AU | 2000 | [4](https://www.linkedin.com/company/digital-genius/people/) | 552 | - | Information Services |
-| ubisend | [Link](https://www.ubisend.com?utm_source=linkedin&utm_medium=company-profile&utm_campaign=lkn-auto) | [View LinkedIn](https://www.linkedin.com/company/ubisend) | Norwich, GB | 2016 | [9](https://www.linkedin.com/company/ubisend/people/) | 645 | - | Software Development |
-| Artificial Solutions | [Link](http://investors.artificial-solutions.com) | [View LinkedIn](https://www.linkedin.com/company/artificialsolutions) | N/A, N/A | N/A | [2](https://www.linkedin.com/company/artificialsolutions/people/) | 26 | - | Software Development |
-
-### 👁 Computer Vision
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Google DeepMind | [Link](http://www.deepmind.google) | [View LinkedIn](https://www.linkedin.com/company/googledeepmind) | London, GB | 2010 | [4160](https://www.linkedin.com/company/deepmind/people/) | 1102173 | [Series A](https://www.crunchbase.com/organization/deepmind?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Research Services |
-| FACULTY | [Link](http://www.wearefaculty.com) | [View LinkedIn](https://www.linkedin.com/company/faculty) | New York, US | 2012 | [137](https://www.linkedin.com/company/faculty/people/) | 2710 | - | Advertising Services |
-| Tractable | [Link](http://www.tractable.ai) | [View LinkedIn](https://www.linkedin.com/company/tractable) | London, GB | 2014 | [227](https://www.linkedin.com/company/tractable/people/) | 24334 | [Series E](https://www.crunchbase.com/organization/tractable?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Cortexica | [Link](https://www.cortexica.com/contact-us/) | [View LinkedIn](https://www.linkedin.com/company/cortexica) | London, GB | 2008 | [7](https://www.linkedin.com/company/cortexica/people/) | 1904 | [Series Unknown](https://www.crunchbase.com/organization/cortexica?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| VivaCity | [Link](http://www.vivacitylabs.com) | [View LinkedIn](https://www.linkedin.com/company/vivacity-labs) | London, GB | 2015 | [121](https://www.linkedin.com/company/vivacity-labs/people/) | 5351 | [Series Unknown](https://www.crunchbase.com/organization/vivacity-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Mobius Labs | [Link](http://www.mobiuslabs.com) | [View LinkedIn](https://www.linkedin.com/company/mobius-labs) | Indianapolis, US | N/A | [1](https://www.linkedin.com/company/mobius-labs/people/) | 17 | - | Software Development |
-
-### 🧾 Document Processing
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Eigen Technologies | [Link](https://eigentech.com/) | [View LinkedIn](https://www.linkedin.com/company/eigen-technologies) | New York, US | 2015 | [74](https://www.linkedin.com/company/eigen-technologies/people/) | 10950 | [Series B](https://www.crunchbase.com/organization/eigen-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Tessian | [Link](https://www.tessian.com/?utm_medium=social&utm_source=linkedin&utm_campaign=Companypage) | [View LinkedIn](https://www.linkedin.com/company/tessian) | Boston, US | 2013 | [59](https://www.linkedin.com/company/tessian/people/) | 20923 | [Non Equity Assistance](https://www.crunchbase.com/organization/tessian?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Computer and Network Security |
-| Cognito | [Link](https://www.cognitomedia.com/contact/contact-us) | [View LinkedIn](https://www.linkedin.com/company/cognito) | London, GB | 2000 | [138](https://www.linkedin.com/company/cognito/people/) | 14381 | - | Public Relations and Communications Services |
-| Ocado Technology | [Link](https://careers.ocadogroup.com/) | [View LinkedIn](https://www.linkedin.com/company/ocado-technology) | Hatfield, GB | 2000 | [3303](https://www.linkedin.com/company/ocado-technology/people/) | 68696 | - | Software Development |
-| Evolution AI | [Link](https://www.evolution.ai/?utm_source=LinkedIn&utm_medium=website+button) | [View LinkedIn](https://www.linkedin.com/company/evolution-ai) | London, GB | 2015 | [10](https://www.linkedin.com/company/evolution-ai/people/) | 4050 | [Seed](https://www.crunchbase.com/organization/evolution-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Intelligent AI Limited | [Link](https://www.intelligentai.co.uk/) | [View LinkedIn](https://www.linkedin.com/company/intelligent-ai) | Exeter, GB | 2020 | [11](https://www.linkedin.com/company/intelligent-ai/people/) | 830 | [Series Unknown](https://www.crunchbase.com/organization/intelligent-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🔎 Search & Recommendation
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Versed AI | [Link](https://versed.ai) | [View LinkedIn](https://www.linkedin.com/company/versed-ai) | Cambridge, GB | 2019 | [8](https://www.linkedin.com/company/versed-ai/people/) | 1637 | [Seed](https://www.crunchbase.com/organization/versed-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Jacquard | [Link](http://www.jacquard.com) | [View LinkedIn](https://www.linkedin.com/company/jacquard-group) | London, GB | 2015 | [109](https://www.linkedin.com/company/phrasee/people/) | 7779 | - | Software Development |
-| ContentCal | [Link](https://www.contentcal.io/) | [View LinkedIn](https://www.linkedin.com/company/contentcal) | London, GB | 2016 | [9](https://www.linkedin.com/company/contentcal/people/) | 5695 | [Series A](https://www.crunchbase.com/organization/content-calendr?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Advertising Services |
-| Ravelin | [Link](http://www.ravelin.nl) | [View LinkedIn](https://www.linkedin.com/company/ravelin) | N/A, NL | 1992 | [8](https://www.linkedin.com/company/ravelin/people/) | 375 | - | Software Development |
-| Peak | [Link](https://www.peak.ai/?utm_campaign=social&utm_medium=linkedinbio&utm_source=linkedin) | [View LinkedIn](https://www.linkedin.com/company/peak-ai) | Manchester, GB | 2015 | [329](https://www.linkedin.com/company/peak-ai/people/) | 22313 | [Series C](https://www.crunchbase.com/organization/peak-4?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Signal AI | [Link](https://bit.ly/3QFh92h) | [View LinkedIn](https://www.linkedin.com/company/signal-artificial-intelligence) | London, GB | 2013 | [247](https://www.linkedin.com/company/signal-artificial-intelligence/people/) | 27295 | [Series D](https://www.crunchbase.com/organization/signal-media-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-
-### 🚗 Self-driving Cars
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Five AI | [Link](https://www.five.ai) | [View LinkedIn](https://www.linkedin.com/company/five-ai) | Cambridge, GB | 2015 | [97](https://www.linkedin.com/company/five-ai/people/) | 16697 | [Series B](https://www.crunchbase.com/organization/fiveai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Oxa | [Link](http://www.oxa.tech) | [View LinkedIn](https://www.linkedin.com/company/oxauniversalautonomy) | Oxford, GB | 2014 | [437](https://www.linkedin.com/company/oxbotica/people/) | 46260 | - | Software Development |
-| Arrival | [Link](https://arrival.com/) | [View LinkedIn](https://www.linkedin.com/company/arrival) | London, GB | 2015 | [473](https://www.linkedin.com/company/arrival/people/) | 142430 | - | Motor Vehicle Manufacturing |
-
-### 🤖 Robots
+### London - 🤖 Robotics
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Shadow Robot | [Link](http://www.shadowrobot.com) | [View LinkedIn](https://www.linkedin.com/company/shadowrobot) | Highgate, GB | 1987 | [31](https://www.linkedin.com/company/shadow-robot/people/) | 11422 | - | Research Services |
@@ -202,7 +151,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Emotech | - | [View LinkedIn](https://www.linkedin.com/company/emotech) | N/A, AU | 2004 | [6](https://www.linkedin.com/company/emotech/people/) | 81 | - | Technology, Information and Internet |
 | Moley Robotics | [Link](http://www.moley.com/) | [View LinkedIn](https://www.linkedin.com/company/moley-robotics) | London, GB | 2014 | [14](https://www.linkedin.com/company/moley-robotics/people/) | 10107 | [Equity Crowdfunding](https://www.crunchbase.com/organization/moley-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 
-### 💉 Medicine
+### London - 💉 Medicine
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Babylon | [Link](http://www.babylon.com) | [View LinkedIn](https://www.linkedin.com/company/babylon) | Tel Aviv-Yafo, IL | 1997 | [333](https://www.linkedin.com/company/babylon/people/) | 2454 | - | Technology, Information and Internet |
@@ -212,7 +161,51 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Babylon | [Link](http://www.babylon.com) | [View LinkedIn](https://www.linkedin.com/company/babylon) | Tel Aviv-Yafo, IL | 1997 | [333](https://www.linkedin.com/company/babylon/people/) | 2454 | - | Technology, Information and Internet |
 | NVIDIA Healthcare | [Link](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/) | [View LinkedIn](https://www.linkedin.com/showcase/nvidia-healthcare/) | Santa Clara, US | 1993 | [0](https://www.linkedin.com/company/nvidia-healthcare/people/) | 21605 | - | Software Development |
 
-### 🔬 Science & Engineering
+### London - 🚗 Self-Driving Cars
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Five AI | [Link](https://www.five.ai) | [View LinkedIn](https://www.linkedin.com/company/five-ai) | Cambridge, GB | 2015 | [97](https://www.linkedin.com/company/five-ai/people/) | 16697 | [Series B](https://www.crunchbase.com/organization/fiveai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Oxa | [Link](http://www.oxa.tech) | [View LinkedIn](https://www.linkedin.com/company/oxauniversalautonomy) | Oxford, GB | 2014 | [437](https://www.linkedin.com/company/oxbotica/people/) | 46260 | - | Software Development |
+| Arrival | [Link](https://arrival.com/) | [View LinkedIn](https://www.linkedin.com/company/arrival) | London, GB | 2015 | [473](https://www.linkedin.com/company/arrival/people/) | 142430 | - | Motor Vehicle Manufacturing |
+
+### London - 🗣 Voice & Sound
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Sonantic | [Link](https://www.sonantic.io) | [View LinkedIn](https://www.linkedin.com/company/sonantic) | London, GB | 2018 | [3](https://www.linkedin.com/company/sonantic/people/) | 3057 | [Seed](https://www.crunchbase.com/organization/speak-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Research Services |
+| Boom.ai | [Link](http://www.boom.ai) | [View LinkedIn](https://www.linkedin.com/company/boom-ai) | Lehi, US | 2007 | [17](https://www.linkedin.com/company/boom-ai/people/) | 756 | - | Software Development |
+| SOUNDOUT (PTY) LTD | [Link](http://www.soundout.co.za) | [View LinkedIn](https://www.linkedin.com/company/soundout) | Cape town, ZA | 2009 | [1](https://www.linkedin.com/company/soundout/people/) | 19 | - | Events Services |
+| AudioStack | [Link](http://www.audiostack.ai) | [View LinkedIn](https://www.linkedin.com/company/audiostack-ai) | London, GB | 2019 | [45](https://www.linkedin.com/company/aflorithmic-labs/people/) | 7310 | - | Software Development |
+
+### London - 🤖 Chatbots & Customer Service
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| PolyAI | [Link](https://poly.ai) | [View LinkedIn](https://www.linkedin.com/company/polyai) | London, GB | N/A | [199](https://www.linkedin.com/company/polyai/people/) | 35474 | [Series C](https://www.crunchbase.com/organization/poly-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Infobip | [Link](https://www.infobip.com?utm_medium=social&utm_source=linkedin&utm_campaign=reach%20--%20social%20--%20global%20--%20about&utm_term=all%20--%20fans%20--%20visit%20website%20LI&utm_content=about-us%20--%20english) | [View LinkedIn](https://www.linkedin.com/company/infobip) | London, GB | 2006 | [3347](https://www.linkedin.com/company/infobip/people/) | 341422 | [Debt Financing](https://www.crunchbase.com/organization/infobip?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Digital Genius | [Link](http://www.digitalgenius.com.au) | [View LinkedIn](https://www.linkedin.com/company/digital-genius) | Milton, AU | 2000 | [4](https://www.linkedin.com/company/digital-genius/people/) | 552 | - | Information Services |
+| ubisend | [Link](https://www.ubisend.com?utm_source=linkedin&utm_medium=company-profile&utm_campaign=lkn-auto) | [View LinkedIn](https://www.linkedin.com/company/ubisend) | Norwich, GB | 2016 | [9](https://www.linkedin.com/company/ubisend/people/) | 645 | - | Software Development |
+| Artificial Solutions | [Link](http://investors.artificial-solutions.com) | [View LinkedIn](https://www.linkedin.com/company/artificialsolutions) | N/A, N/A | N/A | [2](https://www.linkedin.com/company/artificialsolutions/people/) | 26 | - | Software Development |
+
+### London - 🧾 Document Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Eigen Technologies | [Link](https://eigentech.com/) | [View LinkedIn](https://www.linkedin.com/company/eigen-technologies) | New York, US | 2015 | [74](https://www.linkedin.com/company/eigen-technologies/people/) | 10950 | [Series B](https://www.crunchbase.com/organization/eigen-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Tessian | [Link](https://www.tessian.com/?utm_medium=social&utm_source=linkedin&utm_campaign=Companypage) | [View LinkedIn](https://www.linkedin.com/company/tessian) | Boston, US | 2013 | [59](https://www.linkedin.com/company/tessian/people/) | 20923 | [Non Equity Assistance](https://www.crunchbase.com/organization/tessian?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Computer and Network Security |
+| Cognito | [Link](https://www.cognitomedia.com/contact/contact-us) | [View LinkedIn](https://www.linkedin.com/company/cognito) | London, GB | 2000 | [138](https://www.linkedin.com/company/cognito/people/) | 14381 | - | Public Relations and Communications Services |
+| Ocado Technology | [Link](https://careers.ocadogroup.com/) | [View LinkedIn](https://www.linkedin.com/company/ocado-technology) | Hatfield, GB | 2000 | [3303](https://www.linkedin.com/company/ocado-technology/people/) | 68696 | - | Software Development |
+| Evolution AI | [Link](https://www.evolution.ai/?utm_source=LinkedIn&utm_medium=website+button) | [View LinkedIn](https://www.linkedin.com/company/evolution-ai) | London, GB | 2015 | [10](https://www.linkedin.com/company/evolution-ai/people/) | 4050 | [Seed](https://www.crunchbase.com/organization/evolution-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Intelligent AI Limited | [Link](https://www.intelligentai.co.uk/) | [View LinkedIn](https://www.linkedin.com/company/intelligent-ai) | Exeter, GB | 2020 | [11](https://www.linkedin.com/company/intelligent-ai/people/) | 830 | [Series Unknown](https://www.crunchbase.com/organization/intelligent-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### London - 🔎 Search & Recommendation
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Versed AI | [Link](https://versed.ai) | [View LinkedIn](https://www.linkedin.com/company/versed-ai) | Cambridge, GB | 2019 | [8](https://www.linkedin.com/company/versed-ai/people/) | 1637 | [Seed](https://www.crunchbase.com/organization/versed-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Jacquard | [Link](http://www.jacquard.com) | [View LinkedIn](https://www.linkedin.com/company/jacquard-group) | London, GB | 2015 | [109](https://www.linkedin.com/company/phrasee/people/) | 7779 | - | Software Development |
+| ContentCal | [Link](https://www.contentcal.io/) | [View LinkedIn](https://www.linkedin.com/company/contentcal) | London, GB | 2016 | [9](https://www.linkedin.com/company/contentcal/people/) | 5695 | [Series A](https://www.crunchbase.com/organization/content-calendr?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Advertising Services |
+| Ravelin | [Link](http://www.ravelin.nl) | [View LinkedIn](https://www.linkedin.com/company/ravelin) | N/A, NL | 1992 | [8](https://www.linkedin.com/company/ravelin/people/) | 375 | - | Software Development |
+| Peak | [Link](https://www.peak.ai/?utm_campaign=social&utm_medium=linkedinbio&utm_source=linkedin) | [View LinkedIn](https://www.linkedin.com/company/peak-ai) | Manchester, GB | 2015 | [329](https://www.linkedin.com/company/peak-ai/people/) | 22313 | [Series C](https://www.crunchbase.com/organization/peak-4?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Signal AI | [Link](https://bit.ly/3QFh92h) | [View LinkedIn](https://www.linkedin.com/company/signal-artificial-intelligence) | London, GB | 2013 | [247](https://www.linkedin.com/company/signal-artificial-intelligence/people/) | 27295 | [Series D](https://www.crunchbase.com/organization/signal-media-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### London - 🔬 Science & Engineering
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Google DeepMind | [Link](http://www.deepmind.google) | [View LinkedIn](https://www.linkedin.com/company/googledeepmind) | London, GB | 2010 | [4160](https://www.linkedin.com/company/deepmind/people/) | 1102173 | [Series A](https://www.crunchbase.com/organization/deepmind?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Research Services |
@@ -223,7 +216,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Hadean | [Link](https://hadean.com/get-in-touch/) | [View LinkedIn](https://www.linkedin.com/company/hadean) | London, GB | 2015 | [77](https://www.linkedin.com/company/hadean/people/) | 7249 | [Corporate Round](https://www.crunchbase.com/organization/hadean?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | QuantumBlack, AI by McKinsey | [Link](https://www.mckinsey.com/business-functions/quantumblack/how-we-help-clients) | [View LinkedIn](https://www.linkedin.com/company/quantumblack) | Global, GB | 2009 | [614](https://www.linkedin.com/company/quantumblack/people/) | 208533 | - | IT Services and IT Consulting |
 
-### 💰 Business
+### London - 💰 Business
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | FACULTY | [Link](http://www.wearefaculty.com) | [View LinkedIn](https://www.linkedin.com/company/faculty) | New York, US | 2012 | [137](https://www.linkedin.com/company/faculty/people/) | 2710 | - | Advertising Services |
@@ -236,7 +229,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Wise | [Link](https://www.wbf.com) | [View LinkedIn](https://www.linkedin.com/company/wise) | Alpharetta, US | 1969 | [266](https://www.linkedin.com/company/wise/people/) | 1386 | - | Printing Services |
 | Starling | [Link](http://www.starling-com.com) | [View LinkedIn](https://www.linkedin.com/company/starling) | Yoqneam, IL | 2003 | [70](https://www.linkedin.com/company/starling/people/) | 11352 | - | Telecommunications |
 
-### 👔 Consulting
+### London - 👔 Consulting
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | FACULTY | [Link](http://www.wearefaculty.com) | [View LinkedIn](https://www.linkedin.com/company/faculty) | New York, US | 2012 | [137](https://www.linkedin.com/company/faculty/people/) | 2710 | - | Advertising Services |
@@ -246,19 +239,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | COGx | [Link](https://cogx.info/insights) | [View LinkedIn](https://www.linkedin.com/company/cogx) | Washington D.C., US | 2010 | [11](https://www.linkedin.com/company/cogx/people/) | 1707 | - | Higher Education |
 | 6point6 | Part of Accenture | [Link](https://6point6.co.uk) | [View LinkedIn](https://www.linkedin.com/company/6point6) | London, GB | 2012 | [453](https://www.linkedin.com/company/6point6/people/) | 21724 | [Private Equity](https://www.crunchbase.com/organization/6point6-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
 
-### 🚀 Other
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Improbable | [Link](http://www.improbable.io) | [View LinkedIn](https://www.linkedin.com/company/improbable) | London, GB | N/A | [269](https://www.linkedin.com/company/improbable/people/) | 43868 | [Series Unknown](https://www.crunchbase.com/organization/improbable?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Fertifa | [Link](http://www.fertifa.com) | [View LinkedIn](https://www.linkedin.com/company/fertifa) | Strand, GB | N/A | [31](https://www.linkedin.com/company/fertifa/people/) | 5486 | [Seed](https://www.crunchbase.com/organization/fertifa?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Human Resources Services |
-| EarthScan | [Link](https://www.mitigasolutions.com/earthscan) | [View LinkedIn](https://www.linkedin.com/company/earthscantm) | Barcelona, ES | N/A | [5](https://www.linkedin.com/company/cervest/people/) | 10209 | - | IT Services and IT Consulting |
-| HOPIN | [Link](http://www.hopintaxi.com) | [View LinkedIn](https://www.linkedin.com/company/hopin) | Bratislava, SK | 2012 | [20](https://www.linkedin.com/company/hopin/people/) | 1285 | - | Technology, Information and Internet |
-| Aidoc | [Link](https://www.aidoc.com/about/contact/) | [View LinkedIn](https://www.linkedin.com/company/aidoc) | New York, US | 2016 | [481](https://www.linkedin.com/company/aidoc/people/) | 36621 | [Series Unknown](https://www.crunchbase.com/organization/aidoc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Hospitals and Health Care |
-| Bloomsbury AI | [Link](http://bloomsbury.ai/) | [View LinkedIn](https://www.linkedin.com/company/bloomsbury-ai) | London, GB | 2015 | [0](https://www.linkedin.com/company/bloomsbury-ai/people/) | 348 | [Seed](https://www.crunchbase.com/organization/bloomsbury-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Cytora | [Link](https://www.cytora.com) | [View LinkedIn](https://www.linkedin.com/company/cytora) | London, GB | 2014 | [91](https://www.linkedin.com/company/cytora/people/) | 9970 | [Series B](https://www.crunchbase.com/organization/cytora?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Depop | [Link](https://depopcareers.com/) | [View LinkedIn](https://www.linkedin.com/company/depop) | London, GB | 2011 | [2681](https://www.linkedin.com/company/depop/people/) | 75154 | [Non Equity Assistance](https://www.crunchbase.com/organization/depop?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Deliveroo | [Link](http://deliveroo.co.uk) | [View LinkedIn](https://www.linkedin.com/company/deliveroo) | Blackfriars, GB | 2013 | [9648](https://www.linkedin.com/company/deliveroo/people/) | 252066 | [Post Ipo Equity](https://www.crunchbase.com/organization/deliveroo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Technology, Information and Internet |
-
+### London - 🚀 Other
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Improbable | [Link](http://www.improbable.io) | [View LinkedIn](https://www.linkedin.com/company/improbable) | London, GB | N/A | [269](https://www.linkedin.com/company/improbable/people/) | 43868 | [Series Unknown](https://www.crunchbase.com/organization/improbable?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
@@ -272,32 +253,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Deliveroo | [Link](http://deliveroo.co.uk) | [View LinkedIn](https://www.linkedin.com/company/deliveroo) | Blackfriars, GB | 2013 | [9648](https://www.linkedin.com/company/deliveroo/people/) | 252066 | [Post Ipo Equity](https://www.crunchbase.com/organization/deliveroo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Technology, Information and Internet |
 
 ## Madrid
-### 📚 Natural Language Processing
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Narrativa | - | [View LinkedIn](https://www.linkedin.com/company/narrativa) | Brasília, BR | 2011 | [6](https://www.linkedin.com/company/narrativa/people/) | 25 | - | Media Production |
-| Bitext | [Link](https://www.bitext.com/contact-us/) | [View LinkedIn](https://www.linkedin.com/company/bitext) | San Francisco, US | 2008 | [19](https://www.linkedin.com/company/bitext/people/) | 2805 | [Grant](https://www.crunchbase.com/organization/bitext?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Lingokids | [Link](http://www.lingokids.com) | [View LinkedIn](https://www.linkedin.com/company/lingokids) | Madrid, ES | 2015 | [198](https://www.linkedin.com/company/lingokids/people/) | 23234 | [Series C](https://www.crunchbase.com/organization/lingokids?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | E-Learning Providers |
-| Veridas | [Link](https://veridas.com/en) | [View LinkedIn](https://www.linkedin.com/company/veridas) | Pamplona, ES | 2017 | [194](https://www.linkedin.com/company/veridas/people/) | 10580 | [Series A](https://www.crunchbase.com/organization/veridas?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| TAIGER | [Link](http://www.taiger.com) | [View LinkedIn](https://www.linkedin.com/company/taiger) | Singapore , SG | 2009 | [70](https://www.linkedin.com/company/taiger/people/) | 15089 | [Non Equity Assistance](https://www.crunchbase.com/organization/taiger?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🗣 Voice & Sound
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Verbio | [Link](https://www.verbio.com) | [View LinkedIn](https://www.linkedin.com/company/verbio) | Barcelona, ES | 1999 | [65](https://www.linkedin.com/company/verbio/people/) | 5154 | [Seed](https://www.crunchbase.com/organization/verbio-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Voicemod | [Link](https://www.voicemod.net/) | [View LinkedIn](https://www.linkedin.com/company/voicemod) | Valencia, ES | 2014 | [106](https://www.linkedin.com/company/voicemod/people/) | 12809 | [Series A](https://www.crunchbase.com/organization/voicemod-s-l?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| CoreMedia Portugal | [Link](http://www.coremedia.com) | [View LinkedIn](https://www.linkedin.com/company/coremediapt) | Hamburg, DE | 1996 | [38](https://www.linkedin.com/company/byside/people/) | 10458 | - | Software Development |
-| Aloud | [Link](http://www.allthingsaloud.com) | [View LinkedIn](https://www.linkedin.com/company/aloud) | Los Angeles, US | 2002 | [2](https://www.linkedin.com/company/aloud/people/) | 12 | - | Musicians |
-
-### 🤖 Chatbots & Customer Service
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| BotsLovers | [Link](https://www.botslovers.com) | [View LinkedIn](https://www.linkedin.com/company/botslovers) | Las Rozas de Madrid, ES | 2017 | [14](https://www.linkedin.com/company/botslovers/people/) | 3108 | [Non Equity Assistance](https://www.crunchbase.com/organization/botslovers?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Chatbot Chocolate - Agencia de Tecnolog·IA Conversacional· | [Link](http://www.chatbotchocolate.com) | [View LinkedIn](https://www.linkedin.com/company/chatbotchocolate) | Madrid, ES | 2017 | [11](https://www.linkedin.com/company/chatbotchocolate/people/) | 1995 | - | Software Development |
-| VONZU Tech  | [Link](https://vonzu.io/solicitar-demo/) | [View LinkedIn](https://www.linkedin.com/company/vonzu) | Barcelona, ES | 2018 | [8](https://www.linkedin.com/company/vonzu/people/) | 3264 | [Series A](https://www.crunchbase.com/organization/vonzu-tech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Inbenta | [Link](https://www.inbenta.com/en/) | [View LinkedIn](https://www.linkedin.com/company/inbenta) | Allen, US | 2005 | [220](https://www.linkedin.com/company/inbenta/people/) | 11838 | [Series Unknown](https://www.crunchbase.com/organization/inbenta-semantic-search?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-
-### 👁 Computer Vision
+### Madrid - 👁 Computer Vision
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | CHECKTOBUILD | [Link](http://www.checktobuild.com) | [View LinkedIn](https://www.linkedin.com/company/checktobuild) | Miami, US | 2020 | [13](https://www.linkedin.com/company/checktobuild/people/) | 2894 | [Seed](https://www.crunchbase.com/organization/checktobuild?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
@@ -307,31 +263,16 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | visualNACert  | [Link](https://www.visualnacert.com) | [View LinkedIn](https://www.linkedin.com/company/visualnacert) | Rafelbuñol, ES | N/A | [38](https://www.linkedin.com/company/visualnacert/people/) | 2118 | [Seed](https://www.crunchbase.com/organization/visual-nacert?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | CounterCraft​​  | [Link](http://www.countercraft.eu) | [View LinkedIn](https://www.linkedin.com/company/countercraft) | New York, US | 2015 | [45](https://www.linkedin.com/company/countercraft/people/) | 6707 | - | Computer and Network Security |
 
-### 🧾 Document Processing
+### Madrid - 📚 Natural Language Processing
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Councilbox  | [Link](https://www.councilbox.com) | [View LinkedIn](https://www.linkedin.com/company/councilbox) | Nigrán, ES | 2015 | [33](https://www.linkedin.com/company/councilbox/people/) | 2703 | [Series A](https://www.crunchbase.com/organization/councilbox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Telecommunications |
-| Docuten | [Link](https://docuten.com/es/contacto/) | [View LinkedIn](https://www.linkedin.com/company/docuten) | La Coruña, ES | N/A | [42](https://www.linkedin.com/company/docuten/people/) | 4388 | [Series Unknown](https://www.crunchbase.com/organization/docuten?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Signaturit Group | [Link](http://www.signaturit.com) | [View LinkedIn](https://www.linkedin.com/company/signaturit) | Barcelona, ES | N/A | [215](https://www.linkedin.com/company/signaturit/people/) | 27748 | [Series A](https://www.crunchbase.com/organization/signaturit-solutions?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Leto | [Link](http://www.nuid.is) | [View LinkedIn](https://www.linkedin.com/company/leto) | N/A, N/A | N/A | [23](https://www.linkedin.com/company/leto/people/) | 64 | - | Technology, Information and Internet |
-| Validated ID | [Link](https://www.validatedid.com/en) | [View LinkedIn](https://www.linkedin.com/company/validated-id) | Barcelona, ES | 2012 | [48](https://www.linkedin.com/company/validated-id/people/) | 4736 | [Grant](https://www.crunchbase.com/organization/validated-id?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Narrativa | - | [View LinkedIn](https://www.linkedin.com/company/narrativa) | Brasília, BR | 2011 | [6](https://www.linkedin.com/company/narrativa/people/) | 25 | - | Media Production |
+| Bitext | [Link](https://www.bitext.com/contact-us/) | [View LinkedIn](https://www.linkedin.com/company/bitext) | San Francisco, US | 2008 | [19](https://www.linkedin.com/company/bitext/people/) | 2805 | [Grant](https://www.crunchbase.com/organization/bitext?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Lingokids | [Link](http://www.lingokids.com) | [View LinkedIn](https://www.linkedin.com/company/lingokids) | Madrid, ES | 2015 | [198](https://www.linkedin.com/company/lingokids/people/) | 23234 | [Series C](https://www.crunchbase.com/organization/lingokids?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | E-Learning Providers |
+| Veridas | [Link](https://veridas.com/en) | [View LinkedIn](https://www.linkedin.com/company/veridas) | Pamplona, ES | 2017 | [194](https://www.linkedin.com/company/veridas/people/) | 10580 | [Series A](https://www.crunchbase.com/organization/veridas?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| TAIGER | [Link](http://www.taiger.com) | [View LinkedIn](https://www.linkedin.com/company/taiger) | Singapore , SG | 2009 | [70](https://www.linkedin.com/company/taiger/people/) | 15089 | [Non Equity Assistance](https://www.crunchbase.com/organization/taiger?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
 
-### 🔎 Search & Recommendation
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Plytix | [Link](https://www.plytix.com/product-information-manager) | [View LinkedIn](https://www.linkedin.com/company/plytix) | Dover, County of Kent, US | 2015 | [89](https://www.linkedin.com/company/plytix/people/) | 18381 | [Series Unknown](https://www.crunchbase.com/organization/plytix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Job&Talent | [Link](http://www.jobandtalent.com) | [View LinkedIn](https://www.linkedin.com/company/jobandtalent) | Madrid, ES | 2009 | [3345](https://www.linkedin.com/company/jobandtalent/people/) | 162450 | [Debt Financing](https://www.crunchbase.com/organization/jobandtalent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| CARTO | [Link](https://carto.com/request-live-demo/) | [View LinkedIn](https://www.linkedin.com/company/carto) | New York, US | 2012 | [271](https://www.linkedin.com/company/carto/people/) | 46256 | [Series C](https://www.crunchbase.com/organization/cartodb?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Tiendeo - a ShopFully Company | [Link](http://business.tiendeo.com) | [View LinkedIn](https://www.linkedin.com/company/tiendeo) | Barcelona, ES | 2010 | [136](https://www.linkedin.com/company/tiendeo/people/) | 28464 | [Seed](https://www.crunchbase.com/organization/tiendeo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-
-### 🚗 Self-driving Cars
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Autodrive | - | [View LinkedIn](https://www.linkedin.com/company/autodrive) | PRESTATYN, GB | N/A | [32](https://www.linkedin.com/company/autodrive/people/) | 64 | - | Motor Vehicle Manufacturing |
-| Aeorum España S.L. | [Link](http://www.aeorum.com) | [View LinkedIn](https://www.linkedin.com/company/aeorum) | Málaga, ES | 2009 | [6](https://www.linkedin.com/company/aeorum/people/) | 814 | - | IT Services and IT Consulting |
-| MOV.AI - The Robotics Engine Platform™ | [Link](http://mov.ai) | [View LinkedIn](https://www.linkedin.com/company/movai) | Tel Aviv, IL | 2016 | [31](https://www.linkedin.com/company/movai/people/) | 4623 | [Series B](https://www.crunchbase.com/organization/ground-drone-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
-
-### 🤖 Robots
+### Madrid - 🤖 Robotics
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | PAL Robotics | [Link](https://pal-robotics.com/) | [View LinkedIn](https://www.linkedin.com/company/pal-robotics) | Barcelona, ES | 2004 | [131](https://www.linkedin.com/company/pal-robotics/people/) | 46373 | - | Automation Machinery Manufacturing |
@@ -339,7 +280,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | ROBOTPLUS | - | [View LinkedIn](https://www.linkedin.com/company/robotplus) | MARNAZ, FR | N/A | [2](https://www.linkedin.com/company/robotplus/people/) | 10 | - | Wholesale |
 | Intelligent ROBOTS | - | [View LinkedIn](https://www.linkedin.com/company/intelligent-robots) | Tunis, TN | 2011 | [3](https://www.linkedin.com/company/intelligent-robots/people/) | 830 | [Series B](https://www.crunchbase.com/organization/intelligent-robots?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
 
-### 💉 Medicine
+### Madrid - 💉 Medicine
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | MedLumics, S.L. | [Link](http://www.medlumics.com) | [View LinkedIn](https://www.linkedin.com/company/medlumics) | Tres Cantos, ES | 2014 | [25](https://www.linkedin.com/company/medlumics/people/) | 3676 | [Series Unknown](https://www.crunchbase.com/organization/medlumics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Medical Equipment Manufacturing |
@@ -348,14 +289,54 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Medicsen | [Link](https://www.medicsen.com/en) | [View LinkedIn](https://www.linkedin.com/company/medicsen) | Madrid, ES | 2015 | [17](https://www.linkedin.com/company/medicsen/people/) | 3072 | [Grant](https://www.crunchbase.com/organization/medicsen?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Medical Equipment Manufacturing |
 | WOOM | [Link](https://woomhealth.com/) | [View LinkedIn](https://www.linkedin.com/company/woom-health) | Madrid, ES | 2015 | [7](https://www.linkedin.com/company/woom-health/people/) | 3263 | - | Wellness and Fitness Services |
 
-### 🔬 Science & Engineering
+### Madrid - 🚗 Self-Driving Cars
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Autodrive | - | [View LinkedIn](https://www.linkedin.com/company/autodrive) | PRESTATYN, GB | N/A | [32](https://www.linkedin.com/company/autodrive/people/) | 64 | - | Motor Vehicle Manufacturing |
+| Aeorum España S.L. | [Link](http://www.aeorum.com) | [View LinkedIn](https://www.linkedin.com/company/aeorum) | Málaga, ES | 2009 | [6](https://www.linkedin.com/company/aeorum/people/) | 814 | - | IT Services and IT Consulting |
+| MOV.AI - The Robotics Engine Platform™ | [Link](http://mov.ai) | [View LinkedIn](https://www.linkedin.com/company/movai) | Tel Aviv, IL | 2016 | [31](https://www.linkedin.com/company/movai/people/) | 4623 | [Series B](https://www.crunchbase.com/organization/ground-drone-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
+
+### Madrid - 🗣 Voice & Sound
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Verbio | [Link](https://www.verbio.com) | [View LinkedIn](https://www.linkedin.com/company/verbio) | Barcelona, ES | 1999 | [65](https://www.linkedin.com/company/verbio/people/) | 5154 | [Seed](https://www.crunchbase.com/organization/verbio-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Voicemod | [Link](https://www.voicemod.net/) | [View LinkedIn](https://www.linkedin.com/company/voicemod) | Valencia, ES | 2014 | [106](https://www.linkedin.com/company/voicemod/people/) | 12809 | [Series A](https://www.crunchbase.com/organization/voicemod-s-l?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| CoreMedia Portugal | [Link](http://www.coremedia.com) | [View LinkedIn](https://www.linkedin.com/company/coremediapt) | Hamburg, DE | 1996 | [38](https://www.linkedin.com/company/byside/people/) | 10458 | - | Software Development |
+| Aloud | [Link](http://www.allthingsaloud.com) | [View LinkedIn](https://www.linkedin.com/company/aloud) | Los Angeles, US | 2002 | [2](https://www.linkedin.com/company/aloud/people/) | 12 | - | Musicians |
+
+### Madrid - 🤖 Chatbots & Customer Service
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| BotsLovers | [Link](https://www.botslovers.com) | [View LinkedIn](https://www.linkedin.com/company/botslovers) | Las Rozas de Madrid, ES | 2017 | [14](https://www.linkedin.com/company/botslovers/people/) | 3108 | [Non Equity Assistance](https://www.crunchbase.com/organization/botslovers?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Chatbot Chocolate - Agencia de Tecnolog·IA Conversacional· | [Link](http://www.chatbotchocolate.com) | [View LinkedIn](https://www.linkedin.com/company/chatbotchocolate) | Madrid, ES | 2017 | [11](https://www.linkedin.com/company/chatbotchocolate/people/) | 1995 | - | Software Development |
+| VONZU Tech  | [Link](https://vonzu.io/solicitar-demo/) | [View LinkedIn](https://www.linkedin.com/company/vonzu) | Barcelona, ES | 2018 | [8](https://www.linkedin.com/company/vonzu/people/) | 3264 | [Series A](https://www.crunchbase.com/organization/vonzu-tech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Inbenta | [Link](https://www.inbenta.com/en/) | [View LinkedIn](https://www.linkedin.com/company/inbenta) | Allen, US | 2005 | [220](https://www.linkedin.com/company/inbenta/people/) | 11838 | [Series Unknown](https://www.crunchbase.com/organization/inbenta-semantic-search?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Madrid - 🧾 Document Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Councilbox  | [Link](https://www.councilbox.com) | [View LinkedIn](https://www.linkedin.com/company/councilbox) | Nigrán, ES | 2015 | [33](https://www.linkedin.com/company/councilbox/people/) | 2703 | [Series A](https://www.crunchbase.com/organization/councilbox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Telecommunications |
+| Docuten | [Link](https://docuten.com/es/contacto/) | [View LinkedIn](https://www.linkedin.com/company/docuten) | La Coruña, ES | N/A | [42](https://www.linkedin.com/company/docuten/people/) | 4388 | [Series Unknown](https://www.crunchbase.com/organization/docuten?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Signaturit Group | [Link](http://www.signaturit.com) | [View LinkedIn](https://www.linkedin.com/company/signaturit) | Barcelona, ES | N/A | [215](https://www.linkedin.com/company/signaturit/people/) | 27748 | [Series A](https://www.crunchbase.com/organization/signaturit-solutions?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Leto | [Link](http://www.nuid.is) | [View LinkedIn](https://www.linkedin.com/company/leto) | N/A, N/A | N/A | [23](https://www.linkedin.com/company/leto/people/) | 64 | - | Technology, Information and Internet |
+| Validated ID | [Link](https://www.validatedid.com/en) | [View LinkedIn](https://www.linkedin.com/company/validated-id) | Barcelona, ES | 2012 | [48](https://www.linkedin.com/company/validated-id/people/) | 4736 | [Grant](https://www.crunchbase.com/organization/validated-id?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Madrid - 🔎 Search & Recommendation
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Plytix | [Link](https://www.plytix.com/product-information-manager) | [View LinkedIn](https://www.linkedin.com/company/plytix) | Dover, County of Kent, US | 2015 | [89](https://www.linkedin.com/company/plytix/people/) | 18381 | [Series Unknown](https://www.crunchbase.com/organization/plytix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Job&Talent | [Link](http://www.jobandtalent.com) | [View LinkedIn](https://www.linkedin.com/company/jobandtalent) | Madrid, ES | 2009 | [3345](https://www.linkedin.com/company/jobandtalent/people/) | 162450 | [Debt Financing](https://www.crunchbase.com/organization/jobandtalent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| CARTO | [Link](https://carto.com/request-live-demo/) | [View LinkedIn](https://www.linkedin.com/company/carto) | New York, US | 2012 | [271](https://www.linkedin.com/company/carto/people/) | 46256 | [Series C](https://www.crunchbase.com/organization/cartodb?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Tiendeo - a ShopFully Company | [Link](http://business.tiendeo.com) | [View LinkedIn](https://www.linkedin.com/company/tiendeo) | Barcelona, ES | 2010 | [136](https://www.linkedin.com/company/tiendeo/people/) | 28464 | [Seed](https://www.crunchbase.com/organization/tiendeo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Madrid - 🔬 Science & Engineering
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Barbara | [Link](https://barbara.tech) | [View LinkedIn](https://www.linkedin.com/company/barbara-edge) | Madrid, ES | 2016 | [62](https://www.linkedin.com/company/barbara-iot/people/) | 3966 | [Seed](https://www.crunchbase.com/organization/barbara-iot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | Serendeepia Research | [Link](http://serendeepia.com) | [View LinkedIn](https://www.linkedin.com/company/serendeepia) | Getafe, ES | 2018 | [0](https://www.linkedin.com/company/serendeepia/people/) | 298 | - | Research Services |
 | Open Sistemas | [Link](http://www.opensistemas.com) | [View LinkedIn](https://www.linkedin.com/company/opensistemas) | Madrid, ES | 2003 | [200](https://www.linkedin.com/company/opensistemas/people/) | 14111 | - | Software Development |
 
-### 💰 Business
+### Madrid - 💰 Business
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Clarity AI | [Link](http://clarity.ai) | [View LinkedIn](https://www.linkedin.com/company/clarity-ai) | New York, US | 2017 | [366](https://www.linkedin.com/company/clarity-ai/people/) | 115593 | [Series Unknown](https://www.crunchbase.com/organization/clarity-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
@@ -367,7 +348,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Idealista | [Link](https://idealista.net.br) | [View LinkedIn](https://www.linkedin.com/company/idealista) | São Paulo, BR | 2011 | [8](https://www.linkedin.com/company/idealista/people/) | 1669 | - | Advertising Services |
 | Factorial | [Link](http://www.factorial.pt) | [View LinkedIn](https://www.linkedin.com/company/factorial) | N/A, PT | N/A | [5](https://www.linkedin.com/company/factorial/people/) | 25 | - | Civil Engineering |
 
-### 👔 Consulting
+### Madrid - 👔 Consulting
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Decisive | [Link](http://decisive.is) | [View LinkedIn](https://www.linkedin.com/company/decisive) | New York, US | 2012 | [3](https://www.linkedin.com/company/decisive/people/) | 454 | [Pre Seed](https://www.crunchbase.com/organization/decisive?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
@@ -375,16 +356,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Aikon | [Link](http://www.aikon.it) | [View LinkedIn](https://www.linkedin.com/company/aikon) | Cassino, IT | 2002 | [52](https://www.linkedin.com/company/aikon/people/) | 307 | - | IT Services and IT Consulting |
 | Valley Digital | [Link](https://www.valleydigital.com.au) | [View LinkedIn](https://www.linkedin.com/company/valley-digital) | Fortitude valley, AU | 2016 | [0](https://www.linkedin.com/company/valley-digital/people/) | 38 | - | IT Services and IT Consulting |
 
-### 🚀 Other
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| BizAway | [Link](https://bizaway.com/) | [View LinkedIn](https://www.linkedin.com/company/bizaway) | Milan, IT | 2015 | [238](https://www.linkedin.com/company/bizaway/people/) | 23037 | [Private Equity](https://www.crunchbase.com/organization/bizaway?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Business Consulting and Services |
-| Job&Talent | [Link](http://www.jobandtalent.com) | [View LinkedIn](https://www.linkedin.com/company/jobandtalent) | Madrid, ES | 2009 | [3345](https://www.linkedin.com/company/jobandtalent/people/) | 162450 | [Debt Financing](https://www.crunchbase.com/organization/jobandtalent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Geoblink (acquired by MyTraffic) | [Link](http://www.geoblink.com) | [View LinkedIn](https://www.linkedin.com/company/geoblink) | Madrid, ES | 2015 | [23](https://www.linkedin.com/company/geoblink/people/) | 13169 | [Series A](https://www.crunchbase.com/organization/geoblink?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Ontruck AI Tech | [Link](https://www.ontruck.com/en/request-demo) | [View LinkedIn](https://www.linkedin.com/company/ontruck-ai) | Madrid, ES | 2022 | [46](https://www.linkedin.com/company/ontruck/people/) | 21943 | - | Software Development |
-| Wallapop | [Link](https://es.wallapop.com/) | [View LinkedIn](https://www.linkedin.com/company/wallapop) | Barcelona, ES | 2013 | [443](https://www.linkedin.com/company/wallapop/people/) | 62072 | [Series G](https://www.crunchbase.com/organization/wallapop?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Tutellus | [Link](http://www.tutellus.com) | [View LinkedIn](https://www.linkedin.com/school/tutellus/) | Madrid, ES | 2013 | [34](https://www.linkedin.com/company/tutellus/people/) | 4715 | - | Higher Education |
-
+### Madrid - 🚀 Other
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | BizAway | [Link](https://bizaway.com/) | [View LinkedIn](https://www.linkedin.com/company/bizaway) | Milan, IT | 2015 | [238](https://www.linkedin.com/company/bizaway/people/) | 23037 | [Private Equity](https://www.crunchbase.com/organization/bizaway?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Business Consulting and Services |
@@ -395,7 +367,17 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Tutellus | [Link](http://www.tutellus.com) | [View LinkedIn](https://www.linkedin.com/school/tutellus/) | Madrid, ES | 2013 | [34](https://www.linkedin.com/company/tutellus/people/) | 4715 | - | Higher Education |
 
 ## Milan
-### 📚 Natural Language Processing
+### Milan - 👁 Computer Vision
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Cynny S.p.A. | [Link](https://www.morphcast.com/) | [View LinkedIn](https://www.linkedin.com/company/cynny) | Firenze, IT | 2013 | [12](https://www.linkedin.com/company/cynny/people/) | 2013 | [Seed](https://www.crunchbase.com/organization/cynny-s-p-a?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| eyecan.ai | [Link](https://www.eyecan.ai/) | [View LinkedIn](https://www.linkedin.com/company/eyecan-ai) | Bologna, IT | 2019 | [10](https://www.linkedin.com/company/eyecan-ai/people/) | 2723 | - | Research Services |
+| Bending Spoons | [Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio) | [View LinkedIn](https://www.linkedin.com/company/bendingspoons) | Milan, IT | 2013 | [516](https://www.linkedin.com/company/bending-spoons/people/) | 199666 | [Series Unknown](https://www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| AITEM | [Link](https://www.aitem.nl) | [View LinkedIn](https://www.linkedin.com/company/aitem) | Voorburg, NL | 1999 | [2](https://www.linkedin.com/company/aitem/people/) | 22 | - | Business Consulting and Services |
+| Resonance AI | - | [View LinkedIn](https://www.linkedin.com/showcase/resonance-ai/) | N/A, N/A | N/A | [0](https://www.linkedin.com/company/resonance-ai/people/) | 25 | - | Software Development |
+| Intelligenza Artificiale | [Link](https://bollettino.notizie.ai/?utm_source=linkedin_page_button&utm_medium=web&utm_campaign=linkedin_page_button) | [View LinkedIn](https://www.linkedin.com/company/intelligenza-artificiale) | Roma, IT | 2019 | [9](https://www.linkedin.com/company/intelligenza-artificiale/people/) | 9765 | - | Software Development |
+
+### Milan - 📚 Natural Language Processing
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | sPitch (acquired by CapitalA) | [Link](https://www.spitch.nl) | [View LinkedIn](https://www.linkedin.com/company/spitch) | Arnhem, NL | 2010 | [0](https://www.linkedin.com/company/spitch/people/) | 35 | - | Advertising Services |
@@ -406,59 +388,11 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | H-FARM | [Link](https://www.h-farm.com/) | [View LinkedIn](https://www.linkedin.com/company/h-farm) | Roncade, IT | 2005 | [380](https://www.linkedin.com/company/h-farm/people/) | 87681 | [Post Ipo Equity](https://www.crunchbase.com/organization/h-farm?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Technology, Information and Internet |
 | Translated | [Link](https://translated.com) | [View LinkedIn](https://www.linkedin.com/company/translated) | Rome, IT | 1999 | [1785](https://www.linkedin.com/company/translated/people/) | 114914 | [Private Equity](https://www.crunchbase.com/organization/translated?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Translation and Localization |
 
-### 🗣 Voice & Sound
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Musixmatch | [Link](http://about.musixmatch.com) | [View LinkedIn](https://www.linkedin.com/company/musixmatch) | Bologna, IT | 2010 | [396](https://www.linkedin.com/company/musixmatch/people/) | 18324 | [Private Equity](https://www.crunchbase.com/organization/musixmatch?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Entertainment Providers |
-| VOISEED | [Link](http://www.voiseed.com) | [View LinkedIn](https://www.linkedin.com/company/voiseed) | Milan, IT | 2020 | [18](https://www.linkedin.com/company/voiseed/people/) | 1070 | [Seed](https://www.crunchbase.com/organization/voiseed?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Bending Spoons | [Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio) | [View LinkedIn](https://www.linkedin.com/company/bendingspoons) | Milan, IT | 2013 | [516](https://www.linkedin.com/company/bending-spoons/people/) | 199666 | [Series Unknown](https://www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Maxis | [Link](http://www.maxis.com.my) | [View LinkedIn](https://www.linkedin.com/company/maxis) | Kuala Lumpur, MY | 1995 | [7360](https://www.linkedin.com/company/maxis/people/) | 208323 | - | Telecommunications |
-| Sprooki | [Link](http://www.sprooki.com) | [View LinkedIn](https://www.linkedin.com/company/sprooki) | Singapore, SG | 2011 | [1](https://www.linkedin.com/company/sprooki/people/) | 1344 | [Seed](https://www.crunchbase.com/organization/sprooki?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🤖 Chatbots & Customer Service
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Userbot.AI | [Link](https://userbot.ai) | [View LinkedIn](https://www.linkedin.com/company/userbot) | Nova Milanese, IT | 2017 | [20](https://www.linkedin.com/company/userbot/people/) | 3949 | [Seed](https://www.crunchbase.com/organization/userbot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| indigo.ai | [Link](https://indigo.ai/) | [View LinkedIn](https://www.linkedin.com/company/indigo-ai) | Milan, IT | 2016 | [37](https://www.linkedin.com/company/indigo-ai/people/) | 10630 | [Convertible Note](https://www.crunchbase.com/organization/indigo-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| FloatingPoint | [Link](https://floatingpoint.io) | [View LinkedIn](https://www.linkedin.com/company/floatingpoint) | Zagreb, HR | 2015 | [1](https://www.linkedin.com/company/floatingpoint/people/) | 17 | - | IT Services and IT Consulting |
-| Almawave | [Link](https://www.almawave.it) | [View LinkedIn](https://www.linkedin.com/company/almawave) | Roma, IT | 2006 | [287](https://www.linkedin.com/company/almawave/people/) | 26890 | - | IT Services and IT Consulting |
-| QuestIT | [Link](http://www.alghoncloud.com/prenota-demo) | [View LinkedIn](https://www.linkedin.com/company/questit) | Siena, IT | 2007 | [47](https://www.linkedin.com/company/questit/people/) | 4631 | [Pre Seed](https://www.crunchbase.com/organization/questit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 👁 Computer Vision
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Cynny S.p.A. | [Link](https://www.morphcast.com/) | [View LinkedIn](https://www.linkedin.com/company/cynny) | Firenze, IT | 2013 | [12](https://www.linkedin.com/company/cynny/people/) | 2013 | [Seed](https://www.crunchbase.com/organization/cynny-s-p-a?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| eyecan.ai | [Link](https://www.eyecan.ai/) | [View LinkedIn](https://www.linkedin.com/company/eyecan-ai) | Bologna, IT | 2019 | [10](https://www.linkedin.com/company/eyecan-ai/people/) | 2723 | - | Research Services |
-| Bending Spoons | [Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio) | [View LinkedIn](https://www.linkedin.com/company/bendingspoons) | Milan, IT | 2013 | [516](https://www.linkedin.com/company/bending-spoons/people/) | 199666 | [Series Unknown](https://www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| AITEM | [Link](https://www.aitem.nl) | [View LinkedIn](https://www.linkedin.com/company/aitem) | Voorburg, NL | 1999 | [2](https://www.linkedin.com/company/aitem/people/) | 22 | - | Business Consulting and Services |
-| Resonance AI | - | [View LinkedIn](https://www.linkedin.com/showcase/resonance-ai/) | N/A, N/A | N/A | [0](https://www.linkedin.com/company/resonance-ai/people/) | 25 | - | Software Development |
-| Intelligenza Artificiale | [Link](https://bollettino.notizie.ai/?utm_source=linkedin_page_button&utm_medium=web&utm_campaign=linkedin_page_button) | [View LinkedIn](https://www.linkedin.com/company/intelligenza-artificiale) | Roma, IT | 2019 | [9](https://www.linkedin.com/company/intelligenza-artificiale/people/) | 9765 | - | Software Development |
-
-### 🧾 Document Processing
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| MdotM | [Link](http://www.mdotm.com) | [View LinkedIn](https://www.linkedin.com/company/mdotm) | San Mateo, US | 2009 | [36](https://www.linkedin.com/company/mdotm/people/) | 619 | - | Advertising Services |
-| Almawave | [Link](https://www.almawave.it) | [View LinkedIn](https://www.linkedin.com/company/almawave) | Roma, IT | 2006 | [287](https://www.linkedin.com/company/almawave/people/) | 26890 | - | IT Services and IT Consulting |
-| Aptus.AI | [Link](https://www.aptus.ai/careers) | [View LinkedIn](https://www.linkedin.com/company/aptus-ai) | Pisa, IT | 2018 | [49](https://www.linkedin.com/company/aptus-ai/people/) | 4853 | [Seed](https://www.crunchbase.com/organization/aptus-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-
-### 🔎 Search & Recommendation
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Bending Spoons | [Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio) | [View LinkedIn](https://www.linkedin.com/company/bendingspoons) | Milan, IT | 2013 | [516](https://www.linkedin.com/company/bending-spoons/people/) | 199666 | [Series Unknown](https://www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Musixmatch | [Link](http://about.musixmatch.com) | [View LinkedIn](https://www.linkedin.com/company/musixmatch) | Bologna, IT | 2010 | [396](https://www.linkedin.com/company/musixmatch/people/) | 18324 | [Private Equity](https://www.crunchbase.com/organization/musixmatch?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Entertainment Providers |
-| Nextage | - | [View LinkedIn](https://www.linkedin.com/company/nextage) | N/A, N/A | N/A | [63](https://www.linkedin.com/company/nextage/people/) | 87 | - | Design Services |
-
-### 🚗 Self-driving Cars
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| VISLAB | [Link](http://vislab.mx/) | [View LinkedIn](https://www.linkedin.com/company/vislab) | Naucalpan, MX | 2011 | [2](https://www.linkedin.com/company/vislab/people/) | 36 | - | Business Consulting and Services |
-| embotech | [Link](https://www.embotech.com/) | [View LinkedIn](https://www.linkedin.com/company/embotech) | Zurich, CH | 2013 | [62](https://www.linkedin.com/company/embotech/people/) | 8659 | [Grant](https://www.crunchbase.com/organization/embotech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🤖 Robots
+### Milan - 🤖 Robotics
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 
-### 💉 Medicine
+### Milan - 💉 Medicine
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | BrainControl | [Link](https://www.braincontrol.eu) | [View LinkedIn](https://www.linkedin.com/showcase/braincontrol/) | Siena, IT | N/A | [0](https://www.linkedin.com/company/braincontrol/people/) | 550 | [Seed](https://www.crunchbase.com/organization/brain-control?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
@@ -467,7 +401,45 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | MediaMente | - | [View LinkedIn](https://www.linkedin.com/company/mediamente) | N/A, N/A | N/A | [9](https://www.linkedin.com/company/mediamente/people/) | 12 | - | N/A |
 | DeepTrace Technologies | [Link](http://deeptracetech.com/contacts.html) | [View LinkedIn](https://www.linkedin.com/company/deeptrace) | Milan, IT | 2018 | [10](https://www.linkedin.com/company/deeptrace/people/) | 857 | - | Software Development |
 
-### 🔬 Science & Engineering
+### Milan - 🚗 Self-Driving Cars
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| VISLAB | [Link](http://vislab.mx/) | [View LinkedIn](https://www.linkedin.com/company/vislab) | Naucalpan, MX | 2011 | [2](https://www.linkedin.com/company/vislab/people/) | 36 | - | Business Consulting and Services |
+| embotech | [Link](https://www.embotech.com/) | [View LinkedIn](https://www.linkedin.com/company/embotech) | Zurich, CH | 2013 | [62](https://www.linkedin.com/company/embotech/people/) | 8659 | [Grant](https://www.crunchbase.com/organization/embotech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Milan - 🗣 Voice & Sound
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Musixmatch | [Link](http://about.musixmatch.com) | [View LinkedIn](https://www.linkedin.com/company/musixmatch) | Bologna, IT | 2010 | [396](https://www.linkedin.com/company/musixmatch/people/) | 18324 | [Private Equity](https://www.crunchbase.com/organization/musixmatch?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Entertainment Providers |
+| VOISEED | [Link](http://www.voiseed.com) | [View LinkedIn](https://www.linkedin.com/company/voiseed) | Milan, IT | 2020 | [18](https://www.linkedin.com/company/voiseed/people/) | 1070 | [Seed](https://www.crunchbase.com/organization/voiseed?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Bending Spoons | [Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio) | [View LinkedIn](https://www.linkedin.com/company/bendingspoons) | Milan, IT | 2013 | [516](https://www.linkedin.com/company/bending-spoons/people/) | 199666 | [Series Unknown](https://www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Maxis | [Link](http://www.maxis.com.my) | [View LinkedIn](https://www.linkedin.com/company/maxis) | Kuala Lumpur, MY | 1995 | [7360](https://www.linkedin.com/company/maxis/people/) | 208323 | - | Telecommunications |
+| Sprooki | [Link](http://www.sprooki.com) | [View LinkedIn](https://www.linkedin.com/company/sprooki) | Singapore, SG | 2011 | [1](https://www.linkedin.com/company/sprooki/people/) | 1344 | [Seed](https://www.crunchbase.com/organization/sprooki?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Milan - 🤖 Chatbots & Customer Service
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Userbot.AI | [Link](https://userbot.ai) | [View LinkedIn](https://www.linkedin.com/company/userbot) | Nova Milanese, IT | 2017 | [20](https://www.linkedin.com/company/userbot/people/) | 3949 | [Seed](https://www.crunchbase.com/organization/userbot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| indigo.ai | [Link](https://indigo.ai/) | [View LinkedIn](https://www.linkedin.com/company/indigo-ai) | Milan, IT | 2016 | [37](https://www.linkedin.com/company/indigo-ai/people/) | 10630 | [Convertible Note](https://www.crunchbase.com/organization/indigo-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| FloatingPoint | [Link](https://floatingpoint.io) | [View LinkedIn](https://www.linkedin.com/company/floatingpoint) | Zagreb, HR | 2015 | [1](https://www.linkedin.com/company/floatingpoint/people/) | 17 | - | IT Services and IT Consulting |
+| Almawave | [Link](https://www.almawave.it) | [View LinkedIn](https://www.linkedin.com/company/almawave) | Roma, IT | 2006 | [287](https://www.linkedin.com/company/almawave/people/) | 26890 | - | IT Services and IT Consulting |
+| QuestIT | [Link](http://www.alghoncloud.com/prenota-demo) | [View LinkedIn](https://www.linkedin.com/company/questit) | Siena, IT | 2007 | [47](https://www.linkedin.com/company/questit/people/) | 4631 | [Pre Seed](https://www.crunchbase.com/organization/questit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Milan - 🧾 Document Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| MdotM | [Link](http://www.mdotm.com) | [View LinkedIn](https://www.linkedin.com/company/mdotm) | San Mateo, US | 2009 | [36](https://www.linkedin.com/company/mdotm/people/) | 619 | - | Advertising Services |
+| Almawave | [Link](https://www.almawave.it) | [View LinkedIn](https://www.linkedin.com/company/almawave) | Roma, IT | 2006 | [287](https://www.linkedin.com/company/almawave/people/) | 26890 | - | IT Services and IT Consulting |
+| Aptus.AI | [Link](https://www.aptus.ai/careers) | [View LinkedIn](https://www.linkedin.com/company/aptus-ai) | Pisa, IT | 2018 | [49](https://www.linkedin.com/company/aptus-ai/people/) | 4853 | [Seed](https://www.crunchbase.com/organization/aptus-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Milan - 🔎 Search & Recommendation
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Bending Spoons | [Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio) | [View LinkedIn](https://www.linkedin.com/company/bendingspoons) | Milan, IT | 2013 | [516](https://www.linkedin.com/company/bending-spoons/people/) | 199666 | [Series Unknown](https://www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Musixmatch | [Link](http://about.musixmatch.com) | [View LinkedIn](https://www.linkedin.com/company/musixmatch) | Bologna, IT | 2010 | [396](https://www.linkedin.com/company/musixmatch/people/) | 18324 | [Private Equity](https://www.crunchbase.com/organization/musixmatch?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Entertainment Providers |
+| Nextage | - | [View LinkedIn](https://www.linkedin.com/company/nextage) | N/A, N/A | N/A | [63](https://www.linkedin.com/company/nextage/people/) | 87 | - | Design Services |
+
+### Milan - 🔬 Science & Engineering
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Ammagamma | [Link](http://www.ammagamma.com) | [View LinkedIn](https://www.linkedin.com/company/ammagamma) | Modena, IT | 2013 | [91](https://www.linkedin.com/company/ammagamma/people/) | 22842 | - | IT Services and IT Consulting |
@@ -475,7 +447,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | MindIT | [Link](http://www.minditonline.com) | [View LinkedIn](https://www.linkedin.com/company/mindit) | Dallas, US | 2007 | [4](https://www.linkedin.com/company/mindit/people/) | 38 | - | Computer Networking Products |
 | Neural Research | - | [View LinkedIn](https://www.linkedin.com/company/neural-research) | N/A, N/A | N/A | [1](https://www.linkedin.com/company/neural-research/people/) | 28 | - | Market Research |
 
-### 💰 Business
+### Milan - 💰 Business
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | MdotM | [Link](http://www.mdotm.com) | [View LinkedIn](https://www.linkedin.com/company/mdotm) | San Mateo, US | 2009 | [36](https://www.linkedin.com/company/mdotm/people/) | 619 | - | Advertising Services |
@@ -487,7 +459,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | FinScience | - | [View LinkedIn](https://www.linkedin.com/company/finscience) | N/A, N/A | N/A | [0](https://www.linkedin.com/company/finscience/people/) | 18 | - | N/A |
 | modefinance | [Link](https://www.modefinance.com) | [View LinkedIn](https://www.linkedin.com/company/modefinance) | Trieste, IT | 2009 | [71](https://www.linkedin.com/company/modefinance/people/) | 6610 | [Grant](https://www.crunchbase.com/organization/modefinance?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
 
-### 👔 Consulting
+### Milan - 👔 Consulting
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Quantyca - Data at Core | [Link](https://quantyca.us18.list-manage.com/subscribe?u=3137846906bf30bdc0706b237&id=fe0ef87b43) | [View LinkedIn](https://www.linkedin.com/company/quantyca) | Monza, IT | 2009 | [119](https://www.linkedin.com/company/quantyca/people/) | 7386 | - | IT Services and IT Consulting |
@@ -495,17 +467,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Intellera Consulting | - | [View LinkedIn](https://www.linkedin.com/company/intellera-consulting) | Milan, IT | 2021 | [1311](https://www.linkedin.com/company/intellera-consulting/people/) | 40928 | - | Business Consulting and Services |
 | AI4Business | [Link](https://www.ai4business.it/newsletter/) | [View LinkedIn](https://www.linkedin.com/company/ai4business) | Milan, IT | 2017 | [3](https://www.linkedin.com/company/ai4business/people/) | 1563 | - | Media Production |
 
-### 🚀 Other
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| BigProfiles | [Link](https://bigprofiles.com/) | [View LinkedIn](https://www.linkedin.com/company/bigprofiles) | Rome, IT | 2018 | [35](https://www.linkedin.com/company/bigprofiles/people/) | 6061 | [Series A](https://www.crunchbase.com/organization/big-profiles?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Cloud4Wi | [Link](https://info.cloud4wi.com/contact-us) | [View LinkedIn](https://www.linkedin.com/company/cloud4wi) | Brooklyn, US | 2014 | [63](https://www.linkedin.com/company/cloud4wi/people/) | 8585 | [Debt Financing](https://www.crunchbase.com/organization/witech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Jointag - Next 14 Group | [Link](http://www.jointag.com/) | [View LinkedIn](https://www.linkedin.com/company/jointag) | Milano, IT | 2013 | [2](https://www.linkedin.com/company/jointag/people/) | 415 | - | Advertising Services |
-| Nebula AI Inc. | [Link](https://nebula-ai.com/#Home) | [View LinkedIn](https://www.linkedin.com/company/nebula-ai) | Montreal, CA | 2017 | [10](https://www.linkedin.com/company/nebula-ai/people/) | 699 | - | Software Development |
-| Scalapay | [Link](https://www.scalapay.com/) | [View LinkedIn](https://www.linkedin.com/company/scalapay) | Dublin City, IE | 2019 | [211](https://www.linkedin.com/company/scalapay/people/) | 46719 | [Debt Financing](https://www.crunchbase.com/organization/scalapay?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
-| Roboze | [Link](https://www.roboze.com/en/) | [View LinkedIn](https://www.linkedin.com/company/roboze) | Bari, IT | 2014 | [108](https://www.linkedin.com/company/roboze/people/) | 24337 | [Seed](https://www.crunchbase.com/organization/roboze-srl?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Industrial Machinery Manufacturing |
-| Satispay | [Link](https://www.satispay.com/en/) | [View LinkedIn](https://www.linkedin.com/company/satispay) | Milan, IT | 2013 | [751](https://www.linkedin.com/company/satispay/people/) | 153426 | [Series Unknown](https://www.crunchbase.com/organization/satispay?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
-
+### Milan - 🚀 Other
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | BigProfiles | [Link](https://bigprofiles.com/) | [View LinkedIn](https://www.linkedin.com/company/bigprofiles) | Rome, IT | 2018 | [35](https://www.linkedin.com/company/bigprofiles/people/) | 6061 | [Series A](https://www.crunchbase.com/organization/big-profiles?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
@@ -517,36 +479,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Satispay | [Link](https://www.satispay.com/en/) | [View LinkedIn](https://www.linkedin.com/company/satispay) | Milan, IT | 2013 | [751](https://www.linkedin.com/company/satispay/people/) | 153426 | [Series Unknown](https://www.crunchbase.com/organization/satispay?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
 
 ## Paris
-### 📚 Natural Language Processing
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| LightOn | [Link](https://www.lighton.ai/) | [View LinkedIn](https://www.linkedin.com/company/lighton) | Paris, FR | 2016 | [49](https://www.linkedin.com/company/lighton/people/) | 8683 | [Seed](https://www.crunchbase.com/organization/lighton?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Kairntech | [Link](https://www.kairntech.com) | [View LinkedIn](https://www.linkedin.com/company/kairntech) | Meylan, FR | 2019 | [10](https://www.linkedin.com/company/kairntech/people/) | 637 | - | Software Development |
-| OpenClassrooms | [Link](https://bit.ly/oc-education) | [View LinkedIn](https://www.linkedin.com/school/openclassrooms/) | N/A, FR | 2013 | [3135](https://www.linkedin.com/company/openclassrooms/people/) | 224199 | [Series C](https://www.crunchbase.com/organization/openclassrooms?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Higher Education |
-| SYSTRAN by ChapsVision | [Link](https://www.systransoft.com/) | [View LinkedIn](https://www.linkedin.com/company/systran) | Paris, FR | 1968 | [90](https://www.linkedin.com/company/systran/people/) | 7612 | [Private Equity](https://www.crunchbase.com/organization/systran?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| RECITAL  | [Link](http://www.recitalpromotion.com) | [View LinkedIn](https://www.linkedin.com/company/recital) | ISTRES, FR | 2006 | [0](https://www.linkedin.com/company/recital/people/) | 27 | - | Real Estate |
-| Bitext | [Link](https://www.bitext.com/contact-us/) | [View LinkedIn](https://www.linkedin.com/company/bitext) | San Francisco, US | 2008 | [19](https://www.linkedin.com/company/bitext/people/) | 2805 | [Grant](https://www.crunchbase.com/organization/bitext?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🗣 Voice & Sound
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Deepgram | [Link](https://deepgram.com) | [View LinkedIn](https://www.linkedin.com/company/deepgram) | San Francisco, US | 2015 | [159](https://www.linkedin.com/company/deepgram/people/) | 17780 | [Series B](https://www.crunchbase.com/organization/deepgram?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Sonantic | [Link](https://www.sonantic.io) | [View LinkedIn](https://www.linkedin.com/company/sonantic) | London, GB | 2018 | [3](https://www.linkedin.com/company/sonantic/people/) | 3057 | [Seed](https://www.crunchbase.com/organization/speak-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Research Services |
-| ALLOMEDIA | - | [View LinkedIn](https://www.linkedin.com/company/allomedia) | Bruxelles, BE | N/A | [0](https://www.linkedin.com/company/allomedia/people/) | 14 | - | Computers and Electronics Manufacturing |
-| Leocare | [Link](http://leocare.eu) | [View LinkedIn](https://www.linkedin.com/company/leocare-assurance) | Paris , FR | 2017 | [135](https://www.linkedin.com/company/leocare/people/) | 10115 | [Series B](https://www.crunchbase.com/organization/leocare-assurance?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Insurance |
-| Microfy Systems | [Link](http://www.microfy.ai) | [View LinkedIn](https://www.linkedin.com/company/microfy-systems) | L'Hospitalet de Llobregat, ES | N/A | [9](https://www.linkedin.com/company/sonicat-systems/people/) | 1700 | - | Industrial Machinery Manufacturing |
-| Withings | [Link](http://withings.com/) | [View LinkedIn](https://www.linkedin.com/company/withings) | Issy-les-Moulineaux, FR | 2008 | [334](https://www.linkedin.com/company/withings/people/) | 85659 | [Series B](https://www.crunchbase.com/organization/withings?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Wellness and Fitness Services |
-
-### 🤖 Chatbots & Customer Service
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Clustaar | EDG Group | [Link](https://ads-up.fr/agence-seo/#get-in-touch) | [View LinkedIn](https://www.linkedin.com/company/clustaar) | Paris, FR | 2013 | [13](https://www.linkedin.com/company/clustaar/people/) | 1987 | [Series Unknown](https://www.crunchbase.com/organization/clustaar?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Golem.ai | [Link](http://golem.ai/) | [View LinkedIn](https://www.linkedin.com/company/golem-ai) | Paris, FR | 2016 | [34](https://www.linkedin.com/company/golem-ai/people/) | 3054 | - | Software Development |
-| Botfuel | [Link](https://www.botfuel.io/contact) | [View LinkedIn](https://www.linkedin.com/company/botfuel) | Paris, FR | 2016 | [1](https://www.linkedin.com/company/botfuel/people/) | 2163 | [Grant](https://www.crunchbase.com/organization/botfuel?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Technology, Information and Internet |
-| Konverso | [Link](https://www.konverso.ai/contact-us) | [View LinkedIn](https://www.linkedin.com/company/konverso) | Paris, FR | 2017 | [22](https://www.linkedin.com/company/konverso/people/) | 1855 | [Series Unknown](https://www.crunchbase.com/organization/konverso?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| lima.ai | [Link](http://www.lima.ai) | [View LinkedIn](https://www.linkedin.com/company/lima-ai) | Palo Alto, US | 2018 | [54](https://www.linkedin.com/company/lima-ai/people/) | 388 | - | Software Development |
-
-### 👁 Computer Vision
+### Paris - 👁 Computer Vision
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Datakalab | [Link](https://datakalab.com/contact-en) | [View LinkedIn](https://www.linkedin.com/company/datakalab) | Paris, FR | 2016 | [1](https://www.linkedin.com/company/datakalab/people/) | 3242 | [Non Equity Assistance](https://www.crunchbase.com/organization/datakalab?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Research Services |
@@ -556,32 +489,17 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Shift Technology | [Link](http://www.shift-technology.com) | [View LinkedIn](https://www.linkedin.com/company/shift-technology) | Paris, FR | 2013 | [559](https://www.linkedin.com/company/shift-technology/people/) | 27209 | [Series D](https://www.crunchbase.com/organization/shift-technology?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | PROPHESEE | [Link](https://www.prophesee.ai) | [View LinkedIn](https://www.linkedin.com/company/chronocam) | Paris, FR | 2014 | [130](https://www.linkedin.com/company/chronocam/people/) | 11000 | [Series C](https://www.crunchbase.com/organization/chronocam?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Semiconductor Manufacturing |
 
-### 🧾 Document Processing
+### Paris - 📚 Natural Language Processing
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Doctrine | [Link](https://doctrine.fr?source=Linkedin&utm_source=linkedin&utm_campaign=Lkpage) | [View LinkedIn](https://www.linkedin.com/company/doctrine) | Paris, FR | 2016 | [185](https://www.linkedin.com/company/doctrine/people/) | 37139 | [Private Equity](https://www.crunchbase.com/organization/doctrine?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Yseop | [Link](https://yseop.com/contact/) | [View LinkedIn](https://www.linkedin.com/company/yseop) | New York, US | 2007 | [118](https://www.linkedin.com/company/yseop/people/) | 9861 | [Series Unknown](https://www.crunchbase.com/organization/yseop?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Hyperlex | [Link](https://hyperlex.ca) | [View LinkedIn](https://www.linkedin.com/company/hyperlex) | Montreal, CA | N/A | [1](https://www.linkedin.com/company/hyperlex/people/) | 206 | - | Law Practice |
-| Lettria | [Link](http://www.Lettria.com) | [View LinkedIn](https://www.linkedin.com/company/lettria) | Paris, FR | 2019 | [26](https://www.linkedin.com/company/lettria/people/) | 2079 | [Seed](https://www.crunchbase.com/organization/lettria?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Mindee | [Link](https://platform.mindee.com/signup) | [View LinkedIn](https://www.linkedin.com/company/mindee) | Paris, FR | 2018 | [49](https://www.linkedin.com/company/mindee/people/) | 3633 | [Series Unknown](https://www.crunchbase.com/organization/mindee?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| LightOn | [Link](https://www.lighton.ai/) | [View LinkedIn](https://www.linkedin.com/company/lighton) | Paris, FR | 2016 | [49](https://www.linkedin.com/company/lighton/people/) | 8683 | [Seed](https://www.crunchbase.com/organization/lighton?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Kairntech | [Link](https://www.kairntech.com) | [View LinkedIn](https://www.linkedin.com/company/kairntech) | Meylan, FR | 2019 | [10](https://www.linkedin.com/company/kairntech/people/) | 637 | - | Software Development |
+| OpenClassrooms | [Link](https://bit.ly/oc-education) | [View LinkedIn](https://www.linkedin.com/school/openclassrooms/) | N/A, FR | 2013 | [3135](https://www.linkedin.com/company/openclassrooms/people/) | 224199 | [Series C](https://www.crunchbase.com/organization/openclassrooms?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Higher Education |
+| SYSTRAN by ChapsVision | [Link](https://www.systransoft.com/) | [View LinkedIn](https://www.linkedin.com/company/systran) | Paris, FR | 1968 | [90](https://www.linkedin.com/company/systran/people/) | 7612 | [Private Equity](https://www.crunchbase.com/organization/systran?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| RECITAL  | [Link](http://www.recitalpromotion.com) | [View LinkedIn](https://www.linkedin.com/company/recital) | ISTRES, FR | 2006 | [0](https://www.linkedin.com/company/recital/people/) | 27 | - | Real Estate |
+| Bitext | [Link](https://www.bitext.com/contact-us/) | [View LinkedIn](https://www.linkedin.com/company/bitext) | San Francisco, US | 2008 | [19](https://www.linkedin.com/company/bitext/people/) | 2805 | [Grant](https://www.crunchbase.com/organization/bitext?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
 
-### 🔎 Search & Recommendation
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Algolia | [Link](https://www.algolia.com) | [View LinkedIn](https://www.linkedin.com/company/algolia) | Palo Alto, US | 2012 | [817](https://www.linkedin.com/company/algolia/people/) | 55104 | [Series D](https://www.crunchbase.com/organization/algolia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Crossing Minds | [Link](https://www.crossingminds.com) | [View LinkedIn](https://www.linkedin.com/company/crossing-minds) | San Francisco, US | 2017 | [26](https://www.linkedin.com/company/crossing-minds/people/) | 1971 | [Non Equity Assistance](https://www.crunchbase.com/organization/crossing-minds?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Heuritech | [Link](https://heuritech.com) | [View LinkedIn](https://www.linkedin.com/company/heuritech) | Paris, FR | 2013 | [37](https://www.linkedin.com/company/heuritech/people/) | 11893 | [Series A](https://www.crunchbase.com/organization/heuritech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Meero | [Link](https://www.meero.com) | [View LinkedIn](https://www.linkedin.com/company/meero) | Paris, FR | 2016 | [763](https://www.linkedin.com/company/meero/people/) | 34488 | [Series C](https://www.crunchbase.com/organization/meero?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-
-### 🚗 Self-driving Cars
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Navya | [Link](http://www.navya.es/) | [View LinkedIn](https://www.linkedin.com/company/navya) | MADRID, ES | 2008 | [87](https://www.linkedin.com/company/navya/people/) | 2052 | - | Airlines and Aviation |
-| EasyMile | [Link](http://www.easymile.com) | [View LinkedIn](https://www.linkedin.com/company/easymile) | Toulouse, FR | 2014 | [252](https://www.linkedin.com/company/easymile/people/) | 25148 | [Series B](https://www.crunchbase.com/organization/easymile?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Wintics | [Link](http://wintics.com/) | [View LinkedIn](https://www.linkedin.com/company/wintics) | Paris, FR | 2017 | [15](https://www.linkedin.com/company/wintics/people/) | 2984 | [Private Equity](https://www.crunchbase.com/organization/wintics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| Mobility Tech Green Europe | [Link](https://www.mobilitytechgreen.com/contactez-nous-pour-projets-autopartage/) | [View LinkedIn](https://www.linkedin.com/company/mobility-tech-green) | Rennes, FR | 2009 | [27](https://www.linkedin.com/company/mobility-tech-green/people/) | 2115 | [Series B](https://www.crunchbase.com/organization/mobility-tech-green?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-
-### 🤖 Robots
+### Paris - 🤖 Robotics
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Stanley Robotics | [Link](https://www.stanley-robotics.com) | [View LinkedIn](https://www.linkedin.com/company/stanley-robotics) | Paris, FR | 2015 | [49](https://www.linkedin.com/company/stanley-robotics/people/) | 11593 | [Series Unknown](https://www.crunchbase.com/organization/stanley-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Machinery Manufacturing |
@@ -590,7 +508,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | BALYO | [Link](https://www.balyo.com) | [View LinkedIn](https://www.linkedin.com/company/balyo) | Arcueil, FR | 2005 | [182](https://www.linkedin.com/company/balyo/people/) | 23159 | [Post Ipo Equity](https://www.crunchbase.com/organization/balyo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
 | Spartan Robotics | [Link](http://www.spartan-robotics.com) | [View LinkedIn](https://www.linkedin.com/showcase/spartan-robotics/) | Nashville, US | N/A | [0](https://www.linkedin.com/company/spartan-robotics/people/) | 223 | - | Automation Machinery Manufacturing |
 
-### 💉 Medicine
+### Paris - 💉 Medicine
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Owkin | [Link](https://www.owkin.com) | [View LinkedIn](https://www.linkedin.com/company/owkin) | New York, US | 2016 | [474](https://www.linkedin.com/company/owkin/people/) | 44328 | [Series B](https://www.crunchbase.com/organization/owkin-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Biotechnology Research |
@@ -601,7 +519,51 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | DNA Script | [Link](http://www.dnascript.com) | [View LinkedIn](https://www.linkedin.com/company/dna-script) | Le Kremlin-Bicêtre, FR | 2014 | [182](https://www.linkedin.com/company/dna-script/people/) | 21197 | [Seed](https://www.crunchbase.com/organization/dna-script?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Biotechnology Research |
 | Implicity | [Link](http://www.implicity.at) | [View LinkedIn](https://www.linkedin.com/company/implicity) | N/A, N/A | 2014 | [0](https://www.linkedin.com/company/implicity/people/) | 37 | - | Business Consulting and Services |
 
-### 🔬 Science & Engineering
+### Paris - 🚗 Self-Driving Cars
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Navya | [Link](http://www.navya.es/) | [View LinkedIn](https://www.linkedin.com/company/navya) | MADRID, ES | 2008 | [87](https://www.linkedin.com/company/navya/people/) | 2052 | - | Airlines and Aviation |
+| EasyMile | [Link](http://www.easymile.com) | [View LinkedIn](https://www.linkedin.com/company/easymile) | Toulouse, FR | 2014 | [252](https://www.linkedin.com/company/easymile/people/) | 25148 | [Series B](https://www.crunchbase.com/organization/easymile?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Wintics | [Link](http://wintics.com/) | [View LinkedIn](https://www.linkedin.com/company/wintics) | Paris, FR | 2017 | [15](https://www.linkedin.com/company/wintics/people/) | 2984 | [Private Equity](https://www.crunchbase.com/organization/wintics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Mobility Tech Green Europe | [Link](https://www.mobilitytechgreen.com/contactez-nous-pour-projets-autopartage/) | [View LinkedIn](https://www.linkedin.com/company/mobility-tech-green) | Rennes, FR | 2009 | [27](https://www.linkedin.com/company/mobility-tech-green/people/) | 2115 | [Series B](https://www.crunchbase.com/organization/mobility-tech-green?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Paris - 🗣 Voice & Sound
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Deepgram | [Link](https://deepgram.com) | [View LinkedIn](https://www.linkedin.com/company/deepgram) | San Francisco, US | 2015 | [159](https://www.linkedin.com/company/deepgram/people/) | 17780 | [Series B](https://www.crunchbase.com/organization/deepgram?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Sonantic | [Link](https://www.sonantic.io) | [View LinkedIn](https://www.linkedin.com/company/sonantic) | London, GB | 2018 | [3](https://www.linkedin.com/company/sonantic/people/) | 3057 | [Seed](https://www.crunchbase.com/organization/speak-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Research Services |
+| ALLOMEDIA | - | [View LinkedIn](https://www.linkedin.com/company/allomedia) | Bruxelles, BE | N/A | [0](https://www.linkedin.com/company/allomedia/people/) | 14 | - | Computers and Electronics Manufacturing |
+| Leocare | [Link](http://leocare.eu) | [View LinkedIn](https://www.linkedin.com/company/leocare-assurance) | Paris , FR | 2017 | [135](https://www.linkedin.com/company/leocare/people/) | 10115 | [Series B](https://www.crunchbase.com/organization/leocare-assurance?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Insurance |
+| Microfy Systems | [Link](http://www.microfy.ai) | [View LinkedIn](https://www.linkedin.com/company/microfy-systems) | L'Hospitalet de Llobregat, ES | N/A | [9](https://www.linkedin.com/company/sonicat-systems/people/) | 1700 | - | Industrial Machinery Manufacturing |
+| Withings | [Link](http://withings.com/) | [View LinkedIn](https://www.linkedin.com/company/withings) | Issy-les-Moulineaux, FR | 2008 | [334](https://www.linkedin.com/company/withings/people/) | 85659 | [Series B](https://www.crunchbase.com/organization/withings?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Wellness and Fitness Services |
+
+### Paris - 🤖 Chatbots & Customer Service
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Clustaar | EDG Group | [Link](https://ads-up.fr/agence-seo/#get-in-touch) | [View LinkedIn](https://www.linkedin.com/company/clustaar) | Paris, FR | 2013 | [13](https://www.linkedin.com/company/clustaar/people/) | 1987 | [Series Unknown](https://www.crunchbase.com/organization/clustaar?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Golem.ai | [Link](http://golem.ai/) | [View LinkedIn](https://www.linkedin.com/company/golem-ai) | Paris, FR | 2016 | [34](https://www.linkedin.com/company/golem-ai/people/) | 3054 | - | Software Development |
+| Botfuel | [Link](https://www.botfuel.io/contact) | [View LinkedIn](https://www.linkedin.com/company/botfuel) | Paris, FR | 2016 | [1](https://www.linkedin.com/company/botfuel/people/) | 2163 | [Grant](https://www.crunchbase.com/organization/botfuel?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Technology, Information and Internet |
+| Konverso | [Link](https://www.konverso.ai/contact-us) | [View LinkedIn](https://www.linkedin.com/company/konverso) | Paris, FR | 2017 | [22](https://www.linkedin.com/company/konverso/people/) | 1855 | [Series Unknown](https://www.crunchbase.com/organization/konverso?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| lima.ai | [Link](http://www.lima.ai) | [View LinkedIn](https://www.linkedin.com/company/lima-ai) | Palo Alto, US | 2018 | [54](https://www.linkedin.com/company/lima-ai/people/) | 388 | - | Software Development |
+
+### Paris - 🧾 Document Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Doctrine | [Link](https://doctrine.fr?source=Linkedin&utm_source=linkedin&utm_campaign=Lkpage) | [View LinkedIn](https://www.linkedin.com/company/doctrine) | Paris, FR | 2016 | [185](https://www.linkedin.com/company/doctrine/people/) | 37139 | [Private Equity](https://www.crunchbase.com/organization/doctrine?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Yseop | [Link](https://yseop.com/contact/) | [View LinkedIn](https://www.linkedin.com/company/yseop) | New York, US | 2007 | [118](https://www.linkedin.com/company/yseop/people/) | 9861 | [Series Unknown](https://www.crunchbase.com/organization/yseop?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Hyperlex | [Link](https://hyperlex.ca) | [View LinkedIn](https://www.linkedin.com/company/hyperlex) | Montreal, CA | N/A | [1](https://www.linkedin.com/company/hyperlex/people/) | 206 | - | Law Practice |
+| Lettria | [Link](http://www.Lettria.com) | [View LinkedIn](https://www.linkedin.com/company/lettria) | Paris, FR | 2019 | [26](https://www.linkedin.com/company/lettria/people/) | 2079 | [Seed](https://www.crunchbase.com/organization/lettria?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Mindee | [Link](https://platform.mindee.com/signup) | [View LinkedIn](https://www.linkedin.com/company/mindee) | Paris, FR | 2018 | [49](https://www.linkedin.com/company/mindee/people/) | 3633 | [Series Unknown](https://www.crunchbase.com/organization/mindee?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Paris - 🔎 Search & Recommendation
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Algolia | [Link](https://www.algolia.com) | [View LinkedIn](https://www.linkedin.com/company/algolia) | Palo Alto, US | 2012 | [817](https://www.linkedin.com/company/algolia/people/) | 55104 | [Series D](https://www.crunchbase.com/organization/algolia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Crossing Minds | [Link](https://www.crossingminds.com) | [View LinkedIn](https://www.linkedin.com/company/crossing-minds) | San Francisco, US | 2017 | [26](https://www.linkedin.com/company/crossing-minds/people/) | 1971 | [Non Equity Assistance](https://www.crunchbase.com/organization/crossing-minds?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Heuritech | [Link](https://heuritech.com) | [View LinkedIn](https://www.linkedin.com/company/heuritech) | Paris, FR | 2013 | [37](https://www.linkedin.com/company/heuritech/people/) | 11893 | [Series A](https://www.crunchbase.com/organization/heuritech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Meero | [Link](https://www.meero.com) | [View LinkedIn](https://www.linkedin.com/company/meero) | Paris, FR | 2016 | [763](https://www.linkedin.com/company/meero/people/) | 34488 | [Series C](https://www.crunchbase.com/organization/meero?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Paris - 🔬 Science & Engineering
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Safety Line | [Link](http://www.safety-line.fr) | [View LinkedIn](https://www.linkedin.com/company/safety-line) | Paris, FR | 2010 | [39](https://www.linkedin.com/company/safety-line/people/) | 3053 | [Grant](https://www.crunchbase.com/organization/safety-line?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Aviation and Aerospace Component Manufacturing |
@@ -610,7 +572,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | BrainCube | [Link](http://braincube.us/) | [View LinkedIn](https://www.linkedin.com/company/braincube) | Moscow, RU | 2010 | [5](https://www.linkedin.com/company/braincube/people/) | 129 | - | IT Services and IT Consulting |
 | Dataiku | [Link](http://dataiku.com) | [View LinkedIn](https://www.linkedin.com/company/dataiku) | New York, US | 2013 | [1399](https://www.linkedin.com/company/dataiku/people/) | 190782 | [Series F](https://www.crunchbase.com/organization/dataiku?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 
-### 💰 Business
+### Paris - 💰 Business
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Dataiku | [Link](http://dataiku.com) | [View LinkedIn](https://www.linkedin.com/company/dataiku) | New York, US | 2013 | [1399](https://www.linkedin.com/company/dataiku/people/) | 190782 | [Series F](https://www.crunchbase.com/organization/dataiku?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
@@ -622,7 +584,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Younited | [Link](https://younited.com/en/about-us/) | [View LinkedIn](https://www.linkedin.com/company/younited-credit) | Paris, FR | 2009 | [611](https://www.linkedin.com/company/younited-credit/people/) | 43116 | [Series Unknown](https://www.crunchbase.com/organization/younited-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
 | Luko | [Link](http://www.luko.eu) | [View LinkedIn](https://www.linkedin.com/company/luko) | Paris, FR | 2018 | [184](https://www.linkedin.com/company/luko/people/) | 28619 | [Series B](https://www.crunchbase.com/organization/luko?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Insurance |
 
-### 👔 Consulting
+### Paris - 👔 Consulting
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Artefact | [Link](http://www.artefactgroup.com) | [View LinkedIn](https://www.linkedin.com/company/artefact) | Seattle, US | 2006 | [62](https://www.linkedin.com/company/artefact/people/) | 17547 | - | Design Services |
@@ -632,22 +594,7 @@ Jump to: [Berlin](#berlin), [London](#london), [Madrid](#madrid), [Milan](#milan
 | Ekimetrics | [Link](https://www.ekimetrics.com) | [View LinkedIn](https://www.linkedin.com/company/ekimetrics) | Paris, FR | 2006 | [487](https://www.linkedin.com/company/ekimetrics/people/) | 24369 | [Series Unknown](https://www.crunchbase.com/organization/ekimetrics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | Kernix | [Link](https://kernix.com) | [View LinkedIn](https://www.linkedin.com/company/kernix) | Paris, FR | 2001 | [39](https://www.linkedin.com/company/kernix/people/) | 2858 | [Seed](https://www.crunchbase.com/organization/kernix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
 
-### 🚀 Other
-| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
-|----|-------|------------|------------|-------|---------|---------|-------------|--------|
-| Criteo | [Link](https://www.criteo.com/?utm_source=linkedIn&utm_campaign=GBL.Bio&utm_medium=organic-social) | [View LinkedIn](https://www.linkedin.com/company/criteo) | Paris, FR | N/A | [3641](https://www.linkedin.com/company/criteo/people/) | 226303 | [Secondary Market](https://www.crunchbase.com/organization/criteo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Advertising Services |
-| Ledger | [Link](http://www.ledgercorp.com) | [View LinkedIn](https://www.linkedin.com/company/ledger) | Brooklyn, US | 2013 | [12](https://www.linkedin.com/company/ledger/people/) | 232 | - | Financial Services |
-| Back Market | [Link](http://www.backmarket.com) | [View LinkedIn](https://www.linkedin.com/company/back-market) | Paris, FR | 2014 | [876](https://www.linkedin.com/company/back-market/people/) | 78485 | [Series E](https://www.crunchbase.com/organization/back-market?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Technology, Information and Internet |
-| Sorare | [Link](https://sorare.com) | [View LinkedIn](https://www.linkedin.com/company/sorare) | Paris, FR | 2018 | [185](https://www.linkedin.com/company/sorare/people/) | 37645 | [Series B](https://www.crunchbase.com/organization/sorare?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Swile | [Link](https://do.swile.co/LK) | [View LinkedIn](https://www.linkedin.com/company/swile) | Paris, FR | N/A | [664](https://www.linkedin.com/company/swile/people/) | 99287 | [Series D](https://www.crunchbase.com/organization/lunchr?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
-| Contentsquare | [Link](https://contentsquare.com/) | [View LinkedIn](https://www.linkedin.com/company/contentsquare) | Paris, FR | N/A | [1976](https://www.linkedin.com/company/contentsquare/people/) | 112839 | [Series F](https://www.crunchbase.com/organization/content-square?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| PayFit | [Link](https://payfit.com) | [View LinkedIn](https://www.linkedin.com/company/payfit) | Paris, FR | 2015 | [892](https://www.linkedin.com/company/payfit/people/) | 80060 | [Secondary Market](https://www.crunchbase.com/organization/payfit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
-| ManoMano | [Link](http://www.manomano.fr/) | [View LinkedIn](https://www.linkedin.com/company/manomano) | Paris, FR | 2013 | [758](https://www.linkedin.com/company/manomano/people/) | 46770 | [Series F](https://www.crunchbase.com/organization/manomano?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| BlaBlaCar | [Link](http://www.blablacar.com) | [View LinkedIn](https://www.linkedin.com/company/blablacar) | Paris, FR | 2006 | [1274](https://www.linkedin.com/company/blablacar/people/) | 110829 | [Debt Financing](https://www.crunchbase.com/organization/blablacar?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Lydia | [Link](https://lydia-app.com) | [View LinkedIn](https://www.linkedin.com/company/lydia) | Paris, FR | 2011 | [406](https://www.linkedin.com/company/lydia/people/) | 41890 | [Series C](https://www.crunchbase.com/organization/lydia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
-| Doctolib | [Link](https://careers.doctolib.com/) | [View LinkedIn](https://www.linkedin.com/company/doctolib) | Levallois-Perret, FR | 2013 | [3293](https://www.linkedin.com/company/doctolib/people/) | 233678 | [Series F](https://www.crunchbase.com/organization/doctolib?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-| Mirakl | [Link](https://www.mirakl.com/lets-talk) | [View LinkedIn](https://www.linkedin.com/company/mirakl) | Paris, FR | 2012 | [780](https://www.linkedin.com/company/mirakl/people/) | 155976 | [Debt Financing](https://www.crunchbase.com/organization/mirakl?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
-
+### Paris - 🚀 Other
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Criteo | [Link](https://www.criteo.com/?utm_source=linkedIn&utm_campaign=GBL.Bio&utm_medium=organic-social) | [View LinkedIn](https://www.linkedin.com/company/criteo) | Paris, FR | N/A | [3641](https://www.linkedin.com/company/criteo/people/) | 226303 | [Secondary Market](https://www.crunchbase.com/organization/criteo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Advertising Services |

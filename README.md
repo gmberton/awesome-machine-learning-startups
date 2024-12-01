@@ -1,5 +1,5 @@
 # awesome-machine-learning-startups
-List of startups doing AI &amp; ML. Built automatically, hence unreliable. Inspired by [this](https://github.com/jrieke/awesome-machine-learning-startups-berlin).Work in progress. Let me know if you want other cities. 
+List of startups doing AI &amp; ML. Built automatically, hence unreliable. Inspired by [this](https://github.com/jrieke/awesome-machine-learning-startups-berlin). Work in progress. Let me know if you want other cities. 
 
 Fields: 👁 Computer Vision, 📚 Natural Language Processing, 🤖 Robotics, 💉 Medicine, 🚗 Self-Driving Cars, 🗣 Voice & Sound, 🤖 Chatbots & Customer Service, 🧾 Document Processing, 🔎 Search & Recommendation, 🔬 Science & Engineering, 💰 Business, 👔 Consulting, 🚀 Other 
 

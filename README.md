@@ -1629,6 +1629,7 @@ Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [C
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | EURIX Group | [Link](http://www.eurix.de) | [View LinkedIn](https://www.linkedin.com/company/eurix-group) | Berlin, DE | 1996 | [3](https://www.linkedin.com/company/eurix-group/people/) | 60 | - | Real Estate |
+| Algor | [Link](https://www.algoreducation.com/it) | [View LinkedIn](https://www.linkedin.com/company/algorlab) | Turin, IT | 2021 | [19](https://www.linkedin.com/company/algorlab/people/) | 2000 | [Seed](https://www.crunchbase.com/organization/algor-lab) | Education |
 
 ### Turin - 🤖 Robotics
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |

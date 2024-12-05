@@ -237,7 +237,7 @@ Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [C
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Micropsi Industries | [Link](http://www.micropsi-industries.com) | [View LinkedIn](https://www.linkedin.com/company/micropsi-industries) | Berlin, DE | 2014 | [69](https://www.linkedin.com/company/micropsi-industries/people/) | 9340 | [Series B](https://www.crunchbase.com/organization/micropsi-industries?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
-| Robotics Labs (Pvt) Ltd. | [Link](http://myrobotics.net) | [View LinkedIn](https://www.linkedin.com/company/robotics-labs) | Karachi, PK | 2011 | [4](https://www.linkedin.com/company/robotics-labs/people/) | 435 | - | Education Administration Programs |
+| Robotics Labs (Pvt) Ltd. | [Link](https://www.linkedin.com/company/robotics-labs) | [View LinkedIn](https://www.linkedin.com/company/robotics-labs) | Karachi, PK | 2011 | [4](https://www.linkedin.com/company/robotics-labs/people/) | 435 | - | Education Administration Programs |
 | Wandelbots | [Link](http://www.wandelbots.com) | [View LinkedIn](https://www.linkedin.com/company/wandelbots) | Dresden, DE | 2017 | [108](https://www.linkedin.com/company/wandelbots/people/) | 14920 | [Series C](https://www.crunchbase.com/organization/wandelbots?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | German Bionic | [Link](http://www.germanbionic.com/) | [View LinkedIn](https://www.linkedin.com/company/germanbionic) | Berlin, DE | 2017 | [78](https://www.linkedin.com/company/germanbionic/people/) | 7554 | [Series A](https://www.crunchbase.com/organization/german-bionic-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
 | Studio Magazino | [Link](http://www.magazino.it) | [View LinkedIn](https://www.linkedin.com/company/magazino) | San Giovanni in Marignano, IT | 2000 | [13](https://www.linkedin.com/company/magazino/people/) | 22 | - | Graphic Design |
@@ -1628,6 +1628,7 @@ Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [C
 ### Turin - 📚 Natural Language Processing
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Algor | [Link](https://tinyurl.com/algor-li) | [View LinkedIn](https://www.linkedin.com/company/algorlab) | Turin, IT | 2021 | [19](https://www.linkedin.com/company/algorlab/people/) | 2297 | [Seed](https://www.crunchbase.com/organization/algor-lab?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | EURIX Group | [Link](http://www.eurix.de) | [View LinkedIn](https://www.linkedin.com/company/eurix-group) | Berlin, DE | 1996 | [3](https://www.linkedin.com/company/eurix-group/people/) | 60 | - | Real Estate |
 
 ### Turin - 🤖 Robotics

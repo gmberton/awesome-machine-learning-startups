@@ -3,7 +3,7 @@ List of startups doing AI &amp; ML. Built automatically, hence unreliable. Inspi
 
 Fields: 👁 Computer Vision, 📚 Natural Language Processing, 🤖 Robotics, 💉 Medicine, 🚗 Self-Driving Cars, 🗣 Voice & Sound, 🤖 Chatbots & Customer Service, 🧾 Document Processing, 🔎 Search & Recommendation, 🔬 Science & Engineering, 💰 Business, 👔 Consulting, 🚀 Other 
 
-Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [Copenhagen](#copenhagen), [Eindhoven](#eindhoven), [Gurgaon](#gurgaon), [Hyderabad](#hyderabad), [Lausanne](#lausanne), [London](#london), [Madrid](#madrid), [Milan](#milan), [Mumbai](#mumbai), [Paris](#paris), [Pune](#pune), [Rotterdam](#rotterdam), [Taichung](#taichung), [Taipei](#taipei), [Turin](#turin), [Zurich](#zurich)
+Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [Copenhagen](#copenhagen), [Eindhoven](#eindhoven), [Gurgaon](#gurgaon), [Hyderabad](#hyderabad), [Lausanne](#lausanne), [London](#london), [Madrid](#madrid), [Milan](#milan), [Mumbai](#mumbai), [Munich](#munich), [Paris](#paris), [Pune](#pune), [Rotterdam](#rotterdam), [Taichung](#taichung), [Taipei](#taipei), [Turin](#turin), [Vienna](#vienna), [Zurich](#zurich)
 
 ## Amsterdam
 ### Amsterdam - 👁 Computer Vision
@@ -1201,6 +1201,78 @@ Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [C
 | JET-TECH | - | [View LinkedIn](https://www.linkedin.com/company/jet-tech) | Goldfields Region, AU | 2012 | [10](https://www.linkedin.com/company/jet-tech/people/) | 30 | - | Construction |
 | Zee Tech | - | [View LinkedIn](https://www.linkedin.com/company/zee-tech) | Newfane, US | N/A | [8](https://www.linkedin.com/company/zee-tech/people/) | 12 | - | Construction |
 
+## Munich
+### Munich - 👁 Computer Vision
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Artisense (a Kudan Inc. company) | [Link](https://www.artisense.ai) | [View LinkedIn](https://www.linkedin.com/company/artisense) | Palo Alto, US | 2018 | [2](https://www.linkedin.com/company/artisense/people/) | 2461 | - | Software Development |
+| NavVis | [Link](https://navv.is/4erhH5i) | [View LinkedIn](https://www.linkedin.com/company/navvis) | München, DE | 2013 | [346](https://www.linkedin.com/company/navvis/people/) | 44300 | [Series Unknown](https://www.crunchbase.com/organization/navvis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Robco | - | [View LinkedIn](https://www.linkedin.com/company/robco) | N/A, CA | N/A | [41](https://www.linkedin.com/company/robco/people/) | 330 | - | Oil and Gas |
+
+### Munich - 📚 Natural Language Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Aleph Alpha | [Link](https://www.aleph-alpha.com/) | [View LinkedIn](https://www.linkedin.com/company/aleph-alpha) | Heidelberg, DE | 2019 | [221](https://www.linkedin.com/company/aleph-alpha/people/) | 53056 | [Secondary Market](https://www.crunchbase.com/organization/aleph-alpha?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| NavVis | [Link](https://navv.is/4erhH5i) | [View LinkedIn](https://www.linkedin.com/company/navvis) | München, DE | 2013 | [346](https://www.linkedin.com/company/navvis/people/) | 44300 | [Series Unknown](https://www.crunchbase.com/organization/navvis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Celonis | [Link](http://www.celonis.com) | [View LinkedIn](https://www.linkedin.com/company/celonis) | New York City, US | 2011 | [3396](https://www.linkedin.com/company/celonis/people/) | 252542 | [Secondary Market](https://www.crunchbase.com/organization/celonis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Personio | [Link](http://www.personio.com) | [View LinkedIn](https://www.linkedin.com/company/personio) | Munich, DE | 2015 | [2150](https://www.linkedin.com/company/personio/people/) | 153647 | [Series E](https://www.crunchbase.com/organization/personio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Munich - 🤖 Robotics
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Robco | - | [View LinkedIn](https://www.linkedin.com/company/robco) | N/A, CA | N/A | [41](https://www.linkedin.com/company/robco/people/) | 330 | - | Oil and Gas |
+
+### Munich - 💉 Medicine
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| ImFusion GmbH | [Link](http://www.imfusion.com) | [View LinkedIn](https://www.linkedin.com/company/imfusion) | München, DE | 2012 | [50](https://www.linkedin.com/company/imfusion/people/) | 2685 | - | Research Services |
+| Mint Medical | [Link](http://www.mint-medical.com) | [View LinkedIn](https://www.linkedin.com/company/mint-medical) | Heidelberg, DE | N/A | [60](https://www.linkedin.com/company/mint-medical/people/) | 5740 | - | Hospitals and Health Care |
+
+### Munich - 🚗 Self-Driving Cars
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Artisense (a Kudan Inc. company) | [Link](https://www.artisense.ai) | [View LinkedIn](https://www.linkedin.com/company/artisense) | Palo Alto, US | 2018 | [2](https://www.linkedin.com/company/artisense/people/) | 2461 | - | Software Development |
+| BLICKFELD | [Link](http://blickfeld-marketing.de) | [View LinkedIn](https://www.linkedin.com/company/blickfeld) | München, DE | 2012 | [0](https://www.linkedin.com/company/blickfeld/people/) | 49 | - | Manufacturing |
+
+### Munich - 🗣 Voice & Sound
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Scantinel Photonics | [Link](https://www.scantinel.com/) | [View LinkedIn](https://www.linkedin.com/company/scantinel) | Ulm, DE | 2019 | [67](https://www.linkedin.com/company/scantinel/people/) | 4196 | [Series A](https://www.crunchbase.com/organization/scantinel-photonics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Motor Vehicle Manufacturing |
+| Bragi | [Link](http://www.bragi.com) | [View LinkedIn](https://www.linkedin.com/company/bragi) | München, DE | 2013 | [91](https://www.linkedin.com/company/bragi/people/) | 7770 | [Series A](https://www.crunchbase.com/organization/bragi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Computers and Electronics Manufacturing |
+| KINEXON | [Link](http://www.kinexon.com) | [View LinkedIn](https://www.linkedin.com/company/kinexon) | Munich, DE | 2012 | [232](https://www.linkedin.com/company/kinexon/people/) | 16611 | [Series A](https://www.crunchbase.com/organization/kinexon?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Munich - 🧾 Document Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| IDnow | [Link](https://www.idnow.io/) | [View LinkedIn](https://www.linkedin.com/company/idnow) | Munich, DE | 2014 | [342](https://www.linkedin.com/company/idnow/people/) | 20742 | [Debt Financing](https://www.crunchbase.com/organization/idnow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Celonis | [Link](http://www.celonis.com) | [View LinkedIn](https://www.linkedin.com/company/celonis) | New York City, US | 2011 | [3396](https://www.linkedin.com/company/celonis/people/) | 252542 | [Secondary Market](https://www.crunchbase.com/organization/celonis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| riskmethods | [Link](http://bit.ly/2J4sqXA) | [View LinkedIn](https://www.linkedin.com/company/riskmethods) | München, DE | 2013 | [57](https://www.linkedin.com/company/riskmethods/people/) | 21305 | - | Software Development |
+
+### Munich - 🔎 Search & Recommendation
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Scalable Capital | [Link](http://www.scalable.capital) | [View LinkedIn](https://www.linkedin.com/company/scalable-capital) | München, DE | 2014 | [668](https://www.linkedin.com/company/scalable-capital/people/) | 62100 | [Series E](https://www.crunchbase.com/organization/scalable-capital?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
+
+### Munich - 💰 Business
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Celonis | [Link](http://www.celonis.com) | [View LinkedIn](https://www.linkedin.com/company/celonis) | New York City, US | 2011 | [3396](https://www.linkedin.com/company/celonis/people/) | 252542 | [Secondary Market](https://www.crunchbase.com/organization/celonis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Personio | [Link](http://www.personio.com) | [View LinkedIn](https://www.linkedin.com/company/personio) | Munich, DE | 2015 | [2150](https://www.linkedin.com/company/personio/people/) | 153647 | [Series E](https://www.crunchbase.com/organization/personio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Scalable Capital | [Link](http://www.scalable.capital) | [View LinkedIn](https://www.linkedin.com/company/scalable-capital) | München, DE | 2014 | [668](https://www.linkedin.com/company/scalable-capital/people/) | 62100 | [Series E](https://www.crunchbase.com/organization/scalable-capital?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
+| TWAICE | [Link](http://www.twaice.com) | [View LinkedIn](https://www.linkedin.com/company/twaice) | Munich, DE | N/A | [139](https://www.linkedin.com/company/twaice/people/) | 14178 | [Series A](https://www.crunchbase.com/organization/twaice?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Munich - 👔 Consulting
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| inovex GmbH | [Link](https://www.inovex.de/de) | [View LinkedIn](https://www.linkedin.com/company/inovex) | Karlsruhe, DE | 1999 | [366](https://www.linkedin.com/company/inovex/people/) | 6115 | - | Software Development |
+
+### Munich - 🚀 Other
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| BMW | [Link](http://www.bmw.com) | [View LinkedIn](https://www.linkedin.com/showcase/bmw/) | München, DE | 1916 | [1](https://www.linkedin.com/company/bmw/people/) | 179014 | - | Motor Vehicle Manufacturing |
+| Siemens | [Link](http://www.siemens.com) | [View LinkedIn](https://www.linkedin.com/company/siemens) | Munich, DE | 1847 | [224738](https://www.linkedin.com/company/siemens/people/) | 7328047 | [Grant](https://www.crunchbase.com/organization/siemens?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
+| MAN.Digital | [Link](https://hubs.ly/H0LKZdl0) | [View LinkedIn](https://www.linkedin.com/company/man-digital) | Krakow, PL | 2016 | [12](https://www.linkedin.com/company/man-digital/people/) | 1547 | - | Software Development |
+
 ## Paris
 ### Paris - 👁 Computer Vision
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
@@ -1683,6 +1755,76 @@ Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [C
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
 | Deltatre | [Link](http://www.deltatre.com) | [View LinkedIn](https://www.linkedin.com/company/deltatre) | Torino, IT | 1986 | [884](https://www.linkedin.com/company/deltatre/people/) | 31959 | - | Software Development |
+
+## Vienna
+### Vienna - 👁 Computer Vision
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| contextflow | [Link](http://contextflow.com) | [View LinkedIn](https://www.linkedin.com/company/contextflow) | Vienna, AT | 2016 | [35](https://www.linkedin.com/company/contextflow/people/) | 7435 | [Series A](https://www.crunchbase.com/organization/contextflow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Anyline | [Link](http://www.anyline.com?utm_medium=social&utm_source=linkedin&utm_campaign=cta) | [View LinkedIn](https://www.linkedin.com/company/anyline) | Vienna, AT | 2013 | [251](https://www.linkedin.com/company/anyline/people/) | 7819 | [Series B](https://www.crunchbase.com/organization/anyline?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Vienna - 📚 Natural Language Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Cortical.io | [Link](https://cortical.io) | [View LinkedIn](https://www.linkedin.com/company/cortical-io) | Vienna, AT | 2011 | [31](https://www.linkedin.com/company/cortical-io/people/) | 6487 | [Series A](https://www.crunchbase.com/organization/cept-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Deep Opinion - Groupe Ifop | [Link](http://deepopinion.fr) | [View LinkedIn](https://www.linkedin.com/company/deepopinion) | Paris, FR | N/A | [5](https://www.linkedin.com/company/deepopinion/people/) | 175 | - | Public Relations and Communications Services |
+| Anyline | [Link](http://www.anyline.com?utm_medium=social&utm_source=linkedin&utm_campaign=cta) | [View LinkedIn](https://www.linkedin.com/company/anyline) | Vienna, AT | 2013 | [251](https://www.linkedin.com/company/anyline/people/) | 7819 | [Series B](https://www.crunchbase.com/organization/anyline?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| WordLift | [Link](https://wordlift.io/enterprise-seo-platform/) | [View LinkedIn](https://www.linkedin.com/company/wordlift) | Roma, IT | 2017 | [34](https://www.linkedin.com/company/wordlift/people/) | 3625 | [Seed](https://www.crunchbase.com/organization/wordlift?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Vienna - 🤖 Robotics
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| AIRSKIN | [Link](https://www.airskin.io/) | [View LinkedIn](https://www.linkedin.com/company/airskin-by-blue-danube-robotics) | Vienna, AT | 2013 | [29](https://www.linkedin.com/company/blue-danube-robotics/people/) | 6244 | [Series A](https://www.crunchbase.com/organization/blue-danube-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Automation Machinery Manufacturing |
+| Robo Wunderkind | [Link](https://www.robowunderkind.com) | [View LinkedIn](https://www.linkedin.com/company/robowunderkind) | Washington , US | 2015 | [18](https://www.linkedin.com/company/robowunderkind/people/) | 2912 | - | E-Learning Providers |
+
+### Vienna - 💉 Medicine
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| contextflow | [Link](http://contextflow.com) | [View LinkedIn](https://www.linkedin.com/company/contextflow) | Vienna, AT | 2016 | [35](https://www.linkedin.com/company/contextflow/people/) | 7435 | [Series A](https://www.crunchbase.com/organization/contextflow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Symptoma | [Link](https://www.symptoma.com) | [View LinkedIn](https://www.linkedin.com/company/symptoma) | Attersee, AT | 2006 | [12](https://www.linkedin.com/company/symptoma/people/) | 2490 | - | Hospitals and Health Care |
+| Diagnosia | [Link](http://www.diagnosia.com) | [View LinkedIn](https://www.linkedin.com/company/diagnosia) | Wien, AT | 2011 | [1](https://www.linkedin.com/company/diagnosia/people/) | 1216 | - | Software Development |
+
+### Vienna - 🚗 Self-Driving Cars
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| TTTech Auto | [Link](https://www.tttech-auto.com/) | [View LinkedIn](https://www.linkedin.com/company/tttech-auto) | Vienna, AT | 2018 | [1157](https://www.linkedin.com/company/tttech-auto/people/) | 48247 | [Corporate Round](https://www.crunchbase.com/organization/tttech-auto?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+
+### Vienna - 🗣 Voice & Sound
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| MELODIA | - | [View LinkedIn](https://www.linkedin.com/company/melodia) | West Hollywood, US | N/A | [185](https://www.linkedin.com/company/melodia/people/) | 31 | - | N/A |
+| contextflow | [Link](http://contextflow.com) | [View LinkedIn](https://www.linkedin.com/company/contextflow) | Vienna, AT | 2016 | [35](https://www.linkedin.com/company/contextflow/people/) | 7435 | [Series A](https://www.crunchbase.com/organization/contextflow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| ONDEWO | [Link](https://www.ondewo.com) | [View LinkedIn](https://www.linkedin.com/company/ondewo) | Vienna, AT | 2017 | [8](https://www.linkedin.com/company/ondewo/people/) | 1281 | [Non Equity Assistance](https://www.crunchbase.com/organization/ondewo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Outsourcing and Offshoring Consulting |
+
+### Vienna - 🤖 Chatbots & Customer Service
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| ONDEWO | [Link](https://www.ondewo.com) | [View LinkedIn](https://www.linkedin.com/company/ondewo) | Vienna, AT | 2017 | [8](https://www.linkedin.com/company/ondewo/people/) | 1281 | [Non Equity Assistance](https://www.crunchbase.com/organization/ondewo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Outsourcing and Offshoring Consulting |
+
+### Vienna - 🧾 Document Processing
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Ikarus | [Link](http://ikarus.ai/) | [View LinkedIn](https://www.linkedin.com/company/ikarus) | Gurgaon, IN | 2016 | [2](https://www.linkedin.com/company/ikarus/people/) | 568 | [Seed](https://www.crunchbase.com/organization/ikarus?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
+| Cortical.io | [Link](https://cortical.io) | [View LinkedIn](https://www.linkedin.com/company/cortical-io) | Vienna, AT | 2011 | [31](https://www.linkedin.com/company/cortical-io/people/) | 6487 | [Series A](https://www.crunchbase.com/organization/cept-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Anyline | [Link](http://www.anyline.com?utm_medium=social&utm_source=linkedin&utm_campaign=cta) | [View LinkedIn](https://www.linkedin.com/company/anyline) | Vienna, AT | 2013 | [251](https://www.linkedin.com/company/anyline/people/) | 7819 | [Series B](https://www.crunchbase.com/organization/anyline?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+
+### Vienna - 🔎 Search & Recommendation
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| sclable | [Link](https://sclable.com) | [View LinkedIn](https://www.linkedin.com/company/sclable) | Vienna, AT | 2012 | [35](https://www.linkedin.com/company/sclable/people/) | 1790 | - | IT Services and IT Consulting |
+
+### Vienna - 💰 Business
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Playbrush GmbH | [Link](http://www.playbrush.com) | [View LinkedIn](https://www.linkedin.com/company/playbrush) | Wien, AT | 2014 | [29](https://www.linkedin.com/company/playbrush/people/) | 1462 | [Non Equity Assistance](https://www.crunchbase.com/organization/playbrush?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Wellness and Fitness Services |
+| kompany, a Moody's Analytics Company | [Link](https://www.kompany.com/) | [View LinkedIn](https://www.linkedin.com/company/kompany) | Wien, AT | N/A | [61](https://www.linkedin.com/company/kompany/people/) | 3731 | [Series Unknown](https://www.crunchbase.com/organization/kompany?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
+| Bitpanda | [Link](https://www.bitpanda.com) | [View LinkedIn](https://www.linkedin.com/company/bitpanda) | Vienna, AT | 2014 | [689](https://www.linkedin.com/company/bitpanda/people/) | 63263 | [Series C](https://www.crunchbase.com/organization/bitpanda?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Financial Services |
+
+### Vienna - 👔 Consulting
+| Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
+|----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| DataHolics | [Link](https://dataholics.es) | [View LinkedIn](https://www.linkedin.com/company/dataholics) | N/A, N/A | 2016 | [0](https://www.linkedin.com/company/dataholics/people/) | 16 | - | Advertising Services |
+| Blue Minds | [Link](http://www.blueminds.be) | [View LinkedIn](https://www.linkedin.com/company/blue-minds) | N/A, N/A | 2003 | [3](https://www.linkedin.com/company/blue-minds/people/) | 37 | - | IT Services and IT Consulting |
 
 ## Zurich
 ### Zurich - 👁 Computer Vision

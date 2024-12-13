@@ -217,6 +217,7 @@ Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [C
 ### Berlin - 👁 Computer Vision
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |
 |----|-------|------------|------------|-------|---------|---------|-------------|--------|
+| Pupil Labs | [Link](https://pupil-labs.com) | [View LinkedIn](https://www.linkedin.com/company/pupil-labs) | Berlin, DE | 2014 | [26](https://www.linkedin.com/company/pupil-labs/people/) | 1404 | - | Research Services |
 | Mobius Labs | [Link](https://mobiuslabs.com/) | [View LinkedIn](https://www.linkedin.com/company/mobiuslabs) | Berlin, DE | 2018 | [18](https://www.linkedin.com/company/mobiuslabs/people/) | 4966 | [Series A](https://www.crunchbase.com/organization/mobius-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | IT Services and IT Consulting |
 | EyeEm | [Link](https://www.eyeem.com) | [View LinkedIn](https://www.linkedin.com/company/eyeem) | Berlin, DE | N/A | [140](https://www.linkedin.com/company/eyeem/people/) | 16970 | [Private Equity](https://www.crunchbase.com/organization/eyeem?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Photography |
 | nyris GmbH | [Link](https://nyris.io) | [View LinkedIn](https://www.linkedin.com/company/nyris) | Berlin, DE | 2015 | [37](https://www.linkedin.com/company/nyris/people/) | 4357 | - | Software Development |

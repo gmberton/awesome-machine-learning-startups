@@ -1075,6 +1075,8 @@ Jump to: [Amsterdam](#amsterdam), [Bangalore](#bangalore), [Berlin](#berlin), [C
 | Bending Spoons | [Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio) | [View LinkedIn](https://www.linkedin.com/company/bendingspoons) | Milan, IT | 2013 | [516](https://www.linkedin.com/company/bending-spoons/people/) | 199666 | [Series Unknown](https://www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Software Development |
 | Musixmatch | [Link](http://about.musixmatch.com) | [View LinkedIn](https://www.linkedin.com/company/musixmatch) | Bologna, IT | 2010 | [396](https://www.linkedin.com/company/musixmatch/people/) | 18324 | [Private Equity](https://www.crunchbase.com/organization/musixmatch?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta) | Entertainment Providers |
 | Nextage | - | [View LinkedIn](https://www.linkedin.com/company/nextage) | N/A, N/A | N/A | [63](https://www.linkedin.com/company/nextage/people/) | 87 | - | Design Services |
+| Lumigo | [Link](https://lumigo.tv)  | [View LinkedIn](https://www.linkedin.com/company/lumigoai) | Milan, IT| 2025 | N/A | N/A | N/A | AI Movies Reccomendation Engine |
+
 
 ### Milan - 🔬 Science & Engineering
 | Name | Website | LinkedIn URL | Headquarters | Founded | Employees | Followers | Funding Round | Industry |

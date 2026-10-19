@@ -262,6 +262,7 @@ Jump to: [Amsterdam](#amsterdam), [Austin](#austin), [Bangalore](#bangalore), [B
 |ThoughtSpot|[Link](https://www.thoughtspot.com)|[Link](https://www.linkedin.com/company/thoughtspot)|N/A|[1693](https://www.linkedin.com/company/thoughtspot/people/)|177k|[Secondary Market](//www.crunchbase.com/organization/thoughtspot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
 |Flipkart|[Link](http://www.flipkartcareers.com/)|[Link](https://www.linkedin.com/company/flipkart)|2007|[87530](https://www.linkedin.com/company/flipkart/people/)|5628k|[Corporate Round](//www.crunchbase.com/organization/flipkart?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
 |swiggy|-|[Link](https://www.linkedin.com/company/swiggy)|N/A|[641](https://www.linkedin.com/company/swiggy/people/)|2k|-|N/A|
+|Pulse|[Link](https://pulsecorp.co)|[Link](https://www.linkedin.com/company/pulsecorpco)|2026|N/A|N/A|-|Software Development|
 
 ### Bangalore - 👔 Consulting
 |Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|

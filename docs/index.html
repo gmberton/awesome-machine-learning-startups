@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Awesome Machine Learning Startups</title>
+<meta name="description" content="A world map of startups doing AI and machine learning, with filters by city, field, size and founding year.">
+<meta property="og:title" content="Awesome Machine Learning Startups">
+<meta property="og:description" content="A world map of startups doing AI and machine learning, with filters by city, field, size and founding year.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://gmberton.github.io/awesome-machine-learning-startups/">
+<meta property="og:image" content="https://gmberton.github.io/awesome-machine-learning-startups/preview.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b1122">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230b1122'/%3E%3Ccircle cx='16' cy='16' r='8' fill='%234f9cff'/%3E%3Ccircle cx='16' cy='16' r='3' fill='%230b1122'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <div>
+      <h1>Awesome Machine Learning Startups</h1>
+      <p class="lede" id="lede"></p>
+    </div>
+    <nav class="links" aria-label="Project links">
+      <a class="button glass" href="https://github.com/gmberton/awesome-machine-learning-startups">GitHub</a>
+      <a class="button glass" href="https://github.com/gmberton/awesome-machine-learning-startups/issues/new">Suggest a startup</a>
+    </nav>
+  </div>
+</header>
+
+<div class="app wrap">
+  <aside class="side" aria-label="Map and filters">
+    <section class="map-section" id="map-section" aria-label="Map">
+      <div class="map" id="map">
+        <svg id="map-svg" role="img" aria-label="World map with one circle per city, sized by the number of startups"></svg>
+        <div class="map-tip" id="map-tip" hidden></div>
+        <div class="map-buttons">
+          <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
+          <button type="button" id="zoom-out" aria-label="Zoom out">−</button>
+          <button type="button" id="zoom-reset" aria-label="Show the whole world">
+            <svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><circle cx="10" cy="10" r="7" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M3 10h14M10 3c-2.5 2-2.5 12 0 14M10 3c2.5 2 2.5 12 0 14" fill="none" stroke="currentColor" stroke-width="1.3"/></svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section class="filters" id="filters" aria-label="Filters">
+      <div class="filter-row">
+        <label class="search">
+          <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M13 13l4.5 4.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <input id="q" type="search" placeholder="Search name, specialty, city…" autocomplete="off" spellcheck="false" aria-label="Search startups">
+          <kbd aria-hidden="true">/</kbd>
+        </label>
+        <div class="picker" id="picker">
+          <button type="button" class="picker-button" id="place" aria-expanded="false" aria-controls="picker-panel"><span id="place-label">All cities</span></button>
+          <div class="picker-panel" id="picker-panel" hidden>
+            <label class="picker-search">
+              <svg viewBox="0 0 20 20" width="14" height="14" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M13 13l4.5 4.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+              <input id="place-q" type="search" placeholder="Find a city or country…" autocomplete="off" spellcheck="false" aria-label="Find a city or country">
+            </label>
+            <div class="picker-list" id="picker-list" role="group" aria-label="Cities"></div>
+            <div class="picker-foot">
+              <button type="button" class="picker-clear" id="place-clear">Clear</button>
+              <button type="button" class="picker-done" id="place-done">Done</button>
+            </div>
+          </div>
+        </div>
+        <select id="size" aria-label="Number of employees"></select>
+        <select id="founded" aria-label="Year founded"></select>
+        <label class="toggle" title="Also count a startup in every city where LinkedIn lists one of its offices, not only where its headquarters is">
+          <input type="checkbox" id="offices">
+          <span class="switch" aria-hidden="true"></span>
+          <span>Include offices</span>
+        </label>
+        <button type="button" class="button glass reset" id="reset" disabled>Reset</button>
+      </div>
+      <div class="chips" id="fields" role="group" aria-label="Fields"></div>
+    </section>
+  </aside>
+
+  <main>
+    <section class="results" id="results" aria-label="Startups">
+      <div class="results-head">
+        <p class="count" id="count" aria-live="polite"></p>
+        <div class="active" id="active"></div>
+        <label class="sort">Sort by <select id="sort"></select></label>
+      </div>
+      <div class="table">
+        <ol class="rows" id="rows"></ol>
+      </div>
+      <div class="empty" id="empty" hidden>
+        <p>No startup matches these filters.</p>
+        <button type="button" class="button" id="clear-empty">Clear all filters</button>
+      </div>
+      <div class="more" id="more"><button type="button" class="button" id="more-button">Show more</button></div>
+    </section>
+  </main>
+</div>
+
+<footer class="foot wrap">
+  <p>Built automatically from public LinkedIn company pages, so expect some errors. A startup here is an independent private company founded in <span id="first-year"></span> or later (when LinkedIn gives a year), with at most <span id="max-employees"></span> employees and at least <span id="min-followers"></span> followers on LinkedIn. Each one is listed under one city, usually its headquarters. Employees are the LinkedIn members who list the company. Updated <span id="updated"></span>.</p>
+  <p>Inspired by <a href="https://github.com/jrieke/awesome-machine-learning-startups-berlin">awesome-machine-learning-startups-berlin</a>. Map data: <a href="https://www.naturalearthdata.com/">Natural Earth</a>.</p>
+</footer>
+
+<script src="vendor/d3.min.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script src="vendor/world.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

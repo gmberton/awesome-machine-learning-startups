@@ -1,3111 +1,4977 @@
 # awesome-machine-learning-startups
-List of 2330 startups doing AI &amp; ML across 36 cities. Built automatically, hence unreliable. Not vibe-coded. Inspired by [this](https://github.com/jrieke/awesome-machine-learning-startups-berlin). 
+**[See them on a world map, with filters](https://gmberton.github.io/awesome-machine-learning-startups/)**
 
-Fields: 👁 Computer Vision, 📚 Natural Language Processing, 🤖 Robotics, 💉 Medicine, 🚗 Self-Driving Cars, 🗣 Voice & Sound, 🤖 Chatbots & Customer Service, 🧾 Document Processing, 🔎 Search & Recommendation, 🔬 Science & Engineering, 💰 Business, 👔 Consulting, 🚀 Other 
+List of 2.2k startups doing AI &amp; ML across 98 cities: independent private companies founded in 2000 or later (when LinkedIn gives a year), with at most 20k employees and at least 1k followers on LinkedIn. Built automatically, hence unreliable. Inspired by [this](https://github.com/jrieke/awesome-machine-learning-startups-berlin). 
 
-Jump to: [Amsterdam](#amsterdam), [Austin](#austin), [Bangalore](#bangalore), [Barcelona](#barcelona), [Beijing](#beijing), [Berlin](#berlin), [Boston](#boston), [Chicago](#chicago), [Copenhagen](#copenhagen), [Dublin](#dublin), [Gurgaon](#gurgaon), [Hyderabad](#hyderabad), [London](#london), [Los-angeles](#los-angeles), [Madrid](#madrid), [Milan](#milan), [Mumbai](#mumbai), [Munich](#munich), [New-york](#new-york), [Palo-alto](#palo-alto), [Paris](#paris), [Pune](#pune), [San-francisco](#san-francisco), [Seattle](#seattle), [Seoul](#seoul), [Shanghai](#shanghai), [Shenzhen](#shenzhen), [Singapore](#singapore), [Stockholm](#stockholm), [Sydney](#sydney), [Taichung](#taichung), [Taipei](#taipei), [Tokyo](#tokyo), [Toronto](#toronto), [Vienna](#vienna), [Zurich](#zurich)
+Missing a startup? [Open an issue](https://github.com/gmberton/awesome-machine-learning-startups/issues/new) with its LinkedIn page. This file is generated, so edits to it get overwritten. 
+
+Fields: 👁️ Computer Vision, 📚 Natural Language Processing, 🤖 Robotics, 💉 Medicine, 🚗 Self-Driving Cars, 🗣️ Voice & Sound, 💬 Chatbots & Customer Service, 🧾 Document Processing, 🔎 Search & Recommendation, 🔬 Science & Engineering, 💰 Business, 👔 Consulting, 🧠 AI Infrastructure, 🚀 Other 
+
+Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [Atlanta](#atlanta), [Auckland](#auckland), [Austin](#austin), [Bangalore](#bangalore), [Bangkok](#bangkok), [Barcelona](#barcelona), [Beijing](#beijing), [Berlin](#berlin), [Bogotá](#bogotá), [Boston](#boston), [Brussels](#brussels), [Bucharest](#bucharest), [Budapest](#budapest), [Buenos Aires](#buenos-aires), [Cairo](#cairo), [Cambridge UK](#cambridge-uk), [Cape Town](#cape-town), [Chennai](#chennai), [Chicago](#chicago), [Copenhagen](#copenhagen), [Dallas](#dallas), [Delhi NCR](#delhi-ncr), [Denver](#denver), [Dubai](#dubai), [Dublin](#dublin), [Edinburgh](#edinburgh), [Eindhoven](#eindhoven), [Geneva](#geneva), [Hamburg](#hamburg), [Hangzhou](#hangzhou), [Helsinki](#helsinki), [Ho Chi Minh City](#ho-chi-minh-city), [Hong Kong](#hong-kong), [Houston](#houston), [Hyderabad](#hyderabad), [Istanbul](#istanbul), [Jakarta](#jakarta), [Kraków](#kraków), [Kuala Lumpur](#kuala-lumpur), [Kyiv](#kyiv), [Lagos](#lagos), [Lausanne](#lausanne), [Lisbon](#lisbon), [London](#london), [Los Angeles](#los-angeles), [Madrid](#madrid), [Manchester](#manchester), [Manila](#manila), [Melbourne](#melbourne), [Mexico City](#mexico-city), [Miami](#miami), [Milan](#milan), [Montreal](#montreal), [Mumbai](#mumbai), [Munich](#munich), [Nairobi](#nairobi), [New York](#new-york), [Oslo](#oslo), [Oxford](#oxford), [Palo Alto](#palo-alto), [Paris](#paris), [Philadelphia](#philadelphia), [Pittsburgh](#pittsburgh), [Prague](#prague), [Pune](#pune), [Raleigh-Durham](#raleigh-durham), [Riyadh](#riyadh), [Rome](#rome), [Rotterdam](#rotterdam), [Salt Lake City](#salt-lake-city), [San Diego](#san-diego), [San Francisco](#san-francisco), [Santiago](#santiago), [São Paulo](#são-paulo), [Seattle](#seattle), [Seoul](#seoul), [Shanghai](#shanghai), [Shenzhen](#shenzhen), [Singapore](#singapore), [Sofia](#sofia), [Stockholm](#stockholm), [Sydney](#sydney), [Taipei](#taipei), [Tallinn](#tallinn), [Tel Aviv](#tel-aviv), [Tokyo](#tokyo), [Toronto](#toronto), [Turin](#turin), [Vancouver](#vancouver), [Vienna](#vienna), [Vilnius](#vilnius), [Warsaw](#warsaw), [Washington DC](#washington-dc), [Waterloo](#waterloo), [Zurich](#zurich)
+
+## Abu Dhabi
+### Abu Dhabi - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Synapse Analytics](https://synapse-analytics.io)|[Link](https://linkedin.com/company/synapse-analytics)|2018|82|47k|Software Development|
+
+### Abu Dhabi - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[G42](https://www.g42.ai)|[Link](https://linkedin.com/company/g42ai)|N/A|6.2k|339k|IT Services and IT Consulting|
+|[ai71](https://ai71.ai/)|[Link](https://linkedin.com/company/ai71official)|2023|211|118k|Software Development|
 
 ## Amsterdam
-### Amsterdam - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Braincreators|[Link](https://www.braincreators.com/)|[Link](https://www.linkedin.com/company/braincreators)|2016|[28](https://www.linkedin.com/company/braincreators/people/)|4k|[Grant](//www.crunchbase.com/organization/braincreators?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|3DUniversum|[Link](http://3duniversum.com/)|[Link](https://www.linkedin.com/company/3duniversum)|N/A|[30](https://www.linkedin.com/company/3duniversum/people/)|1k|[Pre Seed](//www.crunchbase.com/organization/3duniversum?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Amsterdam - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AvidBeam Technologies](http://www.avidbeam.com)|[Link](https://linkedin.com/company/avidbeam)|2014|44|13k|IT Services and IT Consulting|
+|[Braincreators](https://www.braincreators.com/)|[Link](https://linkedin.com/company/braincreators)|2016|27|5k|Software Development|
+|[Kepler Vision Technologies](http://www.keplervision.eu)|[Link](https://linkedin.com/company/kepler-vision-technologies)|2018|22|4.1k|Software Development|
+|[Sensity AI](https://www.sensity.ai)|[Link](https://linkedin.com/company/sensityai)|2018|23|3.6k|Software Development|
+|[3DUniversum](http://3duniversum.com/)|[Link](https://linkedin.com/company/3duniversum)|N/A|25|1.4k|Software Development|
 
 ### Amsterdam - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Textkernel by Bullhorn|[Link](http://www.textkernel.com/contact)|[Link](https://www.linkedin.com/company/textkernel)|N/A|[88](https://www.linkedin.com/company/textkernel/people/)|12k|-|Software Development|
-|Roseman Labs|[Link](https://rosemanlabs.com/en/)|[Link](https://www.linkedin.com/company/rosemanlabs)|2020|[39](https://www.linkedin.com/company/roseman-labs/people/)|4k|[Series A](//www.crunchbase.com/organization/roseman-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|orq.ai|[Link](https://orq.ai)|[Link](https://www.linkedin.com/company/orqai)|2022|[27](https://www.linkedin.com/company/orqai/people/)|6k|[Pre Seed](//www.crunchbase.com/organization/orqai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|LangWatch|[Link](https://langwatch.ai/)|[Link](https://www.linkedin.com/company/langwatch)|2023|[10](https://www.linkedin.com/company/langwatch/people/)|2k|[Pre Seed](//www.crunchbase.com/organization/langwatch?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Roseman Labs](https://rosemanlabs.com/en/)|[Link](https://linkedin.com/company/rosemanlabs)|2020|36|5.3k|IT Services and IT Consulting|
+|[LangWatch](https://langwatch.ai/)|[Link](https://linkedin.com/company/langwatch)|2023|10|3.8k|Software Development|
 
 ### Amsterdam - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Smart Robotics|[Link](http://www.smart-robotics.io)|[Link](https://www.linkedin.com/company/smart-robotics)|2015|[52](https://www.linkedin.com/company/smart-robotics/people/)|9k|[Series B](//www.crunchbase.com/organization/smart-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|RoboHouse|[Link](https://robohouse.nl/)|[Link](https://www.linkedin.com/company/robohousedelft)|2018|[29](https://www.linkedin.com/company/robohouse/people/)|4k|-|Research Services|
-|MX3D|[Link](http://www.mx3d.com)|[Link](https://www.linkedin.com/company/mx3d)|2014|[51](https://www.linkedin.com/company/mx3d/people/)|19k|-|Industrial Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[MX3D](http://www.mx3d.com)|[Link](https://linkedin.com/company/mx3d)|2014|56|22k|Industrial Machinery Manufacturing|
 
 ### Amsterdam - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Aidence|[Link](https://www.aidence.com)|[Link](https://www.linkedin.com/company/aidence)|2015|[16](https://www.linkedin.com/company/aidence/people/)|7k|[Series A](//www.crunchbase.com/organization/aidence?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|Pacmed|[Link](http://www.pacmed.ai)|[Link](https://www.linkedin.com/company/pacmed)|2015|[45](https://www.linkedin.com/company/pacmed/people/)|6k|-|IT Services and IT Consulting|
-|Thirona|[Link](https://thirona.eu?utm_source=LinkedIn&utm_medium=Button&utm_campaign=LinkeIn+Button)|[Link](https://www.linkedin.com/company/thirona)|2014|[92](https://www.linkedin.com/company/thirona/people/)|8k|[Series B](//www.crunchbase.com/organization/thirona?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Quantib|[Link](https://quantib.com)|[Link](https://www.linkedin.com/company/quantib)|2012|[6](https://www.linkedin.com/company/quantib/people/)|6k|-|Medical Equipment Manufacturing|
-|HAL24K|[Link](http://hal24k.com)|[Link](https://www.linkedin.com/company/hal24k)|2014|[11](https://www.linkedin.com/company/hal24k/people/)|1k|[Seed](//www.crunchbase.com/organization/hal24k?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Orikami|[Link](http://www.orikami.ai)|[Link](https://www.linkedin.com/company/orikami)|2011|[14](https://www.linkedin.com/company/orikami/people/)|1k|-|Hospitals and Health Care|
-|Healthplus.ai|[Link](http://www.healthplus.ai)|[Link](https://www.linkedin.com/company/healthplus-ai)|2017|[14](https://www.linkedin.com/company/healthplus-ai/people/)|2k|[Seed](//www.crunchbase.com/organization/healthplus-ai-b-v?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Lapsi Health|[Link](https://lapsihealth.com/)|[Link](https://www.linkedin.com/company/lapsihealth)|2021|[25](https://www.linkedin.com/company/lapsihealth/people/)|6k|[Undisclosed](//www.crunchbase.com/organization/lapsi-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Thirona](http://www.thirona.eu)|[Link](https://linkedin.com/company/thirona)|2014|83|9.3k|Hospitals and Health Care|
+|[Lapsi Health](https://www.keikku.health/)|[Link](https://linkedin.com/company/lapsihealth)|2021|29|8.8k|Hospitals and Health Care|
+|[Pacmed](https://pacmed.ai/)|[Link](https://linkedin.com/company/pacmed)|2015|40|7.3k|IT Services and IT Consulting|
+|[Healthplus.ai](http://www.healthplus.ai)|[Link](https://linkedin.com/company/healthplus-ai)|2017|18|3.7k|Software Development|
+|[HAL24K](http://hal24k.com)|[Link](https://linkedin.com/company/hal24k)|2014|12|1.9k|IT Services and IT Consulting|
+|[Orikami](http://www.orikami.ai)|[Link](https://linkedin.com/company/orikami)|2011|18|1.6k|Hospitals and Health Care|
 
-### Amsterdam - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Wonderkind|[Link](https://wonderkind.com)|[Link](https://www.linkedin.com/company/wonderkind)|2016|[43](https://www.linkedin.com/company/wonderkind/people/)|6k|[Series A](//www.crunchbase.com/organization/wonderkindtechnologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Amsterdam - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Wonderkind](https://wonderkind.com)|[Link](https://linkedin.com/company/wonderkind)|2016|35|6.9k|Software Development|
 
-### Amsterdam - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DCCC|[Link](https://dccc.org)|[Link](https://www.linkedin.com/company/dccc)|1866|[425](https://www.linkedin.com/company/dccc/people/)|16k|-|Political Organizations|
-|Trengo|[Link](https://trengo.com/?utm_source=linkedin&utm_medium=organicsocial&utm_campaign=linkedin_page_website_button)|[Link](https://www.linkedin.com/company/trengo)|2017|[97](https://www.linkedin.com/company/trengo/people/)|8k|[Series A](//www.crunchbase.com/organization/trengo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Amsterdam - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bird](http://www.bird.com)|[Link](https://linkedin.com/company/birdhq)|N/A|302|73k|Software Development|
+|[Wonderful](https://wonderful.ai/)|[Link](https://linkedin.com/company/wonderfulai)|2025|790|70k|Software Development|
 
 ### Amsterdam - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Hyarchis|[Link](http://www.hyarchis.com)|[Link](https://www.linkedin.com/company/hyarchis)|1999|[44](https://www.linkedin.com/company/hyarchis/people/)|2k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DataSnipper](https://www.datasnipper.com/)|[Link](https://linkedin.com/company/datasnipper)|2017|284|76k|Software Development|
 
 ### Amsterdam - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Crobox|[Link](http://crobox.com)|[Link](https://www.linkedin.com/company/crobox)|2015|[22](https://www.linkedin.com/company/crobox/people/)|1k|[Seed](//www.crunchbase.com/organization/sagent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Relay42 by Supermetrics|[Link](https://relay42.com/)|[Link](https://www.linkedin.com/company/relay42)|2010|[41](https://www.linkedin.com/company/relay42/people/)|6k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Zeta Alpha](http://www.zeta-alpha.com/)|[Link](https://linkedin.com/company/zeta-alpha-vector)|2019|25|2.8k|IT Services and IT Consulting|
+|[Crobox](http://www.crobox.com)|[Link](https://linkedin.com/company/crobox)|2015|22|2.3k|Software Development|
 
 ### Amsterdam - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SciSports|[Link](https://www.scisports.com)|[Link](https://www.linkedin.com/company/scisports)|2013|[27](https://www.linkedin.com/company/scisports/people/)|15k|[Series Unknown](//www.crunchbase.com/organization/scisports?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Spectator Sports|
-|Xomnia|[Link](https://www.xomnia.com/)|[Link](https://www.linkedin.com/company/xomnia)|2013|[86](https://www.linkedin.com/company/xomnia/people/)|9k|-|IT Services and IT Consulting|
-|Weaviate|[Link](https://weaviate.io)|[Link](https://www.linkedin.com/company/weaviate-io)|2019|[90](https://www.linkedin.com/company/semi-technologies/people/)|51k|[Series B](//www.crunchbase.com/organization/weaviate?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cradle](http://www.cradle.bio)|[Link](https://linkedin.com/company/cradlebio)|2021|136|34k|Biotechnology Research|
+|[Dayrize](https://www.dayrize.io)|[Link](https://linkedin.com/company/dayrize)|2020|9|6.3k|Software Development|
 
 ### Amsterdam - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Adyen|[Link](https://www.adyen.com/?utm_medium=Social&utm_source=LinkedIn&utm_campaign=LinkedIn%20-%20Global%20-%202019&utm_content=organic&utm_term=page)|[Link](https://www.linkedin.com/company/adyen)|2006|[5325](https://www.linkedin.com/company/adyen/people/)|360k|[Series Unknown](//www.crunchbase.com/organization/adyen?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Mollie|[Link](https://www.mollie.com/)|[Link](https://www.linkedin.com/company/mollie)|N/A|[1103](https://www.linkedin.com/company/mollie/people/)|103k|[Series C](//www.crunchbase.com/organization/mollie?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|WeTransfer|[Link](http://wetransfer.com/about)|[Link](https://www.linkedin.com/company/wetransfer)|2009|[119](https://www.linkedin.com/company/wetransfer/people/)|41k|[Secondary Market](//www.crunchbase.com/organization/wetransfer?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Backbase|[Link](https://www.backbase.com/?utm_source=Organic_Social&utm_medium=Linkedin)|[Link](https://www.linkedin.com/company/backbase)|2003|[2168](https://www.linkedin.com/company/backbase/people/)|226k|[Debt Financing](//www.crunchbase.com/organization/backbase?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Sentinels|[Link](https://www.sentinels.gg/)|[Link](https://www.linkedin.com/company/sentinels)|2016|[154](https://www.linkedin.com/company/sentinels/people/)|5k|-|Spectator Sports|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Backbase](http://www.backbase.com)|[Link](https://linkedin.com/company/backbase)|2003|2k|251k|Financial Services|
+|[Mollie](https://www.mollie.com/)|[Link](https://linkedin.com/company/mollie)|2004|1.2k|125k|Financial Services|
+|[Mambu](https://www.mambu.com)|[Link](https://linkedin.com/company/mambu)|N/A|737|95k|Software Development|
+|[Fini](https://www.usefini.com/)|[Link](https://linkedin.com/company/usefini)|2022|111|45k|Software Development|
+|Dashmote|[Link](https://linkedin.com/company/dashmote)|2015|33|6.7k|Software Development|
 
 ### Amsterdam - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Xebia|[Link](https://xebia.com/)|[Link](https://www.linkedin.com/company/xebia)|N/A|[6111](https://www.linkedin.com/company/xebia/people/)|511k|-|IT Services and IT Consulting|
-|BigData Republic|[Link](http://www.bigdatarepublic.nl)|[Link](https://www.linkedin.com/company/bigdata-republic)|N/A|[18](https://www.linkedin.com/company/bigdata-republic/people/)|4k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Xomnia](https://www.xomnia.com)|[Link](https://linkedin.com/company/xomnia)|2013|134|11k|IT Services and IT Consulting|
+|[Digital Shapers](http://www.digitalshapers.nl)|[Link](https://linkedin.com/company/digital-shapers)|2011|7|2.2k|Business Consulting and Services|
+
+### Amsterdam - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Weaviate](https://weaviate.io)|[Link](https://linkedin.com/company/weaviate-io)|2019|71|54k|Software Development|
+|[orq.ai](https://orq.ai)|[Link](https://linkedin.com/company/orqai)|2022|31|8.1k|Software Development|
+|[Oneleet](https://www.oneleet.com/)|[Link](https://linkedin.com/company/oneleet)|2022|53|7.3k|Computer and Network Security|
 
 ### Amsterdam - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|TomTom|[Link](http://www.tomtom.com)|[Link](https://www.linkedin.com/company/tomtom)|1991|[4973](https://www.linkedin.com/company/tomtom/people/)|192k|[Post Ipo Equity](//www.crunchbase.com/organization/tomtom-international?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Ahold Delhaize|[Link](http://www.aholddelhaize.com)|[Link](https://www.linkedin.com/company/ahold-delhaize)|N/A|[81108](https://www.linkedin.com/company/ahold-delhaize/people/)|181k|[Post Ipo Debt](//www.crunchbase.com/organization/ahold?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail|
-|Nebius|[Link](https://nebius.com)|[Link](https://www.linkedin.com/company/nebius)|N/A|[876](https://www.linkedin.com/company/nebius/people/)|66k|[Debt Financing](//www.crunchbase.com/organization/nebius?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Toloka|[Link](https://toloka.ai/)|[Link](https://www.linkedin.com/company/toloka)|2014|[1054](https://www.linkedin.com/company/toloka/people/)|136k|[Series Unknown](//www.crunchbase.com/organization/toloka-5e39?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Hexagon | CALIPRI|[Link](http://www.calipri.net)|[Link](https://www.linkedin.com/company/calipri-hexagon)|N/A|[55](https://www.linkedin.com/company/next-sense/people/)|4k|-|Medical Equipment Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Framer](https://framer.link/lnkdn)|[Link](https://linkedin.com/company/framer)|N/A|775|138k|Software Development|
+
+## Athens
+### Athens - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Agroknow](http://www.agroknow.com)|[Link](https://linkedin.com/company/agroknow)|2008|14|11k|IT Services and IT Consulting|
+
+## Atlanta
+### Atlanta - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Adravision](http://www.adra.ai)|[Link](https://linkedin.com/company/adra-ai)|N/A|9|1.6k|Hospitals and Health Care|
+
+### Atlanta - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Pindrop](http://pindrop.com)|[Link](https://linkedin.com/company/pindrop)|2011|374|27k|Computer and Network Security|
+
+### Atlanta - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[OneTrust](http://www.onetrust.com)|[Link](https://linkedin.com/company/onetrust)|N/A|2.5k|401k|Software Development|
+|[Tractian](http://www.tractian.com)|[Link](https://linkedin.com/company/tractian)|2019|888|180k|Software Development|
+|[Salesloft](https://salesloft.com)|[Link](https://linkedin.com/company/salesloft)|2011|1.1k|128k|Software Development|
+|[Flock](https://www.flocksafety.com/)|[Link](https://linkedin.com/company/flock-)|2017|1.4k|106k|Public Safety|
+|[CallRail](https://www.callrail.com)|[Link](https://linkedin.com/company/callrail)|2011|356|29k|Software Development|
+|[Cognira](http://www.cognira.com)|[Link](https://linkedin.com/company/cognira)|N/A|100|24k|Software Development|
+|[Mobilewalla](http://www.mobilewalla.com)|[Link](https://linkedin.com/company/mobilewalla)|2011|69|8.7k|Software Development|
+|[SellRaze](https://sellraze.com/)|[Link](https://linkedin.com/company/sellraze)|2023|14|3.2k|Software Development|
+
+### Atlanta - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Xebia](https://xebia.com)|[Link](https://linkedin.com/company/xebia)|N/A|6.7k|647k|IT Services and IT Consulting|
+|[KMS Technology, Inc.](http://www.kms-technology.com)|[Link](https://linkedin.com/company/kms-technology)|2009|2k|80k|Software Development|
+
+### Atlanta - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Axle](https://axle.insure)|[Link](https://linkedin.com/company/axle-labs)|N/A|44|3.3k|Software Development|
+
+## Auckland
+### Auckland - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Imagr.ai](http://www.imagr.ai)|[Link](https://linkedin.com/company/imagr)|2015|6|4.8k|Software Development|
+
+### Auckland - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ambit AI](https://www.ambit.ai)|[Link](https://linkedin.com/company/ambit-ai)|2017|23|3.4k|Software Development|
+
+### Auckland - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Halter](https://www.halterhq.com/careers)|[Link](https://linkedin.com/company/halter-limited)|2016|626|59k|Software Development|
+
+### Auckland - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Auror](http://www.auror.co)|[Link](https://linkedin.com/company/auror)|2012|307|25k|Software Development|
 
 ## Austin
-### Austin - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Nauto|[Link](https://www.nauto.com)|[Link](https://www.linkedin.com/company/nauto)|2015|[144](https://www.linkedin.com/company/nauto/people/)|13k|[Non Equity Assistance](//www.crunchbase.com/organization/nauto-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Avathon|[Link](http://www.avathon.com)|[Link](https://www.linkedin.com/company/avathonai)|2013|[266](https://www.linkedin.com/company/sparkcognition/people/)|56k|[Secondary Market](//www.crunchbase.com/organization/sparkcognition?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Alcatel-Lucent Motive|[Link](http://www.alcatel-lucent.com/motive)|[Link](https://www.linkedin.com/company/motive)|1999|[80](https://www.linkedin.com/company/motive/people/)|2k|[Series Unknown](//www.crunchbase.com/organization/motive-3?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
+### Austin - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AI Clearing](https://aiclearing.com/)|[Link](https://linkedin.com/company/ai-clearing)|2020|148|13k|Construction|
 
 ### Austin - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Avathon|[Link](http://www.avathon.com)|[Link](https://www.linkedin.com/company/avathonai)|2013|[266](https://www.linkedin.com/company/sparkcognition/people/)|56k|[Secondary Market](//www.crunchbase.com/organization/sparkcognition?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Avathon](https://www.avathon.com)|[Link](https://linkedin.com/company/avathonai)|2013|265|60k|Software Development|
 
 ### Austin - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Diligent Robotics|[Link](https://hubs.ly/Q03QRp250)|[Link](https://www.linkedin.com/company/diligent-robotics)|N/A|[164](https://www.linkedin.com/company/diligent-robotics/people/)|16k|[Series Unknown](//www.crunchbase.com/organization/diligent-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Dusty Robotics|[Link](http://dustyrobotics.com)|[Link](https://www.linkedin.com/company/dusty-robotics)|2018|[106](https://www.linkedin.com/company/dusty-robotics/people/)|26k|[Series B](//www.crunchbase.com/organization/dusty-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Construction|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Saronic Technologies](http://www.saronic.com)|[Link](https://linkedin.com/company/saronic-technologies)|2022|1.4k|99k|Defense and Space Manufacturing|
+|[ICON](http://www.iconbuild.com)|[Link](https://linkedin.com/company/icon3dtech)|2017|647|61k|Construction|
+|[Skyways](https://skyways.com)|[Link](https://linkedin.com/company/skyways-air-transportation-inc)|2017|64|17k|Aviation and Aerospace Component Manufacturing|
+|[Augmentus Robotics](https://www.augmentus.tech)|[Link](https://linkedin.com/company/augmentus-tech)|2019|46|8.9k|Automation Machinery Manufacturing|
+
+### Austin - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Neuralink](https://grnh.se/b55ba9a63us)|[Link](https://linkedin.com/company/neuralink)|2016|709|433k|Biotechnology Research|
+|[ClosedLoop](https://www.closedloop.ai/)|[Link](https://linkedin.com/company/closedloop-ai)|2017|24|8.4k|Software Development|
 
 ### Austin - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Argo AI|[Link](http://www.argo.ai)|[Link](https://www.linkedin.com/company/argo-ai)|N/A|[215](https://www.linkedin.com/company/argo-ai/people/)|103k|[Corporate Round](//www.crunchbase.com/organization/argo-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|Nauto|[Link](https://www.nauto.com)|[Link](https://www.linkedin.com/company/nauto)|2015|[144](https://www.linkedin.com/company/nauto/people/)|13k|[Non Equity Assistance](//www.crunchbase.com/organization/nauto-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|TuSimple|[Link](https://www.tusimple.com/)|[Link](https://www.linkedin.com/company/tusimple)|2015|[231](https://www.linkedin.com/company/tusimple/people/)|54k|[Series Unknown](//www.crunchbase.com/organization/tusimple-llc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Aurora Films|[Link](http://aurorafilms.com)|[Link](https://www.linkedin.com/company/aurora)|2001|[95](https://www.linkedin.com/company/aurora/people/)|1k|-|Media Production|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Harmattan AI](https://www.harmattan.ai/)|[Link](https://linkedin.com/company/harmattan-ai)|2024|287|52k|Defense and Space Manufacturing|
 
-### Austin - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Veritone One|[Link](https://veritoneone.com/)|[Link](https://www.linkedin.com/company/veritone)|N/A|[44](https://www.linkedin.com/company/veritone/people/)|4k|-|Advertising Services|
-|SoundHound AI|[Link](https://soundhound.com/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedIn%20cta)|[Link](https://www.linkedin.com/company/soundhoundai)|2005|[681](https://www.linkedin.com/company/soundhound/people/)|99k|-|Software Development|
+### Austin - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Rev](https://linktr.ee/rev)|[Link](https://linkedin.com/company/rev-com)|2010|3.9k|44k|Software Development|
 
-### Austin - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Amplify.ai|[Link](https://amplify.ai)|[Link](https://www.linkedin.com/company/amplifyai)|2016|[16](https://www.linkedin.com/company/amplifyai/people/)|5k|[Seed](//www.crunchbase.com/organization/botworx-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Austin - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Planview|[Link](http://www.planview.com)|[Link](https://www.linkedin.com/company/planview)|N/A|[1883](https://www.linkedin.com/company/planview/people/)|91k|[Private Equity](//www.crunchbase.com/organization/planview?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Austin - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|INDEED|[Link](http://www.indeed.it)|[Link](https://www.linkedin.com/company/indeed)|2000|[210](https://www.linkedin.com/company/indeed/people/)|3k|-|Technology, Information and Internet|
-|SailPoint|[Link](https://www.sailpoint.com/identity-help/)|[Link](https://www.linkedin.com/company/sailpoint-technologies)|2005|[3424](https://www.linkedin.com/company/sailpoint-technologies/people/)|171k|[Series Unknown](//www.crunchbase.com/organization/sailpoint-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Austin - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Khoros](https://www.khoros.com/)|[Link](https://linkedin.com/company/khoros)|2019|652|134k|Software Development|
+|[UneeQ](http://www.uneeq.com)|[Link](https://linkedin.com/company/uneeq)|2016|73|7.9k|Software Development|
 
 ### Austin - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Avathon|[Link](http://www.avathon.com)|[Link](https://www.linkedin.com/company/avathonai)|2013|[266](https://www.linkedin.com/company/sparkcognition/people/)|56k|[Secondary Market](//www.crunchbase.com/organization/sparkcognition?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|BigCommerce|[Link](https://bit.ly/4154r03)|[Link](https://www.linkedin.com/company/bigcommerce)|N/A|[790](https://www.linkedin.com/company/bigcommerce/people/)|151k|[Series F](//www.crunchbase.com/organization/bigcommerce?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Hypergiant|[Link](http://www.accelint.com)|[Link](https://www.linkedin.com/company/hypergiant)|N/A|[129](https://www.linkedin.com/company/hypergiant/people/)|11k|[Angel](//www.crunchbase.com/organization/hypergiant-sensory-sciences?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Oracle|[Link](http://www.oracle.com/?source=:so:li:or:awr:ocorp:::RC_WWMK240221P00097:LinkedInButton&SC=:so:li:or:awr:ocorp:::RC_WWMK240221P00097:LinkedInButton&pcode=WWMK240221P00097)|[Link](https://www.linkedin.com/company/oracle)|N/A|[198618](https://www.linkedin.com/company/oracle/people/)|11130k|[Post Ipo Debt](//www.crunchbase.com/organization/oracle?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Novi Labs](https://novilabs.com)|[Link](https://linkedin.com/company/novi-labs)|2015|141|20k|Software Development|
+|[Handoff](https://handoff.ai/)|[Link](https://linkedin.com/company/handoff-ai)|2019|70|12k|Software Development|
 
 ### Austin - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Oracle|[Link](http://www.oracle.com/?source=:so:li:or:awr:ocorp:::RC_WWMK240221P00097:LinkedInButton&SC=:so:li:or:awr:ocorp:::RC_WWMK240221P00097:LinkedInButton&pcode=WWMK240221P00097)|[Link](https://www.linkedin.com/company/oracle)|N/A|[198618](https://www.linkedin.com/company/oracle/people/)|11130k|[Post Ipo Debt](//www.crunchbase.com/organization/oracle?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|INDEED|[Link](http://www.indeed.it)|[Link](https://www.linkedin.com/company/indeed)|2000|[210](https://www.linkedin.com/company/indeed/people/)|3k|-|Technology, Information and Internet|
-|SailPoint|[Link](https://www.sailpoint.com/identity-help/)|[Link](https://www.linkedin.com/company/sailpoint-technologies)|2005|[3424](https://www.linkedin.com/company/sailpoint-technologies/people/)|171k|[Series Unknown](//www.crunchbase.com/organization/sailpoint-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Planview|[Link](http://www.planview.com)|[Link](https://www.linkedin.com/company/planview)|N/A|[1883](https://www.linkedin.com/company/planview/people/)|91k|[Private Equity](//www.crunchbase.com/organization/planview?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Kendra Scott|[Link](http://www.kendrascott.com)|[Link](https://www.linkedin.com/company/kendra-scott)|2002|[2519](https://www.linkedin.com/company/kendra-scott/people/)|101k|[Private Equity](//www.crunchbase.com/organization/kendra-scott-design?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail Luxury Goods and Jewelry|
-|WP Engine|[Link](http://wpengine.com)|[Link](https://www.linkedin.com/company/wpengine)|2010|[1101](https://www.linkedin.com/company/wpengine/people/)|40k|[Private Equity](//www.crunchbase.com/organization/african-century-infrastructure-services?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Data World|[Link](http://www.dataworld.co.za)|[Link](https://www.linkedin.com/company/data-world)|1995|[117](https://www.linkedin.com/company/data-world/people/)|3k|-|IT Services and IT Consulting|
-|Sisu|[Link](https://www.sisudata.com)|[Link](https://www.linkedin.com/company/sisu-data)|2018|[91](https://www.linkedin.com/company/sisu-data/people/)|5k|[Series C](//www.crunchbase.com/organization/sisu-data?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bazaarvoice](http://www.bazaarvoice.com)|[Link](https://linkedin.com/company/bazaarvoice)|2005|1.8k|133k|Software Development|
+|[SEON](https://seon.io/)|[Link](https://linkedin.com/company/seon-tech)|2017|504|79k|Software Development|
+|[WP Engine](https://wpengine.com)|[Link](https://linkedin.com/company/wpengine)|2010|1.1k|44k|IT Services and IT Consulting|
+|[Zilliant](https://zilliant.com)|[Link](https://linkedin.com/company/zilliant)|N/A|137|42k|Software Development|
+|[Wolfia](https://wolfia.com/)|[Link](https://linkedin.com/company/wolfia-app)|2022|17|2.2k|Software Development|
+|[Biodock Inc.](http://www.biodock.ai)|[Link](https://linkedin.com/company/biodockai)|2020|6|1.7k|Biotechnology Research|
+|[Rima AI](https://www.getrima.ai)|[Link](https://linkedin.com/company/rimaai)|2025|31|1.5k|Software Development|
 
 ### Austin - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Avathon|[Link](http://www.avathon.com)|[Link](https://www.linkedin.com/company/avathonai)|2013|[266](https://www.linkedin.com/company/sparkcognition/people/)|56k|[Secondary Market](//www.crunchbase.com/organization/sparkcognition?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mu Sigma Inc.](https://www.mu-sigma.com)|[Link](https://linkedin.com/company/mu-sigma)|2004|3.7k|237k|Business Consulting and Services|
+|[KUNGFU.AI](https://www.kungfu.ai)|[Link](https://linkedin.com/company/kungfuai)|2017|64|4.5k|IT Services and IT Consulting|
+
+### Austin - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Anaconda](https://www.anaconda.com/)|[Link](https://linkedin.com/company/anacondainc)|2012|583|107k|Software Development|
+|[HiddenLayer](https://hiddenlayer.com/)|[Link](https://linkedin.com/company/hiddenlayersec)|2022|184|30k|Computer and Network Security|
+|[Mythic](http://mythic.ai)|[Link](https://linkedin.com/company/mythic-ai)|2012|108|21k|Semiconductor Manufacturing|
 
 ### Austin - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Apple|[Link](http://www.apple.com/careers)|[Link](https://www.linkedin.com/company/apple)|1976|[170015](https://www.linkedin.com/company/apple/people/)|18078k|[Post Ipo Debt](//www.crunchbase.com/organization/apple?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|Meta|[Link](http://www.facebook.com/careers)|[Link](https://www.linkedin.com/company/meta)|N/A|[147998](https://www.linkedin.com/company/meta/people/)|11735k|[Post Ipo Equity](//www.crunchbase.com/organization/facebook?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Amazon|[Link](https://www.aboutamazon.com/)|[Link](https://www.linkedin.com/company/amazon)|N/A|[766112](https://www.linkedin.com/company/amazon/people/)|36177k|[Post Ipo Debt](//www.crunchbase.com/organization/amazon?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Dell Technologies|[Link](http://www.delltechnologies.com)|[Link](https://www.linkedin.com/company/delltechnologies)|N/A|[136021](https://www.linkedin.com/company/dell/people/)|5461k|[Post Ipo Debt](//www.crunchbase.com/organization/dell-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer Hardware Manufacturing|
-|NI (National Instruments)|[Link](https://bit.ly/3hgVStX)|[Link](https://www.linkedin.com/company/niglobal)|N/A|[8008](https://www.linkedin.com/company/national-instruments/people/)|264k|-|Appliances, Electrical, and Electronics Manufacturing|
-|AMD|[Link](https://www.youtube.com/watch?v=5n85lx3Tyr0)|[Link](https://www.linkedin.com/company/amd)|1969|[62904](https://www.linkedin.com/company/amd/people/)|2133k|[Post Ipo Equity](//www.crunchbase.com/organization/amd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Semiconductor Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Plivo](https://www.plivo.com)|[Link](https://linkedin.com/company/plivo-inc)|2011|195|109k|Software Development|
+|[Alpha School](https://alpha.school)|[Link](https://linkedin.com/company/alphaschools)|2014|679|25k|E-Learning Providers|
+|[Fetii](https://www.fetii.com)|[Link](https://linkedin.com/company/fetii)|2019|91|3.7k|Truck Transportation|
+|[Drillbit](https://www.drillbit.com)|[Link](https://linkedin.com/company/drillbit-ai)|2023|14|2.3k|Construction|
 
 ## Bangalore
-### Bangalore - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SigTuple|[Link](http://www.sigtuple.com)|[Link](https://www.linkedin.com/company/sigtuple)|2015|[117](https://www.linkedin.com/company/sigtuple/people/)|31k|[Series C](//www.crunchbase.com/organization/sigtuple?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Netradyne|[Link](https://www.netradyne.com/company/contact/#utm_source=linkedin&utm_medium=social&utm_campaign=pagebutton)|[Link](https://www.linkedin.com/company/netradyne)|2015|[1131](https://www.linkedin.com/company/netradyne/people/)|229k|[Series D](//www.crunchbase.com/organization/netradyne?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Intello Labs|[Link](http://www.intellolabs.com)|[Link](https://www.linkedin.com/company/intellolabs)|2016|[146](https://www.linkedin.com/company/intellolabs/people/)|13k|-|IT Services and IT Consulting|
-|TELUS Digital AI Data Solutions|[Link](https://www.telusinternational.com/careers)|[Link](https://www.linkedin.com/company/telusdigitalaidatasolutions)|2005|[5353](https://www.linkedin.com/company/playment/people/)|473k|[Seed](//www.crunchbase.com/organization/playment?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Wobot AI|[Link](https://wobot.ai/)|[Link](https://www.linkedin.com/company/wobot-ai)|N/A|[108](https://www.linkedin.com/company/wobot-intelligence/people/)|11k|[Seed](//www.crunchbase.com/organization/wobot-intelligence?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Mad Street Den|[Link](https://www.madstreetden.com/careers/)|[Link](https://www.linkedin.com/company/mad-street-den)|2016|[161](https://www.linkedin.com/company/mad-street-den/people/)|37k|[Series C](//www.crunchbase.com/organization/mad-street-den?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Bangalore - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[SatSure](http://www.satsure.co)|[Link](https://linkedin.com/company/satsure)|2017|152|83k|Defense and Space Manufacturing|
+|[NeuralGarage](https://visualdub.ai)|[Link](https://linkedin.com/company/neuralgarage)|2021|54|15k|Software Development|
+|[Aindra Systems](http://www.aindra.in)|[Link](https://linkedin.com/company/aindra-systems)|2012|25|12k|Medical Equipment Manufacturing|
+|[AllGoVision](https://www.allgovision.com)|[Link](https://linkedin.com/company/allgovision)|2010|71|7.7k|Software Development|
 
 ### Bangalore - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Slang Labs|[Link](https://www.slanglabs.in)|[Link](https://www.linkedin.com/company/slanglabs)|2017|[9](https://www.linkedin.com/company/slanglabs/people/)|3k|[Seed](//www.crunchbase.com/organization/slang-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Mihup.ai|[Link](https://mihup.ai/)|[Link](https://www.linkedin.com/company/mihup)|2016|[111](https://www.linkedin.com/company/mihup/people/)|20k|[Series A](//www.crunchbase.com/organization/mihup-communications?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Senseforth.ai|[Link](http://www.senseforth.ai)|[Link](https://www.linkedin.com/company/senseforth)|2017|[30](https://www.linkedin.com/company/senseforth/people/)|42k|[Non Equity Assistance](//www.crunchbase.com/organization/senseforth?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|gnani.ai|[Link](https://www.gnani.ai/request-demo/?utm_source=linkedin&utm_medium=social&utm_campaign=page)|[Link](https://www.linkedin.com/company/gnani-ai)|2016|[207](https://www.linkedin.com/company/gnani-ai/people/)|106k|[Series A](//www.crunchbase.com/organization/gnani-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Yellow.ai|[Link](https://yellow.ai/)|[Link](https://www.linkedin.com/company/yellowdotai)|2016|[890](https://www.linkedin.com/company/yellow-messenger/people/)|174k|[Series C](//www.crunchbase.com/organization/yellow-messenger?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mihup.ai](https://mihup.ai/)|[Link](https://linkedin.com/company/mihup)|2016|121|23k|Software Development|
+|[Slang Labs](https://www.slanglabs.in)|[Link](https://linkedin.com/company/slanglabs)|2017|6|3.3k|Software Development|
 
 ### Bangalore - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Mitra Robot|[Link](https://mitrarobot.com/modernaipro)|[Link](https://www.linkedin.com/company/invento-robotics)|2016|[21](https://www.linkedin.com/company/invento-robotics/people/)|11k|[Non Equity Assistance](//www.crunchbase.com/organization/invento-makerspaces?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Skylark Drones](https://www.skylarkdrones.com/)|[Link](https://linkedin.com/company/skylark-drones)|2015|121|51k|Software Development|
+|[Ati Robotics](https://www.atirobotics.ai/)|[Link](https://linkedin.com/company/atirobotics)|2018|102|17k|Automation Machinery Manufacturing|
 
 ### Bangalore - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SigTuple|[Link](http://www.sigtuple.com)|[Link](https://www.linkedin.com/company/sigtuple)|2015|[117](https://www.linkedin.com/company/sigtuple/people/)|31k|[Series C](//www.crunchbase.com/organization/sigtuple?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Predible Health|[Link](http://www.predible.com)|[Link](https://www.linkedin.com/company/predible-health)|2016|[1](https://www.linkedin.com/company/predible-health/people/)|2k|[Seed](//www.crunchbase.com/organization/predible-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|DOZEE|[Link](https://www.dozee.fr)|[Link](https://www.linkedin.com/company/dozee)|N/A|[2](https://www.linkedin.com/company/dozee/people/)|1k|-|Business Consulting and Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Tricog Health](https://tricog.com)|[Link](https://linkedin.com/company/tricog-health)|2014|372|183k|Hospitals and Health Care|
+|[eka.care](https://eka.care)|[Link](https://linkedin.com/company/ekacare)|2020|180|43k|Hospitals and Health Care|
+|[SigTuple](http://www.sigtuple.com)|[Link](https://linkedin.com/company/sigtuple)|2015|100|33k|Software Development|
+|[Niramai Health Analytix](https://www.niramai.com)|[Link](https://linkedin.com/company/niramai-health-analytix)|2016|70|17k|Hospitals and Health Care|
+|[5C Network](http://5cnetwork.com)|[Link](https://linkedin.com/company/5c-network)|2016|305|12k|Software Development|
 
 ### Bangalore - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Ather Energy|[Link](https://atherenergy.com/)|[Link](https://www.linkedin.com/company/ather-energy)|2013|[3930](https://www.linkedin.com/company/ather-energy/people/)|624k|[Series Unknown](//www.crunchbase.com/organization/ather-energy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|Flux Auto|[Link](https://fluxauto.ai/)|[Link](https://www.linkedin.com/company/fluxauto)|2017|[56](https://www.linkedin.com/company/fluxauto/people/)|14k|[Seed](//www.crunchbase.com/organization/flux-auto?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|AutoNxt|[Link](http://autonxt.in)|[Link](https://www.linkedin.com/company/autonxt-automation)|2016|[49](https://www.linkedin.com/company/autonxt-automation/people/)|6k|-|Motor Vehicle Manufacturing|
-|Swaayatt Robots (स्वायत्त रोबोट्स)|[Link](http://www.swaayattrobots.com)|[Link](https://www.linkedin.com/company/swaayatt-robots)|2015|[106](https://www.linkedin.com/company/swaayatt-robots/people/)|27k|[Seed](//www.crunchbase.com/organization/swaayatt-robots?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Minus Zero](https://minuszero.ai)|[Link](https://linkedin.com/company/minuszero)|2021|19|31k|Software Development|
+|[Swaayatt Robots (स्वायत्त रोबोट्स)](http://www.swaayattrobots.com)|[Link](https://linkedin.com/company/swaayatt-robots)|2015|111|29k|Research Services|
+|[Flux Auto](https://fluxauto.ai/)|[Link](https://linkedin.com/company/fluxauto)|2017|60|15k|Motor Vehicle Manufacturing|
+|[AutoNxt](http://autonxt.in)|[Link](https://linkedin.com/company/autonxt-automation)|2016|64|8.1k|Motor Vehicle Manufacturing|
 
-### Bangalore - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|gnani.ai|[Link](https://www.gnani.ai/request-demo/?utm_source=linkedin&utm_medium=social&utm_campaign=page)|[Link](https://www.linkedin.com/company/gnani-ai)|2016|[207](https://www.linkedin.com/company/gnani-ai/people/)|106k|[Series A](//www.crunchbase.com/organization/gnani-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|LIV|[Link](https://liv.tv)|[Link](https://www.linkedin.com/company/liv)|2016|[107](https://www.linkedin.com/company/liv/people/)|1k|[Secondary Market](//www.crunchbase.com/organization/liv?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Bangalore - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Yellow.ai|[Link](https://yellow.ai/)|[Link](https://www.linkedin.com/company/yellowdotai)|2016|[890](https://www.linkedin.com/company/yellow-messenger/people/)|174k|[Series C](//www.crunchbase.com/organization/yellow-messenger?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Senseforth.ai|[Link](http://www.senseforth.ai)|[Link](https://www.linkedin.com/company/senseforth)|2017|[30](https://www.linkedin.com/company/senseforth/people/)|42k|[Non Equity Assistance](//www.crunchbase.com/organization/senseforth?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Avaamo|[Link](http://www.avaamo.ai)|[Link](https://www.linkedin.com/company/avaamo)|2014|[134](https://www.linkedin.com/company/avaamo/people/)|13k|[Series A](//www.crunchbase.com/organization/avaamo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Bangalore - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Datacultr|[Link](https://datacultr.com)|[Link](https://www.linkedin.com/company/datacultr)|2020|[112](https://www.linkedin.com/company/datacultr/people/)|91k|[Seed](//www.crunchbase.com/organization/datacultr?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|EdgeVerve|[Link](http://www.edgeverve.com/?cmpid=LinkedIn_CustomButton_01092021&source=Digital&subsource=Social)|[Link](https://www.linkedin.com/company/edgeverve)|2014|[2668](https://www.linkedin.com/company/edgeverve/people/)|202k|-|Software Development|
-|HyperVerge|[Link](https://hyperverge.co/sign-up/)|[Link](https://www.linkedin.com/company/hyperverge)|2014|[388](https://www.linkedin.com/company/hyperverge/people/)|86k|-|Software Development|
+### Bangalore - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Kapture CX](https://www.kapture.cx/)|[Link](https://linkedin.com/company/kapturecx)|2011|665|136k|Software Development|
+|[Verloop.io](https://www.verloop.io/)|[Link](https://linkedin.com/company/verloopio)|2016|100|97k|Software Development|
+|[CoRover](http://corover.ai)|[Link](https://linkedin.com/company/corover)|2016|106|16k|IT Services and IT Consulting|
 
 ### Bangalore - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Mad Street Den|[Link](https://www.madstreetden.com/careers/)|[Link](https://www.linkedin.com/company/mad-street-den)|2016|[161](https://www.linkedin.com/company/mad-street-den/people/)|37k|[Series C](//www.crunchbase.com/organization/mad-street-den?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Streamoid CXO|[Link](http://streamoid.com)|[Link](https://www.linkedin.com/company/streamoid)|2020|[83](https://www.linkedin.com/company/streamoid/people/)|4k|-|Software Development|
-|Artifacia|[Link](http://artifacia.com)|[Link](https://www.linkedin.com/company/artifacia)|2015|[0](https://www.linkedin.com/company/artifacia/people/)|1k|[Angel](//www.crunchbase.com/organization/artifacia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Vue.ai by M2P|[Link](https://vue.ai/)|[Link](https://www.linkedin.com/company/vue-ai)|2016|[38](https://www.linkedin.com/company/vue-ai/people/)|14k|[Series Unknown](//www.crunchbase.com/organization/vue-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ClearFeed](https://clearfeed.ai)|[Link](https://linkedin.com/company/clearfeed)|2021|22|48k|Software Development|
 
 ### Bangalore - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|JuliaHub|[Link](https://juliahub.com/)|[Link](https://www.linkedin.com/company/juliahub)|2015|[104](https://www.linkedin.com/company/julia-computing/people/)|34k|-|Software Development|
-|Numocity|[Link](http://numocity.com/)|[Link](https://www.linkedin.com/company/numocity)|2018|[49](https://www.linkedin.com/company/numocity/people/)|8k|[Seed](//www.crunchbase.com/organization/numocity?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ThoughtSpot|[Link](https://www.thoughtspot.com)|[Link](https://www.linkedin.com/company/thoughtspot)|N/A|[1693](https://www.linkedin.com/company/thoughtspot/people/)|177k|[Secondary Market](//www.crunchbase.com/organization/thoughtspot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Bellatrix Aerospace|[Link](http://www.bellatrix.aero)|[Link](https://www.linkedin.com/company/bellatrix-aerospace)|2015|[92](https://www.linkedin.com/company/bellatrix-aerospace/people/)|159k|[Grant](//www.crunchbase.com/organization/bellatrix-aerospace?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Defense and Space Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bellatrix Aerospace](http://www.bellatrix.aero)|[Link](https://linkedin.com/company/bellatrix-aerospace)|2015|104|184k|Defense and Space Manufacturing|
+|[Fasal - Grow More, Grow Better™](https://www.fasal.co/)|[Link](https://linkedin.com/company/fasal)|2018|179|115k|Software Development|
+|[Cropin](http://www.cropin.com/)|[Link](https://linkedin.com/company/cropin-technology)|2010|167|109k|Software Development|
+|[Numocity](http://numocity.com)|[Link](https://linkedin.com/company/numocity)|2018|44|8.4k|Software Development|
+|[Coulomb AI](https://coulomb.ai/)|[Link](https://linkedin.com/company/coulomb-ai)|2021|9|3.2k|Truck Transportation|
 
 ### Bangalore - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Fractal|[Link](https://fractal.ai/?utm_source=linkedin&utm_medium=coverpic&utm_campaign=socialmedia)|[Link](https://www.linkedin.com/company/fractal-analytics)|2000|[6814](https://www.linkedin.com/company/fractal-analytics/people/)|784k|[Secondary Market](//www.crunchbase.com/organization/fractal-analytics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
-|Mu Sigma Inc.|[Link](https://www.mu-sigma.com)|[Link](https://www.linkedin.com/company/mu-sigma)|2004|[3637](https://www.linkedin.com/company/mu-sigma/people/)|222k|[Series Unknown](//www.crunchbase.com/organization/mu-sigma?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
-|Tiger Analytics|[Link](https://www.tigeranalytics.com/)|[Link](https://www.linkedin.com/company/tiger-analytics)|2011|[6190](https://www.linkedin.com/company/tiger-analytics/people/)|597k|-|Business Consulting and Services|
-|Locus|[Link](http://www.Locus.sh)|[Link](https://www.linkedin.com/company/locus-sh)|2015|[337](https://www.linkedin.com/company/locus-sh/people/)|52k|[Series C](//www.crunchbase.com/organization/locus-sh?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ThoughtSpot|[Link](https://www.thoughtspot.com)|[Link](https://www.linkedin.com/company/thoughtspot)|N/A|[1693](https://www.linkedin.com/company/thoughtspot/people/)|177k|[Secondary Market](//www.crunchbase.com/organization/thoughtspot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Flipkart|[Link](http://www.flipkartcareers.com/)|[Link](https://www.linkedin.com/company/flipkart)|2007|[87530](https://www.linkedin.com/company/flipkart/people/)|5628k|[Corporate Round](//www.crunchbase.com/organization/flipkart?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|swiggy|-|[Link](https://www.linkedin.com/company/swiggy)|N/A|[641](https://www.linkedin.com/company/swiggy/people/)|2k|-|N/A|
-|Pulse|[Link](https://pulsecorp.co)|[Link](https://www.linkedin.com/company/pulsecorpco)|2026|N/A|N/A|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Entropik](https://www.entropik.io/)|[Link](https://linkedin.com/company/decodebyentropik)|2016|95|118k|Software Development|
+|[Zoko](https://www.zoko.io)|[Link](https://linkedin.com/company/zoko)|2020|42|17k|Software Development|
+|[BusinessOnBot](https://www.businessonbot.com/)|[Link](https://linkedin.com/company/businessonbot)|2020|50|11k|IT Services and IT Consulting|
+|[Floworks](https://floworks.ai/)|[Link](https://linkedin.com/company/floworkssolutions)|2021|57|6.1k|Software Development|
+|[Lab0 (YC P26)](https://lab0.ai/)|[Link](https://linkedin.com/company/lab0-hq)|N/A|8|1.9k|Software Development|
 
-### Bangalore - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tredence Inc.|[Link](https://www.tredence.com/)|[Link](https://www.linkedin.com/company/tredence)|2013|[3933](https://www.linkedin.com/company/tredence/people/)|484k|[Series B](//www.crunchbase.com/organization/tredence?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
-|Cartesian|[Link](https://www.cartesian.com)|[Link](https://www.linkedin.com/company/cartesian)|1990|[359](https://www.linkedin.com/company/cartesian/people/)|59k|[Post Ipo Equity](//www.crunchbase.com/organization/cartesian?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
-|BRIDGEi2i Analytics Solutions|[Link](https://www.accenture.com/us-en/services/ai-artificial-intelligence-index)|[Link](https://www.linkedin.com/company/bridgei2i)|N/A|[185](https://www.linkedin.com/company/bridgei2i/people/)|38k|[Series A](//www.crunchbase.com/organization/bridgei2i-analytics-solutions?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Gramener|[Link](https://gramener.com/)|[Link](https://www.linkedin.com/company/gramener)|2010|[426](https://www.linkedin.com/company/gramener/people/)|64k|-|IT Services and IT Consulting|
-|MathCo|[Link](https://www.mathco.com)|[Link](https://www.linkedin.com/company/themathcompany)|2016|[1815](https://www.linkedin.com/company/themathcompany/people/)|200k|[Private Equity](//www.crunchbase.com/organization/themathcompany?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
+### Bangalore - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sarvam](https://links.sarvam.io/Sarvamwebsite)|[Link](https://linkedin.com/company/sarvam-ai)|N/A|477|157k|Software Development|
+|[Krutrim](https://olakrutrim.com/)|[Link](https://linkedin.com/company/krutrim)|N/A|389|72k|Research Services|
+|[Spark Studio](https://www.sparkstudio.co)|[Link](https://linkedin.com/company/spark-studio-imagineer)|N/A|82|9.6k|E-Learning Providers|
+|[Soket AI Labs](https://soket.ai)|[Link](https://linkedin.com/company/soketlabs)|2019|21|8.3k|Research Services|
 
 ### Bangalore - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Flipkart|[Link](http://www.flipkartcareers.com/)|[Link](https://www.linkedin.com/company/flipkart)|2007|[87530](https://www.linkedin.com/company/flipkart/people/)|5628k|[Corporate Round](//www.crunchbase.com/organization/flipkart?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|swiggy|-|[Link](https://www.linkedin.com/company/swiggy)|N/A|[641](https://www.linkedin.com/company/swiggy/people/)|2k|-|N/A|
-|Myntra|[Link](https://life.myntra.com/)|[Link](https://www.linkedin.com/company/myntra)|2007|[17596](https://www.linkedin.com/company/myntra/people/)|2354k|[Undisclosed](//www.crunchbase.com/organization/myntra?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|InMobi|[Link](https://www.inmobi.com/)|[Link](https://www.linkedin.com/company/inmobi)|2007|[348](https://www.linkedin.com/company/inmobi/people/)|15k|[Undisclosed](//www.crunchbase.com/organization/inmobi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Olà!|[Link](http://www.ola.it)|[Link](https://www.linkedin.com/company/ola)|1999|[156](https://www.linkedin.com/company/ola/people/)|1k|-|Advertising Services|
-|Dunzo|[Link](https://godunzo.com/contact-us/)|[Link](https://www.linkedin.com/company/dunzo)|N/A|[11](https://www.linkedin.com/company/dunzo/people/)|1k|-|Advertising Services|
-|Razorpay|[Link](https://bit.ly/razorpay_learnmore)|[Link](https://www.linkedin.com/company/razorpay)|N/A|[4064](https://www.linkedin.com/company/razorpay/people/)|1159k|[Secondary Market](//www.crunchbase.com/organization/razorpay?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Razorpay](https://bit.ly/razorpay_learnmore)|[Link](https://linkedin.com/company/razorpay)|N/A|4k|1.3M|Software Development|
+|[Vahan.ai](https://vahan.ai)|[Link](https://linkedin.com/company/vahan-inc-)|2016|362|94k|Technology, Information and Internet|
+|[MySivi (YC W22)](https://www.mysivi.ai/)|[Link](https://linkedin.com/company/mysivi)|2022|33|13k|E-Learning Providers|
+|[SuperKalam (YC W23)](https://superkalam.com)|[Link](https://linkedin.com/company/superkalam)|2023|23|9.8k|Higher Education|
+
+## Bangkok
+### Bangkok - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[VISAI.ai](https://visai.ai)|[Link](https://linkedin.com/company/visai-ai)|2022|24|1.1k|Software Development|
+
+### Bangkok - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Perceptra](https://www.perceptra.tech)|[Link](https://linkedin.com/company/perceptra)|2017|36|3.8k|IT Services and IT Consulting|
+
+### Bangkok - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[BOTNOI GROUP](https://www.botnoigroup.com)|[Link](https://linkedin.com/company/botnoi-group)|2017|97|1.3k|Software Development|
+
+### Bangkok - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sertis](https://sertiscorp.com)|[Link](https://linkedin.com/company/sertis)|2014|99|19k|IT Services and IT Consulting|
+
+### Bangkok - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Data Wow](https://datawow.io)|[Link](https://linkedin.com/company/datawowio)|2016|65|18k|IT Services and IT Consulting|
 
 ## Barcelona
-### Barcelona - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Visionairy|[Link](https://www.visionairy.io)|[Link](https://www.linkedin.com/company/visionairy)|2018|[11](https://www.linkedin.com/company/visionairy/people/)|2k|-|Software Development|
-
 ### Barcelona - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Serimag|[Link](https://serimag.com)|[Link](https://www.linkedin.com/company/serimag)|2007|[31](https://www.linkedin.com/company/serimag/people/)|2k|-|IT Services and IT Consulting|
-|Kantox|[Link](http://www.kantox.com)|[Link](https://www.linkedin.com/company/kantox)|2011|[330](https://www.linkedin.com/company/kantox/people/)|47k|[Series Unknown](//www.crunchbase.com/organization/kantox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Vivocha|[Link](https://www.vivocha.com)|[Link](https://www.linkedin.com/company/vivocha)|2012|[12](https://www.linkedin.com/company/vivocha/people/)|1k|[Series Unknown](//www.crunchbase.com/organization/vivocha?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Citibeats](http://www.citibeats.com)|[Link](https://linkedin.com/company/citibeats)|2018|3|11k|Software Development|
+|[Serimag](http://www.serimag.com)|[Link](https://linkedin.com/company/serimag)|2007|27|2.7k|IT Services and IT Consulting|
 
 ### Barcelona - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|PAL Robotics|[Link](https://pal-robotics.com/)|[Link](https://www.linkedin.com/company/pal-robotics)|2004|[152](https://www.linkedin.com/company/pal-robotics/people/)|59k|-|Automation Machinery Manufacturing|
-|Rob Surgical|[Link](http://www.robsurgical.com/)|[Link](https://www.linkedin.com/company/rob-surgical)|2012|[46](https://www.linkedin.com/company/rob-surgical/people/)|5k|-|Medical Equipment Manufacturing|
-|Eurecat - Technology Centre|[Link](http://eurecat.org)|[Link](https://www.linkedin.com/company/eurecat)|N/A|[850](https://www.linkedin.com/company/eurecat/people/)|46k|-|Research Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PAL Robotics](https://pal-robotics.com/)|[Link](https://linkedin.com/company/pal-robotics)|2004|141|71k|Automation Machinery Manufacturing|
+|[Rob Surgical](http://www.robsurgical.com/)|[Link](https://linkedin.com/company/rob-surgical)|2012|53|8.7k|Medical Equipment Manufacturing|
 
 ### Barcelona - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Bionure|[Link](https://www.bionure.com/)|[Link](https://www.linkedin.com/company/bionure)|2009|[9](https://www.linkedin.com/company/bionure/people/)|2k|[Series A](//www.crunchbase.com/organization/bionure?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mediktor](https://www.mediktor.com)|[Link](https://linkedin.com/company/mediktor)|2011|42|20k|Hospitals and Health Care|
+|[IOMED](https://iomed.health/)|[Link](https://linkedin.com/company/iomed)|2016|41|19k|Software Development|
+|[SOM Biotech](http://www.sombiotech.com)|[Link](https://linkedin.com/company/som-biotech)|2009|15|6k|Pharmaceutical Manufacturing|
+|[Bionure](http://www.bionure.com)|[Link](https://linkedin.com/company/bionure)|2009|8|2.9k|Biotechnology Research|
 
 ### Barcelona - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Bettair Cities|[Link](https://bettaircities.com/)|[Link](https://www.linkedin.com/company/bettair-cities)|2017|[17](https://www.linkedin.com/company/bettair-cities/people/)|2k|[Grant](//www.crunchbase.com/organization/bettair-cities?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail Office Equipment|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bettair Cities](https://bettaircities.com/)|[Link](https://linkedin.com/company/bettair-cities)|2017|17|2.3k|Retail Office Equipment|
 
-### Barcelona - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Verbio by Capacity|[Link](https://www.verbio.com)|[Link](https://www.linkedin.com/company/verbio)|1999|[66](https://www.linkedin.com/company/verbio/people/)|5k|[Seed](//www.crunchbase.com/organization/verbio-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Voicemod|[Link](https://www.voicemod.net/)|[Link](https://www.linkedin.com/company/voicemod)|2014|[115](https://www.linkedin.com/company/voicemod/people/)|13k|[Series A](//www.crunchbase.com/organization/voicemod-s-l?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Barcelona - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Voicemod](https://www.voicemod.net)|[Link](https://linkedin.com/company/voicemod)|2014|113|15k|Software Development|
 
-### Barcelona - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Inbenta|[Link](https://www.inbenta.com/en/)|[Link](https://www.linkedin.com/company/inbenta)|2005|[176](https://www.linkedin.com/company/inbenta/people/)|13k|[Series Unknown](//www.crunchbase.com/organization/inbenta-semantic-search?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Landbot|[Link](https://landbot.io/)|[Link](https://www.linkedin.com/company/landbot-io)|2017|[62](https://www.linkedin.com/company/landbot-io/people/)|12k|[Debt Financing](//www.crunchbase.com/organization/landbot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Barcelona - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Kantox|[Link](http://www.kantox.com)|[Link](https://www.linkedin.com/company/kantox)|2011|[330](https://www.linkedin.com/company/kantox/people/)|47k|[Series Unknown](//www.crunchbase.com/organization/kantox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-
-### Barcelona - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Typeform Design|[Link](http://www.typeform.ie)|[Link](https://www.linkedin.com/company/typeform)|1983|[23](https://www.linkedin.com/company/typeform/people/)|1k|-|Graphic Design|
-|Perk|[Link](https://www.travelperk.com/?utm_campaign=Linkedin_profile_page&utm_medium=social&utm_source=linkedin&utm_content=cta_button_1)|[Link](https://www.linkedin.com/company/perk)|N/A|[2056](https://www.linkedin.com/company/travelperk/people/)|216k|[Series E](//www.crunchbase.com/organization/travelperk?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Barcelona - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Inbenta](http://www.inbenta.com)|[Link](https://linkedin.com/company/inbenta)|2005|163|14k|Software Development|
+|[Landbot](https://landbot.io/)|[Link](https://linkedin.com/company/landbot-io)|2017|67|13k|Software Development|
 
 ### Barcelona - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|BSC|[Link](http://www.bridgew.edu/)|[Link](https://www.linkedin.com/company/bridgewaterstateuniversity)|N/A|[1804](https://www.linkedin.com/company/bsc/people/)|4k|-|Non-profit Organizations|
-|Eurecat - Technology Centre|[Link](http://eurecat.org)|[Link](https://www.linkedin.com/company/eurecat)|N/A|[850](https://www.linkedin.com/company/eurecat/people/)|46k|-|Research Services|
-|ICFO|[Link](http://www.icfo.eu/)|[Link](https://www.linkedin.com/company/icfo)|2002|[483](https://www.linkedin.com/company/icfo/people/)|23k|-|Research Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Worldsensing](http://www.worldsensing.com)|[Link](https://linkedin.com/company/worldsensing)|2008|127|27k|Telecommunications|
+|[Mitiga Solutions](https://www.mitigasolutions.com)|[Link](https://linkedin.com/company/mitigasolutions)|2018|72|26k|IT Services and IT Consulting|
+|[Aistech Space](http://www.aistechspace.com)|[Link](https://linkedin.com/company/aistech-space)|2015|62|15k|Defense and Space Manufacturing|
 
 ### Barcelona - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Typeform Design|[Link](http://www.typeform.ie)|[Link](https://www.linkedin.com/company/typeform)|1983|[23](https://www.linkedin.com/company/typeform/people/)|1k|-|Graphic Design|
-|Perk|[Link](https://www.travelperk.com/?utm_campaign=Linkedin_profile_page&utm_medium=social&utm_source=linkedin&utm_content=cta_button_1)|[Link](https://www.linkedin.com/company/perk)|N/A|[2056](https://www.linkedin.com/company/travelperk/people/)|216k|[Series E](//www.crunchbase.com/organization/travelperk?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Glovo|[Link](https://about.glovoapp.com/en/)|[Link](https://www.linkedin.com/company/glovo-app)|2015|[14072](https://www.linkedin.com/company/glovo-app/people/)|329k|[Series F](//www.crunchbase.com/organization/glovo-app?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Consumer Services|
-|Wallapop|[Link](https://es.wallapop.com/)|[Link](https://www.linkedin.com/company/wallapop)|2013|[459](https://www.linkedin.com/company/wallapop/people/)|68k|[Series G](//www.crunchbase.com/organization/wallapop?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Job&Talent|[Link](http://www.jobandtalent.com)|[Link](https://www.linkedin.com/company/jobandtalent)|2009|[3963](https://www.linkedin.com/company/jobandtalent/people/)|180k|[Series F](//www.crunchbase.com/organization/jobandtalent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Opodo|[Link](http://www.opodo.com)|[Link](https://www.linkedin.com/showcase/opodo/)|2001|[0](https://www.linkedin.com/company/opodo/people/)|9k|-|Travel Arrangements|
-|Kantox|[Link](http://www.kantox.com)|[Link](https://www.linkedin.com/company/kantox)|2011|[330](https://www.linkedin.com/company/kantox/people/)|47k|[Series Unknown](//www.crunchbase.com/organization/kantox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Domestika|[Link](https://www.domestika.org?utm_source=linkedin&utm_medium=referral&utm_campaign=courses&utm_content=infoLIN)|[Link](https://www.linkedin.com/company/domestika)|2010|[1322](https://www.linkedin.com/company/domestika/people/)|223k|[Series D](//www.crunchbase.com/organization/domestika?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Holded|[Link](https://www.holded.com/es)|[Link](https://www.linkedin.com/company/holded)|2016|[230](https://www.linkedin.com/company/holded/people/)|23k|[Series B](//www.crunchbase.com/organization/holded?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Factorial](https://factorial.com/)|[Link](https://linkedin.com/company/factorialai)|2016|3k|172k|Software Development|
+|[Typeform](http://typeform.com)|[Link](https://linkedin.com/company/typeform-)|2012|920|96k|Software Development|
+|[haddock (YC W22)](http://www.haddock.app)|[Link](https://linkedin.com/company/haddock)|2021|73|7.7k|Software Development|
 
 ### Barcelona - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|BSC|[Link](http://www.bridgew.edu/)|[Link](https://www.linkedin.com/company/bridgewaterstateuniversity)|N/A|[1804](https://www.linkedin.com/company/bsc/people/)|4k|-|Non-profit Organizations|
-|Eurecat - Technology Centre|[Link](http://eurecat.org)|[Link](https://www.linkedin.com/company/eurecat)|N/A|[850](https://www.linkedin.com/company/eurecat/people/)|46k|-|Research Services|
-
-### Barcelona - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Glovo|[Link](https://about.glovoapp.com/en/)|[Link](https://www.linkedin.com/company/glovo-app)|2015|[14072](https://www.linkedin.com/company/glovo-app/people/)|329k|[Series F](//www.crunchbase.com/organization/glovo-app?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Consumer Services|
-|Wallapop|[Link](https://es.wallapop.com/)|[Link](https://www.linkedin.com/company/wallapop)|2013|[459](https://www.linkedin.com/company/wallapop/people/)|68k|[Series G](//www.crunchbase.com/organization/wallapop?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Cabify|[Link](http://cabify.com)|[Link](https://www.linkedin.com/company/cabify)|2011|[4382](https://www.linkedin.com/company/cabify/people/)|188k|[Debt Financing](//www.crunchbase.com/organization/cabify?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Vueling Airlines|[Link](http://www.vueling.com)|[Link](https://www.linkedin.com/company/vueling-airlines)|2004|[4046](https://www.linkedin.com/company/vueling-airlines/people/)|218k|[Series Unknown](//www.crunchbase.com/organization/vueling-airlines-s-a?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Airlines and Aviation|
-|FC Barcelona|[Link](http://www.fcbarcelona.com)|[Link](https://www.linkedin.com/company/fc-barcelona)|1899|[7573](https://www.linkedin.com/company/fc-barcelona/people/)|307k|[Debt Financing](//www.crunchbase.com/organization/fcbarcelona?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Spectator Sports|
-|CaixaBank|[Link](http://www.CaixaBank.com)|[Link](https://www.linkedin.com/company/caixabank)|N/A|[21146](https://www.linkedin.com/company/caixabank/people/)|266k|-|Banking|
-|AGBAR|[Link](https://www.veolia.es/)|[Link](https://www.linkedin.com/company/agbar)|N/A|[1119](https://www.linkedin.com/company/agbar/people/)|60k|-|Environmental Services|
-|MANGO|[Link](https://jobs.mango.com/)|[Link](https://www.linkedin.com/company/mango)|N/A|[16092](https://www.linkedin.com/company/mango/people/)|1057k|-|Retail Apparel and Fashion|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dribia Data Research](http://www.dribia.com)|[Link](https://linkedin.com/company/dribia)|2016|49|4.4k|IT Services and IT Consulting|
 
 ## Beijing
-### Beijing - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|MEGVII旷视|[Link](http://www.megvii.com)|[Link](https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86)|2011|[536](https://www.linkedin.com/company/megvii/people/)|13k|-|IT Services and IT Consulting|
-|Cloudwalk|[Link](http://www.cloudwalk.com/)|[Link](https://www.linkedin.com/company/cloudwalk)|2015|[274](https://www.linkedin.com/company/cloudwalk/people/)|2k|[Series C](//www.crunchbase.com/organization/cloudwalk-technology?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Beijing - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[MEGVII旷视](http://www.megvii.com)|[Link](https://linkedin.com/company/megvii%E6%97%B7%E8%A7%86)|2011|413|14k|IT Services and IT Consulting|
 
 ### Beijing - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ByteDance|[Link](https://jobs.bytedance.com/en/?_tracking=lihome)|[Link](https://www.linkedin.com/company/bytedance)|N/A|[46613](https://www.linkedin.com/company/bytedance/people/)|1386k|-|Software Development|
-|01.AI|[Link](https://01.ai/)|[Link](https://www.linkedin.com/company/01-ai)|N/A|[76](https://www.linkedin.com/company/01-ai/people/)|6k|[Series Unknown](//www.crunchbase.com/organization/01-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Z.ai|[Link](https://chat.z.ai/)|[Link](https://www.linkedin.com/company/zdotai)|N/A|[109](https://www.linkedin.com/company/zhipuai/people/)|4k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[01.AI](https://01.ai/)|[Link](https://linkedin.com/company/01-ai)|N/A|87|7.4k|Software Development|
+
+### Beijing - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Spirit AI](https://www.spirit-ai.com/en/)|[Link](https://linkedin.com/company/spiritai-robotics)|2024|19|1.1k|IT Services and IT Consulting|
 
 ### Beijing - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Infervision|[Link](https://global.infervision.com/)|[Link](https://www.linkedin.com/company/infervision)|2016|[72](https://www.linkedin.com/company/infervision/people/)|3k|[Series D](//www.crunchbase.com/organization/infervision?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|iCarbonX|[Link](https://www.icarbonx.com/en/)|[Link](https://www.linkedin.com/company/icarbonx)|2015|[61](https://www.linkedin.com/company/icarbonx/people/)|2k|[Series A](//www.crunchbase.com/organization/icarbonx?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-
-### Beijing - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Baidu Apollo|[Link](https://apollo.auto/)|[Link](https://www.linkedin.com/company/baidu-apollo)|N/A|[37](https://www.linkedin.com/company/baidu-apollo/people/)|1k|-|Software Development|
-|Pony.ai|[Link](https://www.pony.ai/)|[Link](https://www.linkedin.com/company/pony-ai)|2016|[511](https://www.linkedin.com/company/pony-ai/people/)|60k|[Corporate Round](//www.crunchbase.com/organization/pony-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|autoX|[Link](https://www.autox.com)|[Link](https://www.linkedin.com/company/autox)|2006|[35](https://www.linkedin.com/company/autox/people/)|2k|-|Book and Periodical Publishing|
-|Momenta|[Link](http://www.momenta.ai)|[Link](https://www.linkedin.com/company/momenta-ai)|2016|[602](https://www.linkedin.com/company/momenta-ai/people/)|23k|-|Software Development|
-
-### Beijing - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Mobvoi|[Link](http://www.mobvoi.com)|[Link](https://www.linkedin.com/company/mobvoi)|2012|[245](https://www.linkedin.com/company/mobvoi/people/)|4k|[Series Unknown](//www.crunchbase.com/organization/mobvoi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Beijing - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Xiao-i|[Link](http://www.xiaoi.com)|[Link](https://www.linkedin.com/company/xiaoi)|2001|[152](https://www.linkedin.com/company/xiaoi/people/)|4k|[Post Ipo Equity](//www.crunchbase.com/organization/xiaoi-robert?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Beijing - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Kuaishou Technology|[Link](https://www.kuaishou.com/en)|[Link](https://www.linkedin.com/company/kuaishou)|2011|[6033](https://www.linkedin.com/company/kuaishou/people/)|142k|-|Software Development|
-|Meituan|[Link](https://www.meituan.com/en-US/about-us)|[Link](https://www.linkedin.com/company/meituan)|N/A|[40597](https://www.linkedin.com/company/meituan/people/)|282k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Infervision](https://global.infervision.com/)|[Link](https://linkedin.com/company/infervision)|2016|72|4.2k|Medical Equipment Manufacturing|
+|[iCarbonX](https://www.icarbonx.com/)|[Link](https://linkedin.com/company/icarbonx)|2015|65|2.6k|Biotechnology Research|
 
 ### Beijing - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|MEGVII旷视|[Link](http://www.megvii.com)|[Link](https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86)|2011|[536](https://www.linkedin.com/company/megvii/people/)|13k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DP Technology](https://www.dp.tech/en)|[Link](https://linkedin.com/company/dptechnology)|N/A|103|2k|Research Services|
 
 ### Beijing - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tencent Cloud|[Link](https://www.tencentcloud.com/)|[Link](https://www.linkedin.com/company/tencent-cloud)|2013|[492](https://www.linkedin.com/company/tencent-cloud/people/)|30k|-|IT Services and IT Consulting|
-|ByteDance|[Link](https://jobs.bytedance.com/en/?_tracking=lihome)|[Link](https://www.linkedin.com/company/bytedance)|N/A|[46613](https://www.linkedin.com/company/bytedance/people/)|1386k|-|Software Development|
-|Meituan|[Link](https://www.meituan.com/en-US/about-us)|[Link](https://www.linkedin.com/company/meituan)|N/A|[40597](https://www.linkedin.com/company/meituan/people/)|282k|-|Software Development|
-|JD|-|[Link](https://www.linkedin.com/company/jd)|N/A|[1313](https://www.linkedin.com/company/jd/people/)|3k|-|N/A|
-
-### Beijing - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Huawei|[Link](http://www.huawei.com/en/)|[Link](https://www.linkedin.com/company/huawei)|N/A|[134991](https://www.linkedin.com/company/huawei/people/)|5384k|[Seed](//www.crunchbase.com/organization/huawei?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Lenovo|[Link](http://www.lenovo.com)|[Link](https://www.linkedin.com/company/lenovo)|1984|[46349](https://www.linkedin.com/company/lenovo/people/)|1271k|[Post Ipo Debt](//www.crunchbase.com/organization/lenovo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|SAIC Motor|[Link](http://www.saicmotor.com)|[Link](https://www.linkedin.com/company/saic-motor)|1940|[2605](https://www.linkedin.com/company/saic-motor/people/)|14k|-|Motor Vehicle Manufacturing|
-|China Mobile|[Link](http://www.chinamobileltd.com)|[Link](https://www.linkedin.com/company/china-mobile)|N/A|[43129](https://www.linkedin.com/company/china-mobile/people/)|46k|[Post Ipo Equity](//www.crunchbase.com/organization/china-mobile?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|China Unicom|[Link](http://chinaunicom.com.cn)|[Link](https://www.linkedin.com/company/china-unicom)|N/A|[26387](https://www.linkedin.com/company/china-unicom/people/)|37k|[Post Ipo Equity](//www.crunchbase.com/organization/china-unicom?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Laiye](http://www.laiye.com/en)|[Link](https://linkedin.com/company/laiye)|N/A|464|22k|Software Development|
 
 ## Berlin
-### Berlin - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Pupil Labs|[Link](https://pupil-labs.com)|[Link](https://www.linkedin.com/company/pupil-labs)|2014|[27](https://www.linkedin.com/company/pupil-labs/people/)|3k|-|Research Services|
-|Mobius Labs|[Link](https://mobiuslabs.com/)|[Link](https://www.linkedin.com/company/mobiuslabs)|2018|[8](https://www.linkedin.com/company/mobiuslabs/people/)|5k|[Series A](//www.crunchbase.com/organization/mobius-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|nyris GmbH|[Link](https://nyris.io)|[Link](https://www.linkedin.com/company/nyris)|2015|[31](https://www.linkedin.com/company/nyris/people/)|4k|-|Software Development|
-|Birds.ai|[Link](https://birds.ai/projects)|[Link](https://www.linkedin.com/company/birds-ai)|2016|[0](https://www.linkedin.com/company/birds-ai/people/)|1k|-|Software Development|
-|PXL Vision|[Link](https://www.pxl-vision.com/en/contact/?utm_campaign=&utm_source=linkedin&utm_medium=social&utm_term=not_set&&utm_content=)|[Link](https://www.linkedin.com/company/pxl-vision)|2017|[34](https://www.linkedin.com/company/pxl-vision/people/)|3k|[Seed](//www.crunchbase.com/organization/pxl-vision-ag?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Paraspot AI|[Link](http://www.paraspot.ai)|[Link](https://www.linkedin.com/company/paraspot-ai)|2019|[6](https://www.linkedin.com/company/paraspot-ai/people/)|2k|[Seed](//www.crunchbase.com/organization/paraspot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Real Estate|
-|Relimetrics, Inc.|[Link](https://www.relimetrics.com)|[Link](https://www.linkedin.com/company/relimetrics)|2017|[13](https://www.linkedin.com/company/relimetrics/people/)|3k|[Series A](//www.crunchbase.com/organization/relimetrics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Berlin - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[LiveEO](https://www.live-eo.com)|[Link](https://linkedin.com/company/liveeo)|2018|167|25k|Software Development|
+|[autarc (YC S24)](https://www.autarc.energy)|[Link](https://linkedin.com/company/autarc-energy)|2023|75|5k|IT Services and IT Consulting|
+|[nyris GmbH](https://nyris.io)|[Link](https://linkedin.com/company/nyris)|2015|34|4.8k|Software Development|
+|[Pupil Labs](https://pupil-labs.com)|[Link](https://linkedin.com/company/pupil-labs)|2014|39|4.2k|Research Services|
+|[Relimetrics, Inc.](https://www.relimetrics.com)|[Link](https://linkedin.com/company/relimetrics)|2017|14|3.3k|Software Development|
 
 ### Berlin - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|deepset, makers of Haystack|[Link](https://www.deepset.ai/)|[Link](https://www.linkedin.com/company/deepset-ai)|N/A|[83](https://www.linkedin.com/company/deepset-ai/people/)|22k|[Series B](//www.crunchbase.com/organization/deepset?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Parloa|[Link](https://www.parloa.com)|[Link](https://www.linkedin.com/company/parloa)|2018|[424](https://www.linkedin.com/company/parloa/people/)|53k|[Series C](//www.crunchbase.com/organization/parloa?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Markup AI|[Link](https://bit.ly/3KpqsTu)|[Link](https://www.linkedin.com/company/markupai)|2002|[120](https://www.linkedin.com/company/acrolinx/people/)|9k|[Series A](//www.crunchbase.com/organization/markup-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Explosion|[Link](https://explosion.ai)|[Link](https://www.linkedin.com/company/explosion-ai)|2016|[17](https://www.linkedin.com/company/explosion-ai/people/)|16k|[Series A](//www.crunchbase.com/organization/explosion-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Explosion](https://explosion.ai)|[Link](https://linkedin.com/company/explosion-ai)|2016|18|16k|Software Development|
+|[Markup AI](https://markup.ai/)|[Link](https://linkedin.com/company/markupai)|2002|94|9.9k|Software Development|
 
 ### Berlin - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Micropsi Industries|[Link](http://www.micropsi-industries.com)|[Link](https://www.linkedin.com/company/micropsi-industries)|2014|[28](https://www.linkedin.com/company/micropsi-industries/people/)|10k|[Series B](//www.crunchbase.com/organization/micropsi-industries?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Wandelbots|[Link](http://www.wandelbots.com)|[Link](https://www.linkedin.com/company/wandelbots)|2017|[117](https://www.linkedin.com/company/wandelbots/people/)|17k|[Series C](//www.crunchbase.com/organization/wandelbots?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|German Bionic|[Link](http://www.germanbionic.com/)|[Link](https://www.linkedin.com/company/germanbionic)|2017|[75](https://www.linkedin.com/company/germanbionic/people/)|9k|[Series A](//www.crunchbase.com/organization/german-bionic-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|sensmore|[Link](https://www.sensmore.ai/)|[Link](https://www.linkedin.com/company/sensmore)|2022|[14](https://www.linkedin.com/company/sensmore/people/)|3k|[Series Unknown](//www.crunchbase.com/organization/sensmore?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Wandelbots](http://www.wandelbots.com)|[Link](https://linkedin.com/company/wandelbots)|2017|137|21k|Software Development|
+|[Micropsi Industries](http://www.micropsi-industries.com)|[Link](https://linkedin.com/company/micropsi-industries)|2014|18|11k|Automation Machinery Manufacturing|
+|[German Bionic](http://www.germanbionic.com/)|[Link](https://linkedin.com/company/germanbionic)|2017|54|11k|IT Services and IT Consulting|
+|[sensmore](https://www.sensmore.ai/)|[Link](https://linkedin.com/company/sensmore)|2022|20|5.3k|Software Development|
 
 ### Berlin - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Ada Health|[Link](https://about.ada.com)|[Link](https://www.linkedin.com/company/ada-health)|2011|[187](https://www.linkedin.com/company/ada-health/people/)|42k|[Series B](//www.crunchbase.com/organization/adahealth?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|VARA|[Link](https://www.linkedin.com/company/bnnvara/)|[Link](https://www.linkedin.com/company/vara)|N/A|[108](https://www.linkedin.com/company/vara/people/)|4k|-|Broadcast Media Production and Distribution|
-|Careship|[Link](https://www.careship.de)|[Link](https://www.linkedin.com/company/careship)|2015|[40](https://www.linkedin.com/company/careship/people/)|2k|[Series B](//www.crunchbase.com/organization/careship?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Merantix Capital|[Link](http://www.merantix.com)|[Link](https://www.linkedin.com/company/merantix-capital)|2016|[33](https://www.linkedin.com/company/merantix/people/)|20k|[Seed](//www.crunchbase.com/organization/merantix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Venture Capital and Private Equity Principals|
-|Aignostics|[Link](http://www.aignostics.com)|[Link](https://www.linkedin.com/company/aignostics)|2018|[139](https://www.linkedin.com/company/aignostics/people/)|10k|[Series B](//www.crunchbase.com/organization/aignostics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|REMATIQ|-|[Link](https://www.linkedin.com/company/rematiq)|2023|[17](https://www.linkedin.com/company/rematiq/people/)|5k|[Seed](//www.crunchbase.com/organization/rematiq?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|biotx.ai|[Link](https://www.biotx.ai)|[Link](https://www.linkedin.com/company/biotx-ai)|2017|[16](https://www.linkedin.com/company/biotx-ai/people/)|2k|[Convertible Note](//www.crunchbase.com/organization/biotx-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Information Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ada Health](https://about.ada.com)|[Link](https://linkedin.com/company/ada-health)|2011|157|46k|Hospitals and Health Care|
+|[voize](http://voize.ai)|[Link](https://linkedin.com/company/voize-ai)|2020|192|15k|Software Development|
+|[Vara](https://www.vara.ai)|[Link](https://linkedin.com/company/vara-ai)|N/A|53|12k|Hospitals and Health Care|
+|[Aignostics](http://www.aignostics.com)|[Link](https://linkedin.com/company/aignostics)|2018|106|12k|Software Development|
+|[Apheris](https://www.apheris.com/)|[Link](https://linkedin.com/company/apheris)|2019|64|11k|Biotechnology Research|
+|REMATIQ|[Link](https://linkedin.com/company/rematiq)|2023|23|6.1k|Software Development|
+|[Careship](https://www.careship.de)|[Link](https://linkedin.com/company/careship)|2015|40|2.8k|Hospitals and Health Care|
+|[biotx.ai](http://www.biotx.ai)|[Link](https://linkedin.com/company/biotx-ai)|2017|15|2.6k|Information Services|
 
 ### Berlin - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ENWAY a Bucher Company|[Link](http://enway.ai/)|[Link](https://www.linkedin.com/company/enway)|2017|[15](https://www.linkedin.com/company/enway/people/)|2k|[Seed](//www.crunchbase.com/organization/enway?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|MOTOR Ai|[Link](https://www.motor-ai.com)|[Link](https://www.linkedin.com/company/motorai)|2017|[82](https://www.linkedin.com/company/motor-ai/people/)|6k|-|Motor Vehicle Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vay](https://vay.io/)|[Link](https://linkedin.com/company/vaytechnology)|2018|224|21k|Software Development|
 
-### Berlin - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Ada Health|[Link](https://about.ada.com)|[Link](https://www.linkedin.com/company/ada-health)|2011|[187](https://www.linkedin.com/company/ada-health/people/)|42k|[Series B](//www.crunchbase.com/organization/adahealth?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Rasa|[Link](https://rasa.com/)|[Link](https://www.linkedin.com/company/rasa)|2016|[175](https://www.linkedin.com/company/rasa/people/)|23k|-|Software Development|
-|ai-coustics|[Link](http://www.ai-coustics.com/?utm_source=linkedin&utm_medium=social&utm_campaign=premiumcta)|[Link](https://www.linkedin.com/company/ai-coustics)|2021|[29](https://www.linkedin.com/company/ai-coustics/people/)|4k|[Seed](//www.crunchbase.com/organization/ai-coustics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Berlin - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Synthflow AI](https://synthflow.ai)|[Link](https://linkedin.com/company/synthflowai)|2023|56|15k|Software Development|
+|[Mirelo](https://www.mirelo.ai/)|[Link](https://linkedin.com/company/mirelo-ai)|N/A|36|9.4k|Software Development|
+|[telli](https://hi.telli.com/li)|[Link](https://linkedin.com/company/tellitechnologies)|N/A|51|9.1k|Software Development|
 
-### Berlin - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Rasa|[Link](https://rasa.com/)|[Link](https://www.linkedin.com/company/rasa)|2016|[175](https://www.linkedin.com/company/rasa/people/)|23k|-|Software Development|
+### Berlin - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Parloa](http://www.parloa.com)|[Link](https://linkedin.com/company/parloa)|2018|646|94k|Software Development|
 
 ### Berlin - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Konfuzio|[Link](https://konfuzio.com)|[Link](https://www.linkedin.com/company/ai-software-konfuzio)|2016|[4](https://www.linkedin.com/company/konfuzio/people/)|1k|[Non Equity Assistance](//www.crunchbase.com/organization/konfuzio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Hypatos|[Link](http://www.hypatos.ai)|[Link](https://www.linkedin.com/company/hypatos)|2018|[99](https://www.linkedin.com/company/hypatos/people/)|6k|[Series A](//www.crunchbase.com/organization/hypatos?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Workist](https://workist.com/)|[Link](https://linkedin.com/company/workist-com)|2019|52|8.2k|Software Development|
+|[Hypatos](http://www.hypatos.ai)|[Link](https://linkedin.com/company/hypatos)|2018|106|6.9k|Software Development|
+|[Konfuzio](http://www.konfuzio.com)|[Link](https://linkedin.com/company/ai-software-konfuzio)|2016|1|1.3k|Software Development|
 
 ### Berlin - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Productsup|[Link](https://www.productsup.com)|[Link](https://www.linkedin.com/company/productsup)|N/A|[226](https://www.linkedin.com/company/productsup/people/)|14k|[Series B](//www.crunchbase.com/organization/productsup?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Blue Yonder|[Link](https://blueyonder.com/)|[Link](https://www.linkedin.com/company/blueyonder)|N/A|[8315](https://www.linkedin.com/company/blueyonder/people/)|376k|-|Software Development|
-|Peec AI|[Link](https://peec.ai/)|[Link](https://www.linkedin.com/company/peec-ai)|2025|[47](https://www.linkedin.com/company/peec-ai/people/)|17k|[Seed](//www.crunchbase.com/organization/peec-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[SoundCloud](http://www.soundcloud.com)|[Link](https://linkedin.com/company/soundcloud)|N/A|1k|314k|Entertainment Providers|
+|[Ecosia](http://www.ecosia.org)|[Link](https://linkedin.com/company/ecosia)|2009|143|178k|Software Development|
+|[Productsup](https://www.productsup.com)|[Link](https://linkedin.com/company/productsup)|N/A|187|16k|Software Development|
 
 ### Berlin - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Merantix Capital|[Link](http://www.merantix.com)|[Link](https://www.linkedin.com/company/merantix-capital)|2016|[33](https://www.linkedin.com/company/merantix/people/)|20k|[Seed](//www.crunchbase.com/organization/merantix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Venture Capital and Private Equity Principals|
-|QuantCo|[Link](http://www.quantco.com)|[Link](https://www.linkedin.com/company/quantco)|N/A|[243](https://www.linkedin.com/company/quantco/people/)|14k|-|Software Development|
-|KONUX|[Link](http://www.konux.com/career)|[Link](https://www.linkedin.com/company/konux)|2014|[120](https://www.linkedin.com/company/konux/people/)|13k|[Series C](//www.crunchbase.com/organization/konux?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|TWAICE|[Link](http://www.twaice.com)|[Link](https://www.linkedin.com/company/twaice)|2018|[108](https://www.linkedin.com/company/twaice/people/)|17k|[Series B](//www.crunchbase.com/organization/twaice?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Teraki|[Link](https://www.teraki.com)|[Link](https://www.linkedin.com/company/teraki)|2015|[14](https://www.linkedin.com/company/teraki/people/)|12k|[Series A](//www.crunchbase.com/organization/teraki?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Apheris|[Link](https://www.apheris.com/)|[Link](https://www.linkedin.com/company/apheris)|2019|[48](https://www.linkedin.com/company/apheris/people/)|7k|-|Computer and Network Security|
-|Dryad Networks|[Link](http://www.dryad.net)|[Link](https://www.linkedin.com/company/dryadnetworks)|2020|[52](https://www.linkedin.com/company/dryad-networks/people/)|8k|[Grant](//www.crunchbase.com/organization/dryad-3351?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Renewable Energy Semiconductor Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Teraki](http://www.teraki.com)|[Link](https://linkedin.com/company/teraki)|2015|9|13k|IT Services and IT Consulting|
+|[Dryad Networks](http://www.dryad.net)|[Link](https://linkedin.com/company/dryadnetworks)|2020|42|9.8k|Renewable Energy Semiconductor Manufacturing|
+|[SPREAD AI](http://spread.ai)|[Link](https://linkedin.com/company/spread-ai)|2019|92|9.2k|IT Services and IT Consulting|
 
 ### Berlin - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Celonis|[Link](http://www.celonis.com)|[Link](https://www.linkedin.com/company/celonis)|2011|[3764](https://www.linkedin.com/company/celonis/people/)|318k|[Secondary Market](//www.crunchbase.com/organization/celonis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Mambu|[Link](https://www.mambu.com/)|[Link](https://www.linkedin.com/company/mambu)|N/A|[764](https://www.linkedin.com/company/mambu/people/)|88k|[Series E](//www.crunchbase.com/organization/mambu?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Contentful|[Link](https://ctfl.io/3LkUMPz)|[Link](https://www.linkedin.com/company/contentful)|2013|[1017](https://www.linkedin.com/company/contentful/people/)|83k|[Series F](//www.crunchbase.com/organization/contentful?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|N26|[Link](https://n26.com)|[Link](https://www.linkedin.com/company/n26)|2013|[1810](https://www.linkedin.com/company/n26/people/)|308k|[Series E](//www.crunchbase.com/organization/n26?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Trade Republic|[Link](https://traderepublic.com/en-de)|[Link](https://www.linkedin.com/company/trade-republic)|2015|[1318](https://www.linkedin.com/company/trade-republic/people/)|145k|[Series C](//www.crunchbase.com/organization/trade-republic?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Banking|
-|Taxfix|[Link](http://taxfix.de/en)|[Link](https://www.linkedin.com/company/taxfix)|2016|[377](https://www.linkedin.com/company/taxfix/people/)|28k|[Series D](//www.crunchbase.com/organization/taxfix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|SumUp|[Link](https://go.sumup.com/globalcareers)|[Link](https://www.linkedin.com/company/sumup)|N/A|[3849](https://www.linkedin.com/company/sumup/people/)|177k|[Debt Financing](//www.crunchbase.com/organization/sumup?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|n8n|[Link](https://n8n.io)|[Link](https://www.linkedin.com/company/n8n)|2019|[724](https://www.linkedin.com/company/n8n-io/people/)|276k|[Series C](//www.crunchbase.com/organization/n8n-io?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Interloom|[Link](https://interloom.io/)|[Link](https://www.linkedin.com/company/interloom)|2024|[18](https://www.linkedin.com/company/interloom/people/)|1k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[n8n](https://n8n.io)|[Link](https://linkedin.com/company/n8n)|2019|1.4k|443k|Software Development|
+|[N26](https://n26.com/)|[Link](https://linkedin.com/company/n26)|2013|2.2k|341k|Financial Services|
+|[Contentful](https://www.contentful.com/)|[Link](https://linkedin.com/company/contentful)|2013|1k|92k|Software Development|
+|[Choco](https://choco.com/)|[Link](https://linkedin.com/company/choco-ai)|2018|423|38k|Software Development|
+|[Peec AI](https://peec.ai/)|[Link](https://linkedin.com/company/peec-ai)|2025|119|36k|Software Development|
+|[Taxfix](http://taxfix.de/en)|[Link](https://linkedin.com/company/taxfix)|2016|384|31k|Financial Services|
+|[Noxtua](http://www.noxtua.com)|[Link](https://linkedin.com/company/noxtua)|N/A|101|9.4k|Software Development|
 
 ### Berlin - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DCMN|[Link](https://dcmn.com/)|[Link](https://www.linkedin.com/company/dcmn)|2010|[97](https://www.linkedin.com/company/dcmn/people/)|10k|[Debt Financing](//www.crunchbase.com/organization/dcmn?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Advertising Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Merantix Momentum](https://www.merantix-momentum.com)|[Link](https://linkedin.com/company/merantix-momentum)|2019|71|14k|IT Services and IT Consulting|
+|[DCMN](https://dcmn.com/)|[Link](https://linkedin.com/company/dcmn)|2010|96|11k|Advertising Services|
+|[dida](http://www.dida.do)|[Link](https://linkedin.com/company/dida-machine-learning)|2018|42|5.8k|Software Development|
+
+### Berlin - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Qdrant](https://qdrant.tech)|[Link](https://linkedin.com/company/qdrant)|2021|159|65k|Software Development|
+|[deepset, makers of Haystack](https://www.deepset.ai/)|[Link](https://linkedin.com/company/deepset-ai)|N/A|84|25k|Software Development|
+|[dltHub](https://dlthub.com)|[Link](https://linkedin.com/company/dlthub)|2022|39|14k|Software Development|
+|[cognee](https://www.cognee.ai/)|[Link](https://linkedin.com/company/cognee-ai)|2024|23|7.4k|Software Development|
+|Tiptap|[Link](https://linkedin.com/company/tiptapdev)|N/A|19|5.9k|Software Development|
+|[ComplyDo (YC F25)](https://www.complydo.io)|[Link](https://linkedin.com/company/complydo-io)|2025|18|2k|Software Development|
 
 ### Berlin - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|HelloFresh|[Link](https://careers.hellofresh.com/global/en)|[Link](https://www.linkedin.com/company/hellofresh)|N/A|[16901](https://www.linkedin.com/company/hellofresh/people/)|425k|[Series G](//www.crunchbase.com/organization/hellofresh?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Consumer Services|
-|AUTO1 Group|[Link](https://www.auto1-group.com/careers/)|[Link](https://www.linkedin.com/company/auto1-group)|2012|[4679](https://www.linkedin.com/company/auto1-group/people/)|185k|[Post Ipo Debt](//www.crunchbase.com/organization/auto1-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|sennder|[Link](http://www.sennder.com)|[Link](https://www.linkedin.com/company/sennder)|2015|[1069](https://www.linkedin.com/company/sennder/people/)|47k|[Series D](//www.crunchbase.com/organization/sennder?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
-|wefox|[Link](http://www.wefox.com)|[Link](https://www.linkedin.com/company/wefox)|2015|[330](https://www.linkedin.com/company/wefox/people/)|38k|[Series Unknown](//www.crunchbase.com/organization/wefox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Insurance|
-|Helsing|[Link](http://www.helsing.ai)|[Link](https://www.linkedin.com/company/helsing)|2021|[629](https://www.linkedin.com/company/helsing/people/)|93k|[Series D](//www.crunchbase.com/organization/helsing?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[sennder](http://www.sennder.com)|[Link](https://linkedin.com/company/sennder)|2015|1k|51k|Truck Transportation|
+|[Langdock](https://langdock.com)|[Link](https://linkedin.com/company/langdock)|2023|74|33k|Software Development|
+|[Knowunity](https://knowunity.com/careers)|[Link](https://linkedin.com/company/knowunity)|2020|164|18k|Software Development|
+|[Kittl](https://www.kittl.com/)|[Link](https://linkedin.com/company/kittl)|2020|156|10k|Software Development|
+|[truemetrics](https://truemetrics.io)|[Link](https://linkedin.com/company/truemetricsio)|2021|8|4.8k|IT Services and IT Consulting|
+
+## Bogotá
+### Bogotá - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[1DOC3](https://www.1doc3.com/web/empresas)|[Link](https://linkedin.com/company/1doc3)|2014|94|13k|Hospitals and Health Care|
+|[Arkangel AI](https://www.arkangel.ai/es)|[Link](https://linkedin.com/company/arkangel-ai)|2019|11|7.5k|Software Development|
+
+### Bogotá - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Rappi](https://about.rappi.com/es/inicio)|[Link](https://linkedin.com/company/rappi)|2015|15k|786k|Software Development|
+
+### Bogotá - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Addi](http://www.addi.com)|[Link](https://linkedin.com/company/addicol)|2018|967|175k|Financial Services|
+|[Bold](http://www.bold.co)|[Link](https://linkedin.com/company/boldteam)|2019|1.5k|122k|Financial Services|
+|[Simetrik](https://simetrik.com)|[Link](https://linkedin.com/company/simetrikinc)|2017|339|41k|Software Development|
+|[Hoytrabajas (YC W22)](https://tu.hoytrabajas.com/reunion-15minutos-hoytrabajas)|[Link](https://linkedin.com/company/hoytrabajas)|2019|39|15k|Human Resources Services|
+|[Palomma (YC W23)](https://www.palomma.com/)|[Link](https://linkedin.com/company/palomma)|2023|17|3.8k|Financial Services|
+|[Cifrato (YC W25)](https://cifrato.ai)|[Link](https://linkedin.com/company/cifrato)|2025|16|1.3k|Software Development|
+
+### Bogotá - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Quantil](http://quantil.co/)|[Link](https://linkedin.com/company/quantil-math)|2008|31|3.8k|IT Services and IT Consulting|
+
+### Bogotá - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dapta](https://www.dapta.ai/)|[Link](https://linkedin.com/company/dapta-ai)|2023|60|18k|Software Development|
+
+### Bogotá - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Habi](https://habi.co/)|[Link](https://linkedin.com/company/habi-co)|2019|1.5k|88k|Real Estate|
+|[Treinta](http://www.treinta.co)|[Link](https://linkedin.com/company/treinta)|2020|270|44k|Software Development|
 
 ## Boston
-### Boston - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Neurala|[Link](http://www.neurala.com)|[Link](https://www.linkedin.com/company/neurala)|2006|[33](https://www.linkedin.com/company/neurala/people/)|9k|[Series Unknown](//www.crunchbase.com/organization/neurala?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Realtime Robotics, Inc.|[Link](https://www.rtr.ai)|[Link](https://www.linkedin.com/company/realtimerobotics)|2016|[51](https://www.linkedin.com/company/realtimerobotics/people/)|17k|[Series B](//www.crunchbase.com/organization/realtime-robotics-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+### Boston - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Neurala](http://www.neurala.com)|[Link](https://linkedin.com/company/neurala)|2006|26|9.5k|Software Development|
 
 ### Boston - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Formlabs|[Link](https://formlabs.com/company/contact/)|[Link](https://www.linkedin.com/company/formlabs)|2011|[730](https://www.linkedin.com/company/formlabs/people/)|123k|[Series E](//www.crunchbase.com/organization/formlabs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|DataRobot|[Link](https://www.datarobot.com)|[Link](https://www.linkedin.com/company/datarobot)|N/A|[849](https://www.linkedin.com/company/datarobot/people/)|151k|[Series G](//www.crunchbase.com/organization/datarobot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Formlabs](https://formlabs.com)|[Link](https://linkedin.com/company/formlabs)|2011|775|137k|Computers and Electronics Manufacturing|
+|[Insurify](https://insurify.com/)|[Link](https://linkedin.com/company/insurify)|2013|263|11k|Software Development|
 
 ### Boston - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Boston Dynamics|[Link](http://www.bostondynamics.com)|[Link](https://www.linkedin.com/company/boston-dynamics)|N/A|[1399](https://www.linkedin.com/company/boston-dynamics/people/)|627k|[Series Unknown](//www.crunchbase.com/organization/boston-dynamics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Realtime Robotics, Inc.|[Link](https://www.rtr.ai)|[Link](https://www.linkedin.com/company/realtimerobotics)|2016|[51](https://www.linkedin.com/company/realtimerobotics/people/)|17k|[Series B](//www.crunchbase.com/organization/realtime-robotics-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Locus Robotics|[Link](https://locusrobotics.com/solutions)|[Link](https://www.linkedin.com/company/locus-robotics)|2014|[488](https://www.linkedin.com/company/locus-robotics/people/)|107k|[Series F](//www.crunchbase.com/organization/locus-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Locus Robotics](https://locusrobotics.com/)|[Link](https://linkedin.com/company/locus-robotics)|2014|474|114k|Automation Machinery Manufacturing|
+|[RightHand Robotics, Inc](http://www.righthandrobotics.com)|[Link](https://linkedin.com/company/righthand-robotics-inc)|2015|39|24k|Truck Transportation|
+|[Pickle Robot Company](http://www.picklerobot.com)|[Link](https://linkedin.com/company/pickle-robot-company)|2018|127|23k|Automation Machinery Manufacturing|
+|[Realtime Robotics, Inc.](https://www.rtr.ai)|[Link](https://linkedin.com/company/realtimerobotics)|2016|69|21k|Automation Machinery Manufacturing|
+|[Volta Labs, Inc.](https://voltalabs.com)|[Link](https://linkedin.com/company/volta-labs-inc)|2018|50|8.7k|Biotechnology Research|
 
 ### Boston - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|PathAI|[Link](http://www.pathai.com)|[Link](https://www.linkedin.com/company/pathai)|2016|[268](https://www.linkedin.com/company/pathai/people/)|88k|[Debt Financing](//www.crunchbase.com/organization/pathai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Ginkgo Bioworks, Inc.|[Link](https://www.ginkgo.bio/)|[Link](https://www.linkedin.com/company/ginkgo-bioworks)|2009|[660](https://www.linkedin.com/company/ginkgo-bioworks/people/)|105k|[Grant](//www.crunchbase.com/organization/ginkgo-bioworks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Verge Genomics|[Link](http://www.vergegenomics.com)|[Link](https://www.linkedin.com/company/verge-genomics)|2015|[29](https://www.linkedin.com/company/verge-genomics/people/)|17k|[Series Unknown](//www.crunchbase.com/organization/verge-genomics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Gritstone bio|[Link](http://www.gritstonebio.com/)|[Link](https://www.linkedin.com/company/gritstone-bio)|2015|[35](https://www.linkedin.com/company/gritstone-bio/people/)|11k|-|Biotechnology Research|
-|Biofourmis|[Link](http://www.biofourmis.com)|[Link](https://www.linkedin.com/company/biofourmis)|2015|[133](https://www.linkedin.com/company/biofourmis/people/)|43k|[Series D](//www.crunchbase.com/organization/biofourmis-pte-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-
-### Boston - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Optimus Ride|-|[Link](https://www.linkedin.com/company/optimus-ride)|2015|[12](https://www.linkedin.com/company/optimus-ride/people/)|6k|[Series B](//www.crunchbase.com/organization/optimus-ride?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Consumer Services|
-|nuTonomy|[Link](http://www.nutonomy.com)|[Link](https://www.linkedin.com/company/nutonomy)|2013|[8](https://www.linkedin.com/company/nutonomy/people/)|15k|[Series A](//www.crunchbase.com/organization/nutonomy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-
-### Boston - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Voiceitt|[Link](https://www.voiceitt.com)|[Link](https://www.linkedin.com/company/voiceitt)|2012|[24](https://www.linkedin.com/company/voiceitt/people/)|5k|[Series Unknown](//www.crunchbase.com/organization/voiceitt?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Boston - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Drift, a Salesloft company|[Link](https://www.drift.com/)|[Link](https://www.linkedin.com/company/drift)|2015|[276](https://www.linkedin.com/company/drift/people/)|91k|[Secondary Market](//www.crunchbase.com/organization/drift?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Conversica|[Link](https://www.conversica.com)|[Link](https://www.linkedin.com/company/conversica)|2007|[116](https://www.linkedin.com/company/conversica/people/)|21k|[Series E](//www.crunchbase.com/organization/conversica?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[WHOOP](http://www.whoop.com)|[Link](https://linkedin.com/company/whoop)|2012|1.7k|312k|Wellness and Fitness Services|
+|[Cohere Health](http://www.coherehealth.com)|[Link](https://linkedin.com/company/coherehealth)|2019|1k|186k|Software Development|
+|[nference](https://nference.com/)|[Link](https://linkedin.com/company/nference)|2013|315|112k|Biotechnology Research|
+|[PathAI](http://www.pathai.com)|[Link](https://linkedin.com/company/pathai)|2016|277|97k|Software Development|
+|[Eleos Health](https://www.eleos.health/)|[Link](https://linkedin.com/company/eleoshealth)|2020|301|65k|Mental Health Care|
+|[Generate:Biomedicines](https://generatebiomedicines.com/)|[Link](https://linkedin.com/company/generate-biomedicines)|N/A|335|62k|Biotechnology Research|
+|[ConcertAI](https://concertai.com/)|[Link](https://linkedin.com/company/concertai)|N/A|853|56k|Biotechnology Research|
+|[Wysa](http://www.wysa.com)|[Link](https://linkedin.com/company/wysa-ai)|2015|176|33k|Mental Health Care|
+|[Dyno Therapeutics](http://www.dynotx.com)|[Link](https://linkedin.com/company/dynotx)|2018|94|25k|Biotechnology Research|
+|[BrainCo Inc](http://www.brainco.tech)|[Link](https://linkedin.com/company/brainco)|2015|114|21k|Biotechnology Research|
+|[Lindus](https://www.lindushealth.com/)|[Link](https://linkedin.com/company/lindustx)|N/A|164|19k|Biotechnology Research|
+|[Valo Health](http://www.valohealth.com)|[Link](https://linkedin.com/company/valo-health)|N/A|211|19k|Biotechnology Research|
+|[Buoy Health](https://www.buoy.com/)|[Link](https://linkedin.com/company/buoyhealth)|2014|27|13k|Wellness and Fitness Services|
+|[Nabla Bio](http://www.nabla.bio)|[Link](https://linkedin.com/company/nabla-bio)|N/A|28|12k|Biotechnology Research|
+|[Maven Bio](https://mavenbio.com)|[Link](https://linkedin.com/company/mavenbio)|2023|13|6.5k|Software Development|
+|[Superluminal Medicines Inc.](https://superluminalrx.com/)|[Link](https://linkedin.com/company/superluminalrx)|N/A|65|6.1k|Biotechnology Research|
+|[PostEra](http://www.postera.ai)|[Link](https://linkedin.com/company/postera-ai)|2019|41|6k|Biotechnology Research|
+|[Kernal Biologics](http://www.kernalbio.com)|[Link](https://linkedin.com/company/kernal-biologics-inc.)|2016|21|5.1k|Biotechnology Research|
+|[HYBRD](https://www.hybrd.com/)|[Link](https://linkedin.com/company/hybrd-app)|2024|9|3.1k|Software Development|
+|[Emerald Innovations](https://www.emeraldinno.com)|[Link](https://linkedin.com/company/emerald-innovations)|2019|13|2.2k|Software Development|
+|[Pando Bioscience (YC W23)](https://pando.bio/)|[Link](https://linkedin.com/company/pando-bioscience)|2023|7|1.9k|Biotechnology Research|
+|[Delineate](https://delineate.pro)|[Link](https://linkedin.com/company/delineate-pro)|N/A|32|1.5k|Software Development|
 
 ### Boston - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DataRobot|[Link](https://www.datarobot.com)|[Link](https://www.linkedin.com/company/datarobot)|N/A|[849](https://www.linkedin.com/company/datarobot/people/)|151k|[Series G](//www.crunchbase.com/organization/datarobot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Indico Data](http://indicodata.ai)|[Link](https://linkedin.com/company/indico-data-solutions)|2013|70|6.7k|Software Development|
 
 ### Boston - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|HubSpot|[Link](https://hubspot.com)|[Link](https://www.linkedin.com/company/hubspot)|2006|[12229](https://www.linkedin.com/company/hubspot/people/)|1620k|[Series E](//www.crunchbase.com/organization/hubspot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Algolia|[Link](https://www.algolia.com)|[Link](https://www.linkedin.com/company/algolia)|2012|[852](https://www.linkedin.com/company/algolia/people/)|71k|[Series D](//www.crunchbase.com/organization/algolia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Perk](https://www.perk.com/)|[Link](https://linkedin.com/company/perk)|N/A|2.2k|240k|Software Development|
 
 ### Boston - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DataRobot|[Link](https://www.datarobot.com)|[Link](https://www.linkedin.com/company/datarobot)|N/A|[849](https://www.linkedin.com/company/datarobot/people/)|151k|[Series G](//www.crunchbase.com/organization/datarobot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Neurala|[Link](http://www.neurala.com)|[Link](https://www.linkedin.com/company/neurala)|2006|[33](https://www.linkedin.com/company/neurala/people/)|9k|[Series Unknown](//www.crunchbase.com/organization/neurala?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Kyruus Health|[Link](http://www.kyruushealth.com)|[Link](https://www.linkedin.com/company/kyruushealth)|2010|[266](https://www.linkedin.com/company/kyruus/people/)|16k|-|Hospitals and Health Care|
-|Formlabs|[Link](https://formlabs.com/company/contact/)|[Link](https://www.linkedin.com/company/formlabs)|2011|[730](https://www.linkedin.com/company/formlabs/people/)|123k|[Series E](//www.crunchbase.com/organization/formlabs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lila Sciences](http://www.lila.ai)|[Link](https://linkedin.com/company/lila-sciences)|N/A|567|80k|Software Development|
+|[JuliaHub](https://juliahub.com/)|[Link](https://linkedin.com/company/juliahub)|2015|106|36k|Software Development|
+|[Tulip Interfaces](https://tulip.co)|[Link](https://linkedin.com/company/tulip-interfaces)|2012|402|34k|Software Development|
+|[Tomorrow.io](https://www.tomorrow.io)|[Link](https://linkedin.com/company/tomorrow-io)|2016|228|32k|Software Development|
+|[QuantCo](http://www.quantco.com)|[Link](https://linkedin.com/company/quantco)|N/A|264|17k|Software Development|
 
 ### Boston - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|HubSpot|[Link](https://hubspot.com)|[Link](https://www.linkedin.com/company/hubspot)|2006|[12229](https://www.linkedin.com/company/hubspot/people/)|1620k|[Series E](//www.crunchbase.com/organization/hubspot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|TOAST|[Link](http://www.toa.st)|[Link](https://www.linkedin.com/company/toast)|1997|[330](https://www.linkedin.com/company/toast/people/)|16k|-|Retail|
-|DataRobot|[Link](https://www.datarobot.com)|[Link](https://www.linkedin.com/company/datarobot)|N/A|[849](https://www.linkedin.com/company/datarobot/people/)|151k|[Series G](//www.crunchbase.com/organization/datarobot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Klaviyo|[Link](https://www.klaviyo.com/)|[Link](https://www.linkedin.com/company/klaviyo)|2012|[2829](https://www.linkedin.com/company/klaviyo/people/)|160k|[Post Ipo Secondary](//www.crunchbase.com/organization/klaviyo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Advertising Services|
-|Wayfair|[Link](http://bit.ly/wayfair_careers)|[Link](https://www.linkedin.com/company/wayfair)|2002|[12337](https://www.linkedin.com/company/wayfair/people/)|417k|[Post Ipo Debt](//www.crunchbase.com/organization/wayfair?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail|
-|CarGurus|[Link](http://www.cargurus.com)|[Link](https://www.linkedin.com/company/cargurus)|2006|[1337](https://www.linkedin.com/company/cargurus/people/)|47k|[Post Ipo Secondary](//www.crunchbase.com/organization/cargurus?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Tripadvisor|[Link](https://tripadvisor.onelink.me/dIWJ/0o5urg0x)|[Link](https://www.linkedin.com/company/tripadvisor)|N/A|[5840](https://www.linkedin.com/company/tripadvisor/people/)|424k|[Post Ipo Equity](//www.crunchbase.com/organization/tripadvisor?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Workable](https://www.workable.com)|[Link](https://linkedin.com/company/workable-software)|2012|447|93k|Software Development|
+|[Earnix](http://earnix.com)|[Link](https://linkedin.com/company/earnix)|2001|460|42k|Software Development|
+|[Vector 👻](https://vector.co)|[Link](https://linkedin.com/company/getvector)|2022|93|12k|Software Development|
+|[Day AI](https://day.ai)|[Link](https://linkedin.com/company/day-ai)|2023|43|8.1k|Software Development|
+|[FlyCode Inc.](https://www.flycode.com/)|[Link](https://linkedin.com/company/flycodehq)|2023|7|2.2k|Software Development|
 
 ### Boston - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|BCG GAMMA|[Link](https://www.bcg.com/en-nl/beyond-consulting/bcg-gamma/default.aspx)|[Link](https://www.linkedin.com/company/bcg-gamma)|2015|[130](https://www.linkedin.com/company/bcg-gamma/people/)|78k|-|Business Consulting and Services|
-|DataRobot|[Link](https://www.datarobot.com)|[Link](https://www.linkedin.com/company/datarobot)|N/A|[849](https://www.linkedin.com/company/datarobot/people/)|151k|[Series G](//www.crunchbase.com/organization/datarobot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Arionkoder](https://www.arionkoder.com)|[Link](https://linkedin.com/company/arionkoder)|2020|173|16k|IT Services and IT Consulting|
+
+### Boston - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DataRobot](https://www.datarobot.com)|[Link](https://linkedin.com/company/datarobot)|N/A|818|159k|Software Development|
+|[Liquid AI](http://liquid.ai)|[Link](https://linkedin.com/company/liquid-ai-inc)|2023|140|46k|Information Services|
+|[Tamr](http://www.tamr.com/)|[Link](https://linkedin.com/company/tamrinc)|2013|106|16k|Software Development|
+|[Expected Parrot (YC F25)](https://www.expectedparrot.com)|[Link](https://linkedin.com/company/expectedparrot)|N/A|3|1.4k|Software Development|
+|[Alpha Vantage Inc.](https://www.alphavantage.co)|[Link](https://linkedin.com/company/alpha-vantage-inc)|N/A|5|1.1k|Software Development|
 
 ### Boston - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|GE Digital|[Link](http://www.ge.com/digital)|[Link](https://www.linkedin.com/company/ge-digital)|N/A|[1919](https://www.linkedin.com/company/ge-digital/people/)|315k|-|Software Development|
-|iRobot|[Link](https://careers.irobot.com/)|[Link](https://www.linkedin.com/company/irobot)|1990|[1061](https://www.linkedin.com/company/irobot/people/)|96k|[Post Ipo Debt](//www.crunchbase.com/organization/irobot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|Raytheon|[Link](http://www.rtx.com)|[Link](https://www.linkedin.com/company/raytheon)|N/A|[52220](https://www.linkedin.com/company/raytheon/people/)|1317k|[Grant](//www.crunchbase.com/organization/raytheon?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Defense and Space Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[OutSystems](https://www.outsystems.com/)|[Link](https://linkedin.com/company/outsystems)|2001|2.2k|190k|Software Development|
+|[Cambridge Mobile Telematics](http://www.cmt.ai)|[Link](https://linkedin.com/company/cmt-ai)|2010|471|18k|Software Development|
+|[Centaur.ai](https://centaur.ai)|[Link](https://linkedin.com/company/centaur-labs)|2017|81|7.6k|Software Development|
+
+## Brussels
+### Brussels - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Go Vocal](https://www.govocal.com)|[Link](https://linkedin.com/company/govocal)|2015|62|20k|IT Services and IT Consulting|
+
+### Brussels - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Kantify](http://www.kantify.com)|[Link](https://linkedin.com/company/kantify)|2017|13|3.7k|Biotechnology Research|
+
+## Bucharest
+### Bucharest - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Medicai](https://www.medicai.io)|[Link](https://linkedin.com/company/medicai-io)|2018|16|2.1k|IT Services and IT Consulting|
+
+### Bucharest - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Aqurate](https://aqurate.ai)|[Link](https://linkedin.com/company/getaqurate)|2019|27|3.9k|Software Development|
+
+### Bucharest - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Veridion](https://veridion.com/)|[Link](https://linkedin.com/company/veridiondata)|2019|59|11k|Information Services|
+|[Tailent](https://www.tailent.com)|[Link](https://linkedin.com/company/tailent)|2016|8|1.2k|Software Development|
+
+### Bucharest - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bitdefender](https://www.bitdefender.com/)|[Link](https://linkedin.com/company/bitdefender)|N/A|2.3k|238k|Software Development|
+
+## Budapest
+### Budapest - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Turbine](http://turbine.ai/)|[Link](https://linkedin.com/company/turbine-ai)|2016|118|10k|Biotechnology Research|
+|[Cytocast](https://www.cytocast.com/)|[Link](https://linkedin.com/company/cytocast)|2019|23|1.4k|Biotechnology Research|
+
+### Budapest - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Hiflylabs](http://hiflylabs.com)|[Link](https://linkedin.com/company/hiflylabs)|2015|215|5.5k|IT Services and IT Consulting|
+
+## Buenos Aires
+### Buenos Aires - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Entelai](https://entelai.com)|[Link](https://linkedin.com/company/entelai)|N/A|14|4.1k|Software Development|
+
+### Buenos Aires - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cliengo](http://www.cliengo.com)|[Link](https://linkedin.com/company/cliengo)|2017|52|21k|IT Services and IT Consulting|
+
+### Buenos Aires - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ualá](https://www.ua.la)|[Link](https://linkedin.com/company/ual-)|2017|1.4k|616k|Financial Services|
+|[Nubimetrics](http://www.nubimetrics.com)|[Link](https://linkedin.com/company/nubimetrics)|2010|72|14k|IT Services and IT Consulting|
+
+### Buenos Aires - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Muttdata](http://muttdata.ai)|[Link](https://linkedin.com/company/mutt-data)|N/A|196|16k|IT Services and IT Consulting|
+|[Eryx](http://eryx.co)|[Link](https://linkedin.com/company/eryxcoop)|2011|40|1.8k|Software Development|
+
+### Buenos Aires - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[HeroUI (YC S24)](https://heroui.com/)|[Link](https://linkedin.com/company/heroui)|N/A|6|1.8k|Software Development|
+
+### Buenos Aires - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Tiendanube](https://www.tiendanube.com/)|[Link](https://linkedin.com/company/tiendanube)|2011|975|207k|IT Services and IT Consulting|
+|[etermax](http://www.etermax.com)|[Link](https://linkedin.com/company/etermax)|2009|164|99k|Entertainment Providers|
+
+## Cairo
+### Cairo - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[WideBot AI](https://widebot.ai)|[Link](https://linkedin.com/company/widebot)|2016|136|29k|Software Development|
+|[DXwand](https://dxwand.com/)|[Link](https://linkedin.com/company/dxwand)|2018|28|8.3k|Software Development|
+
+### Cairo - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sprints](http://www.sprints.ai)|[Link](https://linkedin.com/company/sprintsai)|2019|314|85k|Higher Education|
+|[ShipBlu](http://www.shipblu.com)|[Link](https://linkedin.com/company/shipblu)|2020|126|11k|Truck Transportation|
+
+## Cambridge UK
+### Cambridge UK - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Tenyks](http://tenyks.ai)|[Link](https://linkedin.com/company/tenyks)|2019|13|4.6k|IT Services and IT Consulting|
+
+### Cambridge UK - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[CMR Surgical](https://cmrsurgical.com)|[Link](https://linkedin.com/company/cmrsurgical)|2014|684|92k|Medical Equipment Manufacturing|
+
+### Cambridge UK - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Healx](http://www.healx.ai)|[Link](https://linkedin.com/company/healx)|2014|72|23k|Biotechnology Research|
+|[Sano Genetics](https://www.sanogenetics.com)|[Link](https://linkedin.com/company/sanogenetics)|2016|50|14k|Biotechnology Research|
+|[Qureight](http://www.qureight.com)|[Link](https://linkedin.com/company/qureight)|2018|69|5.5k|Hospitals and Health Care|
+|[ieso](https://ieso.ai/)|[Link](https://linkedin.com/company/ieso-us)|N/A|33|4.9k|Mental Health Care|
+|[TidalSense](https://www.tidalsense.com/)|[Link](https://linkedin.com/company/tidalsense)|2013|33|3.2k|Software Development|
+|[PharmEnable Therapeutics](http://www.pharmenabletx.com)|[Link](https://linkedin.com/company/pharmenable)|N/A|9|3.1k|Biotechnology Research|
+
+### Cambridge UK - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Speechmatics](https://www.speechmatics.com)|[Link](https://linkedin.com/company/speechmatics)|2006|121|21k|Software Development|
+
+### Cambridge UK - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[CuspAI](http://www.cusp.ai)|[Link](https://linkedin.com/company/cusp-ai)|2024|100|31k|Software Development|
+|[Secondmind](http://www.secondmind.ai)|[Link](https://linkedin.com/company/secondmind-ai)|2016|58|7.7k|Software Development|
+|[Intellegens](https://intellegens.com)|[Link](https://linkedin.com/company/intellegensai)|2017|19|5.7k|Software Development|
+|[Monumo](https://www.monumo.com)|[Link](https://linkedin.com/company/monumo-ltd)|2021|42|2.9k|Software Development|
+
+### Cambridge UK - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Trismik](http://www.trismik.com)|[Link](https://linkedin.com/company/trismik)|2025|10|4.5k|Software Development|
+|[myrtle.ai](https://www.myrtle.ai)|[Link](https://linkedin.com/company/myrtleai)|2003|21|1.1k|IT Services and IT Consulting|
+
+## Cape Town
+### Cape Town - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Aerobotics](http://www.aerobotics.com)|[Link](https://linkedin.com/company/aerobotics)|2014|97|17k|Software Development|
+|[Contactable](https://www.contactable.co.za/)|[Link](https://linkedin.com/company/staycontactable)|2009|57|2.8k|IT Services and IT Consulting|
+
+### Cape Town - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DataProphet](http://dataprophet.com)|[Link](https://linkedin.com/company/data-prophet)|2014|31|10k|Automation Machinery Manufacturing|
+|[hyperLOOP](https://www.hyperloop.co.za)|[Link](https://linkedin.com/company/hyperloop)|2014|5|1.1k|Advertising Services|
+
+### Cape Town - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[JUMO](http://www.jumo.world)|[Link](https://linkedin.com/company/jumo-world)|2015|281|46k|Financial Services|
+
+### Cape Town - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Zindi](http://www.zindi.africa)|[Link](https://linkedin.com/company/zindi-world)|2018|138|22k|IT Services and IT Consulting|
+|[Mindjoy](http://www.mindjoy.com)|[Link](https://linkedin.com/company/mindjoy)|2020|16|4.4k|Higher Education|
+
+## Chennai
+### Chennai - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Detect Technologies](http://www.detecttechnologies.com)|[Link](https://linkedin.com/company/detect-technologies)|2016|570|24k|Software Development|
+
+### Chennai - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Planys Technologies](http://www.planystech.com)|[Link](https://linkedin.com/company/planys)|2015|191|77k|Maritime Transportation|
+
+### Chennai - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Yubi](https://www.go-yubi.com)|[Link](https://linkedin.com/company/go-yubi)|2020|1.2k|170k|Financial Services|
+|[Fieldproxy (YC W22)](http://www.fieldproxy.com)|[Link](https://linkedin.com/company/fieldproxy)|2016|23|10k|Software Development|
+
+### Chennai - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[SuperOps](https://superops.com/)|[Link](https://linkedin.com/company/superops-ai)|2020|173|69k|Software Development|
 
 ## Chicago
-### Chicago - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Uptake|[Link](http://uptake.com)|[Link](https://www.linkedin.com/company/uptake)|N/A|[121](https://www.linkedin.com/company/uptake/people/)|28k|[Grant](//www.crunchbase.com/organization/uptake-3?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|TeleTracking|[Link](https://bit.ly/3wmhbVQ)|[Link](https://www.linkedin.com/company/teletracking)|1991|[373](https://www.linkedin.com/company/teletracking/people/)|15k|-|Software Development|
-
 ### Chicago - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Narrative Science|[Link](http://www.narrativescience.com)|[Link](https://www.linkedin.com/company/narrative-science)|N/A|[7](https://www.linkedin.com/company/narrative-science/people/)|10k|[Series Unknown](//www.crunchbase.com/organization/narrative-science?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Grammarly|[Link](https://www.grammarly.com/jobs/?utm_source=linkedin_org&utm_medium=social&utm_campaign=Learn_more_button)|[Link](https://www.linkedin.com/company/grammarly)|N/A|[1085](https://www.linkedin.com/company/grammarly/people/)|254k|[Debt Financing](//www.crunchbase.com/organization/grammarly?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Insurify|[Link](https://insurify.com/)|[Link](https://www.linkedin.com/company/insurify)|2013|[214](https://www.linkedin.com/company/insurify/people/)|8k|[Series B](//www.crunchbase.com/organization/insurify?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[FarEye](https://www.fareye.com)|[Link](https://linkedin.com/company/fareye)|2013|638|64k|Software Development|
 
-### Chicago - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Vecna Robotics|[Link](https://www.vecnarobotics.com/get-started/)|[Link](https://www.linkedin.com/company/vecna-robotics)|1998|[107](https://www.linkedin.com/company/vecna-robotics/people/)|33k|[Series Unknown](//www.crunchbase.com/organization/vecna-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-
-### Chicago - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Healthmine|[Link](http://www.healthmine.com)|[Link](https://www.linkedin.com/company/healthmine)|2008|[116](https://www.linkedin.com/company/healthmine/people/)|33k|[Private Equity](//www.crunchbase.com/organization/healthmine-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Livongo|[Link](http://www.livongo.com)|[Link](https://www.linkedin.com/company/livongo)|2014|[83](https://www.linkedin.com/company/livongo/people/)|40k|[Series E](//www.crunchbase.com/organization/livongo-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Wellness and Fitness Services|
-|Context Therapeutics|[Link](http://www.contexttherapeutics.com)|[Link](https://www.linkedin.com/company/context-therapeutics)|2015|[26](https://www.linkedin.com/company/context-therapeutics/people/)|4k|[Post Ipo Equity](//www.crunchbase.com/organization/context-therapeutics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Spring Health|[Link](https://www.springhealth.com)|[Link](https://www.linkedin.com/company/spring-health)|2016|[3618](https://www.linkedin.com/company/spring-health/people/)|241k|[Series E](//www.crunchbase.com/organization/spring-care?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Mental Health Care|
-
-### Chicago - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Aptiv|[Link](http://www.aptiv.com)|[Link](https://www.linkedin.com/company/aptiv)|N/A|[33996](https://www.linkedin.com/company/aptiv/people/)|530k|[Post Ipo Debt](//www.crunchbase.com/organization/aptiv?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Argo AI|[Link](http://www.argo.ai)|[Link](https://www.linkedin.com/company/argo-ai)|N/A|[215](https://www.linkedin.com/company/argo-ai/people/)|103k|[Corporate Round](//www.crunchbase.com/organization/argo-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-
-### Chicago - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SoundHound AI|[Link](https://soundhound.com/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedIn%20cta)|[Link](https://www.linkedin.com/company/soundhoundai)|2005|[681](https://www.linkedin.com/company/soundhound/people/)|99k|-|Software Development|
-
-### Chicago - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Conversica|[Link](https://www.conversica.com)|[Link](https://www.linkedin.com/company/conversica)|2007|[116](https://www.linkedin.com/company/conversica/people/)|21k|[Series E](//www.crunchbase.com/organization/conversica?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ActiveCampaign|[Link](https://www.activecampaign.com)|[Link](https://www.linkedin.com/company/activecampaign)|N/A|[857](https://www.linkedin.com/company/activecampaign/people/)|181k|[Series C](//www.crunchbase.com/organization/activecampaign?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Redox Ltd|[Link](https://redox.com/news/)|[Link](https://www.linkedin.com/company/redox)|1965|[358](https://www.linkedin.com/company/redox/people/)|18k|-|Chemical Manufacturing|
-
-### Chicago - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|IMO Health|[Link](http://www.imohealth.com)|[Link](https://www.linkedin.com/company/imohealth)|1994|[503](https://www.linkedin.com/company/intelligent-medical-objects/people/)|15k|-|IT Services and IT Consulting|
-
-### Chicago - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|MediaMath|[Link](http://bit.ly/1WMWAzP)|[Link](https://www.linkedin.com/company/mediamath)|2007|[85](https://www.linkedin.com/company/mediamath/people/)|52k|[Private Equity](//www.crunchbase.com/organization/mediamath?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Chicago - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ActiveCampaign](https://www.activecampaign.com)|[Link](https://linkedin.com/company/activecampaign)|N/A|838|202k|Software Development|
 
 ### Chicago - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Uptake|[Link](http://uptake.com)|[Link](https://www.linkedin.com/company/uptake)|N/A|[121](https://www.linkedin.com/company/uptake/people/)|28k|[Grant](//www.crunchbase.com/organization/uptake-3?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Numerai|[Link](https://numer.ai)|[Link](https://www.linkedin.com/company/numerai)|2015|[58](https://www.linkedin.com/company/numerai/people/)|11k|[Series B](//www.crunchbase.com/organization/numerai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Numat|[Link](http://www.numat.com)|[Link](https://www.linkedin.com/company/numat-technologies)|2013|[64](https://www.linkedin.com/company/numat-technologies/people/)|3k|[Series B](//www.crunchbase.com/organization/numat-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Chemical Manufacturing|
-|Exelon|[Link](http://www.exeloncorp.com)|[Link](https://www.linkedin.com/company/exelon)|N/A|[19442](https://www.linkedin.com/company/exelon/people/)|167k|-|Utilities|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Numat](https://numat.com/)|[Link](https://linkedin.com/company/numat-technologies)|2013|69|4.6k|Chemical Manufacturing|
 
 ### Chicago - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Groupon|[Link](https://job-boards.eu.greenhouse.io/groupon?)|[Link](https://www.linkedin.com/company/groupon)|2008|[10552](https://www.linkedin.com/company/groupon/people/)|356k|[Post Ipo Debt](//www.crunchbase.com/organization/groupon?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ActiveCampaign|[Link](https://www.activecampaign.com)|[Link](https://www.linkedin.com/company/activecampaign)|N/A|[857](https://www.linkedin.com/company/activecampaign/people/)|181k|[Series C](//www.crunchbase.com/organization/activecampaign?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Braintree|[Link](http://www.braintreepayments.com)|[Link](https://www.linkedin.com/company/braintree)|N/A|[232](https://www.linkedin.com/company/braintree/people/)|46k|[Series B](//www.crunchbase.com/organization/braintree-payment-solutions?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Benchling|[Link](https://www.benchling.com/)|[Link](https://www.linkedin.com/company/benchling)|N/A|[795](https://www.linkedin.com/company/benchling/people/)|59k|[Series F](//www.crunchbase.com/organization/benchling?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[project44](http://project44.com)|[Link](https://linkedin.com/company/project-44)|2014|816|162k|Software Development|
+|[Relativity](http://www.relativity.com)|[Link](https://linkedin.com/company/relativityhq)|N/A|1.9k|83k|Software Development|
+|[FourKites, Inc.](https://www.fourkites.ai)|[Link](https://linkedin.com/company/fourkites-inc)|2014|531|82k|Software Development|
+|[Avant](https://www.avant.com)|[Link](https://linkedin.com/company/avant-us)|2012|994|29k|Financial Services|
+|[Reveal](https://www.revealdata.com)|[Link](https://linkedin.com/company/reveal-data)|N/A|478|23k|Software Development|
+|[AviaryAI](https://www.helloaviary.ai/)|[Link](https://linkedin.com/company/helloaviary)|N/A|16|2.2k|Financial Services|
 
 ### Chicago - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Uptake|[Link](http://uptake.com)|[Link](https://www.linkedin.com/company/uptake)|N/A|[121](https://www.linkedin.com/company/uptake/people/)|28k|[Grant](//www.crunchbase.com/organization/uptake-3?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[MathCo](https://www.mathco.com)|[Link](https://linkedin.com/company/themathcompany)|2016|2k|246k|Business Consulting and Services|
+
+### Chicago - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ocient](http://www.ocient.com)|[Link](https://linkedin.com/company/ocient)|2016|249|8.5k|Software Development|
 
 ### Chicago - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Boeing|[Link](http://www.boeing.com)|[Link](https://www.linkedin.com/company/boeing)|N/A|[127133](https://www.linkedin.com/company/boeing/people/)|3886k|[Post Ipo Debt](//www.crunchbase.com/organization/the-boeing-company?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Aviation and Aerospace Component Manufacturing|
-|United Airlines|[Link](https://hub.united.com/)|[Link](https://www.linkedin.com/company/united-airlines)|N/A|[73402](https://www.linkedin.com/company/united-airlines/people/)|1209k|-|Airlines and Aviation|
-|CME Group|[Link](http://www.cmegroup.com)|[Link](https://www.linkedin.com/company/cme-group)|N/A|[3680](https://www.linkedin.com/company/cme-group/people/)|161k|[Post Ipo Equity](//www.crunchbase.com/organization/cme-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Cboe Global Markets|[Link](http://www.cboe.com/)|[Link](https://www.linkedin.com/company/cboe)|N/A|[1772](https://www.linkedin.com/company/cboe/people/)|73k|-|Financial Services|
-|Northern Trust|[Link](https://www.northerntrust.com/about-us/careers)|[Link](https://www.linkedin.com/company/northern-trust)|1889|[30674](https://www.linkedin.com/company/northern-trust/people/)|633k|-|Financial Services|
-|Allstate|[Link](http://al.st/WelcomeLI)|[Link](https://www.linkedin.com/company/allstate)|1931|[60239](https://www.linkedin.com/company/allstate/people/)|438k|[Post Ipo Debt](//www.crunchbase.com/organization/allstate?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Insurance|
-|State Farm|[Link](http://www.brantblessing.com)|[Link](https://www.linkedin.com/company/state-farm)|1981|[744](https://www.linkedin.com/company/state-farm/people/)|12k|-|Individual and Family Services|
-|Walgreens|[Link](https://jobs.walgreens.com/en)|[Link](https://www.linkedin.com/company/walgreens)|1901|[93206](https://www.linkedin.com/company/walgreens/people/)|645k|[Grant](//www.crunchbase.com/organization/walgreens?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Snapsheet Inc](https://www.snapsheetclaims.com)|[Link](https://linkedin.com/company/snapsheetinc)|2011|503|105k|Software Development|
 
 ## Copenhagen
-### Copenhagen - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Teton|[Link](https://www.teton.ai/)|[Link](https://www.linkedin.com/company/teton-ai)|N/A|[72](https://www.linkedin.com/company/teton-ai/people/)|8k|[Series A](//www.crunchbase.com/organization/teton-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Spectro Inlets|[Link](https://spectroinlets.com/contact/)|[Link](https://www.linkedin.com/company/spectroinlets)|2016|[13](https://www.linkedin.com/company/spectro-inlets/people/)|2k|-|Medical Equipment Manufacturing|
-|Radiobotics|[Link](https://www.radiobotics.com/)|[Link](https://www.linkedin.com/company/radiobotics)|2017|[35](https://www.linkedin.com/company/radiobotics/people/)|8k|[Seed](//www.crunchbase.com/organization/radiobotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|Veo Technologies|[Link](http://veo.co)|[Link](https://www.linkedin.com/company/veo-technologies)|2015|[382](https://www.linkedin.com/company/veo-technologies/people/)|40k|[Series C](//www.crunchbase.com/organization/veo-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Spectator Sports|
-|Visikon|[Link](http://visikon.com/)|[Link](https://www.linkedin.com/company/visikon)|2012|[14](https://www.linkedin.com/company/visikon/people/)|1k|-|Hospitals and Health Care|
+### Copenhagen - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Veo Technologies](http://www.veo.com)|[Link](https://linkedin.com/company/veo-technologies)|2015|405|53k|Spectator Sports|
+|[Teton](http://Teton.ai)|[Link](https://linkedin.com/company/teton-ai)|N/A|107|12k|Hospitals and Health Care|
+|[Spectro Inlets](https://spectroinlets.com/)|[Link](https://linkedin.com/company/spectroinlets)|2016|10|2.1k|Medical Equipment Manufacturing|
+|[Visikon](http://visikon.com/)|[Link](https://linkedin.com/company/visikon)|2012|15|1.8k|Hospitals and Health Care|
 
 ### Copenhagen - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Corti|[Link](https://www.corti.ai/)|[Link](https://www.linkedin.com/company/corti)|2016|[135](https://www.linkedin.com/company/corti/people/)|16k|[Series B](//www.crunchbase.com/organization/corti?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Grandhood|[Link](https://www.grandhood.dk)|[Link](https://www.linkedin.com/company/grandhood)|2016|[10](https://www.linkedin.com/company/grandhood/people/)|3k|[Seed](//www.crunchbase.com/organization/grandhood?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Grandhood](http://www.grandhood.dk)|[Link](https://linkedin.com/company/grandhood)|2016|10|3.1k|Financial Services|
 
 ### Copenhagen - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Blue Ocean Robotics|[Link](https://www.blue-ocean-robotics.com/contact)|[Link](https://www.linkedin.com/company/blue-ocean-robotics)|2013|[60](https://www.linkedin.com/company/blue-ocean-robotics/people/)|24k|[Debt Financing](//www.crunchbase.com/organization/blue-ocean-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Universal Robots|[Link](https://jobs.teradyne.com/Universal-Robots/)|[Link](https://www.linkedin.com/company/universal-robots)|N/A|[815](https://www.linkedin.com/company/universal-robots/people/)|322k|[Series Unknown](//www.crunchbase.com/organization/universal-robots?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Gantio Robotics|[Link](http://www.gantiorobotics.com)|[Link](https://www.linkedin.com/company/gantio-robotics)|2015|[19](https://www.linkedin.com/company/robot-at-work/people/)|1k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Reshape Biotech](http://reshapebiotech.com)|[Link](https://linkedin.com/company/reshape-biotech)|2018|63|13k|Biotechnology Research|
+|[Gantio Robotics](http://www.gantiorobotics.com)|[Link](https://linkedin.com/company/gantio-robotics)|2015|20|2.3k|IT Services and IT Consulting|
 
 ### Copenhagen - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Corti|[Link](https://www.corti.ai/)|[Link](https://www.linkedin.com/company/corti)|2016|[135](https://www.linkedin.com/company/corti/people/)|16k|[Series B](//www.crunchbase.com/organization/corti?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Radiobotics|[Link](https://www.radiobotics.com/)|[Link](https://www.linkedin.com/company/radiobotics)|2017|[35](https://www.linkedin.com/company/radiobotics/people/)|8k|[Seed](//www.crunchbase.com/organization/radiobotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|Neurescue|[Link](http://www.neurescue.com)|[Link](https://www.linkedin.com/company/neurescue)|2014|[17](https://www.linkedin.com/company/neurescue/people/)|1k|[Grant](//www.crunchbase.com/organization/neurescue?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|Cerebriu|[Link](http://www.cerebriu.com)|[Link](https://www.linkedin.com/company/cerebriu)|2018|[54](https://www.linkedin.com/company/cerebriu/people/)|5k|[Series A](//www.crunchbase.com/organization/cerebriu?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Monsenso|[Link](https://www.monsenso.com)|[Link](https://www.linkedin.com/company/monsenso)|2013|[19](https://www.linkedin.com/company/monsenso/people/)|3k|[Series Unknown](//www.crunchbase.com/organization/monsenso?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Mental Health Care|
-|Vital Beats|[Link](http://www.vitalbeats.com)|[Link](https://www.linkedin.com/company/vitalbeats)|2018|[13](https://www.linkedin.com/company/vitalbeats/people/)|2k|[Seed](//www.crunchbase.com/organization/vital-beats?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[3Shape](http://www.3shape.com)|[Link](https://linkedin.com/company/3shape)|2000|2k|97k|Medical Equipment Manufacturing|
+|[Corti](https://www.corti.ai)|[Link](https://linkedin.com/company/corti)|2016|137|21k|Software Development|
+|[Visiopharm](http://www.visiopharm.com)|[Link](https://linkedin.com/company/visiopharm)|2002|86|12k|Software Development|
+|[Cerebriu](http://www.cerebriu.com)|[Link](https://linkedin.com/company/cerebriu)|2018|60|6.5k|Software Development|
+|[Vital Beats](http://www.vitalbeats.com)|[Link](https://linkedin.com/company/vitalbeats)|2018|10|2.3k|IT Services and IT Consulting|
+|[Neurescue](http://www.neurescue.com)|[Link](https://linkedin.com/company/neurescue)|2014|18|2.3k|Medical Equipment Manufacturing|
 
-### Copenhagen - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Nordic Unmanned|[Link](http://www.nordicunmanned.com)|[Link](https://www.linkedin.com/company/nordic-unmanned)|2014|[22](https://www.linkedin.com/company/nordic-unmanned/people/)|13k|-|Aviation and Aerospace Component Manufacturing|
-
-### Copenhagen - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Corti|[Link](https://www.corti.ai/)|[Link](https://www.linkedin.com/company/corti)|2016|[135](https://www.linkedin.com/company/corti/people/)|16k|[Series B](//www.crunchbase.com/organization/corti?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Whispr Group|[Link](http://www.whisprgroup.com/)|[Link](https://www.linkedin.com/company/whispr-group)|2006|[30](https://www.linkedin.com/company/whispr-group/people/)|3k|-|Market Research|
-|VOCALLS|[Link](https://www.vocalls.ai/)|[Link](https://www.linkedin.com/company/vocalls)|2017|[15](https://www.linkedin.com/company/vocalls/people/)|1k|[Seed](//www.crunchbase.com/organization/vocalls?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Copenhagen - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Dixa|[Link](https://www.dixa.com/demo/?utm_source=linkedin&utm_medium=social&utm_campaign=company_page_cta&utm_content=request_demo)|[Link](https://www.linkedin.com/company/dixa)|2015|[169](https://www.linkedin.com/company/dixa/people/)|17k|[Series C](//www.crunchbase.com/organization/dixa?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Certainly|[Link](https://certainly.io/)|[Link](https://www.linkedin.com/company/certainly)|2017|[21](https://www.linkedin.com/company/certainly/people/)|4k|[Seed](//www.crunchbase.com/organization/certainly?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Copenhagen - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dixa](http://www.dixa.com)|[Link](https://linkedin.com/company/dixa)|2015|146|19k|Software Development|
+|[Certainly](https://certainly.io/)|[Link](https://linkedin.com/company/certainly)|2017|14|4.1k|Software Development|
 
 ### Copenhagen - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|2021.AI|[Link](https://2021.ai)|[Link](https://www.linkedin.com/company/2021ai)|2016|[110](https://www.linkedin.com/company/2021ai/people/)|11k|-|Software Development|
-|Omnigame|[Link](https://omnigame.com)|[Link](https://www.linkedin.com/company/omnigame)|2015|[60](https://www.linkedin.com/company/omnigame/people/)|2k|[Seed](//www.crunchbase.com/organization/omnigame?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Gambling Facilities and Casinos|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[2021.AI](https://2021.ai)|[Link](https://linkedin.com/company/2021ai)|2016|104|11k|Software Development|
 
 ### Copenhagen - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Abzu|[Link](http://www.abzu.ai)|[Link](https://www.linkedin.com/company/abzu)|2018|[23](https://www.linkedin.com/company/abzu/people/)|4k|[Grant](//www.crunchbase.com/organization/abzu?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Blackwood Seven | Part of Kantar Group|[Link](https://blackwoodseven.com/request-demo/)|[Link](https://www.linkedin.com/company/blackwoodseven)|2013|[35](https://www.linkedin.com/company/blackwoodseven/people/)|4k|-|Advertising Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[raffle.ai](http://www.raffle.ai)|[Link](https://linkedin.com/company/raffle-ai)|2018|16|3.2k|Software Development|
 
 ### Copenhagen - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Abzu|[Link](http://www.abzu.ai)|[Link](https://www.linkedin.com/company/abzu)|2018|[23](https://www.linkedin.com/company/abzu/people/)|4k|[Grant](//www.crunchbase.com/organization/abzu?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|2021.AI|[Link](https://2021.ai)|[Link](https://www.linkedin.com/company/2021ai)|2016|[110](https://www.linkedin.com/company/2021ai/people/)|11k|-|Software Development|
-|CanaryBit|[Link](https://www.canarybit.eu/)|[Link](https://www.linkedin.com/company/canarybit)|2020|[8](https://www.linkedin.com/company/canarybit/people/)|1k|[Series Unknown](//www.crunchbase.com/organization/canarybit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer and Network Security|
-|Develop Diverse by Lyser|[Link](https://developdiverse.com/)|[Link](https://www.linkedin.com/company/developdiverse)|2017|[11](https://www.linkedin.com/company/developdiverse/people/)|4k|[Seed](//www.crunchbase.com/organization/develop-diverse?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Factbird](http://www.factbird.com)|[Link](https://linkedin.com/company/factbird-aps)|2016|94|8.7k|Manufacturing|
 
 ### Copenhagen - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Leapwork|[Link](http://www.leapwork.com/trial)|[Link](https://www.linkedin.com/company/leapwork)|2015|[262](https://www.linkedin.com/company/leapwork/people/)|18k|[Series B](//www.crunchbase.com/organization/leapwork?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Templafy|[Link](https://www.templafy.com/)|[Link](https://www.linkedin.com/company/templafy)|N/A|[227](https://www.linkedin.com/company/templafy/people/)|29k|[Series D](//www.crunchbase.com/organization/templafy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Contractbook|[Link](https://contractbook.com/?utm_source=linkedin&utm_medium=company-page-button&utm_campaign=linkedin-home-button&utm_term=visit-website)|[Link](https://www.linkedin.com/company/contractbook)|2017|[35](https://www.linkedin.com/company/contractbook/people/)|8k|[Series B](//www.crunchbase.com/organization/contractbook?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Impero|[Link](http://www.weareimpero.com)|[Link](https://www.linkedin.com/company/impero)|2009|[83](https://www.linkedin.com/company/impero/people/)|13k|-|Advertising Services|
-|Dixa|[Link](https://www.dixa.com/demo/?utm_source=linkedin&utm_medium=social&utm_campaign=company_page_cta&utm_content=request_demo)|[Link](https://www.linkedin.com/company/dixa)|2015|[169](https://www.linkedin.com/company/dixa/people/)|17k|[Series C](//www.crunchbase.com/organization/dixa?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Copenhagen - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|2021.AI|[Link](https://2021.ai)|[Link](https://www.linkedin.com/company/2021ai)|2016|[110](https://www.linkedin.com/company/2021ai/people/)|11k|-|Software Development|
-|Context&|[Link](https://contextand.com/)|[Link](https://www.linkedin.com/company/contextand)|N/A|[356](https://www.linkedin.com/company/delegate/people/)|10k|-|IT Services and IT Consulting|
-|Innovation Hub TECH - en del af DANDY Business Park|[Link](https://dandybusinesspark.dk)|[Link](https://www.linkedin.com/company/innovation-hub-tech)|N/A|[2](https://www.linkedin.com/company/ai-innovation-house/people/)|2k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Siteimprove](https://www.siteimprove.com/)|[Link](https://linkedin.com/company/siteimprove)|2003|427|35k|Software Development|
+|[Neurons](https://www.neuronsinc.com)|[Link](https://linkedin.com/company/neurons-inc)|2013|113|21k|Software Development|
+|[Leapwork](https://leapwork.com)|[Link](https://linkedin.com/company/leapwork)|2015|256|21k|Software Development|
+|[Alice](https://www.alice.tech/)|[Link](https://linkedin.com/company/alice-tech)|2024|21|5k|Software Development|
+|[Subsets](https://www.subsets.com/)|[Link](https://linkedin.com/company/subsets)|2023|16|1.8k|Software Development|
 
 ### Copenhagen - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Too Good To Go|[Link](https://www.toogoodtogo.com/)|[Link](https://www.linkedin.com/company/too-good-to-go)|2015|[1952](https://www.linkedin.com/company/too-good-to-go/people/)|334k|[Series Unknown](//www.crunchbase.com/organization/too-good-to-go-646f?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Environmental Services|
-|Trustpilot|[Link](https://www.trustpilot.com/)|[Link](https://www.linkedin.com/company/trustpilot)|N/A|[1366](https://www.linkedin.com/company/trustpilot/people/)|149k|[Series E](//www.crunchbase.com/organization/trustpilot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Vivino|[Link](http://www.vivino.com)|[Link](https://www.linkedin.com/company/vivino)|2010|[291](https://www.linkedin.com/company/vivino/people/)|55k|[Series D](//www.crunchbase.com/organization/vivino?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Penni.io|[Link](https://penni.io/)|[Link](https://www.linkedin.com/company/penni)|2016|[4](https://www.linkedin.com/company/penni/people/)|2k|[Seed](//www.crunchbase.com/organization/penni-io?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Insurance|
-|NETS|[Link](https://www.nets.com.sg)|[Link](https://www.linkedin.com/company/nets)|1985|[1000](https://www.linkedin.com/company/nets/people/)|112k|-|Financial Services|
-|modl.ai|[Link](http://modl.ai)|[Link](https://www.linkedin.com/company/modl-ai)|2018|[18](https://www.linkedin.com/company/modl-ai/people/)|3k|[Series A](//www.crunchbase.com/organization/modl-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer Games|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Too Good To Go](http://toogoodtogo.org/en)|[Link](https://linkedin.com/company/too-good-to-go)|2015|1.9k|376k|Environmental Services|
+|[Vivino](http://www.vivino.com)|[Link](https://linkedin.com/company/vivino)|2010|283|58k|Software Development|
+|[modl.ai](http://modl.ai)|[Link](https://linkedin.com/company/modl-ai)|2018|15|3.6k|Computer Games|
+|[Penni.io](https://penni.io/)|[Link](https://linkedin.com/company/penni)|2016|3|2.8k|Insurance|
+
+## Dallas
+### Dallas - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mitra Robot](https://mitrarobot.com/)|[Link](https://linkedin.com/company/invento-robotics)|2016|21|12k|Research Services|
+
+### Dallas - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Healthmine](http://www.healthmine.com)|[Link](https://linkedin.com/company/healthmine)|2008|93|33k|IT Services and IT Consulting|
+
+### Dallas - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Deepdub](https://deepdub.ai)|[Link](https://linkedin.com/company/deepdub-ai)|2019|220|14k|Entertainment Providers|
+
+### Dallas - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[o9 Solutions, Inc.](https://www.o9solutions.com)|[Link](https://linkedin.com/company/o9solutions)|2009|3.3k|518k|Software Development|
+|[ContraForce](https://www.contraforce.com)|[Link](https://linkedin.com/company/contraforce)|2022|19|6.4k|Software Development|
+
+### Dallas - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lone Star Analysis](https://www.lone-star.com)|[Link](https://linkedin.com/company/lone-star-aerospace)|2004|216|3.5k|IT Services and IT Consulting|
+
+## Delhi NCR
+### Delhi NCR - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Attentive.ai](https://attentive.ai)|[Link](https://linkedin.com/company/attentive.ai)|2017|1.1k|45k|Software Development|
+|[Vehant Technologies](https://www.vehant.com)|[Link](https://linkedin.com/company/vehant)|2005|483|18k|Software Development|
+|[Intello Labs](http://www.intellolabs.com)|[Link](https://linkedin.com/company/intellolabs)|2016|152|14k|IT Services and IT Consulting|
+|[Staqu Technologies](http://www.staqu.com)|[Link](https://linkedin.com/company/staqu-technologies)|2015|136|14k|Software Development|
+|[Sparrosense](http://sparrosense.com)|[Link](https://linkedin.com/company/sparrosense)|2020|1|2k|IT Services and IT Consulting|
+|[Optifye.ai](https://www.optifye.ai)|[Link](https://linkedin.com/company/optifye-ai)|N/A|6|1.4k|Manufacturing|
+
+### Delhi NCR - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bobble AI](http://www.bobble.ai)|[Link](https://linkedin.com/company/bobble-app)|2015|99|22k|Software Development|
+|[Devnagri AI](https://devnagri.com/)|[Link](https://linkedin.com/company/devnagriai)|2020|133|18k|Software Development|
+
+### Delhi NCR - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[GreyOrange](https://www.greyorange.com)|[Link](https://linkedin.com/company/gogreyorange)|2012|1.2k|255k|Software Development|
+
+### Delhi NCR - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Jivi AI](https://www.jivi.ai)|[Link](https://linkedin.com/company/jiviai)|2023|22|35k|Software Development|
+
+### Delhi NCR - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dubverse](https://dubverse.ai)|[Link](https://linkedin.com/company/dubverse)|2021|4|3.1k|Online Audio and Video Media|
+
+### Delhi NCR - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AiSensy](https://aisensy.com)|[Link](https://linkedin.com/company/aisensyofficial)|2020|201|208k|Software Development|
+|[Rezo.ai](https://www.rezo.ai/)|[Link](https://linkedin.com/company/rezo-ai)|2018|156|77k|Software Development|
+
+### Delhi NCR - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Extramarks](http://www.extramarks.com)|[Link](https://linkedin.com/company/extramarks)|N/A|3.9k|345k|E-Learning Providers|
+
+### Delhi NCR - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Airblack](http://www.airblack.com)|[Link](https://linkedin.com/company/airblack)|2019|267|199k|IT Services and IT Consulting|
+|[GreenHonchos](https://www.greenhonchos.com)|[Link](https://linkedin.com/company/greenhonchos)|2012|179|48k|Business Consulting and Services|
+
+### Delhi NCR - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cars24](https://www.cars24.com)|[Link](https://linkedin.com/company/cars24)|N/A|10k|472k|Software Development|
+|[Snapdeal](http://www.snapdeal.com)|[Link](https://linkedin.com/company/snapdeal)|2010|3.4k|249k|Software Development|
+|[Writesonic](https://writesonic.com)|[Link](https://linkedin.com/company/writesonic)|2021|141|80k|Software Development|
+|[SalaryBox](https://www.salarybox.in)|[Link](https://linkedin.com/company/salaryboxapp)|2021|88|23k|Software Development|
+|[Scalenut](http://www.scalenut.com)|[Link](https://linkedin.com/company/scalenut)|2020|49|6.6k|Software Development|
+
+### Delhi NCR - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Evalueserve](http://www.evalueserve.com)|[Link](https://linkedin.com/company/evalueserve)|2000|6k|537k|Business Consulting and Services|
+
+## Denver
+### Denver - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Albedo](https://albedo.com)|[Link](https://linkedin.com/company/albedo-space)|2020|78|14k|Aviation and Aerospace Component Manufacturing|
+
+### Denver - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lunar Outpost](http://www.lunaroutpost.com)|[Link](https://linkedin.com/company/lunaroutpost)|2017|173|36k|Aviation and Aerospace Component Manufacturing|
+|[AMP](http://ampsortation.com)|[Link](https://linkedin.com/company/amp-sortation)|2015|299|25k|Renewable Energy Semiconductor Manufacturing|
+|[Scythe Robotics](http://scytherobotics.com)|[Link](https://linkedin.com/company/scythe-robotics)|N/A|32|16k|Automation Machinery Manufacturing|
+
+### Denver - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[SonderMind](https://www.sondermind.com)|[Link](https://linkedin.com/company/sondermind)|2014|1.3k|51k|Mental Health Care|
+|[Enveda](https://enveda.com/)|[Link](https://linkedin.com/company/envedabio)|2019|387|42k|Biotechnology Research|
+
+### Denver - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Outrider](http://www.outrider.ai)|[Link](https://linkedin.com/company/outridertech)|2017|167|19k|Software Development|
+
+### Denver - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Kayhan Space](https://kayhan.space)|[Link](https://linkedin.com/company/kayhan-space)|2019|26|9.3k|Defense and Space Manufacturing|
+
+### Denver - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sovrn](http://www.sovrn.com)|[Link](https://linkedin.com/company/sovrn-holdings-inc-)|2014|120|9.3k|Software Development|
+
+### Denver - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Crusoe](https://crusoe.ai/)|[Link](https://linkedin.com/company/crusoe)|2018|1.8k|102k|Software Development|
+
+### Denver - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[EGYM](https://us.egym.com/en-us)|[Link](https://linkedin.com/company/egym-global)|N/A|543|35k|Wellness and Fitness Services|
+
+## Dubai
+### Dubai - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Arabic.AI](https://www.arabic.ai)|[Link](https://linkedin.com/company/arabic-ai-tarjama)|N/A|56|28k|Software Development|
+
+### Dubai - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vezeeta](http://www.vezeeta.com)|[Link](https://linkedin.com/company/vezeeta)|2012|427|218k|IT Services and IT Consulting|
+|[Altibbi](https://altibbi.com)|[Link](https://linkedin.com/company/altibbi)|2008|252|51k|Government Administration|
+|[Nabta Health](https://nabtahealth.com)|[Link](https://linkedin.com/company/nabtahealth)|2017|44|12k|Hospitals and Health Care|
+
+### Dubai - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Datacultr](https://www.datacultr.com)|[Link](https://linkedin.com/company/datacultr)|2020|119|102k|Software Development|
+
+### Dubai - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[TENDERD](https://www.tenderd.com/)|[Link](https://linkedin.com/company/tenderd)|2018|77|38k|Software Development|
+
+### Dubai - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Alaan](http://alaan.com)|[Link](https://linkedin.com/company/alaanpay)|2021|367|154k|Financial Services|
+
+### Dubai - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Property Finder](http://www.propertyfinder.com)|[Link](https://linkedin.com/company/propertyfinder-ae)|2007|1.7k|535k|Software Development|
+|[Kaso](https://kaso.ai)|[Link](https://linkedin.com/company/kaso-ai)|2021|67|18k|Software Development|
+|[Seez](http://www.seez.co)|[Link](https://linkedin.com/company/seez-pw)|2016|68|13k|Software Development|
 
 ## Dublin
-### Dublin - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Akara|[Link](https://www.akara.ai)|[Link](https://www.linkedin.com/company/akara-ai)|2020|[27](https://www.linkedin.com/company/akara-robotics/people/)|3k|-|Hospitals and Health Care|
-|FeedHenry by Red Hat|[Link](https://www.redhat.com/en/technologies/mobile)|[Link](https://www.linkedin.com/company/feedhenry)|2008|[4](https://www.linkedin.com/company/feedhenry/people/)|2k|[Series A](//www.crunchbase.com/organization/feedhenry?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Dublin - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|daisee|[Link](http://www.daisee.com)|[Link](https://www.linkedin.com/company/daisee)|2017|[23](https://www.linkedin.com/company/daisee/people/)|4k|[Series Unknown](//www.crunchbase.com/organization/daisee?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Dublin - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ubotica Technologies](https://ubotica.com/)|[Link](https://linkedin.com/company/ubotica)|2016|69|8.6k|Defense and Space Manufacturing|
 
 ### Dublin - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Akara|[Link](https://www.akara.ai)|[Link](https://www.linkedin.com/company/akara-ai)|2020|[27](https://www.linkedin.com/company/akara-robotics/people/)|3k|-|Hospitals and Health Care|
-|Path Robotics|[Link](https://www.path-robotics.com)|[Link](https://www.linkedin.com/company/path-robotics)|2014|[186](https://www.linkedin.com/company/path-robotics/people/)|48k|[Series D](//www.crunchbase.com/organization/path-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Manna Air Delivery](https://manna.aero/)|[Link](https://linkedin.com/company/mannaairdelivery)|2019|159|34k|Truck Transportation|
+|[Akara](https://www.akara.ai)|[Link](https://linkedin.com/company/akara-ai)|2020|38|4.4k|Hospitals and Health Care|
 
 ### Dublin - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Medtronic|[Link](http://www.medtronic.com)|[Link](https://www.linkedin.com/company/medtronic)|N/A|[101525](https://www.linkedin.com/company/medtronic/people/)|2431k|[Post Ipo Debt](//www.crunchbase.com/organization/medtronic?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Deciphex](https://deciphex.com/)|[Link](https://linkedin.com/company/deciphex)|2017|174|11k|Software Development|
 
-### Dublin - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Cubic³|[Link](https://www.cubic3.com)|[Link](https://www.linkedin.com/company/cubic3connectivity)|2009|[443](https://www.linkedin.com/company/cubic-telecom/people/)|55k|-|Software Development|
-
-### Dublin - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SoapBox Labs - Now AI Labs Curriculum Associates|[Link](https://www.cainc.com)|[Link](https://www.linkedin.com/company/soapbox-labs)|2013|[34](https://www.linkedin.com/company/soapbox-labs/people/)|6k|[Grant](//www.crunchbase.com/organization/soapbox-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Phorest Software|[Link](http://www.phorest.com)|[Link](https://www.linkedin.com/company/phorest)|2003|[465](https://www.linkedin.com/company/phorest/people/)|11k|[Debt Financing](//www.crunchbase.com/organization/phorest?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Dublin - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Intercom|[Link](https://inter.com/linkedinlearnmore)|[Link](https://www.linkedin.com/company/intercom)|2011|[1948](https://www.linkedin.com/company/intercom/people/)|177k|[Series D](//www.crunchbase.com/organization/intercom?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Zendesk|[Link](https://zdsk.co/linkedin)|[Link](https://www.linkedin.com/company/zendesk)|2007|[6567](https://www.linkedin.com/company/zendesk/people/)|650k|[Private Equity](//www.crunchbase.com/organization/zendesk?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Salesforce|[Link](http://www.salesforce.com)|[Link](https://www.linkedin.com/company/salesforce)|N/A|[87377](https://www.linkedin.com/company/salesforce/people/)|6334k|[Post Ipo Equity](//www.crunchbase.com/organization/salesforce?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Dublin - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Version 1|[Link](http://www.version1.com?utm_source=LinkedIn&utm_medium=social&utm_campaign=LinkedIn%20conversion%20tracker)|[Link](https://www.linkedin.com/company/version-1)|N/A|[3821](https://www.linkedin.com/company/version-1/people/)|334k|[Private Equity](//www.crunchbase.com/organization/version?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Dublin - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Stripe|[Link](https://stripe.com/jobs)|[Link](https://www.linkedin.com/company/stripe)|2010|[14122](https://www.linkedin.com/company/stripe/people/)|1261k|[Secondary Market](//www.crunchbase.com/organization/stripe?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|INDEED|[Link](http://www.indeed.it)|[Link](https://www.linkedin.com/company/indeed)|2000|[210](https://www.linkedin.com/company/indeed/people/)|3k|-|Technology, Information and Internet|
+### Dublin - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Phorest Software](http://www.phorest.com)|[Link](https://linkedin.com/company/phorest)|2003|533|15k|Software Development|
 
 ### Dublin - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|XOCEAN|[Link](http://www.xocean.com)|[Link](https://www.linkedin.com/company/xocean)|2017|[225](https://www.linkedin.com/company/xocean/people/)|39k|[Series C](//www.crunchbase.com/organization/xocean?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Version 1|[Link](http://www.version1.com?utm_source=LinkedIn&utm_medium=social&utm_campaign=LinkedIn%20conversion%20tracker)|[Link](https://www.linkedin.com/company/version-1)|N/A|[3821](https://www.linkedin.com/company/version-1/people/)|334k|[Private Equity](//www.crunchbase.com/organization/version?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Taoglas|[Link](https://www.taoglas.com/?utm_source=LinkedIn&utm_medium=Organic&utm_campaign=HomepageLink_LinkedInProfile_11062023)|[Link](https://www.linkedin.com/company/taoglas)|N/A|[225](https://www.linkedin.com/company/taoglas/people/)|44k|[Grant](//www.crunchbase.com/organization/taoglas?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[XOCEAN](http://www.xocean.com)|[Link](https://linkedin.com/company/xocean)|2017|221|43k|IT Services and IT Consulting|
+|[Nuritas](http://www.nuritas.com)|[Link](https://linkedin.com/company/nuritas)|2014|71|20k|Biotechnology Research|
 
 ### Dublin - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Intercom|[Link](https://inter.com/linkedinlearnmore)|[Link](https://www.linkedin.com/company/intercom)|2011|[1948](https://www.linkedin.com/company/intercom/people/)|177k|[Series D](//www.crunchbase.com/organization/intercom?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|HubSpot|[Link](https://hubspot.com)|[Link](https://www.linkedin.com/company/hubspot)|2006|[12229](https://www.linkedin.com/company/hubspot/people/)|1620k|[Series E](//www.crunchbase.com/organization/hubspot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Stripe|[Link](https://stripe.com/jobs)|[Link](https://www.linkedin.com/company/stripe)|2010|[14122](https://www.linkedin.com/company/stripe/people/)|1261k|[Secondary Market](//www.crunchbase.com/organization/stripe?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|INDEED|[Link](http://www.indeed.it)|[Link](https://www.linkedin.com/company/indeed)|2000|[210](https://www.linkedin.com/company/indeed/people/)|3k|-|Technology, Information and Internet|
-|Workday|[Link](http://www.workday.com)|[Link](https://www.linkedin.com/company/workday)|N/A|[23322](https://www.linkedin.com/company/workday/people/)|1337k|[Post Ipo Equity](//www.crunchbase.com/organization/workday?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ServiceNow|[Link](http://www.servicenow.com)|[Link](https://www.linkedin.com/company/servicenow)|N/A|[32378](https://www.linkedin.com/company/servicenow/people/)|1442k|[Post Ipo Equity](//www.crunchbase.com/organization/service-now-com?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|LinkedIn|[Link](http://premium.linkedin.com)|[Link](https://www.linkedin.com/company/linkedin)|N/A|[23951](https://www.linkedin.com/company/linkedin/people/)|32973k|[Private Equity](//www.crunchbase.com/organization/linkedin?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Salesforce|[Link](http://www.salesforce.com)|[Link](https://www.linkedin.com/company/salesforce)|N/A|[87377](https://www.linkedin.com/company/salesforce/people/)|6334k|[Post Ipo Equity](//www.crunchbase.com/organization/salesforce?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Zendesk|[Link](https://zdsk.co/linkedin)|[Link](https://www.linkedin.com/company/zendesk)|2007|[6567](https://www.linkedin.com/company/zendesk/people/)|650k|[Private Equity](//www.crunchbase.com/organization/zendesk?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Dropbox|[Link](http://www.dropbox.com)|[Link](https://www.linkedin.com/company/dropbox)|2007|[3993](https://www.linkedin.com/company/dropbox/people/)|511k|[Post Ipo Debt](//www.crunchbase.com/organization/dropbox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Docusign|[Link](https://trial.docusign.com/)|[Link](https://www.linkedin.com/company/docusign)|2003|[8411](https://www.linkedin.com/company/docusign/people/)|562k|[Secondary Market](//www.crunchbase.com/organization/docusign?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|SurveyMonkey|[Link](https://bit.ly/3gM8Ct1)|[Link](https://www.linkedin.com/company/surveymonkey)|N/A|[1412](https://www.linkedin.com/company/surveymonkey/people/)|246k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Fenergo](http://www.fenergo.com)|[Link](https://linkedin.com/company/fenergo)|N/A|671|115k|Financial Services|
+|[Wayflyer](https://wayflyer.com/)|[Link](https://linkedin.com/company/wayflyer)|2019|451|40k|Financial Services|
 
-### Dublin - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|PwC Ireland|[Link](http://www.pwc.ie)|[Link](https://www.linkedin.com/company/pwc-ireland)|N/A|[2509](https://www.linkedin.com/company/pwc-ireland/people/)|107k|-|IT Services and IT Consulting|
-|Version 1|[Link](http://www.version1.com?utm_source=LinkedIn&utm_medium=social&utm_campaign=LinkedIn%20conversion%20tracker)|[Link](https://www.linkedin.com/company/version-1)|N/A|[3821](https://www.linkedin.com/company/version-1/people/)|334k|[Private Equity](//www.crunchbase.com/organization/version?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Dublin - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Jentic](https://jentic.com)|[Link](https://linkedin.com/company/jentic)|2024|24|8.1k|Software Development|
+|[Zerve AI](https://www.zerve.ai/)|[Link](https://linkedin.com/company/zerve-ai)|2023|21|4.8k|Software Development|
 
-## Gurgaon
-### Gurgaon - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Wobot AI|[Link](https://wobot.ai/)|[Link](https://www.linkedin.com/company/wobot-ai)|N/A|[108](https://www.linkedin.com/company/wobot-intelligence/people/)|11k|[Seed](//www.crunchbase.com/organization/wobot-intelligence?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Sparrosense|[Link](http://www.sparrosense.com)|[Link](https://www.linkedin.com/company/sparrosense)|2020|[1](https://www.linkedin.com/company/silversparro/people/)|1k|[Seed](//www.crunchbase.com/organization/silversparro-technologies-pvt-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Dublin - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Tines](https://www.tines.com/)|[Link](https://linkedin.com/company/tines-io)|2018|634|67k|Software Development|
+|[Kitman Labs](http://kitmanlabs.com)|[Link](https://linkedin.com/company/kitman-labs)|2012|136|19k|IT Services and IT Consulting|
 
-### Gurgaon - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|FarEye|[Link](https://fareye.com/book-a-meeting)|[Link](https://www.linkedin.com/company/fareye)|2013|[573](https://www.linkedin.com/company/fareye/people/)|58k|[Series E](//www.crunchbase.com/organization/fareye-22?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Page Deactivation in process|[Link](http://www.yahoo.com)|[Link](https://www.linkedin.com/company/1abc23)|2001|[24](https://www.linkedin.com/company/xebia-india/people/)|8k|-|IT Services and IT Consulting|
+## Edinburgh
+### Edinburgh - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Aveni](https://aveni.ai)|[Link](https://linkedin.com/company/aveni-ai)|2018|118|33k|Software Development|
+|[Malted](https://malted.ai)|[Link](https://linkedin.com/company/malted)|2023|31|4.2k|Software Development|
 
-### Gurgaon - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Addverb|[Link](http://www.addverb.com)|[Link](https://www.linkedin.com/company/addverb)|2016|[1275](https://www.linkedin.com/company/addverb/people/)|104k|[Series B](//www.crunchbase.com/organization/addverb-technologies-pvt-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Peppermint Robotics|[Link](https://www.peppermintrobotics.com/contact-us)|[Link](https://www.linkedin.com/company/peppermintrobotics)|2019|[116](https://www.linkedin.com/company/aubotz/people/)|35k|[Series A](//www.crunchbase.com/organization/peppermint-652a?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+### Edinburgh - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Robotical](https://robotical.io)|[Link](https://linkedin.com/company/robotical)|2016|17|2.6k|Education Administration Programs|
 
-### Gurgaon - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|CrelioHealth|[Link](https://creliohealthinc.pipedrive.com/scheduler/vXa64BI8/meeting)|[Link](https://www.linkedin.com/company/creliohealth)|2013|[145](https://www.linkedin.com/company/livehealth/people/)|15k|-|Hospitals and Health Care|
+### Edinburgh - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Krotos](https://krotos.studio/)|[Link](https://linkedin.com/company/krotos)|2013|22|7.4k|Software Development|
+|[Speech Graphics](http://www.speech-graphics.com)|[Link](https://linkedin.com/company/speech-graphics)|2010|49|4k|Computer Games|
 
-### Gurgaon - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Leena AI|[Link](https://leena.ai/)|[Link](https://www.linkedin.com/company/leena-ai)|2018|[283](https://www.linkedin.com/company/leena-ai/people/)|141k|-|Software Development|
+## Eindhoven
+### Eindhoven - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[BRIGHT integrated Photonics](http://www.brightphotonics.eu)|[Link](https://linkedin.com/company/bright-photonics)|2010|10|3k|Semiconductor Manufacturing|
 
-### Gurgaon - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Datacultr|[Link](https://datacultr.com)|[Link](https://www.linkedin.com/company/datacultr)|2020|[112](https://www.linkedin.com/company/datacultr/people/)|91k|[Seed](//www.crunchbase.com/organization/datacultr?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Eindhoven - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Smart Robotics](http://www.smart-robotics.io)|[Link](https://linkedin.com/company/smart-robotics)|2015|53|10k|Automation Machinery Manufacturing|
 
-### Gurgaon - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Airblack|[Link](http://www.airblack.com)|[Link](https://www.linkedin.com/company/airblack)|2019|[261](https://www.linkedin.com/company/airblack/people/)|188k|[Series B](//www.crunchbase.com/organization/airblack?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Eindhoven - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sorama](https://www.sorama.eu)|[Link](https://linkedin.com/company/sorama)|2009|98|9.1k|Medical Equipment Manufacturing|
 
-### Gurgaon - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Nagarro|[Link](https://www.nagarro.com/en)|[Link](https://www.linkedin.com/company/nagarro)|N/A|[21842](https://www.linkedin.com/company/nagarro/people/)|1683k|[Series Unknown](//www.crunchbase.com/organization/nagarro?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Eindhoven - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sendcloud](http://www.sendcloud.com)|[Link](https://linkedin.com/company/sendcloud)|N/A|450|27k|Software Development|
 
-### Gurgaon - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Zomato|[Link](https://www.zomato.com/aboutus)|[Link](https://www.linkedin.com/company/zomato)|2008|[25304](https://www.linkedin.com/company/zomato/people/)|1978k|[Post Ipo Equity](//www.crunchbase.com/organization/zomato?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Trip for All|[Link](http://www.codebees.org/)|[Link](https://www.linkedin.com/company/trip-for-all)|N/A|[96](https://www.linkedin.com/company/makemytrip/people/)|12k|-|IT Services and IT Consulting|
-|Policybazaar.com|[Link](http://www.policybazaar.com)|[Link](https://www.linkedin.com/company/policybazaar)|2008|[12017](https://www.linkedin.com/company/policybazaar/people/)|384k|[Post Ipo Secondary](//www.crunchbase.com/organization/policybazaar?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Insurance|
-|Snapdeal|[Link](http://www.snapdeal.com)|[Link](https://www.linkedin.com/company/snapdeal)|2010|[3402](https://www.linkedin.com/company/snapdeal/people/)|209k|[Series Unknown](//www.crunchbase.com/organization/snapdeal?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|CARS24|[Link](https://www.cars24.com)|[Link](https://www.linkedin.com/company/cars24)|2015|[10042](https://www.linkedin.com/company/cars24/people/)|453k|[Corporate Round](//www.crunchbase.com/organization/cars24?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Eindhoven - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[FruitPunch AI](http://fruitpunch.ai)|[Link](https://linkedin.com/company/fruitpunchai)|2018|13|6.6k|Software Development|
+|[Bright Cape](http://www.brightcape.nl)|[Link](https://linkedin.com/company/brightcape)|2014|64|3.1k|Business Consulting and Services|
 
-### Gurgaon - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Xebia|[Link](https://xebia.com/)|[Link](https://www.linkedin.com/company/xebia)|N/A|[6111](https://www.linkedin.com/company/xebia/people/)|511k|-|IT Services and IT Consulting|
-|McKinsey Digital|[Link](https://www.mckinsey.com/business-functions/digital-mckinsey/how-we-help-clients)|[Link](https://www.linkedin.com/showcase/mckinsey-digital/)|N/A|[0](https://www.linkedin.com/company/mckinsey-digital/people/)|140k|-|IT Services and IT Consulting|
+### Eindhoven - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Axelera AI](https://axelera.ai/)|[Link](https://linkedin.com/company/axelera-ai)|2021|300|50k|Semiconductor Manufacturing|
 
-### Gurgaon - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|indigo.ai|[Link](https://indigo.ai/it/marketing/richiedi-demo/)|[Link](https://www.linkedin.com/company/indigo-ai)|2016|[53](https://www.linkedin.com/company/indigo-ai/people/)|19k|[Series B](//www.crunchbase.com/organization/indigo-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Evalueserve|[Link](http://www.evalueserve.com)|[Link](https://www.linkedin.com/company/evalueserve)|2000|[5959](https://www.linkedin.com/company/evalueserve/people/)|382k|-|Business Consulting and Services|
-|Samsung SDS|[Link](http://www.samsungsds.com)|[Link](https://www.linkedin.com/company/samsung-sds)|N/A|[14860](https://www.linkedin.com/company/samsung-sds/people/)|204k|-|IT Services and IT Consulting|
-|American Express|[Link](https://www.americanexpress.com/)|[Link](https://www.linkedin.com/company/american-express)|N/A|[81847](https://www.linkedin.com/company/american-express/people/)|3306k|-|Financial Services|
+## Geneva
+### Geneva - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Proton](https://proton.me/)|[Link](https://linkedin.com/company/protonprivacy)|2014|1k|173k|Software Development|
+
+## Hamburg
+### Hamburg - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[neuroflash](https://www.neuroflash.com)|[Link](https://linkedin.com/company/neuroflash)|2022|30|5.7k|Software Development|
+
+### Hamburg - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mindpeak](https://www.mindpeak.ai/)|[Link](https://linkedin.com/company/mindpeak)|N/A|53|6.3k|IT Services and IT Consulting|
+
+### Hamburg - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Appinio](http://www.appinio.com)|[Link](https://linkedin.com/company/appinio)|2014|276|32k|Market Research|
+|[Attention Insight](https://www.attentioninsight.com)|[Link](https://linkedin.com/company/attention-insight)|2019|10|5.4k|Software Development|
+
+## Hangzhou
+### Hangzhou - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DEEP Robotics](https://www.deeprobotics.cn/en/)|[Link](https://linkedin.com/company/deep-robotics)|2017|49|49k|Automation Machinery Manufacturing|
+
+### Hangzhou - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[WeDoctor (微医集团)](https://www.guahao.com)|[Link](https://linkedin.com/company/wedoctor)|2010|342|2.6k|Hospitals and Health Care|
+
+## Helsinki
+### Helsinki - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ICEYE](https://www.iceye.com)|[Link](https://linkedin.com/company/iceye)|2015|1.2k|214k|Defense and Space Manufacturing|
+|[Varjo](https://www.varjo.com)|[Link](https://linkedin.com/company/varjo)|2016|215|47k|Computer Hardware Manufacturing|
+|[Kuva Space](https://kuvaspace.com/)|[Link](https://linkedin.com/company/kuva-space)|2016|60|13k|Defense and Space Manufacturing|
+|[Dispelix](https://www.dispelix.com/)|[Link](https://linkedin.com/company/dispelix)|2015|93|8.9k|Computers and Electronics Manufacturing|
+
+### Helsinki - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[GIM Robotics](http://gimrobotics.fi/)|[Link](https://linkedin.com/company/gimrobotics)|2014|44|6.8k|Software Development|
+
+### Helsinki - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sensible 4](http://www.sensible4.fi)|[Link](https://linkedin.com/company/sensible4)|2024|14|7.6k|Software Development|
+
+### Helsinki - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Yousician](https://yousician.com/careers)|[Link](https://linkedin.com/company/yousician)|2010|130|12k|E-Learning Providers|
+|[Flowhaven](http://flowhaven.com)|[Link](https://linkedin.com/company/flowhaven)|2016|17|4.7k|Software Development|
+
+### Helsinki - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Zefort](http://www.zefort.com)|[Link](https://linkedin.com/company/zefort)|2017|30|2.3k|Information Services|
+
+### Helsinki - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Swappie](https://www.swappie.com)|[Link](https://linkedin.com/company/swappie)|2016|564|18k|Computers and Electronics Manufacturing|
+|[Nosto](https://www.nosto.com)|[Link](https://linkedin.com/company/nosto)|2013|160|15k|Software Development|
+
+### Helsinki - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[RELEX Solutions](http://www.relexsolutions.com)|[Link](https://linkedin.com/company/relexsolutions)|2005|2.3k|76k|Software Development|
+|[Smartly](http://smartly.io)|[Link](https://linkedin.com/company/smartly-io)|2013|1.1k|60k|Advertising Services|
+|[Vainu](https://www.vainu.com)|[Link](https://linkedin.com/company/vainu)|2014|90|13k|Software Development|
+|[Inven](https://www.inven.ai/)|[Link](https://linkedin.com/company/inven-ai)|2022|102|13k|Software Development|
+
+### Helsinki - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Reaktor](http://www.reaktor.com/)|[Link](https://linkedin.com/company/reaktor_)|2000|788|55k|IT Services and IT Consulting|
+|[Futurice](https://www.futurice.com/)|[Link](https://linkedin.com/company/futurice)|2000|504|50k|IT Services and IT Consulting|
+|[DAIN Studios](https://dainstudios.com)|[Link](https://linkedin.com/company/dainstudios)|2016|19|5.4k|Business Consulting and Services|
+
+### Helsinki - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Aiven](https://aiven.io/)|[Link](https://linkedin.com/company/aiven)|2016|492|64k|Software Development|
+|[Saidot](http://www.saidot.ai)|[Link](https://linkedin.com/company/saidot)|2018|18|5.7k|Software Development|
+
+### Helsinki - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Hoxhunt](https://www.hoxhunt.com)|[Link](https://linkedin.com/company/hoxhunt)|2016|311|15k|Computer and Network Security|
+
+## Ho Chi Minh City
+### Ho Chi Minh City - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ELSA, Corp](http://www.elsaspeak.com)|[Link](https://linkedin.com/company/elsa-corp)|2015|215|47k|E-Learning Providers|
+
+### Ho Chi Minh City - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[TIKI](http://tiki.vn)|[Link](https://linkedin.com/company/tiki-vn)|2010|1.2k|125k|Technology, Information and Internet|
+
+### Ho Chi Minh City - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[MoMo (M_Service)](https://momo.careers/)|[Link](https://linkedin.com/company/momo-mservice)|2007|2.4k|209k|Financial Services|
+|[Inspectorio](http://www.inspectorio.com)|[Link](https://linkedin.com/company/inspectorio)|2015|237|82k|Software Development|
+
+## Hong Kong
+### Hong Kong - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dayta AI](https://www.dayta.ai/)|[Link](https://linkedin.com/company/daytaai)|N/A|14|3.9k|IT Services and IT Consulting|
+|[SmartMore Corporation](https://smartmore.global/)|[Link](https://linkedin.com/company/smartmore-global)|2019|128|2.8k|Automation Machinery Manufacturing|
+
+### Hong Kong - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Rice Robotics](http://www.ricerobotics.com)|[Link](https://linkedin.com/company/ricerobotics)|2019|13|2.4k|Automation Machinery Manufacturing|
+|[Insight Robotics Ltd.](https://www.insightrobotics.com/)|[Link](https://linkedin.com/company/insight-robotics-ltd)|N/A|21|1.9k|IT Services and IT Consulting|
+
+### Hong Kong - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Fano (Fano Labs)](https://www.fano.ai)|[Link](https://linkedin.com/company/fanolabs)|2015|104|14k|Software Development|
+
+### Hong Kong - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Wizpresso 濃說](https://wizpresso.com/)|[Link](https://linkedin.com/company/wizpresso)|2017|16|3k|Software Development|
+
+### Hong Kong - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AQUMON](https://www.AQUMON.com/)|[Link](https://linkedin.com/company/aqumon)|2016|53|8.3k|Financial Services|
+|[OneDegree](https://www.onedegree.hk)|[Link](https://linkedin.com/company/onedegree-hk)|2016|106|7.9k|Insurance|
+|[iLabService](https://www.ilabservice.ai)|[Link](https://linkedin.com/company/ilabservice)|2016|26|1.2k|IT Services and IT Consulting|
+
+### Hong Kong - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lalamove](https://www.lalamove.com)|[Link](https://linkedin.com/company/lalamove)|N/A|7.3k|194k|Software Development|
+
+## Houston
+### Houston - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DrillDocs](http://drilldocs.com)|[Link](https://linkedin.com/company/drilldocs)|2020|14|3.7k|Oil and Gas|
+
+### Houston - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AutomationEdge](https://automationedge.com)|[Link](https://linkedin.com/company/automationedge)|2015|592|23k|Software Development|
+|[Fleetzero](https://www.fleetzero.com/)|[Link](https://linkedin.com/company/fleetzero)|N/A|40|5.7k|Transportation, Logistics, Supply Chain and Storage|
+
+### Houston - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Starling (YC W22)](http://www.starlingmedical.com)|[Link](https://linkedin.com/company/starling-medical)|2019|16|3.1k|Medical Equipment Manufacturing|
+
+### Houston - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bot Auto](https://bot.auto/)|[Link](https://linkedin.com/company/bot-auto)|2023|94|6.6k|Freight and Package Transportation|
+
+### Houston - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Corva](http://www.corva.ai)|[Link](https://linkedin.com/company/corva)|2014|316|24k|Oil and Gas|
+
+### Houston - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[HighRadius](https://www.highradius.com/)|[Link](https://linkedin.com/company/highradius)|2006|4.7k|495k|Software Development|
+|[NewsCatcher (YC S22)](https://newscatcherapi.com/)|[Link](https://linkedin.com/company/newscatcherapi)|N/A|21|2.9k|IT Services and IT Consulting|
+
+### Houston - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Searce Inc](https://www.searce.com)|[Link](https://linkedin.com/company/searceinc)|2004|1.6k|304k|Business Consulting and Services|
 
 ## Hyderabad
-### Hyderabad - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Aindra Systems|[Link](http://www.aindra.in)|[Link](https://www.linkedin.com/company/aindra-systems)|2012|[24](https://www.linkedin.com/company/aindra-systems/people/)|11k|-|Medical Equipment Manufacturing|
-|StaTwig|[Link](http://www.statwig.com)|[Link](https://www.linkedin.com/company/statwig)|2016|[14](https://www.linkedin.com/company/statwig/people/)|3k|[Non Equity Assistance](//www.crunchbase.com/organization/statwig-technology-services?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Hyderabad - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Marut Drones](https://marutdrones.com/)|[Link](https://linkedin.com/company/marutdrones)|2019|166|28k|Aviation and Aerospace Component Manufacturing|
+|[Perceptyne](https://www.perceptyne.com/)|[Link](https://linkedin.com/company/perceptyne-robots)|2021|42|6.8k|Automation Machinery Manufacturing|
 
 ### Hyderabad - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|nference|[Link](https://nference.ai/)|[Link](https://www.linkedin.com/company/nference)|2013|[336](https://www.linkedin.com/company/nference/people/)|108k|[Non Equity Assistance](//www.crunchbase.com/organization/nference?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Monitra|[Link](http://www.monitra.co.uk)|[Link](https://www.linkedin.com/company/monitra)|2006|[61](https://www.linkedin.com/company/monitra/people/)|10k|-|Appliances, Electrical, and Electronics Manufacturing|
-|ekincare|[Link](https://www.ekincare.com)|[Link](https://www.linkedin.com/company/ekincare)|2015|[235](https://www.linkedin.com/company/ekincare/people/)|38k|-|Wellness and Fitness Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Excelra](https://www.excelra.com/)|[Link](https://linkedin.com/company/excelra)|2016|1k|88k|IT Services and IT Consulting|
+|[ekincare](https://www.ekincare.com)|[Link](https://linkedin.com/company/ekincare)|2015|253|41k|Wellness and Fitness Services|
+|[UrbanKisaan](http://www.urbankisaan.com)|[Link](https://linkedin.com/company/urbankisaan)|2019|73|13k|Food and Beverage Services|
+|[Aganitha](https://aganitha.ai/)|[Link](https://linkedin.com/company/aganitha)|2017|124|9.8k|Biotechnology Research|
 
-### Hyderabad - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|LightMetrics|[Link](https://www.lightmetrics.co/solutions/)|[Link](https://www.linkedin.com/company/lightmetrics)|2015|[136](https://www.linkedin.com/company/lightmetrics/people/)|5k|[Series A](//www.crunchbase.com/organization/lightmetrics-technologies-private-limited?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Hyderabad - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|OneOrigin|[Link](https://www.oneorigin.us/)|[Link](https://www.linkedin.com/company/oneorigin)|2015|[165](https://www.linkedin.com/company/oneorigin/people/)|175k|-|Software Development|
-|Darwinbox|[Link](https://bit.ly/2AA4GpA)|[Link](https://www.linkedin.com/company/thedarwinbox)|2015|[1449](https://www.linkedin.com/company/darwinbox/people/)|194k|[Series D](//www.crunchbase.com/organization/darwinbox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Kenyt.AI|[Link](https://www.kenyt.ai)|[Link](https://www.linkedin.com/company/kenytai)|2017|[54](https://www.linkedin.com/company/kenyt/people/)|2k|-|Software Development|
+### Hyderabad - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[OneOrigin](https://www.oneorigin.us)|[Link](https://linkedin.com/company/oneorigin)|2015|140|173k|Software Development|
+|[Kenyt.AI](https://www.kenyt.ai)|[Link](https://linkedin.com/company/kenytai)|2017|44|2.7k|Software Development|
 
 ### Hyderabad - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Paymatrix|[Link](https://paymatrix.in/home/aboutus)|[Link](https://www.linkedin.com/company/paymatrix)|2015|[14](https://www.linkedin.com/company/paymatrix/people/)|2k|[Seed](//www.crunchbase.com/organization/paymatrix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Landeed](https://www.landeed.com/)|[Link](https://linkedin.com/company/landeed)|2022|88|12k|Real Estate|
 
 ### Hyderabad - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|GreenHonchos|[Link](https://www.greenhonchos.com/#think-digital)|[Link](https://www.linkedin.com/company/greenhonchos)|2012|[196](https://www.linkedin.com/company/greenhonchos/people/)|42k|-|Business Consulting and Services|
-|CricClubs|[Link](https://www.cricclubs.com)|[Link](https://www.linkedin.com/company/cricclubs)|N/A|[7](https://www.linkedin.com/company/cricclubs/people/)|8k|[Private Equity](//www.crunchbase.com/organization/cricclubs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Spectator Sports|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[CricClubs](https://www.cricclubs.com)|[Link](https://linkedin.com/company/cricclubs)|N/A|41|9.7k|Spectator Sports|
+|[AiMunshi- High Performance Enterprise Automation](https://aimunshi.ai/)|[Link](https://linkedin.com/company/aimunshi)|2019|12|4.3k|IT Services and IT Consulting|
 
 ### Hyderabad - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Cyient|[Link](https://www.cyient.com/)|[Link](https://www.linkedin.com/company/cyient)|1991|[20617](https://www.linkedin.com/company/cyient/people/)|671k|[Post Ipo Equity](//www.crunchbase.com/organization/cyient?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vassar Labs](https://vassarlabs.com)|[Link](https://linkedin.com/company/vassar-labs)|2014|359|16k|IT Services and IT Consulting|
 
 ### Hyderabad - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Thoughtworks|[Link](https://ter.li/2289vm)|[Link](https://www.linkedin.com/company/thoughtworks)|N/A|[12368](https://www.linkedin.com/company/thoughtworks/people/)|781k|[Private Equity](//www.crunchbase.com/organization/thoughtworks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Progress Software|[Link](https://www.progress.com/)|[Link](https://www.linkedin.com/company/progress-software)|N/A|[4230](https://www.linkedin.com/company/progress-software/people/)|79k|[Post Ipo Debt](//www.crunchbase.com/organization/progress-software?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ValueLabs|[Link](https://hubs.li/Q01TVw2l0)|[Link](https://www.linkedin.com/company/valuelabs)|N/A|[8685](https://www.linkedin.com/company/valuelabs/people/)|1234k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Swipe (YC S21)](https://getswipe.in)|[Link](https://linkedin.com/company/swipebilling)|2021|79|22k|Software Development|
 
 ### Hyderabad - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Virtusa|[Link](http://www.virtusa.com)|[Link](https://www.linkedin.com/company/virtusa)|1996|[17423](https://www.linkedin.com/company/virtusa/people/)|1375k|[Post Ipo Equity](//www.crunchbase.com/organization/virtusa?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Cognizant AI Lab|[Link](https://www.cognizant.com/us/en/services/ai)|[Link](https://www.linkedin.com/showcase/cognizant-ai-lab/)|N/A|[0](https://www.linkedin.com/company/cognizant-ai/people/)|4k|-|Software Development|
-|Innominds|[Link](https://www.innominds.com)|[Link](https://www.linkedin.com/company/innominds)|1998|[1884](https://www.linkedin.com/company/innominds/people/)|51k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Minfy](http://www.minfytech.com)|[Link](https://linkedin.com/company/minfy)|2016|552|84k|IT Services and IT Consulting|
 
 ### Hyderabad - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Microsoft AI|[Link](https://microsoft.ai)|[Link](https://www.linkedin.com/company/microsoft-ai)|2024|[2247](https://www.linkedin.com/company/microsoft-ai/people/)|49k|-|Software Development|
-|Intel Developer|[Link](http://www.ai.intel.com)|[Link](https://www.linkedin.com/showcase/intel-developer/)|N/A|[1](https://www.linkedin.com/company/intel-ai/people/)|166k|-|Semiconductor Manufacturing|
-|NVIDIA AI|[Link](http://nvda.ws/2nfcPK3)|[Link](https://www.linkedin.com/showcase/nvidia-ai/)|N/A|[1](https://www.linkedin.com/company/nvidia-ai/people/)|1599k|-|Computer Hardware Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Inncircles](https://inncircles.com/)|[Link](https://linkedin.com/company/inncirclesai)|2019|159|8.4k|Software Development|
+
+## Istanbul
+### Istanbul - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vispera](http://vispera.co)|[Link](https://linkedin.com/company/vispera-information-technologies)|2014|84|9.6k|IT Services and IT Consulting|
+
+### Istanbul - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ADASTEC Corp.](http://www.adastec.com)|[Link](https://linkedin.com/company/adastec)|2018|120|24k|Software Development|
+
+### Istanbul - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[CBOT](https://www.cbot.ai/)|[Link](https://linkedin.com/company/cbot-ai)|2017|53|14k|IT Services and IT Consulting|
+
+### Istanbul - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Segmentify](http://www.segmentify.com/)|[Link](https://linkedin.com/company/segmentify)|2015|65|15k|Software Development|
+
+### Istanbul - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Insider One](https://insiderone.com/)|[Link](https://linkedin.com/company/insiderone)|N/A|1.9k|153k|Software Development|
+|[Etiya](http://www.etiya.com/)|[Link](https://linkedin.com/company/etiya)|2004|1.6k|139k|Software Development|
+
+### Istanbul - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Getir](http://getir.com)|[Link](https://linkedin.com/company/getir)|2015|6.7k|441k|Software Development|
+|[Kunduz](https://kunduz.com)|[Link](https://linkedin.com/company/kunduz)|2016|878|19k|E-Learning Providers|
+
+## Jakarta
+### Jakarta - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Nodeflux Teknologi Indonesia](https://www.nodeflux.io/)|[Link](https://linkedin.com/company/nodeflux)|2016|49|12k|IT Services and IT Consulting|
+
+### Jakarta - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bahasa.ai](http://bahasa.ai)|[Link](https://linkedin.com/company/bahasa-ai)|2016|12|1.3k|IT Services and IT Consulting|
+
+### Jakarta - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Halodoc](https://www.halodoc.com/)|[Link](https://linkedin.com/company/halodoc-id)|2016|1.5k|101k|Software Development|
+
+### Jakarta - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Kata.ai](https://kata.ai/company/contact-us)|[Link](https://linkedin.com/company/kata-ai)|2015|88|46k|IT Services and IT Consulting|
+
+### Jakarta - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[GLAIR](https://glair.ai)|[Link](https://linkedin.com/company/glair)|2017|48|1.1k|IT Services and IT Consulting|
+
+### Jakarta - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mekari](https://mekari.com/social/li/)|[Link](https://linkedin.com/company/mekari)|2015|1.7k|102k|Software Development|
+|[Verihubs](https://verihubs.com)|[Link](https://linkedin.com/company/verihubs)|2019|63|22k|Software Development|
+|[Finku](https://bit.ly/finkuID)|[Link](https://linkedin.com/company/finku)|2020|33|8.4k|Financial Services|
+|[PINA Indonesia](https://pina.id)|[Link](https://linkedin.com/company/pinaindonesia)|2021|10|2.3k|Financial Services|
+
+## Kraków
+### Kraków - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cardiomatics](http://cardiomatics.com)|[Link](https://linkedin.com/company/cardiomatics)|2017|27|3.2k|Software Development|
+|[Intelliseq](https://intelliseq.com/)|[Link](https://linkedin.com/company/intelliseq)|2013|16|3.2k|Biotechnology Research|
+
+### Kraków - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lekta AI](https://lekta.ai)|[Link](https://linkedin.com/company/lekta)|N/A|41|1k|IT Services and IT Consulting|
+
+### Kraków - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Synerise](https://synerise.com)|[Link](https://linkedin.com/company/synerise)|2013|198|18k|Software Development|
+|[Manago AI](https://manago.ai/)|[Link](https://linkedin.com/company/managoai)|2011|344|15k|Advertising Services|
+
+### Kraków - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[nexocode](http://www.nexocode.com)|[Link](https://linkedin.com/company/nexocode)|2015|16|1.2k|IT Services and IT Consulting|
+
+### Kraków - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Brainly](https://careers.brainly.com/)|[Link](https://linkedin.com/company/brainly-com)|2009|473|29k|Software Development|
+
+## Kuala Lumpur
+### Kuala Lumpur - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[WISE AI](https://wiseai.tech)|[Link](https://linkedin.com/company/wise-ai)|2018|30|8.1k|IT Services and IT Consulting|
+
+### Kuala Lumpur - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AERODYNE GROUP](http://www.aerodyne.group)|[Link](https://linkedin.com/company/aerodyne-group)|2014|387|41k|Aviation and Aerospace Component Manufacturing|
+
+### Kuala Lumpur - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Innov8tif](https://innov8tif.com)|[Link](https://linkedin.com/company/innov8tif-solutions)|N/A|61|2k|IT Services and IT Consulting|
+
+### Kuala Lumpur - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[BJAK](https://bjak.my/en/career)|[Link](https://linkedin.com/company/bjak)|2019|384|142k|Software Development|
+|[Kaya (YC S21)](https://www.usekaya.com)|[Link](https://linkedin.com/company/usekaya)|N/A|2|1.7k|Advertising Services|
+
+### Kuala Lumpur - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[CARSOME](http://www.carsome.com)|[Link](https://linkedin.com/company/carsome)|N/A|1.9k|44k|Software Development|
+
+## Kyiv
+### Kyiv - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Reface](https://reface.ai)|[Link](https://linkedin.com/company/refaceapp)|N/A|221|12k|IT Services and IT Consulting|
+
+### Kyiv - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Osavul](https://www.osavul.cloud)|[Link](https://linkedin.com/company/osavul)|2022|35|5k|Computer and Network Security|
+
+### Kyiv - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Respeecher](https://respeecher.com)|[Link](https://linkedin.com/company/respeecher)|2017|54|5.8k|IT Services and IT Consulting|
+
+### Kyiv - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Jooble](https://jooble.org)|[Link](https://linkedin.com/company/jooble)|N/A|897|57k|Software Development|
+
+### Kyiv - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[YouScan Social Listening ✨](https://youscan.io)|[Link](https://linkedin.com/company/youscan)|2010|109|14k|Software Development|
+
+### Kyiv - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mindy Support](http://www.mindy-support.com)|[Link](https://linkedin.com/company/mindy-support)|2013|558|34k|Outsourcing and Offshoring Consulting|
+
+### Kyiv - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Zibra AI](https://zibra.ai/)|[Link](https://linkedin.com/company/zibra-ai)|2021|28|5.6k|Software Development|
+
+## Lagos
+### Lagos - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Smile ID](https://usesmileid.com)|[Link](https://linkedin.com/company/usesmileid)|2017|68|12k|Software Development|
+
+### Lagos - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Helium Health](http://heliumhealth.com)|[Link](https://linkedin.com/company/heliumhealth)|2017|109|23k|IT Services and IT Consulting|
+
+### Lagos - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Intron Voice AI](http://www.intron.io)|[Link](https://linkedin.com/company/intron-inc)|2020|76|3k|Software Development|
+
+### Lagos - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Terragon Group](https://terragongroup.com/)|[Link](https://linkedin.com/company/terragon-limited)|2009|42|13k|Software Development|
+|[Indicina](https://www.indicina.co)|[Link](https://linkedin.com/company/indicina-africa)|2018|21|5.3k|IT Services and IT Consulting|
+
+### Lagos - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Awarri](http://www.awarri.com/)|[Link](https://linkedin.com/company/awarri)|2019|116|3.2k|Software Development|
+
+### Lagos - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[The uLesson Group](http://www.ulesson.com)|[Link](https://linkedin.com/company/ulessonapp)|2019|186|17k|E-Learning Providers|
+|[SEAMFIX](https://www.seamfix.com)|[Link](https://linkedin.com/company/seamfix)|2007|195|12k|IT Services and IT Consulting|
+|[Prembly](https://prembly.com/)|[Link](https://linkedin.com/company/prembly)|N/A|29|4.4k|Software Development|
+
+## Lausanne
+### Lausanne - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Picterra](https://picterra.ai/)|[Link](https://linkedin.com/company/picterra)|2016|26|12k|Software Development|
+|[IMVERSE](https://www.imverse.com/)|[Link](https://linkedin.com/company/imverse3d)|2017|3|2.5k|Software Development|
+|[Eyeware](https://eyeware.tech)|[Link](https://linkedin.com/company/eyeware)|2016|14|2.2k|Software Development|
+
+### Lausanne - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Iprova](http://www.iprova.com)|[Link](https://linkedin.com/company/iprova)|2010|30|4.9k|Software Development|
+
+### Lausanne - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Flyability](https://www.flyability.com/)|[Link](https://linkedin.com/company/flyability)|2014|151|70k|Automation Machinery Manufacturing|
+|[Ecorobotix](http://www.ecorobotix.com)|[Link](https://linkedin.com/company/ecorobotix)|2014|307|43k|Industrial Machinery Manufacturing|
+|[Distalmotion](http://www.distalmotion.com)|[Link](https://linkedin.com/company/distalmotion)|2012|219|33k|Medical Equipment Manufacturing|
+|[CynLr](http://www.cynlr.com)|[Link](https://linkedin.com/company/cyn-lr)|2019|76|24k|IT Services and IT Consulting|
+|[Hydromea](https://hydromea.com)|[Link](https://linkedin.com/company/hydromea)|2014|22|6k|IT Services and IT Consulting|
+
+### Lausanne - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Adaptyv](https://adaptyvbio.com)|[Link](https://linkedin.com/company/adaptyvbio)|N/A|40|20k|Biotechnology Research|
+|[Readily3D](http://www.readily3d.com)|[Link](https://linkedin.com/company/readily3d)|2020|14|3.4k|Biotechnology Research|
+
+### Lausanne - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[SwissDrones](http://www.swissdrones.com)|[Link](https://linkedin.com/company/swissdrones)|2013|39|13k|Airlines and Aviation|
+
+### Lausanne - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Logmind](http://logmind.com)|[Link](https://linkedin.com/company/logmind)|N/A|17|7.3k|Software Development|
+
+### Lausanne - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Neural Concept](http://www.neuralconcept.com)|[Link](https://linkedin.com/company/neuralconcept)|2019|153|23k|Software Development|
+|[SmartHelio — AI Agent for Solar & BESS](https://www.smarthelio.com/)|[Link](https://linkedin.com/company/smartheliotech)|2019|31|16k|IT Services and IT Consulting|
+|[CompPair Technologies Ltd.](http://comppair.ch)|[Link](https://linkedin.com/company/comppair)|2019|19|5k|Chemical Manufacturing|
+
+### Lausanne - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vyntra Global](https://vyntra.com/)|[Link](https://linkedin.com/company/vyntraglobal)|N/A|165|14k|Software Development|
+|[Leman Biotech](https://www.lemanbio.com/en/home)|[Link](https://linkedin.com/company/leman-biotech)|2021|6|3k|Biotechnology Research|
+
+### Lausanne - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Visium](http://visium.com)|[Link](https://linkedin.com/company/visium-sa)|2018|123|38k|Software Development|
+|[Unit8](https://unit8.com)|[Link](https://linkedin.com/company/unit8)|2017|188|36k|IT Services and IT Consulting|
+
+### Lausanne - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Giotto.ai](https://www.giotto.ai/)|[Link](https://linkedin.com/company/giottoai)|2017|38|17k|Software Development|
+|[inait](https://www.inait.ai)|[Link](https://linkedin.com/company/inait)|2017|21|7.6k|Software Development|
+
+### Lausanne - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Nexthink](https://nexthink.com/)|[Link](https://linkedin.com/company/nexthink)|2004|1.2k|372k|Software Development|
+|[Scantrust](https://www.scantrust.com)|[Link](https://linkedin.com/company/scantrust)|2014|41|5.4k|IT Services and IT Consulting|
+|[AIcrowd](https://www.aicrowd.com)|[Link](https://linkedin.com/company/aicrowd)|2018|6|3.8k|Software Development|
+
+## Lisbon
+### Lisbon - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sensei](http://www.sensei.tech)|[Link](https://linkedin.com/company/sensei-tech)|2017|113|20k|Software Development|
+
+### Lisbon - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[TEKEVER](http://www.tekever.com)|[Link](https://linkedin.com/company/tekever)|2001|990|96k|IT Services and IT Consulting|
+
+### Lisbon - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Automaise](https://www.automaise.com)|[Link](https://linkedin.com/company/automaise)|2017|67|24k|IT Services and IT Consulting|
+|[Visor.ai](https://www.visor.ai)|[Link](https://linkedin.com/company/visor.ai)|2016|37|11k|Software Development|
+
+### Lisbon - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Jungle](http://jungle.ai)|[Link](https://linkedin.com/company/jungle.ai)|2016|34|5.7k|IT Services and IT Consulting|
+
+### Lisbon - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Xpand IT](http://www.xpand-it.com/pt-pt/)|[Link](https://linkedin.com/company/xpand-it)|2003|312|24k|IT Services and IT Consulting|
+|[DareData](https://www.daredata.ai/)|[Link](https://linkedin.com/company/daredata-ai)|2019|129|9.4k|Software Development|
 
 ## London
-### London - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Google DeepMind|[Link](http://www.deepmind.google)|[Link](https://www.linkedin.com/company/googledeepmind)|2010|[7952](https://www.linkedin.com/company/deepmind/people/)|1440k|[Series A](//www.crunchbase.com/organization/deepmind?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|FACULTY|[Link](http://www.wearefaculty.com)|[Link](https://www.linkedin.com/company/faculty)|2012|[146](https://www.linkedin.com/company/faculty/people/)|2k|-|Advertising Services|
-|Tractable|[Link](http://www.tractable.ai)|[Link](https://www.linkedin.com/company/tractable)|2014|[190](https://www.linkedin.com/company/tractable/people/)|34k|[Series E](//www.crunchbase.com/organization/tractable?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Cortexica|[Link](https://www.cortexica.com/contact-us/)|[Link](https://www.linkedin.com/company/cortexica)|2008|[6](https://www.linkedin.com/company/cortexica/people/)|2k|[Series Unknown](//www.crunchbase.com/organization/cortexica?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|VivaCity|[Link](http://www.vivacitylabs.com)|[Link](https://www.linkedin.com/company/vivacity-labs)|2015|[99](https://www.linkedin.com/company/vivacity-labs/people/)|6k|[Series Unknown](//www.crunchbase.com/organization/vivacity-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Greyparrot|[Link](http://www.greyparrot.ai)|[Link](https://www.linkedin.com/company/greyparrotai)|2019|[59](https://www.linkedin.com/company/greyparrotai/people/)|10k|[Corporate Round](//www.crunchbase.com/organization/greyparrot-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Move AI|[Link](http://www.move.ai)|[Link](https://www.linkedin.com/company/move-ai)|2019|[29](https://www.linkedin.com/company/move-ai/people/)|51k|[Series Unknown](//www.crunchbase.com/organization/move-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|SKY ENGINE AI|[Link](https://www.skyengine.ai?utm_source=social&utm_medium=linkedin&utm_campaign=main_button)|[Link](https://www.linkedin.com/company/skyengine)|2018|[56](https://www.linkedin.com/company/skyengine/people/)|4k|[Series A](//www.crunchbase.com/organization/sky-engine?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### London - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Synthesia](https://synthesia.io)|[Link](https://linkedin.com/company/synthesia-technologies)|2017|909|174k|Software Development|
+|[Ultralytics](http://www.ultralytics.com)|[Link](https://linkedin.com/company/ultralytics)|2022|74|127k|Software Development|
+|[MOVE](http://www.move.ai)|[Link](https://linkedin.com/company/move-ai)|2019|76|52k|Software Development|
+|[Tractable](http://www.tractable.ai)|[Link](https://linkedin.com/company/tractable)|2014|175|37k|Software Development|
+|[V7](https://v7labs.com)|[Link](https://linkedin.com/company/v7labs)|2018|98|33k|Software Development|
+|[Flawless](http://flawlessai.com)|[Link](https://linkedin.com/company/flawlessai)|2018|235|15k|Software Development|
+|[Greyparrot](http://www.greyparrot.ai)|[Link](https://linkedin.com/company/greyparrotai)|2019|64|12k|Software Development|
+|[VivaCity](http://www.vivacitylabs.com)|[Link](https://linkedin.com/company/vivacity-labs)|2015|100|6.5k|Software Development|
+|[Realeyes](http://www.realeyes.ai)|[Link](https://linkedin.com/company/realeyesai)|N/A|61|5.9k|Software Development|
+|[Neurolabs](http://www.neurolabs.ai)|[Link](https://linkedin.com/company/neurolabs)|2018|33|5.5k|Software Development|
+|[SKY ENGINE AI](https://www.SKYENGINE.AI)|[Link](https://linkedin.com/company/skyengine)|2018|50|4.9k|Software Development|
 
 ### London - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Speechmatics|[Link](http://www.speechmatics.com)|[Link](https://www.linkedin.com/company/speechmatics)|2006|[106](https://www.linkedin.com/company/speechmatics/people/)|18k|[Non Equity Assistance](//www.crunchbase.com/organization/speechmatics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Omniscien Technologies|[Link](http://www.omniscien.com)|[Link](https://www.linkedin.com/company/omniscien)|2007|[29](https://www.linkedin.com/company/omniscien/people/)|1k|-|Software Development|
-|Relative Insight|[Link](https://relativeinsight.com/about/contact/)|[Link](https://www.linkedin.com/company/relative-insight)|2012|[27](https://www.linkedin.com/company/relative-insight/people/)|6k|[Private Equity](//www.crunchbase.com/organization/relative-insight?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Granola](https://go.granola.so/MXkGRGS)|[Link](https://linkedin.com/company/meetgranola)|2023|161|71k|Software Development|
+|[Signal AI](https://signal-ai.com/)|[Link](https://linkedin.com/company/signal-artificial-intelligence)|N/A|281|33k|Software Development|
+|[DataEQ](http://www.dataeq.com)|[Link](https://linkedin.com/company/dataeq)|2007|124|10k|Business Consulting and Services|
+|[Relative Insight](https://relativeinsight.com)|[Link](https://linkedin.com/company/relative-insight)|2012|23|6.3k|Software Development|
+|[Commetric](https://commetric.com/)|[Link](https://linkedin.com/company/commetric)|2005|105|3.8k|Public Relations and Communications Services|
 
 ### London - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Shadow Robot|[Link](http://www.shadowrobot.com)|[Link](https://www.linkedin.com/company/shadowrobot)|1987|[40](https://www.linkedin.com/company/shadow-robot/people/)|14k|-|Research Services|
-|Automata|[Link](https://automata.tech/?utm_source=LinkedIn&utm_medium=social&utm_campaign=automata-global-linkedin-button-text-free-visit-website-button-li-homepage)|[Link](https://www.linkedin.com/company/automata-technologies)|2015|[181](https://www.linkedin.com/company/automata-technologies/people/)|17k|[Series Unknown](//www.crunchbase.com/organization/automata?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Moley Robotics|[Link](http://www.moley.com/)|[Link](https://www.linkedin.com/company/moley-robotics)|2014|[14](https://www.linkedin.com/company/moley-robotics/people/)|11k|[Equity Crowdfunding](//www.crunchbase.com/organization/moley-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Dexory|[Link](https://www.dexory.com)|[Link](https://www.linkedin.com/company/dexory)|N/A|[196](https://www.linkedin.com/company/dexory/people/)|27k|[Series C](//www.crunchbase.com/organization/botsandus-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|Humanoid|[Link](https://linkedin.com/company/humanoidai)|2024|306|110k|IT Services and IT Consulting|
+|[Dronamics](http://www.dronamics.com)|[Link](https://linkedin.com/company/dronamics)|2014|96|33k|Aviation and Aerospace Component Manufacturing|
+|[Automata](https://automata.tech/)|[Link](https://linkedin.com/company/automata-technologies)|2015|167|20k|Software Development|
+|[Moley Robotics](http://www.moley.com/)|[Link](https://linkedin.com/company/moley-robotics)|2014|13|12k|Software Development|
+|[CircuitHub](http://circuithub.com)|[Link](https://linkedin.com/company/circuithub)|2013|66|4.5k|Appliances, Electrical, and Electronics Manufacturing|
+|[Seeing Systems (YC W26)](https://www.seeing-systems.com/)|[Link](https://linkedin.com/company/seeing-systems)|2024|9|2.4k|Defense and Space Manufacturing|
 
 ### London - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|BenevolentAI|[Link](http://benevolent.com)|[Link](https://www.linkedin.com/company/benevolentai)|2013|[74](https://www.linkedin.com/company/benevolentai/people/)|62k|[Private Equity](//www.crunchbase.com/organization/benevolent-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Healx|[Link](http://www.healx.io)|[Link](https://www.linkedin.com/company/healx)|2014|[65](https://www.linkedin.com/company/healx/people/)|21k|[Series Unknown](//www.crunchbase.com/organization/healx?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Medical AI|[Link](http://www.pharma-plus.nl)|[Link](https://www.linkedin.com/company/medical-ai)|N/A|[98](https://www.linkedin.com/company/medical-ai/people/)|6k|-|Hospitals and Health Care|
-|NVIDIA Healthcare|[Link](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/)|[Link](https://www.linkedin.com/showcase/nvidia-healthcare/)|1993|[0](https://www.linkedin.com/company/nvidia-healthcare/people/)|65k|-|Software Development|
-|Isomorphic Labs|[Link](https://www.isomorphiclabs.com/)|[Link](https://www.linkedin.com/company/isomorphic-labs)|2021|[336](https://www.linkedin.com/company/isomorphic-labs/people/)|71k|[Series Unknown](//www.crunchbase.com/organization/isomorphic-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Causaly|[Link](https://www.causaly.com)|[Link](https://www.linkedin.com/company/causaly)|2018|[135](https://www.linkedin.com/company/causaly/people/)|24k|-|Software Development|
-|TORTUS B.V.|[Link](http://www.tortus.nl)|[Link](https://www.linkedin.com/company/tortus)|1998|[20](https://www.linkedin.com/company/tortus/people/)|2k|-|Staffing and Recruiting|
-|Limbic|[Link](https://limbic.ai/#letters)|[Link](https://www.linkedin.com/company/limbic-ai)|2018|[57](https://www.linkedin.com/company/limbic-ai/people/)|12k|[Series A](//www.crunchbase.com/organization/limbic-aa9e?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Mental Health Care|
-|Lindus Health|[Link](https://www.lindushealth.com/contact)|[Link](https://www.linkedin.com/company/lindushealth)|N/A|[206](https://www.linkedin.com/company/lindushealth/people/)|16k|[Grant](//www.crunchbase.com/organization/lindus-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Huma](http://www.huma.com)|[Link](https://linkedin.com/company/humaforhealth)|2011|293|44k|Software Development|
+|[Causaly](https://www.causaly.com)|[Link](https://linkedin.com/company/causaly)|2018|119|27k|Software Development|
+|[Skin Analytics](https://skin-analytics.com/)|[Link](https://linkedin.com/company/skin-analytics)|2012|122|24k|Hospitals and Health Care|
+|[LabGenius Therapeutics](http://www.labgeniustx.com)|[Link](https://linkedin.com/company/labgeniustx)|2012|70|19k|Biotechnology Research|
+|[Relation](https://www.relationrx.com/)|[Link](https://linkedin.com/company/relation-therapeutics)|2019|149|18k|Biotechnology Research|
+|[Limbic](https://limbic.ai)|[Link](https://linkedin.com/company/limbic-ai)|2018|69|15k|Mental Health Care|
+|[CHARM Therapeutics](http://www.charmtx.com)|[Link](https://linkedin.com/company/charm-therapeutics)|2021|29|13k|Biotechnology Research|
+|[Latent Labs](https://www.latentlabs.com/)|[Link](https://linkedin.com/company/latent-labs)|N/A|30|13k|Biotechnology Research|
+|[Kuano](https://www.kuano.ai/)|[Link](https://linkedin.com/company/kuano)|N/A|15|2.7k|Biotechnology Research|
+|[Nanograb](https://nanograb.com)|[Link](https://linkedin.com/company/nanograb)|N/A|7|1.3k|Biotechnology Research|
 
 ### London - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Oxa|[Link](http://www.oxa.tech)|[Link](https://www.linkedin.com/company/oxauniversalautonomy)|2014|[426](https://www.linkedin.com/company/oxbotica/people/)|53k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Wayve](https://wayve.ai)|[Link](https://linkedin.com/company/wayve-technologies)|2017|1.1k|102k|Software Development|
 
-### London - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|AudioStack|[Link](http://www.audiostack.ai)|[Link](https://www.linkedin.com/company/audiostack-ai)|2019|[55](https://www.linkedin.com/company/aflorithmic-labs/people/)|10k|-|Software Development|
+### London - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AudioStack](http://www.audiostack.ai)|[Link](https://linkedin.com/company/audiostack-ai)|2019|52|11k|Software Development|
+|[Neuphonic](https://neuphonic.com)|[Link](https://linkedin.com/company/neuphonic)|2024|9|6.9k|Software Development|
 
-### London - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|PolyAI|[Link](https://poly.ai)|[Link](https://www.linkedin.com/company/polyai)|N/A|[353](https://www.linkedin.com/company/polyai/people/)|66k|[Series C](//www.crunchbase.com/organization/poly-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Infobip|[Link](https://www.infobip.com?utm_medium=social&utm_source=linkedin&utm_campaign=reach%20--%20social%20--%20global%20--%20about&utm_term=all%20--%20fans%20--%20visit%20website%20LI&utm_content=about-us%20--%20english)|[Link](https://www.linkedin.com/company/infobip)|2006|[3429](https://www.linkedin.com/company/infobip/people/)|377k|[Debt Financing](//www.crunchbase.com/organization/infobip?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### London - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Infobip](https://www.infobip.com/)|[Link](https://linkedin.com/company/infobip)|2006|3.6k|396k|IT Services and IT Consulting|
+|[Conveo](https://www.conveo.ai/)|[Link](https://linkedin.com/company/conveo-ai)|2024|103|12k|Software Development|
+|[Gradient Labs](http://www.gradient-labs.ai)|[Link](https://linkedin.com/company/gradientlabs)|2023|57|11k|Software Development|
+|[Yosh.AI](https://yosh.ai/)|[Link](https://linkedin.com/company/yosh-ai)|2017|22|2.2k|IT Services and IT Consulting|
+|[CLEVVA](https://www.clevva.com)|[Link](https://linkedin.com/company/clevva-pty-ltd)|2011|20|2k|IT Services and IT Consulting|
 
 ### London - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Eigen Technologies|[Link](https://eigentech.com/)|[Link](https://www.linkedin.com/company/eigen-technologies)|2015|[6](https://www.linkedin.com/company/eigen-technologies/people/)|11k|[Series B](//www.crunchbase.com/organization/eigen-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Cognito|[Link](https://www.cognitomedia.com/contact/contact-us)|[Link](https://www.linkedin.com/company/cognito)|2000|[136](https://www.linkedin.com/company/cognito/people/)|16k|-|Public Relations and Communications Services|
-|Ocado Technology|[Link](https://careers.ocadogroup.com/)|[Link](https://www.linkedin.com/company/ocado-technology)|2000|[3144](https://www.linkedin.com/company/ocado-technology/people/)|75k|-|Software Development|
-|Evolution AI|[Link](https://www.evolution.ai/?utm_source=LinkedIn&utm_medium=website+button)|[Link](https://www.linkedin.com/company/evolution-ai)|2015|[14](https://www.linkedin.com/company/evolution-ai/people/)|4k|[Seed](//www.crunchbase.com/organization/evolution-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### London - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Versed AI, an Exiger Company|[Link](https://versed.ai)|[Link](https://www.linkedin.com/company/versed-ai)|2019|[5](https://www.linkedin.com/company/versed-ai/people/)|1k|[Seed](//www.crunchbase.com/organization/versed-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Jacquard|[Link](http://www.jacquard.com)|[Link](https://www.linkedin.com/company/jacquard-group)|2015|[59](https://www.linkedin.com/company/phrasee/people/)|8k|-|Software Development|
-|Peak|[Link](https://www.peak.ai/?utm_campaign=social&utm_medium=linkedinbio&utm_source=linkedin)|[Link](https://www.linkedin.com/company/peak-ai)|2015|[292](https://www.linkedin.com/company/peak-ai/people/)|25k|[Series C](//www.crunchbase.com/organization/peak-4?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Signal AI|[Link](https://bit.ly/3QFh92h)|[Link](https://www.linkedin.com/company/signal-artificial-intelligence)|2013|[243](https://www.linkedin.com/company/signal-artificial-intelligence/people/)|30k|[Series D](//www.crunchbase.com/organization/signal-media-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Evolution AI](https://evolution.ai)|[Link](https://linkedin.com/company/evolution-ai)|2015|14|4.3k|Software Development|
+|[Parsewise](https://www.parsewise.ai)|[Link](https://linkedin.com/company/parsewise)|2024|5|1.3k|Software Development|
 
 ### London - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Google DeepMind|[Link](http://www.deepmind.google)|[Link](https://www.linkedin.com/company/googledeepmind)|2010|[7952](https://www.linkedin.com/company/deepmind/people/)|1440k|[Series A](//www.crunchbase.com/organization/deepmind?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|Mind Foundry|[Link](http://mindfoundry.ai)|[Link](https://www.linkedin.com/company/mind-foundry)|2016|[71](https://www.linkedin.com/company/mind-foundry/people/)|8k|[Series B](//www.crunchbase.com/organization/mind-foundry?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Hadean|[Link](https://hadean.com/get-in-touch/)|[Link](https://www.linkedin.com/company/hadean)|2015|[68](https://www.linkedin.com/company/hadean/people/)|9k|[Corporate Round](//www.crunchbase.com/organization/hadean?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|QuantumBlack, AI by McKinsey|[Link](https://www.mckinsey.com/business-functions/quantumblack/how-we-help-clients)|[Link](https://www.linkedin.com/company/quantumblack)|2009|[550](https://www.linkedin.com/company/quantumblack/people/)|235k|-|IT Services and IT Consulting|
-|Stability AI|[Link](https://stability.ai)|[Link](https://www.linkedin.com/company/stability-ai)|N/A|[188](https://www.linkedin.com/company/stability-ai/people/)|120k|[Corporate Round](//www.crunchbase.com/organization/stability-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|PhysicsX|[Link](https://www.physicsx.ai/)|[Link](https://www.linkedin.com/company/physicsx)|N/A|[222](https://www.linkedin.com/company/physicsx/people/)|22k|[Series B](//www.crunchbase.com/organization/physicsx?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Orbital|[Link](https://orbitalindustries.com/)|[Link](https://www.linkedin.com/company/orbitalindustries)|2022|[58](https://www.linkedin.com/company/orbitalmaterials/people/)|7k|-|Manufacturing|
-|CuspAI|[Link](http://www.cusp.ai)|[Link](https://www.linkedin.com/company/cusp-ai)|2024|[47](https://www.linkedin.com/company/cusp-ai/people/)|15k|[Series A](//www.crunchbase.com/organization/cuspai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PhysicsX](https://www.physicsx.ai/)|[Link](https://linkedin.com/company/physicsx)|N/A|337|40k|Software Development|
+|[Basecamp Research](http://www.basecamp-research.com)|[Link](https://linkedin.com/company/basecamp-research-bcr)|2019|76|21k|Biotechnology Research|
+|[Hadean](https://hadean.com)|[Link](https://linkedin.com/company/hadean)|2017|79|11k|Software Development|
+|[Orbital Industries](https://orbitalindustries.com/)|[Link](https://linkedin.com/company/orbitalindustries)|2022|67|10k|Research Services|
 
 ### London - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|FACULTY|[Link](http://www.wearefaculty.com)|[Link](https://www.linkedin.com/company/faculty)|2012|[146](https://www.linkedin.com/company/faculty/people/)|2k|-|Advertising Services|
-|Darktrace|[Link](http://www.darktrace.com?utm_source=LinkedIn&utm_medium=social)|[Link](https://www.linkedin.com/company/darktrace)|2013|[2539](https://www.linkedin.com/company/darktrace/people/)|245k|[Post Ipo Secondary](//www.crunchbase.com/organization/darktrace?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer and Network Security|
-|Quantexa|[Link](http://www.quantexa.com)|[Link](https://www.linkedin.com/company/quantexa)|2016|[883](https://www.linkedin.com/company/quantexa/people/)|113k|[Series F](//www.crunchbase.com/organization/quantexa?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Thought Machine|[Link](http://www.thoughtmachine.net)|[Link](https://www.linkedin.com/company/thought-machine)|2014|[526](https://www.linkedin.com/company/thought-machine/people/)|72k|[Series Unknown](//www.crunchbase.com/organization/thoughtmachine?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Revolut|[Link](https://www.revolut.com)|[Link](https://www.linkedin.com/company/revolut)|2015|[16188](https://www.linkedin.com/company/revolut/people/)|1738k|[Undisclosed](//www.crunchbase.com/organization/revolut?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Monzo Bank|[Link](http://monzo.com)|[Link](https://www.linkedin.com/company/monzo-bank)|2015|[4656](https://www.linkedin.com/company/monzo-bank/people/)|668k|[Secondary Market](//www.crunchbase.com/organization/monzo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Banking|
-|Wise|[Link](https://www.wbf.com)|[Link](https://www.linkedin.com/company/wise)|1969|[269](https://www.linkedin.com/company/wise/people/)|1k|-|Printing Services|
-|Starling|[Link](http://www.starling-com.com)|[Link](https://www.linkedin.com/company/starling)|2003|[75](https://www.linkedin.com/company/starling/people/)|11k|-|Telecommunications|
-|Metaview|[Link](https://www.metaview.ai?utm_campaign=company_profile&utm_source=linkedin&utm_medium=social)|[Link](https://www.linkedin.com/company/metaview-technologies)|2018|[93](https://www.linkedin.com/company/metaview-technologies/people/)|32k|-|Software Development|
-|Eilla AI|[Link](https://eilla.ai/?utm_source=LinkedIn&utm_medium=pge)|[Link](https://www.linkedin.com/company/eilla-ai)|N/A|[9](https://www.linkedin.com/company/eilla-ai/people/)|5k|[Seed](//www.crunchbase.com/organization/eilla-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Monzo](https://monzo.com)|[Link](https://linkedin.com/company/monzo)|N/A|5.7k|766k|Financial Services|
+|[SumUp](https://sumup.co.uk)|[Link](https://linkedin.com/company/sumup)|N/A|4.6k|212k|Financial Services|
+|[Quantexa](http://www.quantexa.com)|[Link](https://linkedin.com/company/quantexa)|2016|886|126k|Software Development|
+|[M-KOPA](http://www.m-kopa.com/)|[Link](https://linkedin.com/company/m-kopa)|2011|3.4k|91k|Financial Services|
+|[Thought Machine](http://www.thoughtmachine.net)|[Link](https://linkedin.com/company/thought-machine)|2014|535|78k|Software Development|
+|[Cleo](https://www.meetcleo.com)|[Link](https://linkedin.com/company/cleo-ai)|2016|733|75k|Financial Services|
+|[Volta Trucks](http://voltatrucks.com)|[Link](https://linkedin.com/company/voltatrucks)|2019|71|71k|Motor Vehicle Manufacturing|
+|[FintechOS](http://www.fintechos.com)|[Link](https://linkedin.com/company/fintechos)|2017|225|47k|Financial Services|
+|[Beamery](https://beamery.com)|[Link](https://linkedin.com/company/beamery)|2014|186|44k|Software Development|
+|[Mapp](https://www.mapp.com)|[Link](https://linkedin.com/company/mapp-digital)|N/A|412|41k|Software Development|
+|[Fyxer](http://get.fyxer.com/li)|[Link](https://linkedin.com/company/fyxer)|N/A|114|39k|Software Development|
+|[Ravelin Technology](http://www.ravelin.com)|[Link](https://linkedin.com/company/ravelin-technology)|2014|166|34k|Software Development|
+|[AutogenAI](https://www.autogenai.com/)|[Link](https://linkedin.com/company/autogenai)|2022|154|24k|Software Development|
+|[Nory](https://nory.ai)|[Link](https://linkedin.com/company/asknory)|2021|132|15k|Software Development|
+|[Impero](https://www.weareimpero.com)|[Link](https://linkedin.com/company/impero)|2009|80|14k|Advertising Services|
+|[Genie AI](https://genieai.co/)|[Link](https://linkedin.com/company/genie-ai)|2017|43|14k|Software Development|
+|[Anima](https://www.animahealth.com)|[Link](https://linkedin.com/company/anima-health)|2021|230|13k|Hospitals and Health Care|
+|[Definely](https://www.definely.com)|[Link](https://linkedin.com/company/definely)|2017|98|13k|Software Development|
+|[Artificial Societies](https://societies.ai)|[Link](https://linkedin.com/company/artificial-societies)|2024|22|12k|Software Development|
+|[Wondercraft](https://www.wondercraft.ai/)|[Link](https://linkedin.com/company/wondercraftai)|2023|42|10k|Software Development|
+|[Humaans](https://humaans.io)|[Link](https://linkedin.com/company/humaans)|N/A|61|10k|Software Development|
+|[throxy (yc p25)](http://throxy.com)|[Link](https://linkedin.com/company/throxy)|2023|140|9.7k|Advertising Services|
+|[Arctic Shores](http://www.arcticshores.com)|[Link](https://linkedin.com/company/arctic-shores)|2013|43|9.4k|Software Development|
+|[Artificial Labs](https://artificial.io/)|[Link](https://linkedin.com/company/artificiallabs)|2013|136|9.1k|Software Development|
+|[Jacquard](http://www.jacquard.com)|[Link](https://linkedin.com/company/jacquard-group)|2015|56|8.8k|Software Development|
+|[Saturn](https://www.SaturnOS.com/)|[Link](https://linkedin.com/company/saturntechnology)|2023|76|7.9k|Financial Services|
+|[Eilla AI](https://eilla.ai/)|[Link](https://linkedin.com/company/eilla-ai)|N/A|11|7.7k|Software Development|
+|[Elyos AI](https://www.elyos.ai/)|[Link](https://linkedin.com/company/elyosai)|2023|39|7.6k|Software Development|
+|[Mimica](http://www.mimicalab.com)|[Link](https://linkedin.com/company/mimica)|2017|26|5.2k|Packaging and Containers Manufacturing|
+|[Coinrule (YC)](http://www.coinrule.com)|[Link](https://linkedin.com/company/coinrule)|2017|11|3.8k|Financial Services|
+|[Zavo](https://zavo.ai)|[Link](https://linkedin.com/company/zavoai)|N/A|6|2.4k|Software Development|
+|[Crimson](https://crimson.law)|[Link](https://linkedin.com/company/crimson-legaltech)|N/A|33|2.1k|Software Development|
 
 ### London - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|FACULTY|[Link](http://www.wearefaculty.com)|[Link](https://www.linkedin.com/company/faculty)|2012|[146](https://www.linkedin.com/company/faculty/people/)|2k|-|Advertising Services|
-|Cambridge Consultants|[Link](https://www.cambridgeconsultants.com?utm_medium=Social&utm_source=LinkedIn&utm_campaign=Home&utm_content=Header+button)|[Link](https://www.linkedin.com/company/cambridge-consultants)|N/A|[799](https://www.linkedin.com/company/cambridge-consultants/people/)|44k|[Series Unknown](//www.crunchbase.com/organization/cambridge-consultants?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Design Services|
-|QuantumBlack, AI by McKinsey|[Link](https://www.mckinsey.com/business-functions/quantumblack/how-we-help-clients)|[Link](https://www.linkedin.com/company/quantumblack)|2009|[550](https://www.linkedin.com/company/quantumblack/people/)|235k|-|IT Services and IT Consulting|
-|COGx|[Link](https://cogx.info/insights)|[Link](https://www.linkedin.com/company/cogx)|2010|[9](https://www.linkedin.com/company/cogx/people/)|1k|-|Higher Education|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Data Science UA](https://data-science-ua.com/)|[Link](https://linkedin.com/company/data-science-ua)|2016|62|6.7k|IT Services and IT Consulting|
+
+### London - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Prolific](http://www.prolific.com)|[Link](https://linkedin.com/company/prolific-com)|2014|1.6k|223k|Software Development|
+|[Nscale](http://www.nscale.com)|[Link](https://linkedin.com/company/nscale-cloud)|2024|1.1k|91k|Software Development|
+|[causaLens](https://www.causalens.com/)|[Link](https://linkedin.com/company/causalens)|2017|78|25k|Software Development|
+|[Fractile](https://www.fractile.ai/)|[Link](https://linkedin.com/company/fractile)|2022|139|21k|Software Development|
+|[Cosine](https://www.cosine.sh)|[Link](https://linkedin.com/company/cosine-ai)|N/A|40|14k|Software Development|
+|[Synthesized](https://www.synthesized.io)|[Link](https://linkedin.com/company/synthesized)|2020|59|13k|Software Development|
+|[Radiant](https://radiant.co/)|[Link](https://linkedin.com/company/radiant-co)|N/A|63|12k|Software Development|
+|[Seldon](https://www.seldon.io)|[Link](https://linkedin.com/company/seldon)|2014|85|12k|IT Services and IT Consulting|
+|[Tessl](https://tessl.co/mq0)|[Link](https://linkedin.com/company/tesslio)|2024|61|8.4k|Software Development|
+|[Diligent](https://godiligent.ai/)|[Link](https://linkedin.com/company/godiligentai)|2023|18|4.2k|Software Development|
+|[Trigger.dev](https://trigger.dev)|[Link](https://linkedin.com/company/triggerdotdev)|2022|17|3.7k|Software Development|
+|[Conjecture](https://www.conjecture.dev/)|[Link](https://linkedin.com/company/conjecture)|2022|6|3.7k|Software Development|
+|[CoLoop](https://coloop.ai)|[Link](https://linkedin.com/company/coloopai)|N/A|24|2.5k|Research Services|
+|[Laminar (YC S24)](https://www.lmnr.ai)|[Link](https://linkedin.com/company/lmnr-ai)|N/A|5|2.1k|Information Services|
+|[Cardamon (YC W25)](https://cardamon.ai/)|[Link](https://linkedin.com/company/cardamonai)|2025|15|1.6k|Software Development|
 
 ### London - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Iconic|[Link](https://www.iconicgames.io/)|[Link](https://www.linkedin.com/company/iconic-games)|2023|[28](https://www.linkedin.com/company/iconic-games/people/)|2k|[Pre Seed](//www.crunchbase.com/organization/iconic-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer Games|
-|Improbable|[Link](http://www.improbable.io)|[Link](https://www.linkedin.com/company/improbable)|N/A|[157](https://www.linkedin.com/company/improbable/people/)|47k|[Series Unknown](//www.crunchbase.com/organization/improbable?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Fertifa|[Link](http://www.fertifa.com)|[Link](https://www.linkedin.com/company/fertifa)|N/A|[31](https://www.linkedin.com/company/fertifa/people/)|6k|[Seed](//www.crunchbase.com/organization/fertifa?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Human Resources Services|
-|Aidoc|[Link](https://www.aidoc.com/book-a-demo/)|[Link](https://www.linkedin.com/company/aidoc)|2016|[543](https://www.linkedin.com/company/aidoc/people/)|50k|[Series Unknown](//www.crunchbase.com/organization/aidoc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Cytora|[Link](https://www.cytora.com)|[Link](https://www.linkedin.com/company/cytora)|2014|[130](https://www.linkedin.com/company/cytora/people/)|12k|[Series B](//www.crunchbase.com/organization/cytora?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Deliveroo|[Link](http://deliveroo.co.uk)|[Link](https://www.linkedin.com/company/deliveroo)|2013|[10391](https://www.linkedin.com/company/deliveroo/people/)|316k|[Post Ipo Equity](//www.crunchbase.com/organization/deliveroo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Orca AI|[Link](https://www.orca-ai.io/)|[Link](https://www.linkedin.com/company/orca-ai)|2018|[136](https://www.linkedin.com/company/orca-ai/people/)|15k|[Series B](//www.crunchbase.com/organization/orca-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Transportation, Logistics, Supply Chain and Storage|
-|Artificial Societies|[Link](http://societies.io)|[Link](https://www.linkedin.com/company/artificial-societies)|2024|[11](https://www.linkedin.com/company/artificial-societies/people/)|8k|[Seed](//www.crunchbase.com/organization/artificial-societies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Noon - Education for Everyone](http://www.learnatnoon.com)|[Link](https://linkedin.com/company/learnatnoon)|N/A|535|97k|Primary and Secondary Education|
+|[Improbable](http://www.improbable.io)|[Link](https://linkedin.com/company/improbable)|N/A|351|49k|Software Development|
+|[Ledgy](https://ledgy.com)|[Link](https://linkedin.com/company/ledgy)|2019|91|29k|Financial Services|
+|[Orca AI](https://www.orca-ai.io/)|[Link](https://linkedin.com/company/orca-ai)|2018|172|24k|Transportation, Logistics, Supply Chain and Storage|
+|[Colossyan](http://www.colossyan.com)|[Link](https://linkedin.com/company/colossyan)|2020|75|12k|Software Development|
+|[Fertifa](http://www.fertifa.com)|[Link](https://linkedin.com/company/fertifa)|N/A|36|7.7k|Human Resources Services|
+|[Iconic](https://www.iconicgames.io/)|[Link](https://linkedin.com/company/iconic-games)|2023|31|3.2k|Computer Games|
 
-## Los-angeles
-### Los-angeles - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SNAP Inc|[Link](http://www.snapinc.net)|[Link](https://www.linkedin.com/company/snap-inc)|1998|[65](https://www.linkedin.com/company/snap-inc/people/)|1k|-|Government Relations Services|
-|OpenCV|[Link](https://opencv.org)|[Link](https://www.linkedin.com/company/opencv)|2000|[54](https://www.linkedin.com/company/opencv/people/)|334k|[Equity Crowdfunding](//www.crunchbase.com/organization/opencv?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Non-profit Organizations|
+## Los Angeles
+### Los Angeles - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[HeyGen](https://www.heygen.com)|[Link](https://linkedin.com/company/heygen)|2020|473|86k|Software Development|
+|[Oda Studio](https://odaportal.com/)|[Link](https://linkedin.com/company/odastudioapp)|2019|18|3.3k|Software Development|
+|[TOONSTAR](http://www.toonstar.com)|[Link](https://linkedin.com/company/toonstarhq)|2015|19|2k|Entertainment Providers|
+|[Absurd (YC F25)](http://absurd.com)|[Link](https://linkedin.com/company/absurd)|N/A|9|1.4k|Software Development|
+|[Deep Voodoo](http://DeepVoodoo.com)|[Link](https://linkedin.com/company/deepvoodoo)|N/A|24|1.2k|Software Development|
 
-### Los-angeles - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Hyperscience|[Link](https://bit.ly/3swY1WL)|[Link](https://www.linkedin.com/company/hyperscience)|2014|[230](https://www.linkedin.com/company/hyperscience/people/)|23k|[Series E](//www.crunchbase.com/organization/hyperscience?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Los Angeles - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Narrativa](http://www.narrativa.com/)|[Link](https://linkedin.com/company/narrativaai)|2015|29|4k|Software Development|
 
-### Los-angeles - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Boston Dynamics|[Link](http://www.bostondynamics.com)|[Link](https://www.linkedin.com/company/boston-dynamics)|N/A|[1399](https://www.linkedin.com/company/boston-dynamics/people/)|627k|[Series Unknown](//www.crunchbase.com/organization/boston-dynamics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Anki|[Link](http://www.anki.bot)|[Link](https://www.linkedin.com/company/anki)|2010|[80](https://www.linkedin.com/company/anki/people/)|9k|[Secondary Market](//www.crunchbase.com/organization/anki?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Machina Labs|[Link](https://www.machinalabs.ai/)|[Link](https://www.linkedin.com/company/machina-labs)|2019|[92](https://www.linkedin.com/company/machina-labs/people/)|20k|[Series C](//www.crunchbase.com/organization/machina-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Manufacturing|
+### Los Angeles - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Anduril Industries](http://www.anduril.com)|[Link](https://linkedin.com/company/anduril)|N/A|10k|680k|Defense and Space Manufacturing|
+|[FieldAI](https://fieldai.com/)|[Link](https://linkedin.com/company/fieldai)|N/A|346|78k|IT Services and IT Consulting|
+|[Mach Industries](https://machindustries.com)|[Link](https://linkedin.com/company/machindustries)|N/A|391|37k|Defense and Space Manufacturing|
+|[Miso Robotics](http://www.misorobotics.com)|[Link](https://linkedin.com/company/miso-robotics)|2016|104|32k|Software Development|
+|[Zeitview](http://zeitview.com)|[Link](https://linkedin.com/company/zeitview)|N/A|706|30k|Software Development|
+|[Neros Technologies](https://www.neros.tech/)|[Link](https://linkedin.com/company/neros-tech)|2023|178|28k|Defense and Space Manufacturing|
+|[Machina Labs](https://www.machinalabs.ai)|[Link](https://linkedin.com/company/machina-labs)|2019|115|25k|Manufacturing|
+|[Coco](http://www.cocodelivery.com)|[Link](https://linkedin.com/company/cocodelivery)|2020|1.3k|15k|Consumer Services|
+|[Shinkei](https://www.shinkei.systems)|[Link](https://linkedin.com/company/shinkeisystems)|2021|71|7.9k|Fisheries|
+|[Sorting Robotics](https://www.sortingrobotics.com/)|[Link](https://linkedin.com/company/sortingrobotics)|2018|19|7k|Automation Machinery Manufacturing|
+|[yondu](https://yondu.ai/)|[Link](https://linkedin.com/company/yonduai)|2023|17|3.6k|IT Services and IT Consulting|
 
-### Los-angeles - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Freenome|[Link](https://www.freenome.com/)|[Link](https://www.linkedin.com/company/freenome)|2014|[390](https://www.linkedin.com/company/freenome/people/)|43k|[Corporate Round](//www.crunchbase.com/organization/freenome?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Carbon Health|[Link](http://carbonhealth.com/careers)|[Link](https://www.linkedin.com/company/carbon-health)|2015|[1105](https://www.linkedin.com/company/carbon-health/people/)|52k|[Series Unknown](//www.crunchbase.com/organization/carbon-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
+### Los Angeles - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Carbon Health](http://www.carbonhealth.com)|[Link](https://linkedin.com/company/carbon-health)|2015|1.1k|54k|Hospitals and Health Care|
+|[Terray Therapeutics](http://www.terraytx.com)|[Link](https://linkedin.com/company/terray-therapeutics)|2018|142|13k|Biotechnology Research|
+|[Akido](http://www.akido.com)|[Link](https://linkedin.com/company/akido-health-system)|2015|185|7.6k|Hospitals and Health Care|
+|[Illuminant Surgical](https://www.illuminant.ai)|[Link](https://linkedin.com/company/illuminant-surgical)|N/A|24|2.2k|Medical Equipment Manufacturing|
+|[Scanbase](http://www.scanbase.com)|[Link](https://linkedin.com/company/scanbases)|N/A|8|1.4k|Hospitals and Health Care|
 
-### Los-angeles - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Aurora Films|[Link](http://aurorafilms.com)|[Link](https://www.linkedin.com/company/aurora)|2001|[95](https://www.linkedin.com/company/aurora/people/)|1k|-|Media Production|
-|Cruise|[Link](http://getcruise.com/)|[Link](https://www.linkedin.com/company/getcruise)|2013|[1639](https://www.linkedin.com/company/getcruise/people/)|172k|-|Motor Vehicle Manufacturing|
-|TuSimple|[Link](https://www.tusimple.com/)|[Link](https://www.linkedin.com/company/tusimple)|2015|[231](https://www.linkedin.com/company/tusimple/people/)|54k|[Series Unknown](//www.crunchbase.com/organization/tusimple-llc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Los Angeles - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Relativity Space](http://relativityspace.com)|[Link](https://linkedin.com/company/relativity)|2016|2k|242k|Aviation and Aerospace Component Manufacturing|
+|[BeyondAI](http://www.beyond.ai)|[Link](https://linkedin.com/company/beyond-ai)|N/A|264|25k|Software Development|
+|[Sift](http://www.siftstack.com)|[Link](https://linkedin.com/company/sift-stack)|2022|90|14k|Software Development|
+|[Quilter](https://quilter.ai)|[Link](https://linkedin.com/company/quilterai)|2019|50|5.7k|Software Development|
 
-### Los-angeles - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Descript|[Link](https://www.descript.com/)|[Link](https://www.linkedin.com/company/descript)|2017|[187](https://www.linkedin.com/company/descript/people/)|30k|[Series C](//www.crunchbase.com/organization/descript?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Veritone One|[Link](https://veritoneone.com/)|[Link](https://www.linkedin.com/company/veritone)|N/A|[44](https://www.linkedin.com/company/veritone/people/)|4k|-|Advertising Services|
+### Los Angeles - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Razer](https://careers.razer.com/)|[Link](https://linkedin.com/company/razer)|N/A|2k|257k|Computers and Electronics Manufacturing|
+|[Zest AI](http://zest.ai)|[Link](https://linkedin.com/company/zest-ai)|2009|234|130k|Financial Services|
+|[Tala](http://tala.co/careers)|[Link](https://linkedin.com/company/talamobile)|2011|904|67k|Financial Services|
+|[FloQast](http://www.floqast.com)|[Link](https://linkedin.com/company/floqast)|2013|871|39k|Software Development|
+|[Zefr](http://www.zefr.com)|[Link](https://linkedin.com/company/zefr)|2009|263|14k|Advertising Services|
+|[Cinelytic, Inc](http://www.cinelytic.com)|[Link](https://linkedin.com/company/cinelytic.com)|N/A|6|1.9k|IT Services and IT Consulting|
+|[Assembly HOA](https://www.assemblyhoa.com/)|[Link](https://linkedin.com/company/assemblyhoa)|2022|13|1.5k|Real Estate|
 
-### Los-angeles - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ada CX|[Link](https://www.ada.cx/)|[Link](https://www.linkedin.com/company/ada-cx)|N/A|[652](https://www.linkedin.com/company/ada-cx/people/)|48k|-|Software Development|
-|Talkdesk|[Link](http://www.talkdesk.com)|[Link](https://www.linkedin.com/company/talkdesk)|2011|[1355](https://www.linkedin.com/company/talkdesk/people/)|330k|[Series D](//www.crunchbase.com/organization/talkdesk?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Los-angeles - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Hyperscience|[Link](https://bit.ly/3swY1WL)|[Link](https://www.linkedin.com/company/hyperscience)|2014|[230](https://www.linkedin.com/company/hyperscience/people/)|23k|[Series E](//www.crunchbase.com/organization/hyperscience?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Docusign|[Link](https://trial.docusign.com/)|[Link](https://www.linkedin.com/company/docusign)|2003|[8411](https://www.linkedin.com/company/docusign/people/)|562k|[Secondary Market](//www.crunchbase.com/organization/docusign?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Los-angeles - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SNAP Inc|[Link](http://www.snapinc.net)|[Link](https://www.linkedin.com/company/snap-inc)|1998|[65](https://www.linkedin.com/company/snap-inc/people/)|1k|-|Government Relations Services|
-|PillPack|[Link](http://www.pillpack.com)|[Link](https://www.linkedin.com/company/pillpack)|2013|[679](https://www.linkedin.com/company/pillpack/people/)|14k|[Secondary Market](//www.crunchbase.com/organization/pillpack?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-
-### Los-angeles - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SpaceX|[Link](http://www.spacex.com)|[Link](https://www.linkedin.com/company/spacex)|2002|[17818](https://www.linkedin.com/company/spacex/people/)|3496k|[Secondary Market](//www.crunchbase.com/organization/space-exploration-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Aviation and Aerospace Component Manufacturing|
-|hyperLOOP|[Link](http://www.hyperloop.co.za)|[Link](https://www.linkedin.com/company/hyperloop)|2014|[4](https://www.linkedin.com/company/hyperloop/people/)|1k|-|Advertising Services|
-
-### Los-angeles - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SNAP Inc|[Link](http://www.snapinc.net)|[Link](https://www.linkedin.com/company/snap-inc)|1998|[65](https://www.linkedin.com/company/snap-inc/people/)|1k|-|Government Relations Services|
-|SpaceX|[Link](http://www.spacex.com)|[Link](https://www.linkedin.com/company/spacex)|2002|[17818](https://www.linkedin.com/company/spacex/people/)|3496k|[Secondary Market](//www.crunchbase.com/organization/space-exploration-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Aviation and Aerospace Component Manufacturing|
-|Dollar Shave Club|[Link](http://dlrshv.es/LinkedIn)|[Link](https://www.linkedin.com/company/dollar-shave-club)|2011|[258](https://www.linkedin.com/company/dollar-shave-club/people/)|25k|[Series D](//www.crunchbase.com/organization/dollar-shave-club?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Manufacturing|
-|hyperLOOP|[Link](http://www.hyperloop.co.za)|[Link](https://www.linkedin.com/company/hyperloop)|2014|[4](https://www.linkedin.com/company/hyperloop/people/)|1k|-|Advertising Services|
-|Tinder (Not the sexy time company! Now Defunct.)|[Link](http://www.tinderlab.com)|[Link](https://www.linkedin.com/company/tinder)|2007|[40](https://www.linkedin.com/company/tinder/people/)|1k|-|Design Services|
-|Hinge|[Link](https://hingemarketing.com)|[Link](https://www.linkedin.com/company/hinge)|2002|[46](https://www.linkedin.com/company/hinge/people/)|7k|-|Advertising Services|
-
-### Los-angeles - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SNAP Inc|[Link](http://www.snapinc.net)|[Link](https://www.linkedin.com/company/snap-inc)|1998|[65](https://www.linkedin.com/company/snap-inc/people/)|1k|-|Government Relations Services|
-|SpaceX|[Link](http://www.spacex.com)|[Link](https://www.linkedin.com/company/spacex)|2002|[17818](https://www.linkedin.com/company/spacex/people/)|3496k|[Secondary Market](//www.crunchbase.com/organization/space-exploration-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Aviation and Aerospace Component Manufacturing|
-|Netflix|[Link](http://jobs.netflix.com)|[Link](https://www.linkedin.com/company/netflix)|1997|[17953](https://www.linkedin.com/company/netflix/people/)|11640k|[Post Ipo Debt](//www.crunchbase.com/organization/netflix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|Hulu|[Link](http://www.hulu.com)|[Link](https://www.linkedin.com/company/hulu)|N/A|[2325](https://www.linkedin.com/company/hulu/people/)|452k|[Undisclosed](//www.crunchbase.com/organization/hulu?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Disney Streaming|[Link](https://www.disneystreaming.com/)|[Link](https://www.linkedin.com/company/disney-streaming)|N/A|[2551](https://www.linkedin.com/company/disney-streaming/people/)|164k|[Secondary Market](//www.crunchbase.com/organization/bamtech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|warner bros|[Link](https://www.warnerbros.com/)|[Link](https://www.linkedin.com/company/warner-bros)|N/A|[133](https://www.linkedin.com/company/warner-bros/people/)|2k|-|Media Production|
-|Universal Pictures|[Link](http://www.universalpictures.com/)|[Link](https://www.linkedin.com/company/universal-pictures)|N/A|[2344](https://www.linkedin.com/company/universal-pictures/people/)|393k|-|Entertainment Providers|
-|Riot Games|[Link](http://www.riotgames.com)|[Link](https://www.linkedin.com/company/riot-games)|2006|[7904](https://www.linkedin.com/company/riot-games/people/)|1473k|[Series Unknown](//www.crunchbase.com/organization/riot-games?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer Games|
-|Activision Blizzard|[Link](https://careers.activisionblizzard.com/)|[Link](https://www.linkedin.com/company/activision-blizzard)|N/A|[1459](https://www.linkedin.com/company/activision-blizzard/people/)|325k|[Post Ipo Equity](//www.crunchbase.com/organization/activision?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|Tinder (Not the sexy time company! Now Defunct.)|[Link](http://www.tinderlab.com)|[Link](https://www.linkedin.com/company/tinder)|2007|[40](https://www.linkedin.com/company/tinder/people/)|1k|-|Design Services|
+### Los Angeles - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Stability AI](https://stability.ai)|[Link](https://linkedin.com/company/stability-ai)|N/A|184|125k|Software Development|
+|[Syntiant Corp.](http://www.syntiant.com)|[Link](https://linkedin.com/company/syntiant-corp)|2017|302|19k|Semiconductor Manufacturing|
+|[Cairns Health](http://www.cairns.ai)|[Link](https://linkedin.com/company/cairnshealth)|2016|22|13k|Hospitals and Health Care|
+|[Voker](https://voker.ai/)|[Link](https://linkedin.com/company/voker-ai)|2024|5|2.7k|Software Development|
 
 ## Madrid
-### Madrid - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Plain Concepts|[Link](http://www.plainconcepts.com)|[Link](https://www.linkedin.com/company/plainconcepts)|N/A|[664](https://www.linkedin.com/company/plain-concepts/people/)|81k|-|IT Services and IT Consulting|
-|Bdeo|[Link](https://bdeo.io/)|[Link](https://www.linkedin.com/company/bdeo)|2017|[59](https://www.linkedin.com/company/bdeo/people/)|11k|[Series B](//www.crunchbase.com/organization/bdeo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Kenmei|[Link](https://www.kenmei.ai/)|[Link](https://www.linkedin.com/company/kenmei-ai)|2018|[74](https://www.linkedin.com/company/kenmei-technologies/people/)|6k|-|Telecommunications|
-|visualNACert|[Link](https://www.visualnacert.com)|[Link](https://www.linkedin.com/company/visualnacert)|N/A|[40](https://www.linkedin.com/company/visualnacert/people/)|2k|[Seed](//www.crunchbase.com/organization/visual-nacert?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|CounterCraft​​ |[Link](https://www.countercraftsec.com/landings/request-a-demo/)|[Link](https://www.linkedin.com/company/countercraft)|2015|[38](https://www.linkedin.com/company/countercraft/people/)|7k|-|Computer and Network Security|
+### Madrid - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bdeo](https://www.bdeo.io)|[Link](https://linkedin.com/company/bdeo)|2017|71|12k|IT Services and IT Consulting|
+|[CounterCraft​​](https://www.countercraftsec.com)|[Link](https://linkedin.com/company/countercraft)|2015|48|8.6k|Computer and Network Security|
+|[Kenmei](https://www.kenmei.ai/)|[Link](https://linkedin.com/company/kenmei-ai)|2018|69|6.6k|Telecommunications|
+|[visualNACert](https://www.visualnacert.com)|[Link](https://linkedin.com/company/visualnacert)|N/A|40|2.6k|Software Development|
 
 ### Madrid - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Bitext|[Link](https://www.bitext.com/contact-us/)|[Link](https://www.linkedin.com/company/bitext)|2008|[16](https://www.linkedin.com/company/bitext/people/)|2k|[Grant](//www.crunchbase.com/organization/bitext?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Lingokids|[Link](http://www.lingokids.com)|[Link](https://www.linkedin.com/company/lingokids)|2015|[209](https://www.linkedin.com/company/lingokids/people/)|31k|[Series Unknown](//www.crunchbase.com/organization/lingokids?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|E-Learning Providers|
-|Veridas|[Link](https://veridas.com/en)|[Link](https://www.linkedin.com/company/veridas)|2017|[212](https://www.linkedin.com/company/veridas/people/)|12k|[Series A](//www.crunchbase.com/organization/veridas?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|TAIGER|[Link](http://www.taiger.com)|[Link](https://www.linkedin.com/company/taiger)|2009|[81](https://www.linkedin.com/company/taiger/people/)|15k|[Non Equity Assistance](//www.crunchbase.com/organization/taiger?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lingokids](http://www.lingokids.com)|[Link](https://linkedin.com/company/lingokids)|2016|230|35k|Entertainment Providers|
+|[Veridas](https://veridas.com/en/)|[Link](https://linkedin.com/company/veridas)|2017|207|14k|Software Development|
 
 ### Madrid - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|PAL Robotics|[Link](https://pal-robotics.com/)|[Link](https://www.linkedin.com/company/pal-robotics)|2004|[152](https://www.linkedin.com/company/pal-robotics/people/)|59k|-|Automation Machinery Manufacturing|
-|Alias Robotics|[Link](https://aliasrobotics.com/cybersecurityai.php)|[Link](https://www.linkedin.com/company/alias-robotics)|2017|[25](https://www.linkedin.com/company/alias-robotics/people/)|6k|[Seed](//www.crunchbase.com/organization/alias-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer and Network Security|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Alias Robotics](https://aliasrobotics.com/cybersecuritysuperintelligence.php)|[Link](https://linkedin.com/company/alias-robotics)|2017|23|7.3k|Computer and Network Security|
 
 ### Madrid - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|MedLumics, S.L.|[Link](http://www.medlumics.com)|[Link](https://www.linkedin.com/company/medlumics)|2014|[24](https://www.linkedin.com/company/medlumics/people/)|4k|[Series Unknown](//www.crunchbase.com/organization/medlumics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|Quibim|[Link](https://www.quibim.com)|[Link](https://www.linkedin.com/company/quibim)|2015|[111](https://www.linkedin.com/company/quibim/people/)|19k|[Series A](//www.crunchbase.com/organization/quibim?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Gtb AI|[Link](https://genetracerai-fxgovj3.gamma.site)|[Link](https://www.linkedin.com/company/genetracer)|N/A|[3](https://www.linkedin.com/company/genetracer/people/)|1k|-|Business Consulting and Services|
-|Medicsen|[Link](https://www.medicsen.com/en)|[Link](https://www.linkedin.com/company/medicsen)|2015|[26](https://www.linkedin.com/company/medicsen/people/)|3k|[Grant](//www.crunchbase.com/organization/medicsen?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|WOOM|[Link](https://woomhealth.com/)|[Link](https://www.linkedin.com/company/woom-health)|2015|[5](https://www.linkedin.com/company/woom-health/people/)|3k|-|Wellness and Fitness Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Savana](http://www.savanamed.com/)|[Link](https://linkedin.com/company/savanamed)|2014|152|49k|Hospitals and Health Care|
+|[Quibim](https://quibim.com/)|[Link](https://linkedin.com/company/quibim)|2015|116|23k|Biotechnology Research|
+|[Idoven](https://www.idoven.ai)|[Link](https://linkedin.com/company/idoven)|2018|60|23k|Software Development|
+|[MedLumics, S.L.](http://www.medlumics.com)|[Link](https://linkedin.com/company/medlumics)|2014|11|4.5k|Medical Equipment Manufacturing|
+|[Medicsen](https://www.medicsen.com/en)|[Link](https://linkedin.com/company/medicsen)|2015|21|3.6k|Medical Equipment Manufacturing|
+|[WOOM](https://woomhealth.com/)|[Link](https://linkedin.com/company/woom-health)|2015|5|3.3k|Wellness and Fitness Services|
+|[Gtb AI](https://genetracerai-fxgovj3.gamma.site)|[Link](https://linkedin.com/company/genetracer)|N/A|2|1.1k|Business Consulting and Services|
 
-### Madrid - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|MOV.AI - The Robotics Engine Platform™|[Link](http://mov.ai)|[Link](https://www.linkedin.com/company/movai)|2016|[23](https://www.linkedin.com/company/movai/people/)|5k|[Series B](//www.crunchbase.com/organization/ground-drone-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-
-### Madrid - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Verbio by Capacity|[Link](https://www.verbio.com)|[Link](https://www.linkedin.com/company/verbio)|1999|[66](https://www.linkedin.com/company/verbio/people/)|5k|[Seed](//www.crunchbase.com/organization/verbio-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Voicemod|[Link](https://www.voicemod.net/)|[Link](https://www.linkedin.com/company/voicemod)|2014|[116](https://www.linkedin.com/company/voicemod/people/)|13k|[Series A](//www.crunchbase.com/organization/voicemod-s-l?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|CoreMedia Portugal|[Link](http://www.coremedia.com)|[Link](https://www.linkedin.com/company/coremediapt)|1996|[39](https://www.linkedin.com/company/byside/people/)|10k|-|Software Development|
-
-### Madrid - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|BotsLovers|[Link](https://www.lovi.ai)|[Link](https://www.linkedin.com/company/botslovers)|2017|[10](https://www.linkedin.com/company/botslovers/people/)|3k|[Non Equity Assistance](//www.crunchbase.com/organization/botslovers?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Chatbot Chocolate - Agencia de Tecnolog·IA Conversacional·|[Link](http://www.chatbotchocolate.com)|[Link](https://www.linkedin.com/company/chatbotchocolate)|2017|[11](https://www.linkedin.com/company/chatbotchocolate/people/)|2k|-|Software Development|
-|VONZU Tech|[Link](https://vonzu.io)|[Link](https://www.linkedin.com/company/vonzu-by-moova)|2018|[2](https://www.linkedin.com/company/vonzu/people/)|3k|-|Software Development|
-|Inbenta|[Link](https://www.inbenta.com/en/)|[Link](https://www.linkedin.com/company/inbenta)|2005|[176](https://www.linkedin.com/company/inbenta/people/)|13k|[Series Unknown](//www.crunchbase.com/organization/inbenta-semantic-search?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Madrid - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Luzia](http://luzia.com)|[Link](https://linkedin.com/company/luzia-ai)|2023|71|10k|Software Development|
+|[BotsLovers](https://www.lovi.ai)|[Link](https://linkedin.com/company/botslovers)|2017|6|3.6k|Software Development|
+|[Chatbot Chocolate - Agencia de Tecnolog·IA Conversacional·](http://www.chatbotchocolate.com)|[Link](https://linkedin.com/company/chatbotchocolate)|2017|10|2.2k|Software Development|
 
 ### Madrid - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Councilbox|[Link](https://www.councilbox.com/ovac/)|[Link](https://www.linkedin.com/company/councilbox)|2015|[30](https://www.linkedin.com/company/councilbox/people/)|2k|[Series A](//www.crunchbase.com/organization/councilbox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Docuten|[Link](https://docuten.com/es/contacto/)|[Link](https://www.linkedin.com/company/docuten)|N/A|[48](https://www.linkedin.com/company/docuten/people/)|5k|[Series Unknown](//www.crunchbase.com/organization/docuten?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Signaturit Group|[Link](http://www.signaturit.com)|[Link](https://www.linkedin.com/company/signaturit)|N/A|[323](https://www.linkedin.com/company/signaturit/people/)|31k|[Series A](//www.crunchbase.com/organization/signaturit-solutions?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Validated ID part of Signaturit Group|[Link](https://www.linkedin.com/company/signaturit/)|[Link](https://www.linkedin.com/company/validated-id)|2012|[39](https://www.linkedin.com/company/validated-id/people/)|5k|[Grant](//www.crunchbase.com/organization/validated-id?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Docuten](http://www.docuten.com)|[Link](https://linkedin.com/company/docuten)|N/A|52|5.7k|Software Development|
+|[Councilbox](http://www.councilbox.com)|[Link](https://linkedin.com/company/councilbox)|2015|29|2.9k|Telecommunications|
 
 ### Madrid - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Plytix|[Link](https://www.plytix.com/product-information-management?utm_source=linkedin&utm_medium=social&utm_campaign=profile)|[Link](https://www.linkedin.com/company/plytix)|2015|[106](https://www.linkedin.com/company/plytix/people/)|26k|[Series Unknown](//www.crunchbase.com/organization/plytix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Job&Talent|[Link](http://www.jobandtalent.com)|[Link](https://www.linkedin.com/company/jobandtalent)|2009|[3961](https://www.linkedin.com/company/jobandtalent/people/)|180k|[Series F](//www.crunchbase.com/organization/jobandtalent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|CARTO|[Link](https://carto.com/request-live-demo/)|[Link](https://www.linkedin.com/company/carto)|2012|[301](https://www.linkedin.com/company/carto/people/)|53k|[Series C](//www.crunchbase.com/organization/cartodb?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Tiendeo - a Shopfully Company|[Link](http://business.tiendeo.com)|[Link](https://www.linkedin.com/company/tiendeo)|2010|[111](https://www.linkedin.com/company/tiendeo/people/)|28k|[Seed](//www.crunchbase.com/organization/tiendeo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Fever](https://feverup.com)|[Link](https://linkedin.com/company/fever-up)|2014|5.7k|518k|Software Development|
+|[Plytix](https://www.plytix.com)|[Link](https://linkedin.com/company/plytix)|2015|98|27k|Software Development|
 
 ### Madrid - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Barbara|[Link](https://www.barbara.tech/contact)|[Link](https://www.linkedin.com/company/barbara-edge)|2016|[86](https://www.linkedin.com/company/barbara-iot/people/)|5k|[Convertible Note](//www.crunchbase.com/organization/barbara-iot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Dex|[Link](https://www.joindex.com/)|[Link](https://www.linkedin.com/showcase/dex-ai/)|N/A|[0](https://www.linkedin.com/company/dex-ai/people/)|1k|-|Software Development|
-|Open Sistemas|[Link](http://www.opensistemas.com)|[Link](https://www.linkedin.com/company/opensistemas)|2003|[162](https://www.linkedin.com/company/opensistemas/people/)|16k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ARQUIMEA](http://www.arquimea.com)|[Link](https://linkedin.com/company/arquimea-group)|2005|290|21k|Defense and Space Manufacturing|
+|[Open Sistemas](http://www.opensistemas.com)|[Link](https://linkedin.com/company/opensistemas)|2003|133|17k|IT Services and IT Consulting|
+|[Barbara](https://barbara.tech)|[Link](https://linkedin.com/company/barbara-edge)|2016|86|7.4k|Software Development|
 
 ### Madrid - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Clarity AI|[Link](http://clarity.ai)|[Link](https://www.linkedin.com/company/clarity-ai)|2017|[350](https://www.linkedin.com/company/clarity-ai/people/)|125k|[Series Unknown](//www.crunchbase.com/organization/clarity-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Kreditech|[Link](http://www.kreditech.com/)|[Link](https://www.linkedin.com/company/kreditech)|2012|[50](https://www.linkedin.com/company/kreditech/people/)|8k|[Series C](//www.crunchbase.com/organization/kreditech-4e3a?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Revelio Labs|[Link](https://www.reveliolabs.com/subscribe/)|[Link](https://www.linkedin.com/company/revelio-labs)|2018|[70](https://www.linkedin.com/company/revelio-labs/people/)|21k|[Series A](//www.crunchbase.com/organization/revelio-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Fintonic|[Link](https://www.fintonic.com/es-ES/inicio/)|[Link](https://www.linkedin.com/company/fintonic)|2011|[104](https://www.linkedin.com/company/fintonic/people/)|46k|[Series E](//www.crunchbase.com/organization/fintonic?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Cabify|[Link](http://cabify.com)|[Link](https://www.linkedin.com/company/cabify)|2011|[4378](https://www.linkedin.com/company/cabify/people/)|188k|[Debt Financing](//www.crunchbase.com/organization/cabify?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Spotahome|[Link](http://www.spotahome.com)|[Link](https://www.linkedin.com/company/spotahome)|N/A|[178](https://www.linkedin.com/company/spotahome/people/)|28k|[Series Unknown](//www.crunchbase.com/organization/spotahome?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Real Estate|
-|Idealista|[Link](https://idealista.net.br)|[Link](https://www.linkedin.com/company/idealista)|2011|[8](https://www.linkedin.com/company/idealista/people/)|1k|-|Advertising Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Job&Talent](http://www.jobandtalent.com)|[Link](https://linkedin.com/company/jobandtalent)|2009|4k|192k|Software Development|
+|[Fintonic](http://www.fintonic.com)|[Link](https://linkedin.com/company/fintonic)|2011|110|49k|Financial Services|
+|[Spotahome](http://www.spotahome.com)|[Link](https://linkedin.com/company/spotahome)|N/A|167|29k|Real Estate|
+|[Nextail](http://nextail.co)|[Link](https://linkedin.com/company/nextaillabs)|2014|68|12k|Software Development|
 
 ### Madrid - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Keepler Data Tech|[Link](https://www.keepler.io/)|[Link](https://www.linkedin.com/company/keepler)|2018|[251](https://www.linkedin.com/company/keepler/people/)|44k|[Series Unknown](//www.crunchbase.com/organization/keepler?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Plain Concepts](http://www.plainconcepts.com)|[Link](https://linkedin.com/company/plainconcepts)|N/A|667|91k|IT Services and IT Consulting|
 
 ### Madrid - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Glovo Tech|-|[Link](https://www.linkedin.com/showcase/glovo-tech/)|N/A|[0](https://www.linkedin.com/company/glovo-tech/people/)|1k|-|Software Development|
-|BizAway|[Link](https://bizaway.com/)|[Link](https://www.linkedin.com/company/bizaway)|2015|[383](https://www.linkedin.com/company/bizaway/people/)|56k|[Private Equity](//www.crunchbase.com/organization/bizaway?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
-|Job&Talent|[Link](http://www.jobandtalent.com)|[Link](https://www.linkedin.com/company/jobandtalent)|2009|[3961](https://www.linkedin.com/company/jobandtalent/people/)|180k|[Series F](//www.crunchbase.com/organization/jobandtalent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Geoblink (acquired by MyTraffic)|[Link](http://www.geoblink.com)|[Link](https://www.linkedin.com/company/geoblink)|2015|[13](https://www.linkedin.com/company/geoblink/people/)|13k|[Series A](//www.crunchbase.com/organization/geoblink?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Ontruck AI Tech|[Link](https://www.ontruck.com/en/request-demo)|[Link](https://www.linkedin.com/company/ontruck-ai)|N/A|[37](https://www.linkedin.com/company/ontruck/people/)|22k|-|Software Development|
-|Wallapop|[Link](https://es.wallapop.com/)|[Link](https://www.linkedin.com/company/wallapop)|2013|[460](https://www.linkedin.com/company/wallapop/people/)|68k|[Series G](//www.crunchbase.com/organization/wallapop?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Tutellus|[Link](https://linktr.ee/tutellus)|[Link](https://www.linkedin.com/school/tutellus/)|2013|[39](https://www.linkedin.com/company/tutellus/people/)|5k|-|Higher Education|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cabify](https://cabify.com)|[Link](https://linkedin.com/company/cabify)|2011|4.9k|212k|Software Development|
+|[Ontruck AI Tech](https://www.ontruck.com/en/request-demo)|[Link](https://linkedin.com/company/ontruck-ai)|N/A|31|22k|Software Development|
+|[Graphext](http://www.graphext.com)|[Link](https://linkedin.com/company/graphext)|2017|14|5.2k|Software Development|
+
+## Manchester
+### Manchester - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Monitra](http://www.monitra.co.uk)|[Link](https://linkedin.com/company/monitra)|2006|59|11k|Appliances, Electrical, and Electronics Manufacturing|
+|[Biorelate](https://www.biorelate.com)|[Link](https://linkedin.com/company/biorelate-limited)|2014|38|6.4k|Biotechnology Research|
+
+### Manchester - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Matillion](https://www.maia.ai/#)|[Link](https://linkedin.com/company/matillion-limited)|N/A|479|122k|Software Development|
+
+## Manila
+### Manila - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Maya](https://www.maya.ph)|[Link](https://linkedin.com/company/mayaph)|2013|2.5k|277k|Financial Services|
+|[Sprout Solutions](http://sprout.ph/)|[Link](https://linkedin.com/company/sprouthrtech)|2015|446|62k|Software Development|
+
+### Manila - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[CirroLytix](https://cirrolytix.com)|[Link](https://linkedin.com/company/cirrolytix)|2016|8|1.6k|Research Services|
+
+## Melbourne
+### Melbourne - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ripe Robotics](http://www.riperobotics.com)|[Link](https://linkedin.com/company/riperobotics)|2019|3|1.4k|Computer Hardware Manufacturing|
+
+### Melbourne - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Heidi](https://heidihealth.com)|[Link](https://linkedin.com/company/heidi)|N/A|621|77k|Software Development|
+|[Seer Medical](https://www.seermedical.com/)|[Link](https://linkedin.com/company/seer-medical)|2017|97|20k|Hospitals and Health Care|
+|[Lyrebird Health](http://www.lyrebirdhealth.com)|[Link](https://linkedin.com/company/lyrebirdhealth)|2023|107|13k|Government Administration|
+
+### Melbourne - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Applied EV - Software Defined Machines™](https://www.appliedev.com/)|[Link](https://linkedin.com/company/applied-ev)|2015|98|15k|Software Development|
+
+### Melbourne - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cortical Labs](https://corticallabs.com)|[Link](https://linkedin.com/company/cclabs-ai)|2019|37|20k|Research Services|
+
+### Melbourne - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Culture Amp](http://www.cultureamp.com)|[Link](https://linkedin.com/company/cultureamp)|2010|867|125k|Software Development|
+|[Sapia.ai](https://www.sapia.ai)|[Link](https://linkedin.com/company/sapiaai)|2018|57|14k|Software Development|
+
+### Melbourne - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Silverpond](http://www.silverpond.com.au)|[Link](https://linkedin.com/company/silverpond)|2007|18|1.2k|Software Development|
+
+## Mexico City
+### Mexico City - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Yalo](https://www.yalo.ai/)|[Link](https://linkedin.com/company/yalo)|2015|311|118k|Software Development|
+
+### Mexico City - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Xepelin](https://bit.ly/3zzHbJw)|[Link](https://linkedin.com/company/xepelinofficial)|2019|582|106k|Financial Services|
+|[Clip](https://www.clip.mx/unete-a-clip)|[Link](https://linkedin.com/company/payclip)|2012|1.4k|101k|Financial Services|
+|[Konfío](https://konf.io/3VdSALB)|[Link](https://linkedin.com/company/konfio)|2013|1.5k|99k|Financial Services|
+|[Runa](http://www.runahr.com)|[Link](https://linkedin.com/company/runahr)|N/A|210|83k|Software Development|
+|[Banco Plata](http://bancoplata.mx)|[Link](https://linkedin.com/company/platatechnologies)|2023|2.2k|75k|Banking|
+|[Stori](http://www.storicard.com)|[Link](https://linkedin.com/company/stori-card)|2019|796|52k|Banking|
+|[Kapital Grupo Financiero](https://www.kapital.com)|[Link](https://linkedin.com/company/kapital-latam)|2020|3.7k|37k|Financial Services|
+|[Klar](http://www.klar.mx)|[Link](https://linkedin.com/company/klartechnologies)|2019|392|35k|Financial Services|
+|[Mendel](http://www.mendel.com)|[Link](https://linkedin.com/company/somosmendel)|2021|276|29k|Software Development|
+|[Aplazo](http://www.aplazo.mx)|[Link](https://linkedin.com/company/aplazo)|N/A|265|26k|Financial Services|
+|[Momento](https://www.tumomento.com/)|[Link](https://linkedin.com/company/momento-seguros)|2021|80|3.9k|Insurance|
+
+### Mexico City - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Baubap](https://www.baubap.com/)|[Link](https://linkedin.com/company/baubap)|2018|81|26k|Financial Services|
+
+### Mexico City - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bitso](https://bitso.com)|[Link](https://linkedin.com/company/bitso)|2014|869|289k|Financial Services|
+|[99minutos.com](http://www.99minutos.com)|[Link](https://linkedin.com/company/99minutos-com)|2014|1.2k|44k|Truck Transportation|
+|[BeGo](http://www.bego.ai/es)|[Link](https://linkedin.com/company/begoapp)|2019|87|10k|Truck Transportation|
+|[Altur](https://altur.io)|[Link](https://linkedin.com/company/alturio)|2022|12|1.3k|Software Development|
+
+## Miami
+### Miami - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Magic Leap](https://www.magicleap.com)|[Link](https://linkedin.com/company/magic-leap)|2011|1.1k|120k|Computers and Electronics Manufacturing|
+|[Conntour](https://www.conntour.com/)|[Link](https://linkedin.com/company/conntour)|N/A|22|4.4k|Software Development|
+
+### Miami - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Neocis](http://www.neocis.com)|[Link](https://linkedin.com/company/neocis)|2012|118|18k|Medical Equipment Manufacturing|
+
+### Miami - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ModMed](https://www.modmed.com)|[Link](https://linkedin.com/company/modernizing-medicine)|N/A|2.5k|152k|Software Development|
+|[OpenEvidence](https://www.openevidence.com/about)|[Link](https://linkedin.com/company/openevidence)|2021|146|62k|Software Development|
+|[Imagene AI](https://imagene-ai.com)|[Link](https://linkedin.com/company/imagene-ai)|2020|41|13k|Hospitals and Health Care|
+|[CarePredict](http://www.carepredict.com)|[Link](https://linkedin.com/company/carepredict)|2013|36|6.4k|Software Development|
+
+### Miami - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vozy](https://www.vozy.ai/)|[Link](https://linkedin.com/company/vozy)|2015|44|22k|Software Development|
+
+### Miami - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Botmaker](http://www.botmaker.com)|[Link](https://linkedin.com/company/botmaker)|2016|187|20k|Software Development|
+
+### Miami - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DigiBuild Software](https://www.digibuild.com)|[Link](https://linkedin.com/company/digibuild-software)|2017|18|2.1k|Construction|
+|[OutRival](http://outrival.com)|[Link](https://linkedin.com/company/outrivalai)|2018|32|1.5k|Software Development|
+
+### Miami - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cast AI](https://cast.ai/)|[Link](https://linkedin.com/company/cast-ai)|2019|360|47k|Software Development|
+
+### Miami - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Betterfly](https://betterfly.com)|[Link](https://linkedin.com/company/gobetterfly)|2018|301|106k|Insurance|
 
 ## Milan
-### Milan - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|eyecan.ai|[Link](https://www.eyecan.ai/)|[Link](https://www.linkedin.com/company/eyecan-ai)|2019|[11](https://www.linkedin.com/company/eyecan-ai/people/)|2k|-|Research Services|
-|Bending Spoons|[Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio)|[Link](https://www.linkedin.com/company/bendingspoons)|2013|[738](https://www.linkedin.com/company/bending-spoons/people/)|346k|[Debt Financing](//www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Intelligenza Artificiale|[Link](https://bollettino.notizie.ai/?utm_source=linkedin_page_button&utm_medium=web&utm_campaign=linkedin_page_button)|[Link](https://www.linkedin.com/company/intelligenza-artificiale)|2019|[17](https://www.linkedin.com/company/intelligenza-artificiale/people/)|11k|-|Software Development|
+### Milan - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[eyecan.ai](https://www.eyecan.ai/)|[Link](https://linkedin.com/company/eyecan-ai)|2019|9|3.2k|Research Services|
 
 ### Milan - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|indigo.ai|[Link](https://indigo.ai/it/marketing/richiedi-demo/)|[Link](https://www.linkedin.com/company/indigo-ai)|2016|[53](https://www.linkedin.com/company/indigo-ai/people/)|19k|[Series B](//www.crunchbase.com/organization/indigo-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Wonderflow|[Link](https://www.wonderflow.ai/#demo-request)|[Link](https://www.linkedin.com/company/wonderflow)|2015|[84](https://www.linkedin.com/company/wonderflow/people/)|6k|[Series B](//www.crunchbase.com/organization/wonderflow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Market Research|
-|Bending Spoons|[Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio)|[Link](https://www.linkedin.com/company/bendingspoons)|2013|[738](https://www.linkedin.com/company/bending-spoons/people/)|346k|[Debt Financing](//www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Almawave|[Link](https://www.almawave.it)|[Link](https://www.linkedin.com/company/almawave)|N/A|[414](https://www.linkedin.com/company/almawave/people/)|33k|-|IT Services and IT Consulting|
-|H-FARM|[Link](https://www.h-farm.com/)|[Link](https://www.linkedin.com/company/h-farm)|2005|[430](https://www.linkedin.com/company/h-farm/people/)|96k|[Post Ipo Equity](//www.crunchbase.com/organization/h-farm?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Technology, Information and Internet|
-|Translated|[Link](https://translated.com)|[Link](https://www.linkedin.com/company/translated)|N/A|[1997](https://www.linkedin.com/company/translated/people/)|136k|[Private Equity](//www.crunchbase.com/organization/translated?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Translation and Localization|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Contents](https://www.contents.ai/demo/)|[Link](https://linkedin.com/company/contentsdotcom)|2021|128|22k|IT Services and IT Consulting|
+
+### Milan - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Oversonic](https://www.oversonicrobotics.com/)|[Link](https://linkedin.com/company/oversonic-robotics-group)|2020|101|12k|IT Services and IT Consulting|
 
 ### Milan - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Bending Spoons|[Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio)|[Link](https://www.linkedin.com/company/bendingspoons)|2013|[738](https://www.linkedin.com/company/bending-spoons/people/)|346k|[Debt Financing](//www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|DeepTrace Technologies|[Link](http://deeptracetech.com/contacts.html)|[Link](https://www.linkedin.com/company/deeptrace)|2018|[12](https://www.linkedin.com/company/deeptrace/people/)|1k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DeepTrace Technologies](https://www.deeptracetech.com)|[Link](https://linkedin.com/company/deeptrace)|2018|12|1.3k|Software Development|
 
-### Milan - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Embotech|[Link](https://www.embotech.com/)|[Link](https://www.linkedin.com/company/embotech)|2013|[98](https://www.linkedin.com/company/embotech/people/)|14k|[Series B](//www.crunchbase.com/organization/embotech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Milan - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Musixmatch](http://www.musixmatch.com)|[Link](https://linkedin.com/company/musixmatch)|2010|421|24k|Entertainment Providers|
+|[Voiseed](http://www.voiseed.com)|[Link](https://linkedin.com/company/voiseed)|2020|23|2k|Software Development|
 
-### Milan - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Musixmatch|[Link](http://about.musixmatch.com)|[Link](https://www.linkedin.com/company/musixmatch)|2010|[403](https://www.linkedin.com/company/musixmatch/people/)|21k|[Private Equity](//www.crunchbase.com/organization/musixmatch?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|Voiseed|[Link](http://www.voiseed.com)|[Link](https://www.linkedin.com/company/voiseed)|2020|[18](https://www.linkedin.com/company/voiseed/people/)|1k|[Seed](//www.crunchbase.com/organization/voiseed?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Bending Spoons|[Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio)|[Link](https://www.linkedin.com/company/bendingspoons)|2013|[738](https://www.linkedin.com/company/bending-spoons/people/)|346k|[Debt Financing](//www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Maxis|[Link](http://www.maxis.com.my)|[Link](https://www.linkedin.com/company/maxis)|1995|[7512](https://www.linkedin.com/company/maxis/people/)|226k|-|Telecommunications|
-|Sprooki|[Link](http://www.sprooki.com)|[Link](https://www.linkedin.com/company/sprooki)|2011|[1](https://www.linkedin.com/company/sprooki/people/)|1k|[Seed](//www.crunchbase.com/organization/sprooki?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Milan - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Userbot.AI|[Link](https://userbot.ai)|[Link](https://www.linkedin.com/company/userbot)|2017|[20](https://www.linkedin.com/company/userbot/people/)|4k|[Seed](//www.crunchbase.com/organization/userbot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|indigo.ai|[Link](https://indigo.ai/it/marketing/richiedi-demo/)|[Link](https://www.linkedin.com/company/indigo-ai)|2016|[53](https://www.linkedin.com/company/indigo-ai/people/)|19k|[Series B](//www.crunchbase.com/organization/indigo-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Almawave|[Link](https://www.almawave.it)|[Link](https://www.linkedin.com/company/almawave)|N/A|[414](https://www.linkedin.com/company/almawave/people/)|33k|-|IT Services and IT Consulting|
-|QuestIT|[Link](http://www.alghoncloud.com/prenota-demo)|[Link](https://www.linkedin.com/company/questit)|2007|[49](https://www.linkedin.com/company/questit/people/)|5k|[Pre Seed](//www.crunchbase.com/organization/questit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Milan - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[indigo.ai](https://indigo.ai/)|[Link](https://linkedin.com/company/indigo-ai)|2016|68|23k|Software Development|
 
 ### Milan - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Almawave|[Link](https://www.almawave.it)|[Link](https://www.linkedin.com/company/almawave)|N/A|[414](https://www.linkedin.com/company/almawave/people/)|33k|-|IT Services and IT Consulting|
-|Aptus.AI|[Link](https://www.aptus.ai/)|[Link](https://www.linkedin.com/company/aptus-ai)|2018|[41](https://www.linkedin.com/company/aptus-ai/people/)|7k|[Seed](//www.crunchbase.com/organization/aptus-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Milan - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Bending Spoons|[Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio)|[Link](https://www.linkedin.com/company/bendingspoons)|2013|[738](https://www.linkedin.com/company/bending-spoons/people/)|346k|[Debt Financing](//www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Musixmatch|[Link](http://about.musixmatch.com)|[Link](https://www.linkedin.com/company/musixmatch)|2010|[403](https://www.linkedin.com/company/musixmatch/people/)|21k|[Private Equity](//www.crunchbase.com/organization/musixmatch?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-
-### Milan - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Ammagamma|[Link](http://www.ammagamma.com)|[Link](https://www.linkedin.com/company/ammagamma)|2013|[40](https://www.linkedin.com/company/ammagamma/people/)|23k|-|IT Services and IT Consulting|
-|Newired|[Link](https://calendly.com/free-demo-call/15min-demo-room?month=2024-01)|[Link](https://www.linkedin.com/company/newired-srl)|2017|[24](https://www.linkedin.com/company/newired-srl/people/)|1k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Spindox](https://www.spindox.it/)|[Link](https://linkedin.com/company/spindox)|2007|1.2k|78k|IT Services and IT Consulting|
+|[Aptus.AI](http://aptus.ai/)|[Link](https://linkedin.com/company/aptus-ai)|2018|42|9.6k|Software Development|
 
 ### Milan - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Wonderflow|[Link](https://www.wonderflow.ai/#demo-request)|[Link](https://www.linkedin.com/company/wonderflow)|2015|[84](https://www.linkedin.com/company/wonderflow/people/)|6k|[Series B](//www.crunchbase.com/organization/wonderflow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Market Research|
-|Bending Spoons|[Link](https://bendingspoons.com?utm_source=linkedin&utm_medium=social_post&utm_campaign=link_in_bio)|[Link](https://www.linkedin.com/company/bendingspoons)|2013|[738](https://www.linkedin.com/company/bending-spoons/people/)|346k|[Debt Financing](//www.crunchbase.com/organization/bending-spoons?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Vedrai|[Link](https://www.vedrai.com)|[Link](https://www.linkedin.com/company/vedrai)|2020|[104](https://www.linkedin.com/company/vedrai/people/)|36k|[Series A](//www.crunchbase.com/organization/vedrai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Datrix (Part of the Wavenet Group)|[Link](http://www.datrix.co.uk)|[Link](https://www.linkedin.com/company/datrix)|1994|[20](https://www.linkedin.com/company/datrix/people/)|2k|-|IT Services and IT Consulting|
-|Axyon AI|[Link](https://axyon.ai/contact-us)|[Link](https://www.linkedin.com/company/axyon-ai)|2016|[50](https://www.linkedin.com/company/axyon-ai/people/)|5k|[Series Unknown](//www.crunchbase.com/organization/axyon-ai-srl?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|modefinance|[Link](https://www.modefinance.com)|[Link](https://www.linkedin.com/company/modefinance)|2009|[70](https://www.linkedin.com/company/modefinance/people/)|7k|[Grant](//www.crunchbase.com/organization/modefinance?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Jet HR](https://www.jethr.com)|[Link](https://linkedin.com/company/jethr)|2023|452|63k|Software Development|
+|[Vedrai](https://www.vedrai.com)|[Link](https://linkedin.com/company/vedrai)|2020|90|37k|Software Development|
+|[Skillvue](https://www.skillvue.ai)|[Link](https://linkedin.com/company/skillvue)|2021|50|14k|Software Development|
+|[Axyon AI](http://axyon.ai/)|[Link](https://linkedin.com/company/axyon-ai)|2016|46|6.2k|Financial Services|
 
-### Milan - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Quantyca - Data at Core|[Link](https://quantyca.us18.list-manage.com/subscribe?u=3137846906bf30bdc0706b237&id=fe0ef87b43)|[Link](https://www.linkedin.com/company/quantyca)|2009|[141](https://www.linkedin.com/company/quantyca/people/)|9k|-|IT Services and IT Consulting|
-|SDG Group|[Link](http://www.sdggroup.com)|[Link](https://www.linkedin.com/company/sdg-group)|N/A|[3233](https://www.linkedin.com/company/sdg-group/people/)|42k|-|Business Consulting and Services|
-|Intellera Consulting|-|[Link](https://www.linkedin.com/company/intellera-consulting)|2021|[1387](https://www.linkedin.com/company/intellera-consulting/people/)|54k|-|Business Consulting and Services|
-|AI4Business - Nextwork360|[Link](https://www.ai4business.it/newsletter/)|[Link](https://www.linkedin.com/company/ai4business)|N/A|[6](https://www.linkedin.com/company/ai4business/people/)|1k|-|Media Production|
+### Milan - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Domyn](https://www.igenius.ai/newsletter)|[Link](https://linkedin.com/company/domynai)|2016|225|74k|Software Development|
+|[Akamas](http://www.akamas.io)|[Link](https://linkedin.com/company/akamaslabs)|2019|41|4.4k|Software Development|
 
 ### Milan - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|BigProfiles.ai|[Link](https://elaiagent.com/)|[Link](https://www.linkedin.com/company/bigprofiles)|2025|[7](https://www.linkedin.com/company/bigprofiles/people/)|6k|[Series A](//www.crunchbase.com/organization/big-profiles?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Cloud4Wi|[Link](https://info.cloud4wi.com/get-a-demo)|[Link](https://www.linkedin.com/company/cloud4wi)|2014|[61](https://www.linkedin.com/company/cloud4wi/people/)|8k|[Debt Financing](//www.crunchbase.com/organization/witech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Scalapay|[Link](https://www.scalapay.com/)|[Link](https://www.linkedin.com/company/scalapay)|2019|[240](https://www.linkedin.com/company/scalapay/people/)|52k|[Debt Financing](//www.crunchbase.com/organization/scalapay?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Roboze|[Link](https://www.roboze.com/en/)|[Link](https://www.linkedin.com/company/roboze)|2014|[112](https://www.linkedin.com/company/roboze/people/)|27k|[Seed](//www.crunchbase.com/organization/roboze-srl?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Industrial Machinery Manufacturing|
-|Satispay|[Link](https://www.satispay.com/en/)|[Link](https://www.linkedin.com/company/satispay)|2013|[850](https://www.linkedin.com/company/satispay/people/)|175k|[Series Unknown](//www.crunchbase.com/organization/satispay?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bending Spoons](https://bndspn.com/company)|[Link](https://linkedin.com/company/bendingspoons)|2013|863|458k|Software Development|
+|[Satispay](http://www.satispay.com)|[Link](https://linkedin.com/company/satispay)|2013|915|189k|Financial Services|
+|[BizAway](https://bizaway.com/)|[Link](https://linkedin.com/company/bizaway)|2015|412|69k|Business Consulting and Services|
+|[Scalapay](https://www.scalapay.com/)|[Link](https://linkedin.com/company/scalapay)|2019|256|56k|Financial Services|
+|[Roboze](http://www.roboze.com)|[Link](https://linkedin.com/company/roboze)|2014|111|29k|Automation Machinery Manufacturing|
+|[Cleafy](http://www.cleafy.com)|[Link](https://linkedin.com/company/cleafy)|2014|97|8.2k|Computer and Network Security|
+
+## Montreal
+### Montreal - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Keatext](https://keatext.ai)|[Link](https://linkedin.com/company/keatext)|2010|6|3.6k|Software Development|
+
+### Montreal - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vention](https://vention.com)|[Link](https://linkedin.com/company/vention)|2016|380|89k|Automation Machinery Manufacturing|
+|[Kinova](http://www.kinovarobotics.com)|[Link](https://linkedin.com/company/kinova)|2006|311|26k|Automation Machinery Manufacturing|
+|[Haply Robotics](https://www.haply.co/)|[Link](https://linkedin.com/company/haplyrobotics)|2018|67|9.2k|Computer Hardware Manufacturing|
+
+### Montreal - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Aifred Health](http://aifredhealth.com)|[Link](https://linkedin.com/company/aifred)|2017|15|2.7k|Software Development|
+
+### Montreal - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Botpress](https://botpress.com/)|[Link](https://linkedin.com/company/botpress)|2017|81|29k|Software Development|
+
+### Montreal - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Hopper](http://www.hopper.com)|[Link](https://linkedin.com/company/hopper)|N/A|1.1k|389k|Software Development|
 
 ## Mumbai
-### Mumbai - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Quantiphi|[Link](http://www.quantiphi.com)|[Link](https://www.linkedin.com/company/quantiphi)|2013|[4020](https://www.linkedin.com/company/quantiphi/people/)|449k|[Series A](//www.crunchbase.com/organization/quantiphi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Sparrosense|[Link](http://www.sparrosense.com)|[Link](https://www.linkedin.com/company/sparrosense)|2020|[1](https://www.linkedin.com/company/silversparro/people/)|1k|[Seed](//www.crunchbase.com/organization/silversparro-technologies-pvt-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|SigTuple|[Link](http://www.sigtuple.com)|[Link](https://www.linkedin.com/company/sigtuple)|2015|[116](https://www.linkedin.com/company/sigtuple/people/)|31k|[Series C](//www.crunchbase.com/organization/sigtuple?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Fractal|[Link](https://fractal.ai/?utm_source=linkedin&utm_medium=coverpic&utm_campaign=socialmedia)|[Link](https://www.linkedin.com/company/fractal-analytics)|2000|[6812](https://www.linkedin.com/company/fractal-analytics/people/)|784k|[Secondary Market](//www.crunchbase.com/organization/fractal-analytics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
-
-### Mumbai - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|TATA CLIQ|[Link](https://www.tatacliq.com/)|[Link](https://www.linkedin.com/company/tata-cliq)|N/A|[75](https://www.linkedin.com/company/tata-cliq/people/)|2k|-|Retail Apparel and Fashion|
+### Mumbai - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Orbo.ai](https://www.orbo.ai)|[Link](https://linkedin.com/company/orbo)|2019|45|13k|Software Development|
+|[Craze](https://www.crazehq.com/)|[Link](https://linkedin.com/company/crazeai)|N/A|13|4.2k|Software Development|
 
 ### Mumbai - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Miko|[Link](http://www.miko.ai)|[Link](https://www.linkedin.com/company/mikorobot)|2015|[447](https://www.linkedin.com/company/emotix/people/)|76k|-|Computers and Electronics Manufacturing|
-|AjnaLens|[Link](https://www.ajnalens.com/)|[Link](https://www.linkedin.com/company/ajnalens)|2014|[130](https://www.linkedin.com/company/dimension-nxg/people/)|44k|[Corporate Round](//www.crunchbase.com/organization/dimension-nxg-ajnalens?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Miko](http://www.miko.ai)|[Link](https://linkedin.com/company/mikorobot)|2015|496|81k|Computers and Electronics Manufacturing|
+|[AjnaLens](https://www.ajnalens.com/)|[Link](https://linkedin.com/company/ajnalens)|2014|154|57k|Software Development|
 
 ### Mumbai - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tata 1mg|[Link](https://www.1mg.com/)|[Link](https://www.linkedin.com/company/1mg)|N/A|[6507](https://www.linkedin.com/company/1mg/people/)|299k|[Corporate Round](//www.crunchbase.com/organization/healthkart-plus?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|PharmEasy|[Link](http://pharmeasy.in/)|[Link](https://www.linkedin.com/company/pharmeasy)|2015|[3967](https://www.linkedin.com/company/pharmeasy/people/)|278k|[Debt Financing](//www.crunchbase.com/organization/pharm-easy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Wellness and Fitness Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PharmEasy](http://pharmeasy.in/)|[Link](https://linkedin.com/company/pharmeasy)|2015|4k|290k|Wellness and Fitness Services|
+|[NeoDocs (YC S21)](https://neodocs.in/)|[Link](https://linkedin.com/company/neodocs)|2020|42|48k|Wellness and Fitness Services|
+|[AIRA Matrix](http://airamatrix.com/)|[Link](https://linkedin.com/company/airamatrix)|2011|120|35k|Software Development|
 
-### Mumbai - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Mahindra.AI|-|[Link](https://www.linkedin.com/company/mahindra-ai)|N/A|[19](https://www.linkedin.com/company/mahindra-ai/people/)|4k|-|Software Development|
-|Varroc Connect|[Link](http://mycariq.com/)|[Link](https://www.linkedin.com/company/cariq)|2013|[51](https://www.linkedin.com/company/cariq/people/)|3k|[Series A](//www.crunchbase.com/organization/cariq?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Mumbai - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|TinyTap|[Link](https://www.goeddy.com/en/org)|[Link](https://www.linkedin.com/company/tinytap)|2012|[36](https://www.linkedin.com/company/tinytap/people/)|8k|[Series Unknown](//www.crunchbase.com/organization/tinytap?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|E-Learning Providers|
-
-### Mumbai - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Engati|[Link](https://www.engati.com/?utm_source=linkedin&utm_medium=visit&utm_campaign=main-page)|[Link](https://www.linkedin.com/company/engati)|2021|[146](https://www.linkedin.com/company/engati/people/)|71k|-|Software Development|
+### Mumbai - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Engati](https://www.engati.ai)|[Link](https://linkedin.com/company/engati)|2021|129|72k|Software Development|
 
 ### Mumbai - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Datamatics|[Link](https://www.datamatics.com/get-in-touch/sales-enquiry)|[Link](https://www.linkedin.com/company/datamatics)|1975|[8127](https://www.linkedin.com/company/datamatics/people/)|316k|-|IT Services and IT Consulting|
-|vPhrase|[Link](https://www.vphrase.com)|[Link](https://www.linkedin.com/company/vphrase)|2015|[9](https://www.linkedin.com/company/vphrase/people/)|3k|-|IT Services and IT Consulting|
-
-### Mumbai - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tata Digital|[Link](https://www.tata.com/business/tata-digital)|[Link](https://www.linkedin.com/company/tata-digital)|2019|[1002](https://www.linkedin.com/company/tata-digital/people/)|46k|[Private Equity](//www.crunchbase.com/organization/tata-digital?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ClearFeed|[Link](https://clearfeed.ai)|[Link](https://www.linkedin.com/company/clearfeed)|2021|[24](https://www.linkedin.com/company/clearfeed/people/)|46k|[Seed](//www.crunchbase.com/organization/clearfeed?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Mumbai - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|tcs,mumbai|[Link](http://www.acslimited.com)|[Link](https://www.linkedin.com/company/tcs-mumbai)|N/A|[46](https://www.linkedin.com/company/tcs-mumbai/people/)|1k|-|Software Development|
-
-### Mumbai - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|tcs,mumbai|[Link](http://www.acslimited.com)|[Link](https://www.linkedin.com/company/tcs-mumbai)|N/A|[46](https://www.linkedin.com/company/tcs-mumbai/people/)|1k|-|Software Development|
-|Reliance Industries Limited|[Link](http://www.ril.com)|[Link](https://www.linkedin.com/company/reliance)|N/A|[194560](https://www.linkedin.com/company/reliance/people/)|4835k|[Post Ipo Debt](//www.crunchbase.com/organization/reliance-industries?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Oil and Gas|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[IDfy](http://www.idfy.com)|[Link](https://linkedin.com/company/idfy)|N/A|966|118k|Software Development|
 
 ### Mumbai - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Fractal|[Link](https://fractal.ai/?utm_source=linkedin&utm_medium=coverpic&utm_campaign=socialmedia)|[Link](https://www.linkedin.com/company/fractal-analytics)|2000|[6812](https://www.linkedin.com/company/fractal-analytics/people/)|784k|[Secondary Market](//www.crunchbase.com/organization/fractal-analytics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
-|LatentView Analytics|[Link](https://www.latentview.com)|[Link](https://www.linkedin.com/company/latentview-analytics)|2006|[1669](https://www.linkedin.com/company/latentview/people/)|198k|-|Business Consulting and Services|
-|Tiger Analytics|[Link](https://www.tigeranalytics.com/)|[Link](https://www.linkedin.com/company/tiger-analytics)|2011|[6189](https://www.linkedin.com/company/tiger-analytics/people/)|597k|-|Business Consulting and Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Quantiphi](https://www.quantiphi.com)|[Link](https://linkedin.com/company/quantiphi)|2013|4.5k|544k|IT Services and IT Consulting|
+|[C5i](https://www.c5i.ai/)|[Link](https://linkedin.com/company/c5i-ai)|N/A|1.5k|253k|Business Consulting and Services|
+
+### Mumbai - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Yotta Data Services Private Limited](https://www.yotta.com)|[Link](https://linkedin.com/company/yotta-data-services)|2019|1.2k|134k|IT Services and IT Consulting|
+|[Neysa](https://www.neysa.ai/)|[Link](https://linkedin.com/company/neysaai)|2023|142|61k|Software Development|
 
 ### Mumbai - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Housing.com|[Link](http://housing.com)|[Link](https://www.linkedin.com/company/housing-com)|2012|[2423](https://www.linkedin.com/company/housing-com/people/)|245k|[Corporate Round](//www.crunchbase.com/organization/housing-co-in?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Real Estate|
-|BookMyShow|[Link](http://in.bookmyshow.com)|[Link](https://www.linkedin.com/company/bookmyshow)|2007|[1478](https://www.linkedin.com/company/bookmyshow/people/)|126k|[Series D](//www.crunchbase.com/organization/bookmyshow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|Dream11|[Link](https://about.dream11.in/)|[Link](https://www.linkedin.com/company/dream11)|2008|[1945](https://www.linkedin.com/company/dream11/people/)|103k|[Series Unknown](//www.crunchbase.com/organization/dream11?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[BookMyShow](http://in.bookmyshow.com)|[Link](https://linkedin.com/company/bookmyshow)|2007|1.5k|138k|Entertainment Providers|
+|[Dream11](https://www.dream11.com/)|[Link](https://linkedin.com/company/dream11)|2008|1.5k|108k|Software Development|
 
 ## Munich
-### Munich - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Artisense (a Kudan Inc. company)|[Link](https://www.artisense.ai)|[Link](https://www.linkedin.com/company/artisense)|2018|[2](https://www.linkedin.com/company/artisense/people/)|2k|-|Software Development|
-|NavVis|[Link](https://navv.is/4erhH5i)|[Link](https://www.linkedin.com/company/navvis)|2013|[394](https://www.linkedin.com/company/navvis/people/)|51k|[Series Unknown](//www.crunchbase.com/organization/navvis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|36ZERO Vision|[Link](https://36zerovision.com/)|[Link](https://www.linkedin.com/company/36zero-vision)|2021|[20](https://www.linkedin.com/company/36zero-vision/people/)|2k|[Undisclosed](//www.crunchbase.com/organization/fotonow-ba2b?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|oculai|[Link](https://www.oculai.de/)|[Link](https://www.linkedin.com/company/oculai)|2021|[23](https://www.linkedin.com/company/oculai/people/)|2k|[Seed](//www.crunchbase.com/organization/oculai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Munich - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[NavVis](https://www.navvis.com)|[Link](https://linkedin.com/company/navvis)|2013|433|59k|Software Development|
+|[IDnow](https://idnow.io)|[Link](https://linkedin.com/company/idnow)|2014|453|32k|Software Development|
+|[Demodesk](https://demodesk.ai)|[Link](https://linkedin.com/company/demodesk)|2018|22|11k|Software Development|
+|[oculai](https://www.oculai.de/)|[Link](https://linkedin.com/company/oculai)|2021|20|2.6k|Software Development|
 
 ### Munich - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Aleph Alpha|[Link](https://www.aleph-alpha.com/)|[Link](https://www.linkedin.com/company/aleph-alpha)|2019|[361](https://www.linkedin.com/company/aleph-alpha/people/)|68k|[Secondary Market](//www.crunchbase.com/organization/aleph-alpha?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|NavVis|[Link](https://navv.is/4erhH5i)|[Link](https://www.linkedin.com/company/navvis)|2013|[394](https://www.linkedin.com/company/navvis/people/)|51k|[Series Unknown](//www.crunchbase.com/organization/navvis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Celonis|[Link](http://www.celonis.com)|[Link](https://www.linkedin.com/company/celonis)|2011|[3763](https://www.linkedin.com/company/celonis/people/)|318k|[Secondary Market](//www.crunchbase.com/organization/celonis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Personio|[Link](http://www.personio.com)|[Link](https://www.linkedin.com/company/personio)|2015|[1803](https://www.linkedin.com/company/personio/people/)|179k|[Series E](//www.crunchbase.com/organization/personio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Personio](https://www.personio.com)|[Link](https://linkedin.com/company/personio)|2015|2.1k|201k|Software Development|
+|[Aleph Alpha](http://www.aleph-alpha.com)|[Link](https://linkedin.com/company/aleph-alpha)|2019|311|82k|Software Development|
 
 ### Munich - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|NEURA Robotics|[Link](https://www.neura-robotics.com)|[Link](https://www.linkedin.com/company/neura-robotics)|2019|[456](https://www.linkedin.com/company/neura-robotics/people/)|77k|[Series B](//www.crunchbase.com/organization/neura-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[NEURA Robotics](https://linktr.ee/neurarobotics)|[Link](https://linkedin.com/company/neura-robotics)|2019|750|143k|Automation Machinery Manufacturing|
+|[RobCo](http://www.rob.co)|[Link](https://linkedin.com/company/robco-therobotcompany)|2020|213|35k|Software Development|
+|[TYTAN Technologies](https://www.tytan-technologies.com/)|[Link](https://linkedin.com/company/tytan-technologies)|2023|35|20k|Aviation and Aerospace Component Manufacturing|
+|[Alpine Eagle](https://www.alpineeagle.com)|[Link](https://linkedin.com/company/alpineeagle)|2023|45|14k|Software Development|
 
 ### Munich - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ImFusion|[Link](http://www.imfusion.com)|[Link](https://www.linkedin.com/company/imfusion)|N/A|[65](https://www.linkedin.com/company/imfusion/people/)|4k|-|Research Services|
-|Mint Medical|[Link](http://www.mint-medical.com)|[Link](https://www.linkedin.com/company/mint-medical)|N/A|[60](https://www.linkedin.com/company/mint-medical/people/)|6k|-|Hospitals and Health Care|
-|RYVER.AI|[Link](http://ryver.ai)|[Link](https://www.linkedin.com/company/ryver-ai)|2022|[5](https://www.linkedin.com/company/ryver-ai/people/)|1k|[Pre Seed](//www.crunchbase.com/organization/ryver?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|REMATIQ|-|[Link](https://www.linkedin.com/company/rematiq)|2023|[17](https://www.linkedin.com/company/rematiq/people/)|5k|[Seed](//www.crunchbase.com/organization/rematiq?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Avelios Medical](https://avelios.com)|[Link](https://linkedin.com/company/avelios-medical)|2020|234|16k|Software Development|
+|[ImFusion](http://www.imfusion.com)|[Link](https://linkedin.com/company/imfusion)|N/A|85|5.8k|Research Services|
+|[Lamin](https://lamin.ai)|[Link](https://linkedin.com/company/lamin-labs)|2022|28|3.7k|Software Development|
 
 ### Munich - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Artisense (a Kudan Inc. company)|[Link](https://www.artisense.ai)|[Link](https://www.linkedin.com/company/artisense)|2018|[2](https://www.linkedin.com/company/artisense/people/)|2k|-|Software Development|
-|FERNRIDE|[Link](http://www.fernride.com)|[Link](https://www.linkedin.com/company/fernride)|2019|[82](https://www.linkedin.com/company/fernride/people/)|14k|[Series A](//www.crunchbase.com/organization/fernride?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[FERNRIDE](http://www.fernride.com)|[Link](https://linkedin.com/company/fernride)|2019|46|15k|IT Services and IT Consulting|
+|[QCraft AI](https://www.qcraft.ai/en)|[Link](https://linkedin.com/company/qcraft)|2019|141|14k|Software Development|
+|[DeepScenario](https://www.deepscenario.com)|[Link](https://linkedin.com/company/deepscenario)|2021|12|12k|Software Development|
 
-### Munich - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Scantinel|[Link](https://www.scantinel.com)|[Link](https://www.linkedin.com/company/scantinel)|2019|[43](https://www.linkedin.com/company/scantinel/people/)|4k|[Series A](//www.crunchbase.com/organization/scantinel-photonics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|Bragi|[Link](http://www.bragi.com)|[Link](https://www.linkedin.com/company/bragi)|2013|[107](https://www.linkedin.com/company/bragi/people/)|10k|[Series A](//www.crunchbase.com/organization/bragi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|KINEXON|[Link](http://www.kinexon.com/contact)|[Link](https://www.linkedin.com/company/kinexon)|2012|[219](https://www.linkedin.com/company/kinexon/people/)|18k|[Series A](//www.crunchbase.com/organization/kinexon?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Munich - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[KINEXON](http://www.kinexon.com)|[Link](https://linkedin.com/company/kinexon)|2012|219|21k|Software Development|
+|[Bragi](http://www.bragi.com)|[Link](https://linkedin.com/company/bragi)|2013|108|11k|Software Development|
 
-### Munich - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Retorio|[Link](https://www.retorio.com)|[Link](https://www.linkedin.com/company/retorio)|N/A|[36](https://www.linkedin.com/company/retorio/people/)|5k|[Series A](//www.crunchbase.com/organization/retorio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Munich - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|IDnow|[Link](https://www.idnow.io/)|[Link](https://www.linkedin.com/company/idnow)|2014|[423](https://www.linkedin.com/company/idnow/people/)|29k|[Debt Financing](//www.crunchbase.com/organization/idnow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Celonis|[Link](http://www.celonis.com)|[Link](https://www.linkedin.com/company/celonis)|2011|[3763](https://www.linkedin.com/company/celonis/people/)|318k|[Secondary Market](//www.crunchbase.com/organization/celonis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|riskmethods|[Link](http://bit.ly/2J4sqXA)|[Link](https://www.linkedin.com/company/riskmethods)|2013|[41](https://www.linkedin.com/company/riskmethods/people/)|21k|-|Software Development|
+### Munich - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Retorio](https://www.retorio.com)|[Link](https://linkedin.com/company/retorio)|2018|33|6.9k|Software Development|
 
 ### Munich - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Scalable Capital|[Link](http://www.scalable.capital)|[Link](https://www.linkedin.com/company/scalable-capital)|2014|[795](https://www.linkedin.com/company/scalable-capital/people/)|101k|[Series E](//www.crunchbase.com/organization/scalable-capital?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Scalable Capital](http://www.scalable.capital)|[Link](https://linkedin.com/company/scalable-capital)|2014|911|120k|Banking|
 
 ### Munich - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ZenML|[Link](https://zenml.io)|[Link](https://www.linkedin.com/company/zenml)|2021|[18](https://www.linkedin.com/company/zenml/people/)|8k|[Seed](//www.crunchbase.com/organization/zenml?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|OroraTech|[Link](https://ororatech.com/?utm_source=social&utm_medium=linkedin&utm_campaign=profile)|[Link](https://www.linkedin.com/company/ororatech)|2018|[198](https://www.linkedin.com/company/ororatech/people/)|22k|[Series B](//www.crunchbase.com/organization/ororatech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Manex AI|[Link](https://www.manex.ai)|[Link](https://www.linkedin.com/company/manex-ai)|2023|[23](https://www.linkedin.com/company/manex-ai/people/)|3k|[Seed](//www.crunchbase.com/organization/manex-502d?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[OroraTech](https://www.ororatech.com)|[Link](https://linkedin.com/company/ororatech)|2018|203|26k|Software Development|
+|[CELUS](https://www.celus.io)|[Link](https://linkedin.com/company/celus)|2018|97|24k|Software Development|
+|[TWAICE](http://www.twaice.com)|[Link](https://linkedin.com/company/twaice)|2018|100|19k|IT Services and IT Consulting|
+|[KONUX](http://www.konux.com)|[Link](https://linkedin.com/company/konux)|2014|92|15k|Software Development|
+|[Orbem](https://orbem.ai)|[Link](https://linkedin.com/company/orbem-ai)|2019|226|15k|Software Development|
 
 ### Munich - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Celonis|[Link](http://www.celonis.com)|[Link](https://www.linkedin.com/company/celonis)|2011|[3763](https://www.linkedin.com/company/celonis/people/)|318k|[Secondary Market](//www.crunchbase.com/organization/celonis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Personio|[Link](http://www.personio.com)|[Link](https://www.linkedin.com/company/personio)|2015|[1803](https://www.linkedin.com/company/personio/people/)|179k|[Series E](//www.crunchbase.com/organization/personio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Scalable Capital|[Link](http://www.scalable.capital)|[Link](https://www.linkedin.com/company/scalable-capital)|2014|[795](https://www.linkedin.com/company/scalable-capital/people/)|101k|[Series E](//www.crunchbase.com/organization/scalable-capital?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|TWAICE|[Link](http://www.twaice.com)|[Link](https://www.linkedin.com/company/twaice)|2018|[108](https://www.linkedin.com/company/twaice/people/)|17k|[Series B](//www.crunchbase.com/organization/twaice?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Helsing|[Link](http://www.helsing.ai)|[Link](https://www.linkedin.com/company/helsing)|2021|[629](https://www.linkedin.com/company/helsing/people/)|93k|[Series D](//www.crunchbase.com/organization/helsing?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|KONUX|[Link](http://www.konux.com/career)|[Link](https://www.linkedin.com/company/konux)|2014|[119](https://www.linkedin.com/company/konux/people/)|13k|[Series C](//www.crunchbase.com/organization/konux?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|CONXAI|[Link](https://www.conxai.com)|[Link](https://www.linkedin.com/company/conxai)|2021|[27](https://www.linkedin.com/company/conxai/people/)|4k|[Seed](//www.crunchbase.com/organization/conxai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|trail|-|[Link](https://www.linkedin.com/company/trail-ml)|2023|[9](https://www.linkedin.com/company/trail-ml/people/)|2k|[Pre Seed](//www.crunchbase.com/organization/trail-f158?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Tacto](https://www.tacto.ai/)|[Link](https://linkedin.com/company/tactotechnology)|2020|163|20k|Software Development|
+|[Luminovo](https://luminovo.com)|[Link](https://linkedin.com/company/luminovo)|2017|107|13k|Software Development|
+|[Predium](https://www.predium.de/)|[Link](https://linkedin.com/company/predium-technology)|N/A|56|5.7k|Software Development|
+|[CONXAI](https://www.conxai.com)|[Link](https://linkedin.com/company/conxai)|2021|42|5.5k|Software Development|
+|[Interloom](https://interloom.com/)|[Link](https://linkedin.com/company/interloom)|2024|21|2.4k|Software Development|
+|[Finto](https://www.gofinto.com/)|[Link](https://linkedin.com/company/fintoai)|N/A|13|2.1k|Software Development|
 
 ### Munich - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|inovex GmbH|[Link](https://www.inovex.de/de)|[Link](https://www.linkedin.com/company/inovex)|1999|[389](https://www.linkedin.com/company/inovex/people/)|7k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[inovex](https://www.inovex.de)|[Link](https://linkedin.com/company/inovex)|N/A|431|9.2k|Software Development|
+|[TNG Technology Consulting](https://www.tngtech.com/en/)|[Link](https://linkedin.com/company/tng-technology-consulting)|2001|866|8.9k|IT Services and IT Consulting|
+|[Motius](http://motius.com)|[Link](https://linkedin.com/company/motius-gmbh)|N/A|30|8.8k|IT Services and IT Consulting|
+
+### Munich - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ZenML](https://zenml.io/)|[Link](https://linkedin.com/company/zenml)|2021|19|9.1k|IT Services and IT Consulting|
 
 ### Munich - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|BMW|[Link](http://www.bmwgroup.com/en/general/social-media-privacy-policy/linkedin.html)|[Link](https://www.linkedin.com/showcase/bmw/)|1916|[1](https://www.linkedin.com/company/bmw/people/)|198k|-|Motor Vehicle Manufacturing|
-|Siemens|[Link](http://www.siemens.com)|[Link](https://www.linkedin.com/company/siemens)|N/A|[255715](https://www.linkedin.com/company/siemens/people/)|8522k|[Post Ipo Equity](//www.crunchbase.com/organization/siemens?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|MAN Digital: HubSpot & RevOps Agency|[Link](https://hubs.ly/H0LKZdl0)|[Link](https://www.linkedin.com/company/man-digital)|2016|[15](https://www.linkedin.com/company/man-digital/people/)|1k|-|Software Development|
-|Quantum Systems|[Link](https://www.quantum-systems.com)|[Link](https://www.linkedin.com/company/quantum-systems-gmbh)|2015|[459](https://www.linkedin.com/company/quantum-systems-gmbh/people/)|76k|[Series C](//www.crunchbase.com/organization/quantum-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Helsing](http://www.helsing.ai)|[Link](https://linkedin.com/company/helsing)|2021|924|147k|Software Development|
+|[Flix](https://global.flixbus.com/privacy-policy-social-media-1)|[Link](https://linkedin.com/company/flixbus-flixtrain)|2011|2.7k|131k|Software Development|
 
-## New-york
-### New-york - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Clarifai|[Link](https://www.clarifai.com)|[Link](https://www.linkedin.com/company/clarifai)|2013|[93](https://www.linkedin.com/company/clarifai/people/)|78k|[Series C](//www.crunchbase.com/organization/clarifai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Datagen|[Link](http://www.datagen.tech)|[Link](https://www.linkedin.com/company/datagen-tech)|2018|[150](https://www.linkedin.com/company/datagen-tech/people/)|11k|[Series B](//www.crunchbase.com/organization/datagen-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Luminous Computing|[Link](https://www.luminous.com)|[Link](https://www.linkedin.com/company/luminous-computing)|2018|[21](https://www.linkedin.com/company/luminous-computing/people/)|8k|[Series A](//www.crunchbase.com/organization/luminous-computing?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer Hardware Manufacturing|
+## Nairobi
+### Nairobi - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ilara Health](http://www.ilarahealth.com)|[Link](https://linkedin.com/company/ilarahealth)|2018|98|17k|Hospitals and Health Care|
 
-### New-york - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|writer|[Link](http://www.beitske.nl)|[Link](https://www.linkedin.com/company/writer)|N/A|[857](https://www.linkedin.com/company/writer/people/)|1k|-|Retail Art Supplies|
-|AI21 Labs|[Link](http://www.ai21.com)|[Link](https://www.linkedin.com/company/ai21)|2017|[230](https://www.linkedin.com/company/ai21/people/)|34k|[Series D](//www.crunchbase.com/organization/ai21?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Cohere|[Link](http://cohere.com)|[Link](https://www.linkedin.com/company/cohere-ai)|2019|[837](https://www.linkedin.com/company/cohere-ai/people/)|223k|[Series D](//www.crunchbase.com/organization/cohere-82b8?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Persado|[Link](https://www.persado.com)|[Link](https://www.linkedin.com/company/persado)|2012|[270](https://www.linkedin.com/company/persado/people/)|72k|[Debt Financing](//www.crunchbase.com/organization/persado?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Nairobi - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Amini](https://amini.ai/)|[Link](https://linkedin.com/company/aminiai)|2022|67|14k|Software Development|
 
-### New-york - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Anki|[Link](http://www.anki.bot)|[Link](https://www.linkedin.com/company/anki)|2010|[80](https://www.linkedin.com/company/anki/people/)|9k|[Secondary Market](//www.crunchbase.com/organization/anki?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|CANVAS Technology - Acquired by Amazon|[Link](http://canvas.technology)|[Link](https://www.linkedin.com/company/canvas-technology)|2015|[7](https://www.linkedin.com/company/canvas-technology/people/)|2k|[Series A](//www.crunchbase.com/organization/canvas-technology?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+### Nairobi - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PULA](http://pula-advisors.com)|[Link](https://linkedin.com/company/pula-advisors)|2014|535|53k|Financial Services|
 
-### New-york - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Paige|[Link](http://paige.ai)|[Link](https://www.linkedin.com/company/paige-ai)|2018|[42](https://www.linkedin.com/company/paige-ai/people/)|17k|[Series C](//www.crunchbase.com/organization/paige-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Spring Health|[Link](https://www.springhealth.com)|[Link](https://www.linkedin.com/company/spring-health)|2016|[3618](https://www.linkedin.com/company/spring-health/people/)|241k|[Series E](//www.crunchbase.com/organization/spring-care?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Mental Health Care|
-|Komodo Health|[Link](http://www.komodohealth.com)|[Link](https://www.linkedin.com/company/komodo-health)|2014|[788](https://www.linkedin.com/company/komodo-health/people/)|63k|[Series Unknown](//www.crunchbase.com/organization/komodo-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Flatiron Health|[Link](http://www.flatiron.com)|[Link](https://www.linkedin.com/company/flatiron-health)|N/A|[1488](https://www.linkedin.com/company/flatiron-health/people/)|93k|[Series D](//www.crunchbase.com/organization/flatiron-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Oscar Health|[Link](https://www.hioscar.com/careers)|[Link](https://www.linkedin.com/company/oscar-health)|2012|[2578](https://www.linkedin.com/company/oscar-health/people/)|356k|[Post Ipo Debt](//www.crunchbase.com/organization/oscar?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Insurance|
-|Ro Health|[Link](http://www.rohealth.com)|[Link](https://www.linkedin.com/company/ro-health)|2013|[1198](https://www.linkedin.com/company/ro-health/people/)|6k|[Private Equity](//www.crunchbase.com/organization/ro-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Staffing and Recruiting|
-|Rightway|[Link](http://rightwayhealthcare.com/get-started)|[Link](https://www.linkedin.com/company/rightway-healthcare)|2017|[515](https://www.linkedin.com/company/rightway-healthcare/people/)|26k|[Series Unknown](//www.crunchbase.com/organization/rightway-healthcare?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
+### Nairobi - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Qhala](http://qhala.com)|[Link](https://linkedin.com/company/qhalahq)|2020|71|12k|IT Services and IT Consulting|
 
-### New-york - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Optimus Ride|-|[Link](https://www.linkedin.com/company/optimus-ride)|2015|[12](https://www.linkedin.com/company/optimus-ride/people/)|6k|[Series B](//www.crunchbase.com/organization/optimus-ride?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Consumer Services|
+### Nairobi - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Apollo Agriculture](http://apolloagriculture.com)|[Link](https://linkedin.com/company/apollo-agriculture)|2015|1.1k|33k|Financial Services|
+|[UjuziKilimo](http://ujuzikilimo.com)|[Link](https://linkedin.com/company/ujuzikilimo)|2016|13|2.7k|Renewable Energy Semiconductor Manufacturing|
 
-### New-york - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Murf AI|[Link](https://murf.ai?utm_source=Linkedin&utm_medium=Organic&utm_campaign=Linkedin-Organic-HomepagePageButton)|[Link](https://www.linkedin.com/company/murf-ai)|2020|[126](https://www.linkedin.com/company/murf-ai/people/)|131k|[Series A](//www.crunchbase.com/organization/murf-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Sonantic|[Link](https://www.sonantic.io)|[Link](https://www.linkedin.com/company/sonantic)|2018|[2](https://www.linkedin.com/company/sonantic/people/)|3k|[Seed](//www.crunchbase.com/organization/speak-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
+## New York
+### New York - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Runway](https://runway.com)|[Link](https://linkedin.com/company/runwayml)|2018|608|198k|Software Development|
+|[Spyne](https://www.spyne.ai/product-demo)|[Link](https://linkedin.com/company/spyne-ai)|2018|327|84k|Software Development|
+|[FLORA](https://www.flora.ai/)|[Link](https://linkedin.com/company/floraai)|2024|197|36k|Software Development|
+|[D-ID](https://www.d-id.com/)|[Link](https://linkedin.com/company/deidentification)|2017|147|29k|Software Development|
+|[Photoroom](https://photoroom.com)|[Link](https://linkedin.com/company/photoroom)|2019|699|24k|Software Development|
+|[Bria AI](https://bria.ai)|[Link](https://linkedin.com/company/briaai)|2020|104|23k|Software Development|
+|[Mirage](https://mirage.app)|[Link](https://linkedin.com/company/trymirage)|N/A|138|19k|Software Development|
+|[Nexar Inc.](https://www.nexar-ai.com/)|[Link](https://linkedin.com/company/nexar-inc-)|2015|97|18k|Software Development|
+|[Nanit](http://www.nanit.com)|[Link](https://linkedin.com/company/nanit)|N/A|210|16k|Computers and Electronics Manufacturing|
+|[SpaceKnow Inc.](https://www.spaceknow.com/)|[Link](https://linkedin.com/company/spaceknow)|2015|39|10k|Software Development|
+|[Structured AI](http://www.getstructured.ai)|[Link](https://linkedin.com/company/getstructured-ai)|N/A|11|6k|Software Development|
+|[Tensorflight](https://tensorflight.com)|[Link](https://linkedin.com/company/tensorflight)|2016|2|2.2k|Software Development|
+|[True3D](https://true3d.com/)|[Link](https://linkedin.com/company/true3dco)|N/A|6|1.3k|Software Development|
 
-### New-york - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|LivePerson|[Link](http://liveperson.com)|[Link](https://www.linkedin.com/company/liveperson)|1995|[1219](https://www.linkedin.com/company/liveperson/people/)|332k|[Post Ipo Debt](//www.crunchbase.com/organization/liveperson?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Intercom|[Link](https://inter.com/linkedinlearnmore)|[Link](https://www.linkedin.com/company/intercom)|2011|[1948](https://www.linkedin.com/company/intercom/people/)|177k|[Series D](//www.crunchbase.com/organization/intercom?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ada CX|[Link](https://www.ada.cx/)|[Link](https://www.linkedin.com/company/ada-cx)|N/A|[652](https://www.linkedin.com/company/ada-cx/people/)|48k|-|Software Development|
-|Drift, a Salesloft company|[Link](https://www.drift.com/)|[Link](https://www.linkedin.com/company/drift)|2015|[276](https://www.linkedin.com/company/drift/people/)|91k|[Secondary Market](//www.crunchbase.com/organization/drift?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dataminr](http://www.dataminr.com)|[Link](https://linkedin.com/company/dataminr)|2009|879|141k|Software Development|
+|[Persado](https://www.persado.com/)|[Link](https://linkedin.com/company/persado)|2012|221|75k|Software Development|
+|[Yotpo](http://www.yotpo.com)|[Link](https://linkedin.com/company/yotpo)|2011|750|55k|Software Development|
+|[Kasada](https://www.kasada.io)|[Link](https://linkedin.com/company/kasada)|2015|126|7.2k|Computer and Network Security|
+|[Graphwise](https://graphwise.ai)|[Link](https://linkedin.com/company/graphwise)|N/A|222|5.4k|Software Development|
 
-### New-york - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Shield AI|[Link](http://www.shield.ai)|[Link](https://www.linkedin.com/company/shield-ai)|2015|[1301](https://www.linkedin.com/company/shield-ai/people/)|118k|[Series F](//www.crunchbase.com/organization/shield-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Dataiku|[Link](http://dataiku.com)|[Link](https://www.linkedin.com/company/dataiku)|2013|[1608](https://www.linkedin.com/company/dataiku/people/)|227k|[Series F](//www.crunchbase.com/organization/dataiku?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Morphle Labs Inc.](https://morphlelabs.com/)|[Link](https://linkedin.com/company/morphle)|2017|108|13k|Medical Equipment Manufacturing|
+|[Sola](https://www.sola.ai/)|[Link](https://linkedin.com/company/sola-ai)|2023|80|12k|Software Development|
+|[Mbodi AI](https://mbodi.ai/)|[Link](https://linkedin.com/company/mbodiai)|2024|13|7.4k|IT Services and IT Consulting|
+|[Tuesday Labs](https://www.tuesdaylabs.com/)|[Link](https://linkedin.com/company/tuesdaylabs)|N/A|13|4.4k|IT Services and IT Consulting|
+|[SOMATIC](http://getsomatic.com)|[Link](https://linkedin.com/company/somatic)|2018|52|2.8k|Software Development|
+|[MorphoAI](https://morpho.ai)|[Link](https://linkedin.com/company/morphoai)|N/A|10|1.3k|Software Development|
 
-### New-york - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Algolia|[Link](https://www.algolia.com)|[Link](https://www.linkedin.com/company/algolia)|2012|[852](https://www.linkedin.com/company/algolia/people/)|71k|[Series D](//www.crunchbase.com/organization/algolia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Sisense|[Link](http://www.sisense.com)|[Link](https://www.linkedin.com/company/sisense)|N/A|[557](https://www.linkedin.com/company/sisense/people/)|67k|[Series F](//www.crunchbase.com/organization/sisense?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ThoughtSpot|[Link](https://www.thoughtspot.com)|[Link](https://www.linkedin.com/company/thoughtspot)|N/A|[1690](https://www.linkedin.com/company/thoughtspot/people/)|177k|[Secondary Market](//www.crunchbase.com/organization/thoughtspot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Spring Health](https://www.springhealth.com)|[Link](https://linkedin.com/company/spring-health)|2016|3.9k|287k|Mental Health Care|
+|[Qure.ai](http://www.qure.ai)|[Link](https://linkedin.com/company/qure.ai)|2016|420|176k|Medical Equipment Manufacturing|
+|[Komodo Health](http://www.komodohealth.com)|[Link](https://linkedin.com/company/komodo-health)|2014|759|74k|Hospitals and Health Care|
+|[OWKIN](https://www.owkin.com)|[Link](https://linkedin.com/company/owkin)|2016|396|71k|Software Development|
+|[Aidoc](http://www.aidoc.com)|[Link](https://linkedin.com/company/aidoc)|2016|629|67k|Hospitals and Health Care|
+|[Formation Bio](https://www.formation.bio/)|[Link](https://linkedin.com/company/formationbio)|2013|197|49k|Biotechnology Research|
+|[Nabla](https://nabla.com)|[Link](https://linkedin.com/company/nablahq)|2018|204|45k|Hospitals and Health Care|
+|[Rightway](https://www.rightwayhealthcare.com/)|[Link](https://linkedin.com/company/rightway-healthcare)|2017|610|30k|Hospitals and Health Care|
+|[Holmusk](https://www.holmusk.com/)|[Link](https://linkedin.com/company/holmusk)|2015|85|27k|Mental Health Care|
+|[DeepTek](https://www.deeptek.ai/)|[Link](https://linkedin.com/company/deeptek)|2017|146|27k|Hospitals and Health Care|
+|[Castor](http://www.castoredc.com)|[Link](https://linkedin.com/company/castoredc)|2011|318|27k|Software Development|
+|Tucuvi|[Link](https://linkedin.com/company/tucuvi)|N/A|81|22k|Hospitals and Health Care|
+|[Kontakt.io](https://kontakt.io)|[Link](https://linkedin.com/company/kontakt-io)|2013|169|19k|Software Development|
+|[Intelligencia AI](http://www.intelligencia.ai/)|[Link](https://linkedin.com/company/intelligencia-ai)|2017|110|14k|Software Development|
+|[Anterior](https://www.anterior.com)|[Link](https://linkedin.com/company/anteriorai)|2023|64|12k|Hospitals and Health Care|
+|[Prosper AI](https://www.getprosper.ai/)|[Link](https://linkedin.com/company/prospertechnologies)|2024|70|11k|Software Development|
+|[Nym](http://www.nym.health)|[Link](https://linkedin.com/company/nym)|2018|296|10k|Hospitals and Health Care|
+|[Aimbient (formerly SST)](https://www.aimbient.com/)|[Link](https://linkedin.com/company/aimbient)|2014|60|10k|Hospitals and Health Care|
+|[Pasito](https://pasito.ai/)|[Link](https://linkedin.com/company/pasito-ai)|2021|80|8.9k|Software Development|
+|[Dandelion Health](https://dandelionhealth.ai/)|[Link](https://linkedin.com/company/dandelion-health-ai)|2020|56|7.8k|Hospitals and Health Care|
+|[Understood Care](https://understoodcare.com/)|[Link](https://linkedin.com/company/understood-care)|2025|76|6.1k|Government Administration|
+|[Clarion](http://clarionhealth.com)|[Link](https://linkedin.com/company/clarionhealthai)|2023|31|4.7k|Hospitals and Health Care|
+|[SimCare (YC S24)](https://simcare.ai)|[Link](https://linkedin.com/company/simcareyc)|N/A|11|2.5k|E-Learning Providers|
+|[Codes Health](http://www.codeshealth.com)|[Link](https://linkedin.com/company/codes-health)|2024|63|2.3k|Software Development|
+|[Output Labs](https://outputlabs.ai)|[Link](https://linkedin.com/company/outputlabs-ai)|N/A|6|1.9k|Software Development|
+|[Simbie AI](https://www.simbie.ai)|[Link](https://linkedin.com/company/simbieai)|2023|10|1.6k|Software Development|
+|[Harmonic Discovery](http://www.harmonicdiscovery.com)|[Link](https://linkedin.com/company/harmonicdiscovery)|2021|5|1.5k|Biotechnology Research|
+|[Raycaster](https://raycaster.ai)|[Link](https://linkedin.com/company/raycasterai)|2025|3|1.3k|Software Development|
 
-### New-york - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DataRobot|[Link](https://www.datarobot.com)|[Link](https://www.linkedin.com/company/datarobot)|N/A|[849](https://www.linkedin.com/company/datarobot/people/)|151k|[Series G](//www.crunchbase.com/organization/datarobot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|H2O.ai|[Link](http://www.h2o.ai/)|[Link](https://www.linkedin.com/company/h2oai)|2012|[335](https://www.linkedin.com/company/h2oai/people/)|149k|[Secondary Market](//www.crunchbase.com/organization/h2o-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Dataiku|[Link](http://dataiku.com)|[Link](https://www.linkedin.com/company/dataiku)|2013|[1608](https://www.linkedin.com/company/dataiku/people/)|227k|[Series F](//www.crunchbase.com/organization/dataiku?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Skit.ai](https://skit.ai)|[Link](https://linkedin.com/company/skit-ai)|2016|173|74k|Software Development|
+|[Verbit.ai](http://www.verbit.ai)|[Link](https://linkedin.com/company/verbit-ai)|2017|1.6k|29k|IT Services and IT Consulting|
+|[Hume AI](https://www.hume.ai/)|[Link](https://linkedin.com/company/hume-ai)|2021|56|18k|Research Services|
 
-### New-york - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|UiPath|[Link](http://www.uipath.com)|[Link](https://www.linkedin.com/company/uipath)|2005|[5104](https://www.linkedin.com/company/uipath/people/)|517k|[Post Ipo Equity](//www.crunchbase.com/organization/uipath?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Datadog|[Link](https://us5.datadoghq.com/signup)|[Link](https://www.linkedin.com/company/datadog)|2010|[10668](https://www.linkedin.com/company/datadog/people/)|497k|[Post Ipo Debt](//www.crunchbase.com/organization/datadog?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Zapier|[Link](https://zapier.com)|[Link](https://www.linkedin.com/company/zapier)|2011|[1406](https://www.linkedin.com/company/zapier/people/)|343k|[Series Unknown](//www.crunchbase.com/organization/zapier?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Squarespace|[Link](https://www.squarespace.com/about/careers)|[Link](https://www.linkedin.com/company/squarespace)|2003|[2048](https://www.linkedin.com/company/squarespace/people/)|150k|[Post Ipo Secondary](//www.crunchbase.com/organization/squarespace?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|WeWork|[Link](https://wework.com/)|[Link](https://www.linkedin.com/company/wework)|2010|[5381](https://www.linkedin.com/company/wework/people/)|896k|[Post Ipo Equity](//www.crunchbase.com/organization/wework?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Real Estate|
-|Warby Parker|[Link](https://www.warbyparker.com/jobs)|[Link](https://www.linkedin.com/company/warbyparker)|2010|[2653](https://www.linkedin.com/company/warbyparker/people/)|180k|[Post Ipo Equity](//www.crunchbase.com/organization/warby-parker?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail Apparel and Fashion|
-|ZoomInfo|[Link](https://goo.gl/BC4QEw)|[Link](https://www.linkedin.com/company/zoominfo)|N/A|[4353](https://www.linkedin.com/company/zoominfo/people/)|272k|[Post Ipo Equity](//www.crunchbase.com/organization/zoominfo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Datadog|[Link](https://us5.datadoghq.com/signup)|[Link](https://www.linkedin.com/company/datadog)|2010|[10668](https://www.linkedin.com/company/datadog/people/)|497k|[Post Ipo Debt](//www.crunchbase.com/organization/datadog?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[talentpluto](https://talentpluto.com/)|[Link](https://linkedin.com/company/talentpluto-inc)|2025|6|104k|Software Development|
+|[EliseAI](https://www.eliseai.com/)|[Link](https://linkedin.com/company/eliseai)|N/A|702|64k|Software Development|
+|[ASAPP](http://www.asapp.com)|[Link](https://linkedin.com/company/asappco)|2014|387|48k|Software Development|
+|[Druid AI](https://www.druidai.com)|[Link](https://linkedin.com/company/druidai)|2018|216|39k|Software Development|
+|[Navattic](https://navattic.com/)|[Link](https://linkedin.com/company/navattic)|2020|73|18k|Software Development|
+|[Zowie](https://getzowie.com/)|[Link](https://linkedin.com/company/zowieai)|2019|99|17k|Software Development|
+|[Cloud Humans](https://cloudhumans.com)|[Link](https://linkedin.com/company/cloud-humans)|2020|193|16k|IT Services and IT Consulting|
+|[Lorikeet](https://www.lorikeetcx.ai)|[Link](https://linkedin.com/company/lorikeetcx)|2023|106|13k|Software Development|
+|[Moveo AI](https://www.moveo.ai)|[Link](https://linkedin.com/company/moveo-ai)|2020|56|7k|Software Development|
+|[Unthread](https://unthread.io)|[Link](https://linkedin.com/company/unthreadai)|N/A|10|2k|Software Development|
 
-### New-york - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Dataiku|[Link](http://dataiku.com)|[Link](https://www.linkedin.com/company/dataiku)|2013|[1608](https://www.linkedin.com/company/dataiku/people/)|227k|[Series F](//www.crunchbase.com/organization/dataiku?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|DataRobot|[Link](https://www.datarobot.com)|[Link](https://www.linkedin.com/company/datarobot)|N/A|[849](https://www.linkedin.com/company/datarobot/people/)|151k|[Series G](//www.crunchbase.com/organization/datarobot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|AlphaSense|[Link](http://www.alpha-sense.com)|[Link](https://www.linkedin.com/company/alphasense)|N/A|[2892](https://www.linkedin.com/company/alphasense/people/)|113k|[Series F](//www.crunchbase.com/organization/alphasense?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dataiku](http://dataiku.com)|[Link](https://linkedin.com/company/dataiku)|2013|1.6k|243k|Software Development|
+|[Signzy](https://www.signzy.com/)|[Link](https://linkedin.com/company/teamsignzy)|2015|437|214k|Financial Services|
+|[Personetics](https://personetics.com)|[Link](https://linkedin.com/company/personetics)|2011|340|71k|Financial Services|
+|[Hebbia](https://www.hebbia.com)|[Link](https://linkedin.com/company/hebbia)|2020|191|60k|Software Development|
+|[Ocrolus](http://ocrolus.com)|[Link](https://linkedin.com/company/ocrolus)|2014|1.1k|36k|Financial Services|
+|[Daloopa](https://www.daloopa.com)|[Link](https://linkedin.com/company/daloopa)|N/A|564|36k|Software Development|
+|[Hyperscience](http://hyperscience.ai)|[Link](https://linkedin.com/company/hyperscience)|2014|201|25k|Software Development|
+|[Yseop](https://yseop.com)|[Link](https://linkedin.com/company/yseop)|N/A|148|15k|Software Development|
+|[Extend](https://www.extend.ai/)|[Link](https://linkedin.com/company/extend-app)|2023|37|8.7k|Software Development|
+|[vPhrase](https://www.vphrase.com)|[Link](https://linkedin.com/company/vphrase)|2015|8|3.9k|IT Services and IT Consulting|
 
-### New-york - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Bloomberg|[Link](https://www.bloomberg.com/company/?utm_medium=LI&utm_source=Social-o&utm_campaign=678145&tactic=678145)|[Link](https://www.linkedin.com/company/bloomberg)|N/A|[25892](https://www.linkedin.com/company/bloomberg/people/)|2150k|-|Financial Services|
-|IBM watsonx|[Link](https://ibm.biz/BdMwHN)|[Link](https://www.linkedin.com/showcase/ibm-watsonx/)|N/A|[0](https://www.linkedin.com/company/ibm-watson/people/)|144k|-|IT Services and IT Consulting|
-|JPMorganChase|[Link](http://www.jpmorganchase.com)|[Link](https://www.linkedin.com/company/jpmorganchase)|N/A|[222102](https://www.linkedin.com/company/jpmorgan-chase/people/)|6901k|-|Financial Services|
-|GS Engineering|[Link](https://www.gsengineering.com/contact)|[Link](https://www.linkedin.com/company/gs-engineering)|2001|[215](https://www.linkedin.com/company/gs-engineering/people/)|5k|-|IT Services and IT Consulting|
-|Two Sigma|[Link](http://www.twosigma.com/)|[Link](https://www.linkedin.com/company/two-sigma-investments)|N/A|[2360](https://www.linkedin.com/company/two-sigma-investments/people/)|266k|-|Financial Services|
-|Bridgewater|[Link](http://www.bridgewaterafs.com.au)|[Link](https://www.linkedin.com/company/bridgewater)|N/A|[60](https://www.linkedin.com/company/bridgewater/people/)|1k|-|Financial Services|
-|The Trade Desk|[Link](https://linktr.ee/thetradedesk)|[Link](https://www.linkedin.com/company/the-trade-desk)|2009|[4665](https://www.linkedin.com/company/the-trade-desk/people/)|252k|[Post Ipo Equity](//www.crunchbase.com/organization/the-trade-desk?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Peloton|[Link](http://www.peloton.com)|[Link](https://www.linkedin.com/company/peloton)|1991|[225](https://www.linkedin.com/company/peloton/people/)|13k|[Private Equity](//www.crunchbase.com/organization/peloton-computer-enterprises?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Oil and Gas|
-|Etsy|[Link](https://careers.etsy.com/?ref=ftr)|[Link](https://www.linkedin.com/company/etsy)|2005|[9156](https://www.linkedin.com/company/etsy/people/)|319k|[Post Ipo Debt](//www.crunchbase.com/organization/etsy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AlphaSense](http://www.alpha-sense.com)|[Link](https://linkedin.com/company/alphasense)|N/A|3.5k|147k|Software Development|
+|[Sisense](http://www.sisense.com)|[Link](https://linkedin.com/company/sisense)|N/A|511|71k|Software Development|
+|[CARTO](https://carto.com)|[Link](https://linkedin.com/company/carto)|2012|349|57k|Software Development|
+|[Linkup](http://www.linkup.so)|[Link](https://linkedin.com/company/linkup-platform)|2024|39|8.4k|Software Development|
+|[Streamoid](https://streamoid.com)|[Link](https://linkedin.com/company/streamoid)|N/A|59|5.5k|Software Development|
 
-## Palo-alto
-### Palo-alto - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Pony.ai|[Link](https://www.pony.ai/)|[Link](https://www.linkedin.com/company/pony-ai)|2016|[511](https://www.linkedin.com/company/pony-ai/people/)|60k|[Corporate Round](//www.crunchbase.com/organization/pony-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Augury](https://augury.com)|[Link](https://linkedin.com/company/augury-systems)|2011|355|98k|Software Development|
+|[Facilio](http://www.facilio.com)|[Link](https://linkedin.com/company/facilio-inc)|2017|229|36k|Software Development|
+|[PermitFlow](http://www.permitflow.com)|[Link](https://linkedin.com/company/permitflow)|2021|175|32k|Software Development|
+|[Guac](https://www.guac-ai.com/)|[Link](https://linkedin.com/company/guac-ai)|N/A|11|16k|Software Development|
+|[Paces](https://paces.com)|[Link](https://linkedin.com/company/pacesai)|2022|69|8.9k|Software Development|
+|[Resolve](https://www.resolvebim.com)|[Link](https://linkedin.com/company/resolvebim)|2021|16|5k|Software Development|
+|[Dili](https://www.dili.ai)|[Link](https://linkedin.com/company/dili-ai)|2023|62|3.6k|Software Development|
+|[Photonium](https://photoniumoptics.com/)|[Link](https://linkedin.com/company/photonium-optics)|2025|7|2.8k|IT Services and IT Consulting|
+|[Bravi (YC F25)](https://www.bravi.app)|[Link](https://linkedin.com/company/braviapp)|N/A|16|2.1k|Software Development|
+|[NO LOGO](https://www.nologo.com/)|[Link](https://linkedin.com/company/withnologo)|2024|6|1.5k|Software Development|
 
-### Palo-alto - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Character.AI|[Link](https://www.character.ai)|[Link](https://www.linkedin.com/company/character-ai)|2021|[243](https://www.linkedin.com/company/character-ai/people/)|39k|[Series A](//www.crunchbase.com/organization/character-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Inflection AI|[Link](https://inflection.ai)|[Link](https://www.linkedin.com/company/inflectionai)|2022|[69](https://www.linkedin.com/company/inflectionai/people/)|91k|[Series Unknown](//www.crunchbase.com/organization/inflection-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Perplexity|[Link](https://www.perplexity.ai)|[Link](https://www.linkedin.com/company/perplexity-ai)|2022|[1546](https://www.linkedin.com/company/perplexity-ai/people/)|1404k|[Series Unknown](//www.crunchbase.com/organization/perplexity-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### New York - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ramp](http://ramp.com)|[Link](https://linkedin.com/company/ramp)|2019|2.9k|376k|Financial Services|
+|[Celonis](http://www.celonis.com)|[Link](https://linkedin.com/company/celonis)|2011|4.3k|365k|Software Development|
+|[Rokt](http://www.rokt.com/)|[Link](https://linkedin.com/company/rokt)|2012|868|223k|Software Development|
+|[Clay](https://www.clay.com/)|[Link](https://linkedin.com/company/grow-with-clay)|N/A|1.6k|201k|Software Development|
+|[Feedzai](https://www.feedzai.com/)|[Link](https://linkedin.com/company/feedzai)|2011|912|168k|IT Services and IT Consulting|
+|[Squarespace](https://www.squarespace.com/about/careers)|[Link](https://linkedin.com/company/squarespace)|2003|2.2k|157k|Software Development|
+|[Clarity AI](http://clarity.ai)|[Link](https://linkedin.com/company/clarity-ai)|2017|336|129k|Financial Services|
+|[Attentive](https://attentive.com)|[Link](https://linkedin.com/company/attentivehq)|N/A|1.6k|129k|Advertising Services|
+|[Seedtag](https://www.seedtag.com/)|[Link](https://linkedin.com/company/seedtag)|2014|718|123k|Advertising Services|
+|[Pipedrive](https://www.pipedrive.com)|[Link](https://linkedin.com/company/pipedrive)|2010|1.1k|120k|Software Development|
+|[VectorShift](https://www.vectorshift.ai/)|[Link](https://linkedin.com/company/vectorshift)|N/A|36|93k|Software Development|
+|[Movable Ink](http://movableink.com)|[Link](https://linkedin.com/company/movable-ink)|2010|573|86k|Software Development|
+|[Red Points](https://www.redpoints.com)|[Link](https://linkedin.com/company/redpoints)|2011|324|58k|Software Development|
+|[inFeedo AI](https://www.infeedo.ai)|[Link](https://linkedin.com/company/infeedo)|2016|141|55k|Software Development|
+|[Altana](http://www.altana.ai)|[Link](https://linkedin.com/company/altana-ai)|2018|323|45k|Software Development|
+|[Rogo](https://www.rogo.com/)|[Link](https://linkedin.com/company/rogoai)|2022|263|42k|Software Development|
+|[Popl](https://popl.click/demo)|[Link](https://linkedin.com/company/poplco)|2020|134|42k|Software Development|
+|[Superorder](http://www.superorder.com)|[Link](https://linkedin.com/company/superorderdotcom)|2019|19|41k|Restaurants|
+|[Templafy](https://www.templafy.com/)|[Link](https://linkedin.com/company/templafy)|N/A|182|31k|Software Development|
+|[Taktile](https://www.taktile.com)|[Link](https://linkedin.com/company/taktile1)|2020|237|31k|Financial Services|
+|[AILY LABS](https://ailylabs.com/)|[Link](https://linkedin.com/company/ailylabs)|2020|364|26k|Software Development|
+|[Revelio Labs](http://reveliolabs.com)|[Link](https://linkedin.com/company/revelio-labs)|2018|90|24k|Software Development|
+|[Model ML](http://www.modelml.com)|[Link](https://linkedin.com/company/model-ml)|N/A|263|20k|Software Development|
+|[Draftwise](http://www.draftwise.com)|[Link](https://linkedin.com/company/draftwise-ai)|2020|65|18k|Software Development|
+|[Dstillery](https://www.dstillery.com)|[Link](https://linkedin.com/company/dstillery)|2008|89|18k|Advertising Services|
+|[Warp](https://www.warp.co/)|[Link](https://linkedin.com/company/warpdotco)|2023|87|17k|Software Development|
+|[Alinea Invest](https://alinea-invest.com/)|[Link](https://linkedin.com/company/alineainvest)|2021|40|17k|Financial Services|
+|[Norm Ai](https://norm.ai/)|[Link](https://linkedin.com/company/normative-ai)|2023|197|16k|Software Development|
+|[Rilla](http://rilla.com)|[Link](https://linkedin.com/company/rilla-co)|2019|144|16k|Software Development|
+|[OffDeal](http://offdeal.io)|[Link](https://linkedin.com/company/offdeal)|2023|38|15k|Software Development|
+|[Orbital](https://www.orbital.tech/)|[Link](https://linkedin.com/company/orbital-technology)|2018|178|14k|Software Development|
+|[Voyantis](https://voyantis.ai)|[Link](https://linkedin.com/company/voyantis)|2020|121|14k|Software Development|
+|[Spott](https://spott.io/)|[Link](https://linkedin.com/company/spottai)|2024|47|13k|Software Development|
+|[Rinsed](https://www.rinsed.com)|[Link](https://linkedin.com/company/rinsed)|2019|62|13k|Software Development|
+|[Reality Defender](https://realitydefender.com/)|[Link](https://linkedin.com/company/reality-defender)|2021|94|11k|Computer and Network Security|
+|[ProSights](https://www.prosights.co/)|[Link](https://linkedin.com/company/prosightsco)|N/A|20|10k|Software Development|
+|[Auctor](https://www.getauctor.com/)|[Link](https://linkedin.com/company/getauctor)|2025|48|9.1k|Software Development|
+|[FINNY](http://www.finny.com)|[Link](https://linkedin.com/company/finnyai)|N/A|41|8.4k|Software Development|
+|[Rollstack](https://www.rollstack.com)|[Link](https://linkedin.com/company/rollstack)|2022|31|8k|IT Services and IT Consulting|
+|[Confido](https://www.confidotech.com)|[Link](https://linkedin.com/company/confidotech)|N/A|121|7.9k|Software Development|
+|[Cambio](https://www.cambio.ai/)|[Link](https://linkedin.com/company/cambioai)|2022|68|7.5k|Real Estate|
+|[ZELIQ](https://zeliq.com/)|[Link](https://linkedin.com/company/zeliq)|N/A|0|6.9k|Software Development|
+|[OneChronos](https://www.onechronos.com)|[Link](https://linkedin.com/company/onechronos)|2015|83|6.7k|Financial Services|
+|[Glimpse](http://www.tryglimpse.com/)|[Link](https://linkedin.com/company/try-glimpse)|2024|70|6.6k|Software Development|
+|[Heron](http://herondata.io)|[Link](https://linkedin.com/company/heron)|2020|65|6k|Software Development|
+|[HOMLI](https://thehomli.com/)|[Link](https://linkedin.com/company/homli)|2022|24|5.7k|Software Development|
+|[Trellus (YC W22)](https://www.trellus.ai)|[Link](https://linkedin.com/company/trytrellus)|2022|7|5.4k|Software Development|
+|[Thera](https://www.getthera.com)|[Link](https://linkedin.com/company/getthera)|2021|18|5.3k|Software Development|
+|[Assembly](https://assembly.com)|[Link](https://linkedin.com/company/assemblycom)|2020|44|5.2k|Software Development|
+|[Henry](https://henry.ai)|[Link](https://linkedin.com/company/henry-ai)|2024|35|5.1k|Real Estate|
+|[PointOne](https://pointone.com/)|[Link](https://linkedin.com/company/pointoneai)|2023|42|5.1k|Software Development|
+|[Voiceops](http://voiceops.com)|[Link](https://linkedin.com/company/voiceops)|2023|15|5k|Software Development|
+|[Concourse](https://www.concourse.ai)|[Link](https://linkedin.com/company/concourseai)|2023|24|4.8k|Software Development|
+|[Credal](https://credal.ai/)|[Link](https://linkedin.com/company/credal-ai)|2022|13|4.5k|Software Development|
+|[Spade](http://www.spade.com)|[Link](https://linkedin.com/company/spadedata)|2021|46|4.2k|Financial Services|
+|[Trata (YC W25)](https://www.trytrata.com/)|[Link](https://linkedin.com/company/trata-inc)|N/A|9|3.7k|Software Development|
+|[Cotera](https://cotera.co/)|[Link](https://linkedin.com/company/coterahq)|2022|16|3.4k|Software Development|
+|[Blee](https://www.blee.com)|[Link](https://linkedin.com/company/weareblee)|2022|38|3.2k|Software Development|
+|[Fiber AI (YC S23)](https://www.fiber.ai/)|[Link](https://linkedin.com/company/fiberai)|N/A|38|3.2k|Software Development|
+|[Metal](https://metal.ai)|[Link](https://linkedin.com/company/getmetal)|2023|528|3.1k|Software Development|
+|[Cogram](https://cogram.com)|[Link](https://linkedin.com/company/cogramai)|2021|13|2.9k|Software Development|
+|[Blue Onion](https://www.blueonion.ai)|[Link](https://linkedin.com/company/blue-onion-fintech)|2020|41|2.8k|Software Development|
+|[Type](https://type.ai)|[Link](https://linkedin.com/company/type-ai)|2023|25|2.7k|Software Development|
+|[SureBright](http://www.surebright.com)|[Link](https://linkedin.com/company/surebright)|2021|36|2.4k|Insurance|
+|[CoreCare](https://corecare.ai)|[Link](https://linkedin.com/company/corecare)|2019|33|2.3k|Software Development|
+|[DiligenceSquared (YC F25)](https://www.diligencesquared.com/)|[Link](https://linkedin.com/company/diligencesquared)|2025|13|2.3k|Market Research|
+|[Channel3](https://trychannel3.com)|[Link](https://linkedin.com/company/channel3-ai)|2025|9|1.8k|Software Development|
+|[Kyber](http://askkyber.com)|[Link](https://linkedin.com/company/ask-kyber)|2022|10|1.6k|Software Development|
+|[Axis (YC W22)](http://axis.xyz)|[Link](https://linkedin.com/company/axis-xyz)|2018|148|1.4k|IT Services and IT Consulting|
+|[PolicyFly](https://www.policyfly.com)|[Link](https://linkedin.com/company/policyfly)|2018|21|1.4k|Insurance|
+|[Elayne](https://www.elayne.com/)|[Link](https://linkedin.com/company/meetelayne)|2024|8|1.3k|Software Development|
+|[Aqua Voice](https://aquavoice.com)|[Link](https://linkedin.com/company/aqua-voice)|2023|7|1.3k|Software Development|
+|[Forge](https://www.forgehq.com/)|[Link](https://linkedin.com/company/forgehq)|2023|7|1.3k|Truck Transportation|
+|[Avina](http://avina.io)|[Link](https://linkedin.com/company/avinaio)|N/A|4|1.3k|Software Development|
+|[Version Story Compare](https://www.versionstory.com/)|[Link](https://linkedin.com/company/version-story)|2021|12|1.1k|Software Development|
 
-### Palo-alto - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Agility Robotics|[Link](http://agilityrobotics.com/)|[Link](https://www.linkedin.com/company/agilityrobotics)|N/A|[348](https://www.linkedin.com/company/agility-robotics/people/)|100k|-|IT Services and IT Consulting|
-|Fetch Robotics (now part of Zebra Technologies)|[Link](http://bit.ly/2AW5RzG)|[Link](https://www.linkedin.com/company/fetch-robotics)|N/A|[55](https://www.linkedin.com/company/fetch-robotics/people/)|43k|[Series C](//www.crunchbase.com/organization/fetch-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
+### New York - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Collibra](https://www.collibra.com/)|[Link](https://linkedin.com/company/collibra)|2008|1.1k|112k|Software Development|
+|[Lightning AI](http://lightning.ai)|[Link](https://linkedin.com/company/pytorch-lightning)|N/A|291|104k|Software Development|
+|[Pinecone](https://www.pinecone.io/)|[Link](https://linkedin.com/company/pinecone-io)|2019|138|80k|Software Development|
+|[VAST Data](https://www.vastdata.com)|[Link](https://linkedin.com/company/vast-data)|2016|1.3k|73k|Software Development|
+|[Veriff](http://www.veriff.com)|[Link](https://linkedin.com/company/veriff)|2015|514|51k|Software Development|
+|[Modal](https://modal.com)|[Link](https://linkedin.com/company/modal-labs)|N/A|256|38k|Software Development|
+|[Reflection](https://www.reflection.ai/)|[Link](https://linkedin.com/company/reflectionai)|N/A|336|37k|Software Development|
+|[Zenity](https://www.zenity.io)|[Link](https://linkedin.com/company/zenitysec)|2021|267|33k|Computer and Network Security|
+|[Comet](https://www.comet.com)|[Link](https://linkedin.com/company/comet-ml)|2017|100|21k|Software Development|
+|[Noma](https://noma.security)|[Link](https://linkedin.com/company/noma-security)|2023|179|20k|Computer and Network Security|
+|[Qodo](https://www.qodo.ai/)|[Link](https://linkedin.com/company/qodoai)|N/A|144|14k|Software Development|
+|[Cinder](https://cinder.ai)|[Link](https://linkedin.com/company/cinder-intelligence)|2022|60|13k|Software Development|
+|[GovDash](http://govdash.com)|[Link](https://linkedin.com/company/govdash)|2023|72|11k|Software Development|
+|[Nomic AI](https://nomic.ai)|[Link](https://linkedin.com/company/nomic-ai)|2022|32|11k|Software Development|
+|[Spur](https://www.spurtest.com/)|[Link](https://linkedin.com/company/spur-test)|2024|92|10k|Software Development|
+|[SPATE](http://spate.nyc)|[Link](https://linkedin.com/company/spatenyc)|2018|33|10k|Market Research|
+|[222](https://222.place)|[Link](https://linkedin.com/company/222place)|N/A|203|9.9k|Software Development|
+|[Flint](https://flintk12.com/)|[Link](https://linkedin.com/company/flintk12)|2023|37|9.1k|Higher Education|
+|[Arthur](https://arthur.ai/)|[Link](https://linkedin.com/company/arthurai)|2018|33|8.7k|Software Development|
+|[Hadrius](https://www.hadrius.com)|[Link](https://linkedin.com/company/hadrius)|2023|82|7.9k|Financial Services|
+|[Datafold](https://datafold.com)|[Link](https://linkedin.com/company/datafold)|2020|36|7k|IT Services and IT Consulting|
+|[Greenboard](https://www.greenboard.com)|[Link](https://linkedin.com/company/greenboard-compliance)|2023|37|6.3k|Financial Services|
+|[Arva AI](https://www.arva.ai)|[Link](https://linkedin.com/company/arva-ai)|2024|22|5.8k|Financial Services|
+|[Swayable](https://www.swayable.com/)|[Link](https://linkedin.com/company/swayable)|2017|64|4.8k|Software Development|
+|[AuthZed](https://authzed.com)|[Link](https://linkedin.com/company/authzed)|2020|34|3.9k|Software Development|
+|[Liquid Compute](https://liquidcompute.com/)|[Link](https://linkedin.com/company/liquid-compute)|2025|13|2.9k|Financial Services|
+|[Cedana](https://www.cedana.com)|[Link](https://linkedin.com/company/cedanacorp)|2023|14|2.4k|Software Development|
+|[Beam](https://beam.cloud)|[Link](https://linkedin.com/company/beamcloud)|2022|2|2k|IT Services and IT Consulting|
+|[Superwall](https://superwall.com)|[Link](https://linkedin.com/company/superwall)|2021|18|1.7k|Software Development|
+|[Interfere](https://interfere.com)|[Link](https://linkedin.com/company/interfere-inc)|2025|7|1.6k|Software Development|
+|[Elevate](https://www.useelevate.dev)|[Link](https://linkedin.com/company/elev4te-ai)|2025|9|1.3k|Information Services|
 
-### Palo-alto - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|PathAI|[Link](http://www.pathai.com)|[Link](https://www.linkedin.com/company/pathai)|2016|[268](https://www.linkedin.com/company/pathai/people/)|88k|[Debt Financing](//www.crunchbase.com/organization/pathai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|23andMe|[Link](https://www.23andme.com)|[Link](https://www.linkedin.com/company/23andme)|N/A|[558](https://www.linkedin.com/company/23andme/people/)|81k|[Post Ipo Equity](//www.crunchbase.com/organization/23andme?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Non-profit Organizations|
-|Color|[Link](https://color.com)|[Link](https://www.linkedin.com/company/color)|2014|[616](https://www.linkedin.com/company/color-genomics/people/)|45k|[Series E](//www.crunchbase.com/organization/color-genomics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Guardant Health|[Link](http://www.guardanthealth.com/)|[Link](https://www.linkedin.com/company/guardanthealth)|N/A|[4159](https://www.linkedin.com/company/guardant-health/people/)|265k|-|Biotechnology Research|
+### New York - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Two Sigma](http://www.twosigma.com/)|[Link](https://linkedin.com/company/two-sigma-investments)|N/A|2.4k|309k|Financial Services|
+|[Nuvocargo](https://www.nuvocargo.com/en)|[Link](https://linkedin.com/company/nuvocargo)|2019|62|13k|Truck Transportation|
+|[Rove](https://rove.com)|[Link](https://linkedin.com/company/rovemiles)|N/A|58|12k|Financial Services|
+|[Cloud4Wi](https://cloud4wi.ai/)|[Link](https://linkedin.com/company/cloud4wi)|2014|62|9k|Software Development|
+|[BigProfiles.ai](http://elaiagent.com/)|[Link](https://linkedin.com/company/bigprofiles)|2025|6|6.4k|Software Development|
+|[GS Engineering](http://www.gsengineering.com)|[Link](https://linkedin.com/company/gs-engineering)|2001|225|6.1k|IT Services and IT Consulting|
+|[Garage](https://www.shopgarage.com/)|[Link](https://linkedin.com/company/withgarage)|2023|230|5.6k|Software Development|
+|[F2](https://www.f2.ai/)|[Link](https://linkedin.com/company/f2aihq)|2025|38|4.6k|Software Development|
+|[Autonomous Technologies Group](https://becomeautonomous.com/)|[Link](https://linkedin.com/company/autonomous-technologies-group)|2025|14|1.9k|Research Services|
+|[Overwatch Data](https://www.overwatchdata.ai)|[Link](https://linkedin.com/company/overwatchdata)|2022|29|1.8k|Software Development|
+|[Closure](https://closure-intel.com)|[Link](https://linkedin.com/company/closure-intel)|2024|13|1.2k|Software Development|
+|[Caddy (YC F25)](https://caddy.app/)|[Link](https://linkedin.com/company/try-caddy)|N/A|13|1.2k|Software Development|
+|[Fleetline](http://fleetline.ai)|[Link](https://linkedin.com/company/fleetlineai)|N/A|10|1.2k|Software Development|
+|[Hazel](https://www.hazelai.com/)|[Link](https://linkedin.com/company/hazel-ai)|2024|12|1k|Business Consulting and Services|
 
-### Palo-alto - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Pony.ai|[Link](https://www.pony.ai/)|[Link](https://www.linkedin.com/company/pony-ai)|2016|[511](https://www.linkedin.com/company/pony-ai/people/)|60k|[Corporate Round](//www.crunchbase.com/organization/pony-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Aurora Films|[Link](http://aurorafilms.com)|[Link](https://www.linkedin.com/company/aurora)|2001|[95](https://www.linkedin.com/company/aurora/people/)|1k|-|Media Production|
-|Luminar Technologies|[Link](https://www.luminartech.com)|[Link](https://www.linkedin.com/company/luminar-technologies)|2012|[417](https://www.linkedin.com/company/luminar-technologies/people/)|75k|-|Motor Vehicle Manufacturing|
+## Oslo
+### Oslo - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Zivid](https://www.zivid.com)|[Link](https://linkedin.com/company/zividlabs)|2015|101|10k|Automation Machinery Manufacturing|
+|[Spoor](https://www.spoor.ai/)|[Link](https://linkedin.com/company/spoorai)|2020|50|5.5k|Software Development|
+|[VAKE](https://www.vake.ai/)|[Link](https://linkedin.com/company/vake-ai)|2019|30|1.8k|Software Development|
 
-### Palo-alto - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Cochl|[Link](https://www.cochl.ai/)|[Link](https://www.linkedin.com/company/cochl)|2017|[25](https://www.linkedin.com/company/cochl/people/)|1k|[Series A](//www.crunchbase.com/organization/cochl?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Oslo - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Nomono](http://www.nomono.co)|[Link](https://linkedin.com/company/nomonosound)|2019|27|4.9k|Computers and Electronics Manufacturing|
 
-### Palo-alto - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SIERRA AI|-|[Link](https://www.linkedin.com/company/sierra-ai)|2023|[1](https://www.linkedin.com/company/sierra-ai/people/)|2k|-|Software Development|
-|Dialpad|[Link](https://www.dialpad.com)|[Link](https://www.linkedin.com/company/dialpad)|2011|[1457](https://www.linkedin.com/company/dialpad/people/)|90k|[Series F](//www.crunchbase.com/organization/dialpad?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Oslo - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cognite](https://www.cognite.com/en)|[Link](https://linkedin.com/company/cognitedata)|2016|933|122k|Software Development|
+|[Intelecy](https://www.intelecy.com)|[Link](https://linkedin.com/company/intelecy)|2017|24|3.5k|Software Development|
 
-### Palo-alto - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Grammarly|[Link](https://www.grammarly.com/jobs/?utm_source=linkedin_org&utm_medium=social&utm_campaign=Learn_more_button)|[Link](https://www.linkedin.com/company/grammarly)|N/A|[1085](https://www.linkedin.com/company/grammarly/people/)|254k|[Debt Financing](//www.crunchbase.com/organization/grammarly?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Docusign|[Link](https://trial.docusign.com/)|[Link](https://www.linkedin.com/company/docusign)|2003|[8411](https://www.linkedin.com/company/docusign/people/)|562k|[Secondary Market](//www.crunchbase.com/organization/docusign?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Oslo - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Superside](http://www.superside.com)|[Link](https://linkedin.com/company/superside)|2015|1k|133k|Design Services|
+|[Xeneta](https://www.xeneta.com/)|[Link](https://linkedin.com/company/xeneta-as)|2012|229|29k|Software Development|
+|[Strise](http://www.strise.ai)|[Link](https://linkedin.com/company/strise)|2019|37|17k|Software Development|
 
-### Palo-alto - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Palo Alto Networks|[Link](https://www.paloaltonetworks.com/)|[Link](https://www.linkedin.com/company/palo-alto-networks)|N/A|[18776](https://www.linkedin.com/company/palo-alto-networks/people/)|1845k|[Series C](//www.crunchbase.com/organization/palo-alto-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer and Network Security|
-|Altair RapidMiner|[Link](https://rapidminer.com)|[Link](https://www.linkedin.com/company/rapidminer)|2007|[35](https://www.linkedin.com/company/rapidminer/people/)|20k|[Series Unknown](//www.crunchbase.com/organization/rapidminer?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Oslo - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Native (YC F26)](https://native.no/)|[Link](https://linkedin.com/company/trynative)|2026|7|8.3k|Software Development|
 
-### Palo-alto - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|C3 AI|[Link](https://c3.ai/c3-generative-ai/?utm_source=LinkedinHomeButton&utm_medium=Social&utm_campaign=Generative%20AI&utm_content=Learn%20More)|[Link](https://www.linkedin.com/company/c3-ai-enterprise-ai)|2009|[1390](https://www.linkedin.com/company/c3-ai/people/)|115k|-|Software Development|
-|Palantir|[Link](http://www.aucerna.com)|[Link](https://www.linkedin.com/company/palantir)|2002|[57](https://www.linkedin.com/company/palantir/people/)|9k|-|Oil and Gas|
+### Oslo - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Oda](http://oda.systems)|[Link](https://linkedin.com/company/careersoda)|2013|910|26k|Retail|
+|[Curipod](https://curipod.com)|[Link](https://linkedin.com/company/curipod)|2020|20|6.6k|Higher Education|
 
-### Palo-alto - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|C3 AI|[Link](https://c3.ai/c3-generative-ai/?utm_source=LinkedinHomeButton&utm_medium=Social&utm_campaign=Generative%20AI&utm_content=Learn%20More)|[Link](https://www.linkedin.com/company/c3-ai-enterprise-ai)|2009|[1390](https://www.linkedin.com/company/c3-ai/people/)|115k|-|Software Development|
-|Palantir|[Link](http://www.aucerna.com)|[Link](https://www.linkedin.com/company/palantir)|2002|[57](https://www.linkedin.com/company/palantir/people/)|9k|-|Oil and Gas|
-|ServiceNow|[Link](http://www.servicenow.com)|[Link](https://www.linkedin.com/company/servicenow)|N/A|[32378](https://www.linkedin.com/company/servicenow/people/)|1442k|[Post Ipo Equity](//www.crunchbase.com/organization/service-now-com?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Workday|[Link](http://www.workday.com)|[Link](https://www.linkedin.com/company/workday)|N/A|[23322](https://www.linkedin.com/company/workday/people/)|1337k|[Post Ipo Equity](//www.crunchbase.com/organization/workday?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Affirm|[Link](http://www.affirm.com/careers)|[Link](https://www.linkedin.com/company/affirm)|2012|[3023](https://www.linkedin.com/company/affirm/people/)|335k|[Post Ipo Debt](//www.crunchbase.com/organization/affirm?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|SoFi|[Link](http://www.SoFi.com)|[Link](https://www.linkedin.com/company/sofi)|N/A|[6075](https://www.linkedin.com/company/sofi/people/)|462k|[Post Ipo Equity](//www.crunchbase.com/organization/social-finance?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Robinhood|[Link](http://www.robinhood.com)|[Link](https://www.linkedin.com/company/robinhood)|2013|[4542](https://www.linkedin.com/company/robinhood/people/)|323k|[Post Ipo Secondary](//www.crunchbase.com/organization/robinhood?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+## Oxford
+### Oxford - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Living Optics](http://www.livingoptics.com)|[Link](https://linkedin.com/company/livingoptics)|2020|38|4.4k|Computers and Electronics Manufacturing|
 
-### Palo-alto - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Palantir|[Link](http://www.aucerna.com)|[Link](https://www.linkedin.com/company/palantir)|2002|[57](https://www.linkedin.com/company/palantir/people/)|9k|-|Oil and Gas|
-|C3 AI|[Link](https://c3.ai/c3-generative-ai/?utm_source=LinkedinHomeButton&utm_medium=Social&utm_campaign=Generative%20AI&utm_content=Learn%20More)|[Link](https://www.linkedin.com/company/c3-ai-enterprise-ai)|2009|[1390](https://www.linkedin.com/company/c3-ai/people/)|115k|-|Software Development|
+### Oxford - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dexory](http://dexory.com)|[Link](https://linkedin.com/company/dexory)|2022|259|43k|IT Services and IT Consulting|
 
-### Palo-alto - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tesla|[Link](https://www.tesla.com/careers)|[Link](https://www.linkedin.com/company/tesla-motors)|2003|[82066](https://www.linkedin.com/company/tesla-motors/people/)|12318k|[Post Ipo Debt](//www.crunchbase.com/organization/tesla-motors?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|Intuit|[Link](https://www.intuit.com/careers/?cid=pjob_lip_click_us_active-fy20_cn_text_job_intuit-talent&iis=pjob&iisn=lip)|[Link](https://www.linkedin.com/company/intuit)|1983|[17556](https://www.linkedin.com/company/intuit/people/)|965k|[Post Ipo Debt](//www.crunchbase.com/organization/intuit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|PayPal|[Link](https://www.paypal.com/us/home)|[Link](https://www.linkedin.com/company/paypal)|N/A|[37085](https://www.linkedin.com/company/paypal/people/)|1629k|[Post Ipo Debt](//www.crunchbase.com/organization/paypal?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|eBay|[Link](https://www.ebayinc.com)|[Link](https://www.linkedin.com/company/ebay)|N/A|[18865](https://www.linkedin.com/company/ebay/people/)|623k|[Post Ipo Debt](//www.crunchbase.com/organization/ebay?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Oxford - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Perspectum Ltd](https://www.perspectum.com)|[Link](https://linkedin.com/company/perspectum-ltd)|2012|279|17k|Medical Equipment Manufacturing|
+|[Brainomix](http://brainomix.com)|[Link](https://linkedin.com/company/brainomix)|2010|89|15k|Medical Equipment Manufacturing|
+|[Ultromics](https://www.ultromics.com/)|[Link](https://linkedin.com/company/ultromics)|2017|83|10k|Hospitals and Health Care|
+|[Arctoris](https://www.arctoris.com)|[Link](https://linkedin.com/company/arctoris)|2016|35|9.1k|Biotechnology Research|
+|[Optellum](http://www.optellum.com)|[Link](https://linkedin.com/company/optellum)|2016|52|8.8k|Medical Equipment Manufacturing|
+|[Caristo Diagnostics](http://www.caristo.com)|[Link](https://linkedin.com/company/caristo)|2017|63|7.1k|Medical Equipment Manufacturing|
+|[Mirada Medical](http://www.mirada-medical.com/)|[Link](https://linkedin.com/company/mirada-medical)|2000|41|6.6k|Software Development|
+|[FinalDose (YC P26)](https://finaldose.ai/)|[Link](https://linkedin.com/company/finaldose)|N/A|14|2.8k|Biotechnology Research|
+
+### Oxford - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Oxa](http://www.oxa.tech)|[Link](https://linkedin.com/company/oxauniversalautonomy)|2014|355|57k|Software Development|
+
+### Oxford - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mind Foundry](http://mindfoundry.ai)|[Link](https://linkedin.com/company/mind-foundry)|2016|63|10k|Software Development|
+|[Salience Labs](http://saliencelabs.ai/)|[Link](https://linkedin.com/company/salience-labs)|N/A|67|6.7k|Computer Hardware Manufacturing|
+|[Diffblue](http://www.diffblue.com)|[Link](https://linkedin.com/company/diffblue)|2016|17|5.1k|Software Development|
+|[Literal Labs](https://www.literal-labs.ai)|[Link](https://linkedin.com/company/literal-labs)|2023|25|2.6k|Software Development|
+
+## Palo Alto
+### Palo Alto - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Verkada](https://www.verkada.com/)|[Link](https://linkedin.com/company/verkada)|2016|3.2k|295k|Software Development|
+|[LandingAI](http://landing.ai)|[Link](https://linkedin.com/company/landing-ai)|2017|108|123k|Software Development|
+|[Pika](https://pika.art)|[Link](https://linkedin.com/company/pika-labs)|2023|110|40k|Software Development|
+|[Ambient.ai](https://ambient.ai/)|[Link](https://linkedin.com/company/ambient-ai)|2016|157|23k|Software Development|
+|[Wobot AI](http://wobot.ai)|[Link](https://linkedin.com/company/wobot-ai)|N/A|118|13k|Software Development|
+|[Luminous Computing](http://luminous.com)|[Link](https://linkedin.com/company/luminous-computing)|2018|21|8.8k|Computer Hardware Manufacturing|
+|[Mashgin](http://www.mashgin.com)|[Link](https://linkedin.com/company/mashgin)|2014|130|8.3k|Software Development|
+|[DeepBrain AI](https://www.aistudios.com/)|[Link](https://linkedin.com/company/deepbrain-global)|N/A|71|7.9k|IT Services and IT Consulting|
+|[Activeloop](https://deeplake.ai/)|[Link](https://linkedin.com/company/activeloop)|2018|23|6.5k|Software Development|
+|[Matroid](http://matroid.com)|[Link](https://linkedin.com/company/matroid)|2016|29|5.5k|Software Development|
+|[Veryfi](http://www.veryfi.com)|[Link](https://linkedin.com/company/veryfi-inc)|2017|58|5k|Software Development|
+
+### Palo Alto - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Character.ai](https://www.character.ai)|[Link](https://linkedin.com/company/character-ai)|2021|328|43k|Software Development|
+|[MoBagel](https://mobagel.com/)|[Link](https://linkedin.com/company/mobagel)|2009|77|2.6k|Software Development|
+
+### Palo Alto - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Zipline](http://www.zipline.com)|[Link](https://linkedin.com/company/flyzipline)|N/A|2k|164k|Truck Transportation|
+|[Skydio](https://www.skydio.com)|[Link](https://linkedin.com/company/skydio)|2014|1.1k|148k|IT Services and IT Consulting|
+|[Figure](https://www.figure.ai)|[Link](https://linkedin.com/company/figure-ai)|2022|993|141k|Machinery Manufacturing|
+|[Agility Robotics](http://agilityrobotics.com/)|[Link](https://linkedin.com/company/agilityrobotics)|N/A|496|128k|IT Services and IT Consulting|
+|[1X](https://1x.tech/neo)|[Link](https://linkedin.com/company/1x-technologies)|2015|1.1k|96k|IT Services and IT Consulting|
+|[FlytBase](https://www.flytbase.com)|[Link](https://linkedin.com/company/flytbase)|2017|84|62k|Software Development|
+|[Cobot](https://www.co.bot/)|[Link](https://linkedin.com/company/co-bot)|N/A|201|33k|Automation Machinery Manufacturing|
+|[Dusty Robotics](http://dustyrobotics.com)|[Link](https://linkedin.com/company/dusty-robotics)|2018|115|30k|Construction|
+|[Flexiv Robotics](https://www.flexiv.com/)|[Link](https://linkedin.com/company/flexiv-robotics)|2016|118|24k|Automation Machinery Manufacturing|
+|[Dexterity, Inc.](https://dexterity.ai)|[Link](https://linkedin.com/company/dexterityinc)|2017|188|23k|Software Development|
+|[Sunday](https://www.sunday.ai/)|[Link](https://linkedin.com/company/sundayrobotics)|N/A|241|19k|IT Services and IT Consulting|
+|Dyna Robotics|[Link](https://linkedin.com/company/dyna-robotics)|2024|160|16k|Software Development|
+|[Intuition Robotics](http://www.intuitionrobotics.com)|[Link](https://linkedin.com/company/intuition-robotics)|2016|85|12k|Software Development|
+|[Proception.AI](https://www.proception.ai/)|[Link](https://linkedin.com/company/proceptionai)|N/A|17|4.8k|IT Services and IT Consulting|
+|[Impossible Metals (YC W22)](https://impossiblemetals.com/)|[Link](https://linkedin.com/company/impossible-metals)|2020|24|4.7k|Renewable Energy Semiconductor Manufacturing|
+|[ArchForm](http://www.archform.com)|[Link](https://linkedin.com/company/archform)|2017|22|1.7k|Medical Equipment Manufacturing|
+|[Edgerun](https://edgerun.com)|[Link](https://linkedin.com/company/edgerun)|2026|5|1.1k|IT Services and IT Consulting|
+
+### Palo Alto - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Hippocratic AI](https://www.hippocraticai.com/)|[Link](https://linkedin.com/company/hippocratic-ai-health)|2023|372|80k|Hospitals and Health Care|
+|[insitro](http://www.insitro.com)|[Link](https://linkedin.com/company/insitro)|2018|260|52k|Software Development|
+|[Color](https://www.color.com/)|[Link](https://linkedin.com/company/color)|2014|659|49k|Hospitals and Health Care|
+|[Qventus, Inc](http://www.qventus.com)|[Link](https://linkedin.com/company/qventus-inc)|2012|271|47k|Hospitals and Health Care|
+|[Xaira Therapeutics](https://xaira.com/)|[Link](https://linkedin.com/company/xaira-therapeutics)|2023|214|46k|Biotechnology Research|
+|[Suki](https://www.suki.ai)|[Link](https://linkedin.com/company/sukihq)|2017|414|41k|Software Development|
+|[Athelas](https://athelas.com)|[Link](https://linkedin.com/company/athelas)|N/A|309|30k|Software Development|
+|[Sully.ai](https://www.sully.ai/)|[Link](https://linkedin.com/company/sully-ai)|2023|71|23k|Hospitals and Health Care|
+|[CARPL - Radiology AI Platform](https://carpl.ai/)|[Link](https://linkedin.com/company/carpl-ai)|2018|84|20k|Hospitals and Health Care|
+|[Lucence](http://www.lucence.com)|[Link](https://linkedin.com/company/lucence)|2016|101|17k|Biotechnology Research|
+|[Eden](http://www.edenmed.ai)|[Link](https://linkedin.com/company/edenmed-ai)|2016|541|16k|Software Development|
+|[BigHat Biosciences](http://www.bighatbio.com)|[Link](https://linkedin.com/company/bighat-biosciences)|2019|98|14k|Biotechnology Research|
+|[Inceptive](http://inceptive.com)|[Link](https://linkedin.com/company/inceptivenucleics)|2021|55|11k|Biotechnology Research|
+|[NOETIK](https://www.noetik.ai/)|[Link](https://linkedin.com/company/noetik-inc)|2022|57|11k|Biotechnology Research|
+|[Theator](https://www.theator.io/)|[Link](https://linkedin.com/company/theator)|2018|51|6.9k|Hospitals and Health Care|
+|[Andromeda Surgical](http://www.andromedasurgical.com)|[Link](https://linkedin.com/company/andromeda-surgical)|2023|19|6.7k|Software Development|
+|[iSono Health](https://isonohealth.com/)|[Link](https://linkedin.com/company/isonohealth)|2015|26|5.9k|Medical Equipment Manufacturing|
+|[Qvin](http://qvin.com)|[Link](https://linkedin.com/company/qvin)|2014|13|5.5k|Biotechnology Research|
+|[Gero](http://gero.ai/)|[Link](https://linkedin.com/company/gero)|2018|147|4.6k|Biotechnology Research|
+|[Cair Health](https://cairhealth.com/)|[Link](https://linkedin.com/company/cair-health)|2023|7|1.5k|Hospitals and Health Care|
+
+### Palo Alto - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Applied Intuition](https://www.appliedintuition.com)|[Link](https://linkedin.com/company/applied-intuition-inc)|N/A|1.7k|91k|Software Development|
+|[DeepRoute.ai](http://www.deeproute.ai)|[Link](https://linkedin.com/company/deeproute-ai-ltd)|2019|109|7.9k|Software Development|
+
+### Palo Alto - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Uniphore](http://www.uniphore.com)|[Link](https://linkedin.com/company/uniphore)|2008|870|90k|Software Development|
+|[Otter.ai](https://otter.ai)|[Link](https://linkedin.com/company/otter-ai)|N/A|305|37k|Software Development|
+|[Ozonetel](http://www.ozonetel.com)|[Link](https://linkedin.com/company/ozonetel)|2007|378|19k|Software Development|
+|[Resemble AI](https://www.resemble.ai/contact-us)|[Link](https://linkedin.com/company/resembleai)|N/A|35|9.6k|Software Development|
+
+### Palo Alto - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Yellow.ai](https://yellow.ai/)|[Link](https://linkedin.com/company/yellowdotai)|2016|870|190k|Software Development|
+|[Kore.ai](https://kore.ai)|[Link](https://linkedin.com/company/kore-inc)|2013|1.2k|115k|Software Development|
+|[Cresta](http://www.cresta.com)|[Link](https://linkedin.com/company/cresta-inc)|2017|856|97k|Software Development|
+|[Dialpad](https://www.dialpad.com)|[Link](https://linkedin.com/company/dialpad)|2011|1.5k|97k|Software Development|
+|[Inflection AI](https://inflection.ai)|[Link](https://linkedin.com/company/inflectionai)|2022|86|95k|Software Development|
+|[Nurix](https://nuplay.ai/)|[Link](https://linkedin.com/company/nuplayai)|2024|37|21k|Software Development|
+|[Avaamo](http://www.avaamo.ai)|[Link](https://linkedin.com/company/avaamo)|2014|136|14k|Software Development|
+|[SIERRA AI](https://www.sierracorp.ai/)|[Link](https://linkedin.com/company/sierra-ai)|2023|5|4.6k|Software Development|
+
+### Palo Alto - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[HyperVerge](http://www.hyperverge.co)|[Link](https://linkedin.com/company/hyperverge)|N/A|394|98k|Software Development|
+
+### Palo Alto - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Algolia](https://www.algolia.com)|[Link](https://linkedin.com/company/algolia)|2012|923|76k|Software Development|
+|[Artifacia](http://artifacia.com)|[Link](https://linkedin.com/company/artifacia)|2015|0|1.3k|Software Development|
+
+### Palo Alto - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ThoughtSpot](https://www.thoughtspot.com/)|[Link](https://linkedin.com/company/thoughtspot)|N/A|1.8k|205k|Software Development|
+|[SandboxAQ](https://www.sandboxaq.com/)|[Link](https://linkedin.com/company/sandboxaq)|2021|384|57k|Software Development|
+|[Periodic Labs](http://periodic.com)|[Link](https://linkedin.com/company/periodic-labs)|2025|102|23k|Software Development|
+|[Harmonic](https://www.harmonic.fun)|[Link](https://linkedin.com/company/harmonicmath)|N/A|49|11k|Software Development|
+|[Silimate](https://www.silimate.com)|[Link](https://linkedin.com/company/silimate)|N/A|9|2.5k|Software Development|
+|[Distro](https://distro.app)|[Link](https://linkedin.com/company/distro-ai-app)|2022|62|2.4k|Software Development|
+
+### Palo Alto - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Stripe](https://stripe.com)|[Link](https://linkedin.com/company/stripe)|2010|17k|1.8M|Software Development|
+|[Darwinbox](https://www.darwinbox.com)|[Link](https://linkedin.com/company/thedarwinbox)|2015|1.3k|219k|Software Development|
+|[Eightfold AI](https://eightfold.ai)|[Link](https://linkedin.com/company/eightfoldai)|N/A|897|173k|Software Development|
+|[Bik.ai](https://bik.ai/)|[Link](https://linkedin.com/company/bikglobal)|2022|353|143k|Software Development|
+|[Observe.AI](https://www.observe.ai/)|[Link](https://linkedin.com/company/observeai)|2017|358|127k|Software Development|
+|[Prodigal](https://www.prodigaltech.com/)|[Link](https://linkedin.com/company/prodigaltech)|2018|103|39k|Software Development|
+|[Sendbird](https://sendbird.com)|[Link](https://linkedin.com/company/sendbird)|2013|257|38k|Software Development|
+|[Hypotenuse AI](https://hypotenuse.ai/)|[Link](https://linkedin.com/company/hypotenuse-ai)|N/A|19|15k|Software Development|
+|[Pactum AI](http://pactum.com)|[Link](https://linkedin.com/company/pactum-ai)|2019|152|15k|Software Development|
+|[Birdie](https://birdie.ai/)|[Link](https://linkedin.com/company/usebirdie)|2019|68|11k|Software Development|
+|[Turing Labs](http://www.turingsaas.com)|[Link](https://linkedin.com/company/turing-labs-inc)|2019|22|4k|Software Development|
+|[Blue (YC S25)](http://heyblue.com)|[Link](https://linkedin.com/company/heyblue)|2024|12|3.5k|Software Development|
+|[Inventive AI](https://www.inventive.ai)|[Link](https://linkedin.com/company/inventive-ai)|N/A|18|3.2k|Software Development|
+|[Tara AI](http://www.tara.ai)|[Link](https://linkedin.com/company/tara-ai)|2016|27|2.6k|Software Development|
+|[MixerBox](https://www.mixerbox.com/)|[Link](https://linkedin.com/company/mixerbox)|2012|24|2.6k|Technology, Information and Internet|
+
+### Palo Alto - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Tiger Analytics](http://www.tigeranalytics.com)|[Link](https://linkedin.com/company/tiger-analytics)|2011|7.4k|685k|Business Consulting and Services|
+|[Tredence Inc.](https://www.tredence.com/)|[Link](https://linkedin.com/company/tredence)|2013|4.8k|557k|Software Development|
+|[Fission Labs](https://www.fissionlabs.com/)|[Link](https://linkedin.com/company/fission-labs)|2010|409|38k|Software Development|
+|[Grape Up](http://www.grapeup.com)|[Link](https://linkedin.com/company/grape-up)|2006|126|4.1k|IT Services and IT Consulting|
+
+### Palo Alto - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Replit](https://replit.com)|[Link](https://linkedin.com/company/repl-it)|2016|738|217k|Software Development|
+|[Groq](https://groq.com/)|[Link](https://linkedin.com/company/groq)|2016|313|203k|Software Development|
+|[H2O.ai](http://www.h2o.ai)|[Link](https://linkedin.com/company/h2oai)|2012|384|164k|Software Development|
+|[SambaNova](http://www.sambanova.ai)|[Link](https://linkedin.com/company/sambanova)|2017|414|95k|Computer Hardware Manufacturing|
+|[Lightmatter](https://lightmatter.co/)|[Link](https://linkedin.com/company/lightmatter)|2017|375|70k|Computer Hardware Manufacturing|
+|[Fireworks AI](https://fireworks.ai)|[Link](https://linkedin.com/company/fireworks-ai)|2022|448|69k|Software Development|
+|[Etched](https://etched.com/)|[Link](https://linkedin.com/company/etched-ai)|2022|568|54k|Computer Hardware Manufacturing|
+|[Ayar Labs](http://ayarlabs.com)|[Link](https://linkedin.com/company/ayar-labs)|2015|266|34k|Computer Hardware Manufacturing|
+|[SiMa.ai](https://sima.ai)|[Link](https://linkedin.com/company/sima-ai)|2018|245|27k|Software Development|
+|[Zilliz](https://zilliz.com)|[Link](https://linkedin.com/company/zilliz)|2017|156|27k|Software Development|
+|[d-Matrix](http://www.d-matrix.ai)|[Link](https://linkedin.com/company/d-matrix)|2019|318|24k|Semiconductor Manufacturing|
+|[Fiddler AI](https://www.fiddler.ai)|[Link](https://linkedin.com/company/fiddler-ai)|2018|118|23k|Software Development|
+|[Vectara](https://vectara.com/)|[Link](https://linkedin.com/company/vectara)|2022|71|22k|Software Development|
+|[Contextual AI](https://contextual.ai)|[Link](https://linkedin.com/company/contextualai)|N/A|23|18k|Software Development|
+|[Roe](https://getroe.ai)|[Link](https://linkedin.com/company/roe-ai)|2023|34|11k|Software Development|
+|[MindsHub](http://mindshub.ai)|[Link](https://linkedin.com/company/mindsdb)|2018|31|10k|Software Development|
+|[MatX](https://matx.com)|[Link](https://linkedin.com/company/matxcomputing)|N/A|151|8.7k|Computer Hardware Manufacturing|
+|[Superb AI Inc.](http://www.superb-ai.com)|[Link](https://linkedin.com/company/superb-ai)|2018|64|6.2k|Software Development|
+|[NebulaGraph, powered by Vesoft](https://nebula-graph.io)|[Link](https://linkedin.com/company/nebula-graph)|2018|113|3.5k|IT Services and IT Consulting|
+|[Coris](https://www.coris.ai/)|[Link](https://linkedin.com/company/corisai)|2022|42|3.1k|Software Development|
+|[Omnistrate](https://www.omnistrate.com/)|[Link](https://linkedin.com/company/omnistrate)|2023|24|2.6k|Software Development|
+|[StepFun](https://stepfun.ai)|[Link](https://linkedin.com/company/stepfun-ai)|N/A|153|1.8k|Software Development|
+
+### Palo Alto - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[VergeSense](https://www.vergesense.com)|[Link](https://linkedin.com/company/vergesense)|2017|109|29k|Software Development|
+|[Retell](http://retellai.com/)|[Link](https://linkedin.com/company/retellai)|2023|196|26k|Software Development|
+|[loopfour](https://www.loopfour.ai/)|[Link](https://linkedin.com/company/loopfour)|N/A|13|3.5k|Software Development|
+|[JITX](http://www.jitx.com)|[Link](https://linkedin.com/company/jitx)|2017|14|1.3k|Software Development|
 
 ## Paris
-### Paris - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Datakalab|[Link](https://datakalab.com/contact-en)|[Link](https://www.linkedin.com/company/datakalab)|2016|[1](https://www.linkedin.com/company/datakalab/people/)|3k|[Non Equity Assistance](//www.crunchbase.com/organization/datakalab?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|PropheSee|[Link](http://www.prophesee.in)|[Link](https://www.linkedin.com/company/prophesee)|2014|[1](https://www.linkedin.com/company/prophesee/people/)|1k|[Angel](//www.crunchbase.com/organization/prophesee?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Advertising Services|
-|Ipsos Synthesio|[Link](https://www.synthesio.com/demo/)|[Link](https://www.linkedin.com/company/ipsos-synthesio)|2006|[90](https://www.linkedin.com/company/synthesio/people/)|13k|-|Software Development|
-|Shift Technology|[Link](http://www.shift-technology.com)|[Link](https://www.linkedin.com/company/shift-technology)|2013|[588](https://www.linkedin.com/company/shift-technology/people/)|46k|[Series D](//www.crunchbase.com/organization/shift-technology?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Photoroom|[Link](https://photoroom.com)|[Link](https://www.linkedin.com/company/photoroom)|2019|[673](https://www.linkedin.com/company/photoroom/people/)|19k|[Series B](//www.crunchbase.com/organization/photoroom?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Paris - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PROPHESEE](https://www.prophesee.ai)|[Link](https://linkedin.com/company/propheseeai)|2014|91|15k|Semiconductor Manufacturing|
+|[Visionairy](https://www.visionairy.io)|[Link](https://linkedin.com/company/visionairy)|2018|9|2.6k|Software Development|
 
 ### Paris - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|LightOn|[Link](https://www.lighton.ai/)|[Link](https://www.linkedin.com/company/lighton)|2016|[75](https://www.linkedin.com/company/lighton/people/)|14k|[Seed](//www.crunchbase.com/organization/lighton?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|OpenClassrooms|[Link](https://bit.ly/oc-education)|[Link](https://www.linkedin.com/school/openclassrooms/)|2013|[2749](https://www.linkedin.com/company/openclassrooms/people/)|240k|[Series C](//www.crunchbase.com/organization/openclassrooms?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Higher Education|
-|Systran by ChapsVision|[Link](https://www.systransoft.com/)|[Link](https://www.linkedin.com/company/systran)|1968|[84](https://www.linkedin.com/company/systran/people/)|7k|[Private Equity](//www.crunchbase.com/organization/systran?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Bitext|[Link](https://www.bitext.com/contact-us/)|[Link](https://www.linkedin.com/company/bitext)|2008|[16](https://www.linkedin.com/company/bitext/people/)|2k|[Grant](//www.crunchbase.com/organization/bitext?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Mistral AI|[Link](https://mistral.ai)|[Link](https://www.linkedin.com/company/mistralai)|2023|[785](https://www.linkedin.com/company/mistralai/people/)|574k|[Series C](//www.crunchbase.com/organization/mistral-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lettria](http://lettria.com)|[Link](https://linkedin.com/company/lettria)|2019|21|2.8k|IT Services and IT Consulting|
 
 ### Paris - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Stanley Robotics|[Link](https://www.stanley-robotics.com)|[Link](https://www.linkedin.com/company/stanley-robotics)|2015|[56](https://www.linkedin.com/company/stanley-robotics/people/)|13k|[Series Unknown](//www.crunchbase.com/organization/stanley-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Exotec|[Link](http://www.exotec.com)|[Link](https://www.linkedin.com/company/exotec)|2015|[1098](https://www.linkedin.com/company/exotec-solutions/people/)|93k|-|IT Services and IT Consulting|
-|PAL Robotics|[Link](https://pal-robotics.com/)|[Link](https://www.linkedin.com/company/pal-robotics)|2004|[152](https://www.linkedin.com/company/pal-robotics/people/)|59k|-|Automation Machinery Manufacturing|
-|BALYO|[Link](https://www.balyo.com)|[Link](https://www.linkedin.com/company/balyo)|2005|[195](https://www.linkedin.com/company/balyo/people/)|31k|[Post Ipo Equity](//www.crunchbase.com/organization/balyo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Moon Surgical|[Link](https://www.moonsurgical.com/)|[Link](https://www.linkedin.com/company/moonsurgical)|N/A|[103](https://www.linkedin.com/company/moonsurgical/people/)|28k|[Series B](//www.crunchbase.com/organization/mastor?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|Enchanted Tools|[Link](https://linktr.ee/enchantedtools)|[Link](https://www.linkedin.com/company/enchantedtools)|2021|[129](https://www.linkedin.com/company/enchantedtools/people/)|11k|[Seed](//www.crunchbase.com/organization/enchanted-tools?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Exotec](https://www2.exotec.com/l/884033/2025-01-10/6vbmb)|[Link](https://linkedin.com/company/exotec)|2015|1.1k|116k|Automation Machinery Manufacturing|
+|[Moon Surgical](http://www.moonsurgical.com)|[Link](https://linkedin.com/company/moonsurgical)|N/A|118|34k|Medical Equipment Manufacturing|
+|[Wandercraft](http://www.wandercraft.eu)|[Link](https://linkedin.com/company/wandercraft)|2012|197|32k|Automation Machinery Manufacturing|
+|[Enchanted Tools](https://enchanted.tools)|[Link](https://linkedin.com/company/enchantedtools)|2021|130|14k|Computers and Electronics Manufacturing|
+|Tornyol|[Link](https://linkedin.com/company/tornyol)|2025|9|3.7k|IT Services and IT Consulting|
 
 ### Paris - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|OWKIN|[Link](https://www.owkin.com)|[Link](https://www.linkedin.com/company/owkin)|2016|[445](https://www.linkedin.com/company/owkin/people/)|61k|[Series B](//www.crunchbase.com/organization/owkin-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Therapixel|[Link](http://www.therapixel.com)|[Link](https://www.linkedin.com/company/therapixel)|2013|[61](https://www.linkedin.com/company/therapixel/people/)|17k|[Series B](//www.crunchbase.com/organization/therapixel?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|Cardiologs|[Link](https://cardiologs.com/)|[Link](https://www.linkedin.com/company/cardiologs)|2014|[64](https://www.linkedin.com/company/cardiologs/people/)|10k|[Series A](//www.crunchbase.com/organization/cardiologs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Incepto|[Link](https://www.incepto.ai)|[Link](https://www.linkedin.com/company/incepto)|2012|[7](https://www.linkedin.com/company/incepto/people/)|6k|-|IT Services and IT Consulting|
-|Gleamer|[Link](https://www.gleamer.ai/demo)|[Link](https://www.linkedin.com/company/gleamer)|2017|[121](https://www.linkedin.com/company/gleamer/people/)|19k|[Grant](//www.crunchbase.com/organization/gleamer?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|DNA Script|[Link](http://www.dnascript.com)|[Link](https://www.linkedin.com/company/dna-script)|2014|[141](https://www.linkedin.com/company/dna-script/people/)|23k|[Seed](//www.crunchbase.com/organization/dna-script?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Garnet Tourism|[Link](https://www.garnetourism.com/)|[Link](https://www.linkedin.com/company/garnetourism)|2019|[13](https://www.linkedin.com/company/keeneye/people/)|1k|-|Travel Arrangements|
-|AQEMIA|[Link](http://www.aqemia.com)|[Link](https://www.linkedin.com/company/aqemia)|2019|[78](https://www.linkedin.com/company/aqemia/people/)|20k|[Grant](//www.crunchbase.com/organization/aqemia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Biolevate|-|[Link](https://www.linkedin.com/company/biolevate)|2024|[32](https://www.linkedin.com/company/biolevate/people/)|3k|[Seed](//www.crunchbase.com/organization/Biolevate?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Alan](https://alan.com)|[Link](https://linkedin.com/company/avec-alan)|2016|1.6k|161k|Insurance|
+|[Bioptimus](https://www.bioptimus.com/)|[Link](https://linkedin.com/company/bioptimus)|2024|46|26k|Biotechnology Research|
+|[AQEMIA](http://www.aqemia.com)|[Link](https://linkedin.com/company/aqemia)|2019|87|25k|Biotechnology Research|
+|[DNA Script](http://www.dnascript.com)|[Link](https://linkedin.com/company/dna-script)|2014|128|24k|Biotechnology Research|
+|[Therapixel](http://www.therapixel.com)|[Link](https://linkedin.com/company/therapixel)|2013|61|19k|Medical Equipment Manufacturing|
+|[Lucis (YC P25)](https://www.lucis.life)|[Link](https://linkedin.com/company/lucis-life)|2024|44|17k|Government Administration|
+|[iktos](http://iktos.ai/)|[Link](https://linkedin.com/company/iktos)|2016|62|12k|Biotechnology Research|
+|[Inato](https://inato.com)|[Link](https://linkedin.com/company/inato)|2016|71|7.3k|Software Development|
+|[Raidium](https://raidium.eu)|[Link](https://linkedin.com/company/raidium)|2022|52|6.6k|Medical Equipment Manufacturing|
+|[Parallel](http://beparallel.com)|[Link](https://linkedin.com/company/beparallel)|N/A|22|5.7k|Hospitals and Health Care|
+|[Biolevate](https://www.biolevate.com/)|[Link](https://linkedin.com/company/biolevate)|2024|41|5.4k|Software Development|
 
 ### Paris - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|EasyMile|[Link](http://www.easymile.com)|[Link](https://www.linkedin.com/company/easymile)|2014|[178](https://www.linkedin.com/company/easymile/people/)|26k|[Series B](//www.crunchbase.com/organization/easymile?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Wintics|[Link](http://wintics.com/)|[Link](https://www.linkedin.com/company/wintics)|2017|[17](https://www.linkedin.com/company/wintics/people/)|3k|[Private Equity](//www.crunchbase.com/organization/wintics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Mobility Tech Green Europe|[Link](https://www.mobilitytechgreen.com/contactez-nous-pour-projets-autopartage/)|[Link](https://www.linkedin.com/company/mobility-tech-green)|2009|[28](https://www.linkedin.com/company/mobility-tech-green/people/)|2k|[Series B](//www.crunchbase.com/organization/mobility-tech-green?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Harmattan AI|[Link](https://www.harmattan.ai/)|[Link](https://www.linkedin.com/company/harmattan-ai)|2024|[116](https://www.linkedin.com/company/harmattan-ai/people/)|22k|-|Defense and Space Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Wintics](http://wintics.com/)|[Link](https://linkedin.com/company/wintics)|2017|18|3.8k|IT Services and IT Consulting|
+|[Mobility Tech Green Europe](http://www.mobilitytechgreen.com)|[Link](https://linkedin.com/company/mobility-tech-green)|2009|31|2.3k|IT Services and IT Consulting|
 
-### Paris - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Deepgram|[Link](https://deepgram.com)|[Link](https://www.linkedin.com/company/deepgram)|2015|[261](https://www.linkedin.com/company/deepgram/people/)|32k|[Series B](//www.crunchbase.com/organization/deepgram?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Leocare|[Link](http://leocare.eu)|[Link](https://www.linkedin.com/company/leocare-assurance)|2017|[105](https://www.linkedin.com/company/leocare/people/)|10k|[Series B](//www.crunchbase.com/organization/leocare-assurance?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Insurance|
-|Microfy Systems|[Link](http://www.microfy.ai)|[Link](https://www.linkedin.com/company/microfy-systems)|N/A|[8](https://www.linkedin.com/company/sonicat-systems/people/)|1k|-|Industrial Machinery Manufacturing|
-|Withings|[Link](http://withings.com/)|[Link](https://www.linkedin.com/company/withings)|2008|[319](https://www.linkedin.com/company/withings/people/)|100k|[Grant](//www.crunchbase.com/organization/withings?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Wellness and Fitness Services|
-|Gradium|[Link](https://gradium.ai/)|[Link](https://www.linkedin.com/company/gradium-ai)|N/A|[10](https://www.linkedin.com/company/gradium-ai/people/)|4k|-|Software Development|
+### Paris - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Withings](http://withings.com/)|[Link](https://linkedin.com/company/withings)|2008|326|113k|Wellness and Fitness Services|
+|[Gradium](https://gradium.ai/)|[Link](https://linkedin.com/company/gradium-ai)|N/A|26|12k|Software Development|
+|[Microfy Systems](http://www.microfy.ai)|[Link](https://linkedin.com/company/microfy-systems)|N/A|8|1.9k|Industrial Machinery Manufacturing|
 
-### Paris - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Botfuel|[Link](https://www.botfuel.io/contact)|[Link](https://www.linkedin.com/company/botfuel)|2016|[1](https://www.linkedin.com/company/botfuel/people/)|2k|[Grant](//www.crunchbase.com/organization/botfuel?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Technology, Information and Internet|
-|Konverso|[Link](https://www.konverso.ai/contact-us)|[Link](https://www.linkedin.com/company/konverso)|2017|[19](https://www.linkedin.com/company/konverso/people/)|2k|[Series Unknown](//www.crunchbase.com/organization/konverso?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Paris - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Doctrine|[Link](https://doctrine.fr?source=Linkedin&utm_source=linkedin&utm_campaign=Lkpage)|[Link](https://www.linkedin.com/company/doctrine)|N/A|[277](https://www.linkedin.com/company/doctrine/people/)|45k|[Private Equity](//www.crunchbase.com/organization/doctrine?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Yseop|[Link](https://yseop.com/contact/)|[Link](https://www.linkedin.com/company/yseop)|N/A|[146](https://www.linkedin.com/company/yseop/people/)|14k|[Series Unknown](//www.crunchbase.com/organization/yseop?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Lettria|[Link](http://www.Lettria.com)|[Link](https://www.linkedin.com/company/lettria)|2019|[21](https://www.linkedin.com/company/lettria/people/)|2k|[Non Equity Assistance](//www.crunchbase.com/organization/lettria?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Mindee|[Link](https://platform.mindee.com/signup)|[Link](https://www.linkedin.com/company/mindee)|2018|[37](https://www.linkedin.com/company/mindee/people/)|3k|[Series Unknown](//www.crunchbase.com/organization/mindee?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Dust|[Link](https://dust.tt)|[Link](https://www.linkedin.com/company/dust-tt)|2023|[119](https://www.linkedin.com/company/dust-tt/people/)|29k|[Series A](//www.crunchbase.com/organization/dust-5f56?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Paris - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Konverso](http://www.konverso.ai)|[Link](https://linkedin.com/company/konverso)|2017|12|2.2k|Software Development|
 
 ### Paris - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Algolia|[Link](https://www.algolia.com)|[Link](https://www.linkedin.com/company/algolia)|2012|[852](https://www.linkedin.com/company/algolia/people/)|71k|[Series D](//www.crunchbase.com/organization/algolia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Crossing Minds|[Link](https://www.crossingminds.com)|[Link](https://www.linkedin.com/company/crossing-minds)|2017|[8](https://www.linkedin.com/company/crossing-minds/people/)|2k|[Non Equity Assistance](//www.crunchbase.com/organization/crossing-minds?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Heuritech|[Link](https://heuritech.com)|[Link](https://www.linkedin.com/company/heuritech)|2013|[47](https://www.linkedin.com/company/heuritech/people/)|13k|[Series A](//www.crunchbase.com/organization/heuritech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Meilisearch](https://www.meilisearch.com)|[Link](https://linkedin.com/company/meilisearch)|N/A|20|4.2k|Software Development|
 
 ### Paris - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Dessia Technologies|[Link](https://www.dessia.io)|[Link](https://www.linkedin.com/company/dessia)|2017|[34](https://www.linkedin.com/company/dessia/people/)|2k|[Series Unknown](//www.crunchbase.com/organization/dessia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Dataiku|[Link](http://dataiku.com)|[Link](https://www.linkedin.com/company/dataiku)|2013|[1608](https://www.linkedin.com/company/dataiku/people/)|227k|[Series F](//www.crunchbase.com/organization/dataiku?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Bioptimus|[Link](https://www.bioptimus.com/)|[Link](https://www.linkedin.com/company/bioptimus)|2024|[38](https://www.linkedin.com/company/bioptimus/people/)|17k|[Series A](//www.crunchbase.com/organization/bioptimus?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dessia Technologies](https://www.dessia.io/)|[Link](https://linkedin.com/company/dessia)|2017|32|3k|Software Development|
+|[Plume (YC S24)](https://www.plumefinder.com)|[Link](https://linkedin.com/company/plumefinder)|2024|12|2.9k|IT Services and IT Consulting|
 
 ### Paris - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Dataiku|[Link](http://dataiku.com)|[Link](https://www.linkedin.com/company/dataiku)|2013|[1608](https://www.linkedin.com/company/dataiku/people/)|227k|[Series F](//www.crunchbase.com/organization/dataiku?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Shift Technology|[Link](http://www.shift-technology.com)|[Link](https://www.linkedin.com/company/shift-technology)|2013|[588](https://www.linkedin.com/company/shift-technology/people/)|46k|[Series D](//www.crunchbase.com/organization/shift-technology?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Qonto|[Link](http://qonto.com/en)|[Link](https://www.linkedin.com/company/qonto)|2016|[2300](https://www.linkedin.com/company/qonto/people/)|159k|[Series Unknown](//www.crunchbase.com/organization/qonto?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|ALMA S.A.|[Link](https://www.alma.biz.pl)|[Link](https://www.linkedin.com/company/alma)|1983|[252](https://www.linkedin.com/company/alma/people/)|1k|-|IT Services and IT Consulting|
-|Pigment|[Link](https://www.pigment.com)|[Link](https://www.linkedin.com/company/pigment)|2019|[643](https://www.linkedin.com/company/pigment/people/)|60k|[Series D](//www.crunchbase.com/organization/pigment-836b?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Spendesk|[Link](https://www.spendesk.com/en/contact-us/)|[Link](https://www.linkedin.com/company/spendesk)|2016|[325](https://www.linkedin.com/company/spendesk/people/)|53k|[Series C](//www.crunchbase.com/organization/spendesk?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Younited|[Link](https://younited.com/en/about-us/)|[Link](https://www.linkedin.com/company/younited-credit)|2009|[590](https://www.linkedin.com/company/younited-credit/people/)|47k|[Post Ipo Debt](//www.crunchbase.com/organization/younited-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Qantev|[Link](https://www.qantev.com)|[Link](https://www.linkedin.com/company/qantev)|2018|[48](https://www.linkedin.com/company/qantev/people/)|5k|[Series B](//www.crunchbase.com/organization/qantev?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ZELIQ|[Link](http://zeliq.com)|[Link](https://www.linkedin.com/company/zeliq)|2023|[51](https://www.linkedin.com/company/zeliq/people/)|6k|-|Software Development|
-|Descartes & Mauss|-|[Link](https://www.linkedin.com/company/descartes-mauss)|2021|[36](https://www.linkedin.com/company/descartes-mauss/people/)|2k|[Series Unknown](//www.crunchbase.com/organization/descartes-mauss?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[FairMoney](https://fairmoney.io/)|[Link](https://linkedin.com/company/fairmoney)|2017|1.3k|251k|Financial Services|
+|[Contentsquare](https://contentsquare.com/)|[Link](https://linkedin.com/company/contentsquare)|N/A|1.7k|187k|Software Development|
+|[Qonto](http://qonto.com)|[Link](https://linkedin.com/company/qonto)|2016|2.5k|185k|Financial Services|
+|[Pigment](https://www.pigment.com)|[Link](https://linkedin.com/company/pigment)|2019|825|79k|Software Development|
+|[Shift Technology](http://www.shift-technology.com/)|[Link](https://linkedin.com/company/shift-technology)|2014|633|60k|Software Development|
+|[Spendesk](https://www.spendesk.com)|[Link](https://linkedin.com/company/spendesk)|2016|356|58k|Software Development|
+|[Doctrine](http://www.doctrine.fr)|[Link](https://linkedin.com/company/doctrine)|2016|329|52k|Software Development|
+|[AKUR8](https://www.akur8.com)|[Link](https://linkedin.com/company/akur8)|2019|237|45k|Software Development|
+|[Qantev](http://www.qantev.com)|[Link](https://linkedin.com/company/qantev)|2018|41|7.3k|Software Development|
+|[Verra - Formerly Descartes & Mauss](https://verra.work/)|[Link](https://linkedin.com/company/verra-work)|2021|26|2.8k|Software Development|
 
 ### Paris - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Artefact|[Link](http://www.artefactgroup.com)|[Link](https://www.linkedin.com/company/artefact)|2006|[60](https://www.linkedin.com/company/artefact/people/)|18k|-|Design Services|
-|Quantmetry - Part of Capgemini Invent|[Link](https://www.quantmetry.com/)|[Link](https://www.linkedin.com/company/quantmetry)|2011|[50](https://www.linkedin.com/company/quantmetry/people/)|15k|-|IT Services and IT Consulting|
-|eleven strategy|[Link](http://www.eleven-strategy.com)|[Link](https://www.linkedin.com/company/eleven-strategy)|2008|[114](https://www.linkedin.com/company/eleven-strategy/people/)|9k|-|Business Consulting and Services|
-|Sia|[Link](http://www.sia-partners.com)|[Link](https://www.linkedin.com/company/sia-partners)|N/A|[3553](https://www.linkedin.com/company/sia-partners/people/)|499k|[Private Equity](//www.crunchbase.com/organization/sia-partners?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Business Consulting and Services|
-|Ekimetrics|[Link](https://www.ekimetrics.com)|[Link](https://www.linkedin.com/company/ekimetrics)|2006|[503](https://www.linkedin.com/company/ekimetrics/people/)|30k|[Series Unknown](//www.crunchbase.com/organization/ekimetrics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Kernix|[Link](https://kernix.com)|[Link](https://www.linkedin.com/company/kernix)|2001|[36](https://www.linkedin.com/company/kernix/people/)|3k|[Seed](//www.crunchbase.com/organization/kernix?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ekimetrics](https://www.ekimetrics.com)|[Link](https://linkedin.com/company/ekimetrics)|2006|546|35k|Software Development|
+|[eleven strategy](http://www.eleven-strategy.com)|[Link](https://linkedin.com/company/eleven-strategy)|2008|127|12k|Business Consulting and Services|
+|[Kernix](https://kernix.com)|[Link](https://linkedin.com/company/kernix)|2001|34|3.3k|IT Services and IT Consulting|
+
+### Paris - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Hugging Face](https://huggingface.co)|[Link](https://linkedin.com/company/huggingface)|2016|1.2k|1.3M|Software Development|
+|[Mistral](https://mistral.ai/)|[Link](https://linkedin.com/company/mistralai)|N/A|1.8k|756k|Software Development|
+|[Dust](https://dust.tt)|[Link](https://linkedin.com/company/dust-tt)|2023|177|47k|Software Development|
+|[H Company](https://www.hcompany.ai)|[Link](https://linkedin.com/company/h-company-ai)|N/A|314|34k|Software Development|
+|[Giskard](https://www.giskard.ai/)|[Link](https://linkedin.com/company/giskard-ai)|2021|21|16k|Software Development|
+|[Probabl](https://probabl.ai)|[Link](https://linkedin.com/company/probabl)|2023|57|16k|Software Development|
+|[Kili Technology](https://kili-technology.com/)|[Link](https://linkedin.com/company/kili-technology)|2018|48|9.3k|Software Development|
+|Metreecs|[Link](https://linkedin.com/company/metreecs)|2024|18|7.1k|Software Development|
+|[NuMind (YC S22)](https://www.numind.ai)|[Link](https://linkedin.com/company/numind-ai)|2022|14|7.1k|Software Development|
+|[Argil](https://argil.ai/)|[Link](https://linkedin.com/company/argilai)|N/A|26|6.9k|Software Development|
+|[ZML](https://zml.ai)|[Link](https://linkedin.com/company/zmlai)|2023|21|4.2k|Software Development|
+|[Mindee](https://platform.mindee.com/signup)|[Link](https://linkedin.com/company/mindee)|2018|37|4.2k|Software Development|
 
 ### Paris - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Criteo|[Link](https://www.criteo.com/?utm_source=linkedIn&utm_campaign=GBL.Bio&utm_medium=organic-social)|[Link](https://www.linkedin.com/company/criteo)|N/A|[3898](https://www.linkedin.com/company/criteo/people/)|251k|[Secondary Market](//www.crunchbase.com/organization/criteo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Advertising Services|
-|Back Market|[Link](http://www.backmarket.com)|[Link](https://www.linkedin.com/company/back-market)|2014|[968](https://www.linkedin.com/company/back-market/people/)|93k|[Series E](//www.crunchbase.com/organization/back-market?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Technology, Information and Internet|
-|Sorare|[Link](https://sorare.com)|[Link](https://www.linkedin.com/company/sorare)|2018|[166](https://www.linkedin.com/company/sorare/people/)|39k|[Series B](//www.crunchbase.com/organization/sorare?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Swile|[Link](https://do.swile.co/LK)|[Link](https://www.linkedin.com/company/swile)|N/A|[725](https://www.linkedin.com/company/swile/people/)|111k|[Series D](//www.crunchbase.com/organization/lunchr?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Contentsquare|[Link](https://contentsquare.com/)|[Link](https://www.linkedin.com/company/contentsquare)|N/A|[1745](https://www.linkedin.com/company/contentsquare/people/)|166k|[Series F](//www.crunchbase.com/organization/content-square?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|PayFit|[Link](https://payfit.com)|[Link](https://www.linkedin.com/company/payfit)|2015|[818](https://www.linkedin.com/company/payfit/people/)|88k|[Secondary Market](//www.crunchbase.com/organization/payfit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ManoMano|[Link](http://www.manomano.fr/)|[Link](https://www.linkedin.com/company/manomano)|2013|[708](https://www.linkedin.com/company/manomano/people/)|50k|[Series F](//www.crunchbase.com/organization/manomano?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|BlaBlaCar|[Link](http://www.blablacar.com)|[Link](https://www.linkedin.com/company/blablacar)|2006|[1508](https://www.linkedin.com/company/blablacar/people/)|118k|[Debt Financing](//www.crunchbase.com/organization/blablacar?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Lydia|[Link](https://lydia-app.com)|[Link](https://www.linkedin.com/company/lydia)|2011|[424](https://www.linkedin.com/company/lydia/people/)|44k|[Series C](//www.crunchbase.com/organization/lydia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Doctolib|[Link](https://careers.doctolib.com/)|[Link](https://www.linkedin.com/company/doctolib)|N/A|[3472](https://www.linkedin.com/company/doctolib/people/)|299k|[Series F](//www.crunchbase.com/organization/doctolib?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Mirakl|[Link](https://www.mirakl.com/lets-talk)|[Link](https://www.linkedin.com/company/mirakl)|2012|[863](https://www.linkedin.com/company/mirakl/people/)|180k|[Debt Financing](//www.crunchbase.com/organization/mirakl?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Doctolib](https://careers.doctolib.com/)|[Link](https://linkedin.com/company/doctolib)|N/A|3.7k|344k|Software Development|
+|[Mirakl](https://www.mirakl.com)|[Link](https://linkedin.com/company/mirakl)|2012|892|192k|Software Development|
+|[BlaBlaCar](http://www.blablacar.com)|[Link](https://linkedin.com/company/blablacar)|2006|1.6k|127k|Software Development|
+|[Swile](https://do.swile.co/LK)|[Link](https://linkedin.com/company/swile)|N/A|762|119k|Financial Services|
+|[Back Market](http://www.backmarket.com)|[Link](https://linkedin.com/company/back-market)|2014|1.1k|102k|Technology, Information and Internet|
+|[Payfit](https://payfit.com)|[Link](https://linkedin.com/company/payfit)|2015|793|94k|Software Development|
+|[ManoMano](http://www.manomano.fr/)|[Link](https://linkedin.com/company/manomano)|2013|665|52k|Software Development|
+|[Lydia](https://lydia-app.com)|[Link](https://linkedin.com/company/lydiasolutions)|2011|433|46k|Financial Services|
+|[Sorare](https://sorare.com)|[Link](https://linkedin.com/company/sorare)|2018|149|41k|Software Development|
+|[WhiteLab Genomics](https://whitelabgx.com/)|[Link](https://linkedin.com/company/whitelabgenomics)|2019|56|13k|Biotechnology Research|
+|[Sandra AI](https://www.sandra-ai.com/)|[Link](https://linkedin.com/company/sandra-ai)|2024|23|2.3k|Software Development|
+|Ooak Data (YC S26)|[Link](https://linkedin.com/company/ooakdata)|N/A|13|1.2k|Software Development|
+
+## Philadelphia
+### Philadelphia - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Proscia](http://www.proscia.com)|[Link](https://linkedin.com/company/proscia)|2016|122|21k|Software Development|
+|[NeuroFlow](http://www.neuroflow.com)|[Link](https://linkedin.com/company/neuroflow)|2017|181|11k|Mental Health Care|
+
+## Pittsburgh
+### Pittsburgh - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Skild AI](https://www.skild.ai/)|[Link](https://linkedin.com/company/skildai)|2023|178|112k|Software Development|
+|[Gecko Robotics](http://www.geckorobotics.com/)|[Link](https://linkedin.com/company/geckorobotics)|2013|318|63k|IT Services and IT Consulting|
+|[Carnegie Robotics](http://carnegierobotics.com)|[Link](https://linkedin.com/company/carnegie-robotics)|2010|141|29k|Automation Machinery Manufacturing|
+|[Four Growers, Inc.](http://fourgrowers.com)|[Link](https://linkedin.com/company/four-growers-inc)|2018|23|9.1k|IT Services and IT Consulting|
+|[Near Earth Autonomy](https://www.nearearth.aero/)|[Link](https://linkedin.com/company/near-earth-autonomy)|2012|97|7.8k|Airlines and Aviation|
+|[HEBI Robotics](http://www.hebirobotics.com)|[Link](https://linkedin.com/company/hebi-robotics)|2014|22|6.3k|Industrial Machinery Manufacturing|
+
+### Pittsburgh - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Jacobian](http://www.jacobian.com)|[Link](https://linkedin.com/company/jacobian-health)|N/A|153|16k|Hospitals and Health Care|
+
+### Pittsburgh - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Stack AV](http://www.stackav.com)|[Link](https://linkedin.com/company/stackav)|2023|306|8.9k|Software Development|
+
+### Pittsburgh - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[LegalSifter](https://www.legalsifter.com/)|[Link](https://linkedin.com/company/legalsifter)|2013|41|7k|Software Development|
+
+## Prague
+### Prague - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Neuron Soundware](http://www.neuronsw.com)|[Link](https://linkedin.com/company/neuron-soundware)|2016|15|2.3k|IT Services and IT Consulting|
+
+### Prague - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Recombee](http://www.recombee.com)|[Link](https://linkedin.com/company/recombee)|2015|48|4.6k|IT Services and IT Consulting|
+
+### Prague - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Datamole](https://www.datamole.ai/)|[Link](https://linkedin.com/company/datamole)|2015|80|2.2k|Software Development|
+
+### Prague - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Apify](https://apify.com/)|[Link](https://linkedin.com/company/apify)|2016|274|46k|Software Development|
+|[Keboola](https://www.keboola.com)|[Link](https://linkedin.com/company/keboola)|2008|90|12k|Software Development|
+
+### Prague - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[GoodAI](http://www.goodai.com/)|[Link](https://linkedin.com/company/goodai)|2015|13|3.4k|Research Services|
 
 ## Pune
-### Pune - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|AllGoVision|[Link](https://www.allgovision.com)|[Link](https://www.linkedin.com/company/allgovision)|2010|[69](https://www.linkedin.com/company/allgovision/people/)|7k|[Series Unknown](//www.crunchbase.com/organization/allgovision?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Persistent Systems|[Link](http://www.persistent.com)|[Link](https://www.linkedin.com/company/persistent-systems)|N/A|[27686](https://www.linkedin.com/company/persistent-systems/people/)|1826k|[Series A](//www.crunchbase.com/organization/persistent-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Pune - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Quantiphi|[Link](http://www.quantiphi.com)|[Link](https://www.linkedin.com/company/quantiphi)|2013|[4020](https://www.linkedin.com/company/quantiphi/people/)|449k|[Series A](//www.crunchbase.com/organization/quantiphi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
 ### Pune - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|AutomationEdge|[Link](https://automationedge.com)|[Link](https://www.linkedin.com/company/automationedge)|2015|[548](https://www.linkedin.com/company/automationedge/people/)|19k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Peppermint Robotics](http://www.peppermintrobotics.com)|[Link](https://linkedin.com/company/peppermintrobotics)|2019|142|51k|Automation Machinery Manufacturing|
 
 ### Pune - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DeepTek|[Link](http://www.deeptek.ai)|[Link](https://www.linkedin.com/company/deeptek)|2017|[113](https://www.linkedin.com/company/deeptek/people/)|24k|[Series A](//www.crunchbase.com/organization/deeptek?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-
-### Pune - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Gupshup|[Link](https://www.gupshup.ai/)|[Link](https://www.linkedin.com/company/gupshup)|2004|[1022](https://www.linkedin.com/company/gupshup/people/)|48k|[Series Unknown](//www.crunchbase.com/organization/gupshup-technology-india-pvt-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Partex.AI Technology](http://www.partex.ai)|[Link](https://linkedin.com/company/partexaitechnology)|2011|184|27k|Hospitals and Health Care|
+|[CrelioHealth](https://creliohealth.com/)|[Link](https://linkedin.com/company/creliohealth)|2013|163|18k|Hospitals and Health Care|
 
 ### Pune - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Softtech|[Link](http://www.softtechdev.com.cn/)|[Link](https://www.linkedin.com/company/softtech)|N/A|[121](https://www.linkedin.com/company/softtech/people/)|3k|-|IT Services and IT Consulting|
-|Druva|[Link](http://www.druva.com)|[Link](https://www.linkedin.com/company/druva)|2008|[1388](https://www.linkedin.com/company/druva/people/)|138k|[Series H](//www.crunchbase.com/organization/druva-software?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Extramarks|[Link](https://www.extramarks.com)|[Link](https://www.linkedin.com/company/extramarks)|N/A|[3997](https://www.linkedin.com/company/extramarks/people/)|326k|-|E-Learning Providers|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Druva](https://www.druva.com)|[Link](https://linkedin.com/company/druva)|2008|1.4k|149k|Computer and Network Security|
 
 ### Pune - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|AiMunshi- High Performance Enterprise Automation|[Link](https://www.aibridgeml.ai)|[Link](https://www.linkedin.com/company/aimunshi)|2019|[17](https://www.linkedin.com/company/aibridge-ml/people/)|4k|-|IT Services and IT Consulting|
-|Talentica Software|[Link](https://www.talentica.com)|[Link](https://www.linkedin.com/company/talentica)|2003|[724](https://www.linkedin.com/company/talentica/people/)|81k|-|Software Development|
-|Searce|[Link](http://www.searce.eu)|[Link](https://www.linkedin.com/company/searce)|1996|[16](https://www.linkedin.com/company/searce/people/)|1k|-|Market Research|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Talentica Software](https://www.talentica.com)|[Link](https://linkedin.com/company/talentica)|2003|757|87k|Software Development|
 
 ### Pune - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Persistent Systems|[Link](http://www.persistent.com)|[Link](https://www.linkedin.com/company/persistent-systems)|N/A|[27686](https://www.linkedin.com/company/persistent-systems/people/)|1826k|[Series A](//www.crunchbase.com/organization/persistent-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Quest Global|[Link](https://www.quest-global.com)|[Link](https://www.linkedin.com/company/quest-global)|N/A|[20204](https://www.linkedin.com/company/quest-global/people/)|685k|[Private Equity](//www.crunchbase.com/organization/quest-global-services?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Cybage Software|[Link](https://www.cybage.com?utm_source=LinkedIn&utm_medium=Corporate_account&utm_campaign=Profile)|[Link](https://www.linkedin.com/company/cybage)|1995|[9241](https://www.linkedin.com/company/cybage/people/)|410k|-|IT Services and IT Consulting|
-|KPIT|[Link](https://www.kpit.com/)|[Link](https://www.linkedin.com/company/kpit)|1990|[16611](https://www.linkedin.com/company/kpit/people/)|655k|[Post Ipo Equity](//www.crunchbase.com/organization/ikv-technologies-ag?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Altizon Inc.](http://www.altizon.com)|[Link](https://linkedin.com/company/altizon)|2013|53|8.6k|Software Development|
+|INTANGLES LAB PRIVATE LIMITED|[Link](https://linkedin.com/company/intangles-lab-private-limited)|N/A|27|1.7k|N/A|
 
 ### Pune - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Zensar Technologies|[Link](https://zenebiz.zensar.com/OA_HTML/RF.jsp?function_id=28847&resp_id=-1&resp_appl_id=-1&security_group_id=0&lang_code=US&params=CytjgzffOhdTBTZofXzrWaPbnsVjpxG7sr5R8fp3jRudM6wq0Lp2WA8mcMsPB62gvIZlY4O0mCXbMRLe.cGL4dQ5tf-2guvAnWMP5kcsB8NXF6RgdVspm5OpEI3Sf8BJrygXYQRnB2MilP37VixvwruxuD.7C3tgLqAfwn5jhrgV11iFRGVtvG7atrLJufnh&oas=mRwWCbOBt2xa6XabztVpzA..)|[Link](https://www.linkedin.com/company/zensar)|2001|[14822](https://www.linkedin.com/company/zensar/people/)|1259k|-|IT Services and IT Consulting|
-|Birlasoft|[Link](https://www.birlasoft.com/contact-us)|[Link](https://www.linkedin.com/company/birlasoft)|N/A|[15351](https://www.linkedin.com/company/birlasoft/people/)|1083k|-|IT Services and IT Consulting|
-|Tech Mahindra|[Link](https://www.techmahindra.com/en-in/)|[Link](https://www.linkedin.com/company/tech-mahindra)|N/A|[151627](https://www.linkedin.com/company/tech-mahindra/people/)|7630k|[Post Ipo Equity](//www.crunchbase.com/organization/tech-mahindra?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lentra](https://lentra.ai/)|[Link](https://linkedin.com/company/lentra)|2019|752|61k|Financial Services|
 
 ### Pune - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Xoriant|[Link](http://www.xoriant.com)|[Link](https://www.linkedin.com/company/xoriant)|1990|[4818](https://www.linkedin.com/company/xoriant/people/)|509k|[Series Unknown](//www.crunchbase.com/organization/xoriant?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AlgoAnalytics](http://www.algoanalytics.com)|[Link](https://linkedin.com/company/algoanalytics)|2016|72|21k|IT Services and IT Consulting|
 
-### Pune - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|VERITAS|[Link](http://www.veritas.be)|[Link](https://www.linkedin.com/company/veritas)|N/A|[949](https://www.linkedin.com/company/veritas/people/)|7k|[Private Equity](//www.crunchbase.com/organization/veritas?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail|
-|Cummins India|[Link](http://www.cummins.com)|[Link](https://www.linkedin.com/company/cummins-india)|N/A|[7321](https://www.linkedin.com/company/cummins-india/people/)|378k|-|Motor Vehicle Manufacturing|
+### Pune - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Rubiscape](https://www.rubiscape.com)|[Link](https://linkedin.com/company/rubiscape)|2020|27|4.7k|Software Development|
 
-## San-francisco
-### San-francisco - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Verkada|[Link](https://www.verkada.com/)|[Link](https://www.linkedin.com/company/verkada)|2016|[2624](https://www.linkedin.com/company/verkada/people/)|238k|[Series E](//www.crunchbase.com/organization/verkada?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|DeepScribe|[Link](https://deepscribe.ai/contact)|[Link](https://www.linkedin.com/company/deepscribe)|2017|[106](https://www.linkedin.com/company/deepscribe/people/)|16k|[Series B](//www.crunchbase.com/organization/deepscribe?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|LandingAI|[Link](http://landing.ai)|[Link](https://www.linkedin.com/company/landing-ai)|2017|[111](https://www.linkedin.com/company/landing-ai/people/)|122k|[Series Unknown](//www.crunchbase.com/organization/landing-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Freenome|[Link](https://www.freenome.com/)|[Link](https://www.linkedin.com/company/freenome)|2014|[390](https://www.linkedin.com/company/freenome/people/)|43k|[Corporate Round](//www.crunchbase.com/organization/freenome?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
+## Raleigh-Durham
+### Raleigh-Durham - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Pryon](https://pryon.com)|[Link](https://linkedin.com/company/pryon)|2017|68|19k|Software Development|
 
-### San-francisco - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|OpenAI|[Link](https://openai.com/)|[Link](https://www.linkedin.com/company/openai)|N/A|[7263](https://www.linkedin.com/company/openai/people/)|9916k|[Secondary Market](//www.crunchbase.com/organization/openai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|Anthropic|[Link](http://www.anthropic.io)|[Link](https://www.linkedin.com/company/anthropic)|2012|[5](https://www.linkedin.com/company/anthropic/people/)|1k|-|Venture Capital and Private Equity Principals|
-|Scale AI|[Link](https://scale.com)|[Link](https://www.linkedin.com/company/scaleai)|2016|[6076](https://www.linkedin.com/company/scaleai/people/)|328k|[Corporate Round](//www.crunchbase.com/organization/scale-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|writer|[Link](http://www.beitske.nl)|[Link](https://www.linkedin.com/company/writer)|N/A|[857](https://www.linkedin.com/company/writer/people/)|1k|-|Retail Art Supplies|
-|Cohere|[Link](http://cohere.com)|[Link](https://www.linkedin.com/company/cohere-ai)|2019|[837](https://www.linkedin.com/company/cohere-ai/people/)|223k|[Series D](//www.crunchbase.com/organization/cohere-82b8?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Rasa|[Link](https://rasa.com/)|[Link](https://www.linkedin.com/company/rasa)|2016|[176](https://www.linkedin.com/company/rasa/people/)|23k|-|Software Development|
-|Textio|[Link](https://textio.com/?utm_source=linkedin&utm_medium=page&utm_campaign=company-page&utm_content=visit-website-button)|[Link](https://www.linkedin.com/company/textio)|2014|[99](https://www.linkedin.com/company/textio/people/)|26k|[Series Unknown](//www.crunchbase.com/organization/textio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Primer.ai|[Link](https://learn.primer.ai/demo?utm_source=linkedin&utm_medium=organicsocial-button)|[Link](https://www.linkedin.com/company/primer-ai)|2015|[135](https://www.linkedin.com/company/primer-ai/people/)|34k|[Series D](//www.crunchbase.com/organization/primer-7cbe?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Raleigh-Durham - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Avalara](https://www.avalara.com)|[Link](https://linkedin.com/company/avalara)|2004|5.6k|284k|Software Development|
+|[Pendo.io](http://www.pendo.io)|[Link](https://linkedin.com/company/pendo-io)|2013|960|132k|Software Development|
 
-### San-francisco - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Figure|[Link](https://www.figure.ai)|[Link](https://www.linkedin.com/company/figure-ai)|2022|[479](https://www.linkedin.com/company/figure-ai/people/)|108k|[Series C](//www.crunchbase.com/organization/figure-b5dc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Machinery Manufacturing|
-|Skydio|[Link](https://www.skydio.com/)|[Link](https://www.linkedin.com/company/skydio)|2014|[872](https://www.linkedin.com/company/skydio/people/)|121k|[Series E](//www.crunchbase.com/organization/skydio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Chef Robotics|[Link](https://chefrobotics.ai?utm_source=social&utm_medium=linkedin&utm_campaign=profile+link)|[Link](https://www.linkedin.com/company/chef-robotics)|2019|[138](https://www.linkedin.com/company/chef-robotics/people/)|25k|[Series A](//www.crunchbase.com/organization/chef-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+## Riyadh
+### Riyadh - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lucidya](http://www.lucidya.com)|[Link](https://linkedin.com/company/lucidya)|2016|375|243k|Software Development|
 
-### San-francisco - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Viz.ai|[Link](http://www.Viz.ai)|[Link](https://www.linkedin.com/company/viz-ai)|2016|[319](https://www.linkedin.com/company/viz-ai/people/)|46k|-|Hospitals and Health Care|
-|insitro|[Link](http://www.insitro.com)|[Link](https://www.linkedin.com/company/insitro)|2018|[253](https://www.linkedin.com/company/insitro/people/)|36k|[Series C](//www.crunchbase.com/organization/insitro?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Spring Science|[Link](https://www.springscience.com/)|[Link](https://www.linkedin.com/company/spring-science)|2017|[4](https://www.linkedin.com/company/spring-discovery/people/)|1k|-|Biotechnology Research|
-|Atomwise|[Link](http://www.atomwise.com)|[Link](https://www.linkedin.com/company/atomwise)|2012|[21](https://www.linkedin.com/company/atomwise/people/)|23k|[Series C](//www.crunchbase.com/organization/atomwise?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Lumiata|[Link](https://www.lumiata.com)|[Link](https://www.linkedin.com/company/lumiata)|2013|[6](https://www.linkedin.com/company/lumiata/people/)|4k|[Series B](//www.crunchbase.com/organization/lumiata?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Riyadh - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Unifonic](http://www.unifonic.com)|[Link](https://linkedin.com/company/unifonic)|2006|553|71k|IT Services and IT Consulting|
+|[Wittify AI](https://wittify.ai)|[Link](https://linkedin.com/company/wittify-ai)|N/A|33|15k|Software Development|
 
-### San-francisco - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Aurora Films|[Link](http://aurorafilms.com)|[Link](https://www.linkedin.com/company/aurora)|2001|[95](https://www.linkedin.com/company/aurora/people/)|1k|-|Media Production|
+### Riyadh - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Tamara](http://www.tamara.com)|[Link](https://linkedin.com/company/tamara)|2020|1.6k|319k|Financial Services|
+|[Tabby](https://tabby.ai)|[Link](https://linkedin.com/company/tabbypay)|N/A|4.7k|254k|Financial Services|
+|[MOZN](https://mozn.ai/)|[Link](https://linkedin.com/company/mozn)|2017|409|129k|Software Development|
+|[Elevatus](https://www.elevatus.io/)|[Link](https://linkedin.com/company/elevatusio)|2019|65|23k|IT Services and IT Consulting|
+|[intelmatix](https://intelmatix.ai)|[Link](https://linkedin.com/company/intelmatix)|2021|47|13k|Software Development|
 
-### San-francisco - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Resemble AI|[Link](https://www.resemble.ai/schedule-a-demo/?utm_source=linkedin&utm_medium=biz-page&utm_campaign=page)|[Link](https://www.linkedin.com/company/resembleai)|N/A|[37](https://www.linkedin.com/company/resembleai/people/)|8k|[Series A](//www.crunchbase.com/organization/resemble-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Descript|[Link](https://www.descript.com/)|[Link](https://www.linkedin.com/company/descript)|2017|[187](https://www.linkedin.com/company/descript/people/)|30k|[Series C](//www.crunchbase.com/organization/descript?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|AssemblyAI|[Link](http://www.assemblyai.com)|[Link](https://www.linkedin.com/company/assemblyai)|2017|[101](https://www.linkedin.com/company/assemblyai/people/)|40k|[Series C](//www.crunchbase.com/organization/assemblyai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Deepgram|[Link](https://deepgram.com)|[Link](https://www.linkedin.com/company/deepgram)|2015|[262](https://www.linkedin.com/company/deepgram/people/)|32k|[Series B](//www.crunchbase.com/organization/deepgram?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+## Rome
+### Rome - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[WordLift](https://wordlift.io/)|[Link](https://linkedin.com/company/wordlift)|2017|35|5.3k|Software Development|
 
-### San-francisco - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ada CX|[Link](https://www.ada.cx/)|[Link](https://www.linkedin.com/company/ada-cx)|N/A|[652](https://www.linkedin.com/company/ada-cx/people/)|48k|-|Software Development|
-|Forethought|[Link](https://forethought.ai/)|[Link](https://www.linkedin.com/company/forethought-ai)|2017|[135](https://www.linkedin.com/company/forethought-ai/people/)|33k|[Series D](//www.crunchbase.com/organization/forethought-7dc2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Replicant|[Link](http://www.replicant.com)|[Link](https://www.linkedin.com/company/replicant)|2017|[176](https://www.linkedin.com/company/replicant/people/)|13k|[Series B](//www.crunchbase.com/organization/replicant-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Rome - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[WSENSE](http://www.wsense.it)|[Link](https://linkedin.com/company/wsense)|2012|89|6.2k|Telecommunications|
 
-### San-francisco - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|GLean|[Link](https://linktr.ee/GLean)|[Link](https://www.linkedin.com/company/glean)|2006|[24](https://www.linkedin.com/company/glean/people/)|2k|[Non Equity Assistance](//www.crunchbase.com/organization/glean-f9e9?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|Docugami|[Link](http://docugami.com)|[Link](https://www.linkedin.com/company/docugami)|2017|[38](https://www.linkedin.com/company/docugami/people/)|2k|[Seed](//www.crunchbase.com/organization/docugami?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|LlamaIndex|[Link](https://www.llamaindex.ai/contact?utm_source=socials&utm_medium=li_channel)|[Link](https://www.linkedin.com/company/llamaindex)|N/A|[81](https://www.linkedin.com/company/llamaindex/people/)|276k|[Series Unknown](//www.crunchbase.com/organization/llamaindex?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Vectara|[Link](https://vectara.com/)|[Link](https://www.linkedin.com/company/vectara)|2022|[69](https://www.linkedin.com/company/vectara/people/)|19k|[Series A](//www.crunchbase.com/organization/vectara?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Rome - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Exein](http://www.exein.io)|[Link](https://linkedin.com/company/exein)|2018|86|35k|Computer and Network Security|
 
-### San-francisco - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Algolia|[Link](https://www.algolia.com)|[Link](https://www.linkedin.com/company/algolia)|2012|[852](https://www.linkedin.com/company/algolia/people/)|71k|[Series D](//www.crunchbase.com/organization/algolia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Weights & Biases|[Link](https://wandb.ai/site)|[Link](https://www.linkedin.com/company/wandb)|2017|[306](https://www.linkedin.com/company/weights-biases/people/)|88k|[Secondary Market](//www.crunchbase.com/organization/weights-biases?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Labelbox|[Link](https://www.labelbox.com)|[Link](https://www.linkedin.com/company/labelbox)|2018|[426](https://www.linkedin.com/company/labelbox/people/)|33k|[Series D](//www.crunchbase.com/organization/labelbox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+## Rotterdam
+### Rotterdam - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[SenseGlove](https://www.senseglove.com)|[Link](https://linkedin.com/company/senseglove)|2015|28|8.3k|Computer Hardware Manufacturing|
+|[Envision](http://www.LetsEnvision.com)|[Link](https://linkedin.com/company/letsenvision)|2017|13|5.9k|Software Development|
+|[Birds.ai](https://www.birds.ai)|[Link](https://linkedin.com/company/birds-ai)|N/A|0|1.2k|Software Development|
 
-### San-francisco - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Samsara|[Link](http://www.samsara.com)|[Link](https://www.linkedin.com/company/samsara)|2015|[5243](https://www.linkedin.com/company/samsara/people/)|433k|[Secondary Market](//www.crunchbase.com/organization/samsara-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Anduril Industries|[Link](http://www.anduril.com)|[Link](https://www.linkedin.com/company/anduril)|N/A|[6917](https://www.linkedin.com/company/anduril/people/)|471k|[Series G](//www.crunchbase.com/organization/anduril-industries?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Defense and Space Manufacturing|
-|Weights & Biases|[Link](https://wandb.ai/site)|[Link](https://www.linkedin.com/company/wandb)|2017|[306](https://www.linkedin.com/company/weights-biases/people/)|88k|[Secondary Market](//www.crunchbase.com/organization/weights-biases?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Snorkel AI|[Link](https://snorkel.ai)|[Link](https://www.linkedin.com/company/snorkel-ai)|2019|[887](https://www.linkedin.com/company/snorkel-ai/people/)|68k|[Series Unknown](//www.crunchbase.com/organization/snorkel-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Primer.ai|[Link](https://learn.primer.ai/demo?utm_source=linkedin&utm_medium=organicsocial-button)|[Link](https://www.linkedin.com/company/primer-ai)|2015|[135](https://www.linkedin.com/company/primer-ai/people/)|34k|[Series D](//www.crunchbase.com/organization/primer-7cbe?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Robust Intelligence (now part of Cisco)|[Link](https://www.robustintelligence.com)|[Link](https://www.linkedin.com/company/robust-intelligence)|2019|[31](https://www.linkedin.com/company/robust-intelligence/people/)|16k|[Series B](//www.crunchbase.com/organization/robust-intelligence?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Rotterdam - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Fizyr](http://www.fizyr.com)|[Link](https://linkedin.com/company/fizyr)|2014|45|15k|Software Development|
 
-### San-francisco - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Databricks|[Link](https://www.databricks.com/blog/what-is-a-data-intelligence-platform)|[Link](https://www.linkedin.com/company/databricks)|N/A|[14410](https://www.linkedin.com/company/databricks/people/)|1125k|[Series J](//www.crunchbase.com/organization/databricks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Stripe|[Link](https://stripe.com/jobs)|[Link](https://www.linkedin.com/company/stripe)|2010|[14122](https://www.linkedin.com/company/stripe/people/)|1261k|[Secondary Market](//www.crunchbase.com/organization/stripe?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Rippling|[Link](https://www.rippling.com/request-demo?utm_source=linkedin&utm_medium=social)|[Link](https://www.linkedin.com/company/rippling)|2016|[6780](https://www.linkedin.com/company/rippling/people/)|363k|[Series G](//www.crunchbase.com/organization/rippling?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Airtable|[Link](https://airtable.com)|[Link](https://www.linkedin.com/company/airtable)|N/A|[932](https://www.linkedin.com/company/airtable/people/)|183k|[Secondary Market](//www.crunchbase.com/organization/airtable?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Ramp|[Link](https://ramp.com/)|[Link](https://www.linkedin.com/company/ramp)|2019|[3770](https://www.linkedin.com/company/ramp/people/)|268k|[Series E](//www.crunchbase.com/organization/ramp-financial?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Harvey|[Link](https://www.harvey.ai/)|[Link](https://www.linkedin.com/company/harvey-ai)|2022|[1044](https://www.linkedin.com/company/harvey-ai/people/)|100k|[Series E](//www.crunchbase.com/organization/harvey-128b?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|SIERRA AI|-|[Link](https://www.linkedin.com/company/sierra-ai)|2023|[1](https://www.linkedin.com/company/sierra-ai/people/)|2k|-|Software Development|
-|GLean|[Link](https://linktr.ee/GLean)|[Link](https://www.linkedin.com/company/glean)|2006|[24](https://www.linkedin.com/company/glean/people/)|2k|[Non Equity Assistance](//www.crunchbase.com/organization/glean-f9e9?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|Gong|[Link](http://www.gong.io)|[Link](https://www.linkedin.com/company/gong-io)|2015|[2400](https://www.linkedin.com/company/gong-io/people/)|322k|[Secondary Market](//www.crunchbase.com/organization/gong-io?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Observe.AI|[Link](https://www.observe.ai/)|[Link](https://www.linkedin.com/company/observeai)|2017|[404](https://www.linkedin.com/company/observeai/people/)|98k|[Series C](//www.crunchbase.com/organization/observe-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Rotterdam - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Docbyte](https://www.docbyte.com)|[Link](https://linkedin.com/company/docbyte)|2006|17|5.4k|Computer and Network Security|
 
-### San-francisco - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Snorkel AI|[Link](https://snorkel.ai)|[Link](https://www.linkedin.com/company/snorkel-ai)|2019|[887](https://www.linkedin.com/company/snorkel-ai/people/)|68k|[Series Unknown](//www.crunchbase.com/organization/snorkel-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Rotterdam - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sana Commerce](https://www.sana-commerce.com)|[Link](https://linkedin.com/company/sanacommerce)|2008|363|103k|Software Development|
+|[HelloPrint](http://helloprint.com/company)|[Link](https://linkedin.com/company/helloprint)|2013|134|14k|Software Development|
+|[Quicargo Shipping Made Easy](https://quicargo.com/)|[Link](https://linkedin.com/company/quicargo)|2016|9|4k|Truck Transportation|
 
-### San-francisco - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Airbnb|[Link](http://airbnb.com)|[Link](https://www.linkedin.com/company/airbnb)|2007|[68661](https://www.linkedin.com/company/airbnb/people/)|3173k|[Debt Financing](//www.crunchbase.com/organization/airbnb?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Lyft|[Link](https://www.lyft.com/careers)|[Link](https://www.linkedin.com/company/lyft)|2012|[27505](https://www.linkedin.com/company/lyft/people/)|396k|[Post Ipo Debt](//www.crunchbase.com/organization/lyft?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
-|DoorDash|[Link](https://careersatdoordash.com/)|[Link](https://www.linkedin.com/company/doordash)|N/A|[77203](https://www.linkedin.com/company/doordash/people/)|1443k|[Post Ipo Debt](//www.crunchbase.com/organization/doordash?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Instacart|[Link](https://instacart.careers/)|[Link](https://www.linkedin.com/company/instacart)|N/A|[24114](https://www.linkedin.com/company/instacart/people/)|274k|[Private Equity](//www.crunchbase.com/organization/instacart?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Discord|[Link](http://www.discord.com)|[Link](https://www.linkedin.com/company/discord)|N/A|[4202](https://www.linkedin.com/company/discord/people/)|469k|[Secondary Market](//www.crunchbase.com/organization/discord?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Figma|[Link](http://figma.com/whats-new)|[Link](https://www.linkedin.com/company/figma)|2012|[2818](https://www.linkedin.com/company/figma/people/)|1965k|[Secondary Market](//www.crunchbase.com/organization/figma?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Design Services|
-|PLAID, Inc.|[Link](https://plaid.co.jp/)|[Link](https://www.linkedin.com/company/plaid-inc)|2011|[273](https://www.linkedin.com/company/plaid-inc/people/)|1k|[Corporate Round](//www.crunchbase.com/organization/plaid-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|CHIME|[Link](https://chimecentral.org/)|[Link](https://www.linkedin.com/company/chime)|1992|[207](https://www.linkedin.com/company/chime/people/)|23k|-|Non-profit Organizations|
+### Rotterdam - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[UbiOps - Private AI on any infra](http://www.ubiops.com)|[Link](https://linkedin.com/company/ubiops)|2020|31|3.6k|IT Services and IT Consulting|
+
+### Rotterdam - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ofiniti](https://ofiniti.com/)|[Link](https://linkedin.com/company/ofiniti)|N/A|48|6.3k|Transportation, Logistics, Supply Chain and Storage|
+|[RAMLAB](http://www.ramlab.com)|[Link](https://linkedin.com/company/ramlab)|2016|16|3.5k|Machinery Manufacturing|
+
+## Salt Lake City
+### Salt Lake City - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sorenson Communications](http://www.sorenson.com)|[Link](https://linkedin.com/company/sorenson-communications)|2003|3.2k|20k|Telecommunications|
+
+### Salt Lake City - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PassiveLogic](http://www.passivelogic.com)|[Link](https://linkedin.com/company/passivelogic)|2016|135|7.1k|Software Development|
+
+### Salt Lake City - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Qualtrics](https://www.qualtrics.com/)|[Link](https://linkedin.com/company/qualtrics)|2002|6.5k|338k|Software Development|
+|[Podium](https://www.podium.com)|[Link](https://linkedin.com/company/podium)|2014|1.7k|123k|Software Development|
+|[Filevine](http://www.filevine.com/)|[Link](https://linkedin.com/company/filevine)|2015|1k|80k|Software Development|
+|[Sameday](https://www.gosameday.com/)|[Link](https://linkedin.com/company/samedayai)|2021|61|8k|Software Development|
+|[Zaymo](https://www.zaymo.com)|[Link](https://linkedin.com/company/zaymo)|2023|18|3.1k|Software Development|
+|[Punchcard (YC S23)](https://www.punchcard.com)|[Link](https://linkedin.com/company/punchcard-dot-com)|2023|9|1.3k|Software Development|
+
+## San Diego
+### San Diego - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Netradyne](https://www.netradyne.com)|[Link](https://linkedin.com/company/netradyne)|2015|1.2k|271k|Software Development|
+|[Aira](http://aira.io)|[Link](https://linkedin.com/company/airaio)|2015|171|11k|Software Development|
+
+### San Diego - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Brain Corp](http://braincorp.com/)|[Link](https://linkedin.com/company/brain-corporation)|2009|292|30k|Software Development|
+
+### San Diego - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Creyon Bio](https://www.creyonbio.com)|[Link](https://linkedin.com/company/creyonbio)|2019|20|8.3k|Pharmaceutical Manufacturing|
+|[CureMetrix](https://curemetrix.com)|[Link](https://linkedin.com/company/curemetrix)|2014|45|6.3k|Hospitals and Health Care|
+|[Persephone Biosciences](https://persephone.bio/)|[Link](https://linkedin.com/company/persephone-biosciences)|2017|16|5.3k|Biotechnology Research|
+
+### San Diego - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Soundful](https://soundful.com/)|[Link](https://linkedin.com/company/soundful)|2019|17|2.7k|Musicians|
+
+### San Diego - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Shield](https://shield.ai/)|[Link](https://linkedin.com/company/shield-ai)|2015|2k|189k|Defense and Space Manufacturing|
+
+### San Diego - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Taoglas](https://www.taoglas.com/)|[Link](https://linkedin.com/company/taoglas)|N/A|235|49k|Telecommunications|
+
+### San Diego - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Seismic](https://visit.seismic.com/3NKaMMP)|[Link](https://linkedin.com/company/seismic)|2010|1.6k|84k|Software Development|
+|[Kyriba](https://www.kyriba.com)|[Link](https://linkedin.com/company/kyriba)|N/A|1.4k|76k|Software Development|
+|[Highspot](https://www.highspot.com)|[Link](https://linkedin.com/company/highspot)|2012|743|69k|Software Development|
+|[Tealium](http://www.tealium.com)|[Link](https://linkedin.com/company/tealium)|2011|545|48k|Software Development|
+
+### San Diego - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Kneron](http://www.kneron.com)|[Link](https://linkedin.com/company/kneron)|N/A|92|4.6k|Computer Hardware Manufacturing|
+
+## San Francisco
+### San Francisco - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Spline](https://spline.design)|[Link](https://linkedin.com/company/splinetool)|2020|29|135k|Design Services|
+|[Luma](https://lumalabs.ai/)|[Link](https://linkedin.com/company/lumalabsai)|N/A|497|128k|Software Development|
+|[Krea](https://www.krea.ai)|[Link](https://linkedin.com/company/krea-ai)|N/A|125|77k|Software Development|
+|[World Labs](https://worldlabs.ai)|[Link](https://linkedin.com/company/world-labs)|2023|105|77k|Research Services|
+|[Roboflow](https://roboflow.com)|[Link](https://linkedin.com/company/roboflow-ai)|N/A|154|62k|Software Development|
+|[Tavus](http://www.tavus.io)|[Link](https://linkedin.com/company/tavus-io)|2020|104|27k|Software Development|
+|[DeepScribe](https://deepscribe.ai)|[Link](https://linkedin.com/company/deepscribe)|2017|100|19k|Hospitals and Health Care|
+|[MarqVision](https://www.marqvision.com/)|[Link](https://linkedin.com/company/marqvision)|N/A|289|14k|Software Development|
+|[Overview AI](https://www.overview.ai)|[Link](https://linkedin.com/company/overview-ai)|2018|91|6.9k|Computer Hardware Manufacturing|
+|[Bifrost AI](http://bifrost.ai)|[Link](https://linkedin.com/company/bifrost-ai)|2020|44|6.8k|Software Development|
+|[Mach9](http://mach9.ai)|[Link](https://linkedin.com/company/mach9geo)|2021|40|6.8k|Software Development|
+|[LightMetrics](http://www.lightmetrics.co)|[Link](https://linkedin.com/company/lightmetrics)|2015|160|6.5k|Software Development|
+|[Mentra](https://mentraglass.com/)|[Link](https://linkedin.com/company/mentra-glasses)|2024|16|5.1k|Software Development|
+|[Sieve](https://sievedata.com/)|[Link](https://linkedin.com/company/sievedata)|2022|50|4.9k|Software Development|
+|[Umbo Computer Vision](https://umbocv.ai/)|[Link](https://linkedin.com/company/umbo-cv)|2015|22|3.2k|Security and Investigations|
+|[Rubbrband](https://rubbrband.com)|[Link](https://linkedin.com/company/rubbrband)|N/A|12|3.2k|Advertising Services|
+|[LemonSlice](http://www.lemonslice.com)|[Link](https://linkedin.com/company/lemonslice)|2024|11|2.9k|Software Development|
+|[Aura](https://www.ramenvr.com)|[Link](https://linkedin.com/company/ramen-vr)|2019|19|2.3k|Software Development|
+|[Deepnight](https://deepnight.com/)|[Link](https://linkedin.com/company/deepnight-inc)|2024|19|1.8k|IT Services and IT Consulting|
+|[Yarn (YC W24)](https://www.yarn.so)|[Link](https://linkedin.com/company/yarn-so)|N/A|13|1.7k|Software Development|
+|[Shape (ShapeScale)](https://business.shapescale.com)|[Link](https://linkedin.com/company/shape-inc-)|2015|10|1.6k|Medical Equipment Manufacturing|
+|[VideoGen](https://videogen.io)|[Link](https://linkedin.com/company/videogen)|2023|13|1.1k|Software Development|
+|[Claid](http://claid.ai)|[Link](https://linkedin.com/company/claidai)|N/A|17|1.1k|IT Services and IT Consulting|
+
+### San Francisco - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[OpenAI](https://openai.com/)|[Link](https://linkedin.com/company/openai)|N/A|11k|12M|Research Services|
+|[Perplexity](https://www.perplexity.ai)|[Link](https://linkedin.com/company/perplexity-ai)|2022|1.4k|1.9M|Software Development|
+|[Grammarly](https://www.grammarly.com/jobs/)|[Link](https://linkedin.com/company/grammarly)|N/A|1.1k|262k|Software Development|
+|[WRITER](http://writer.com)|[Link](https://linkedin.com/company/getwriter)|N/A|717|93k|Software Development|
+|[Unbabel](https://unbabel.com)|[Link](https://linkedin.com/company/unbabel)|N/A|655|44k|IT Services and IT Consulting|
+|[Primer.ai](https://primer.ai/)|[Link](https://linkedin.com/company/primer-ai)|2015|110|35k|Software Development|
+|[Bitext](https://www.bitext.com)|[Link](https://linkedin.com/company/bitext)|2008|15|3k|IT Services and IT Consulting|
+
+### San Francisco - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Starship Technologies](https://www.starship.xyz)|[Link](https://linkedin.com/company/starshiptechnologies)|2014|453|46k|Consumer Services|
+|[Chef Robotics](https://chefrobotics.ai)|[Link](https://linkedin.com/company/chef-robotics)|2019|145|31k|IT Services and IT Consulting|
+|[KEENON Robotics](https://www.keenon.com/en/)|[Link](https://linkedin.com/company/keenonrobotics)|2010|195|28k|Automation Machinery Manufacturing|
+|[Encord](https://encord.com/)|[Link](https://linkedin.com/company/encord-team)|2021|231|22k|Software Development|
+|[Orangewood](http://www.orangewood.co)|[Link](https://linkedin.com/company/orangewood-labs)|2016|45|19k|Automation Machinery Manufacturing|
+|[The Bot Company](http://bot.co)|[Link](https://linkedin.com/company/botco)|N/A|94|11k|IT Services and IT Consulting|
+|[Multiply Labs](http://multiplylabs.com)|[Link](https://linkedin.com/company/multiply-labs)|N/A|76|10k|IT Services and IT Consulting|
+|[Polymath Robotics](https://polymathrobotics.com)|[Link](https://linkedin.com/company/polymath-robotics)|2021|36|10k|IT Services and IT Consulting|
+|[Cosmic Robotics](https://cosmicrobotics.com)|[Link](https://linkedin.com/company/cosmic-robotics)|N/A|15|9.5k|IT Services and IT Consulting|
+|[Corvus Robotics](https://www.corvus-robotics.com)|[Link](https://linkedin.com/company/corvus-robotics)|2017|46|8.7k|Truck Transportation|
+|[Daedalus](https://daedalus.de)|[Link](https://linkedin.com/company/daedalus-de)|2020|91|7.4k|Manufacturing|
+|[Theseus](http://theseus.us)|[Link](https://linkedin.com/company/theseustech)|N/A|14|4.9k|Defense and Space Manufacturing|
+|[Nori Robotics (YC S26)](http://norirobotics.com)|[Link](https://linkedin.com/company/norirobotics)|2026|7|4.7k|IT Services and IT Consulting|
+|[Industrial Next (YC W22)](https://industrialnext.ai)|[Link](https://linkedin.com/company/industrial-next)|2021|16|4k|Software Development|
+|[Bucket Robotics](https://bucket.bot)|[Link](https://linkedin.com/company/bucketrobotics)|2024|8|3.4k|Manufacturing|
+|Hub|[Link](https://linkedin.com/company/hub-robotics)|2024|53|3.3k|IT Services and IT Consulting|
+|[Asteroid](https://asteroid.ai/)|[Link](https://linkedin.com/company/asteroidai)|N/A|9|3.1k|Software Development|
+|[Linewise](http://Linewise.io)|[Link](https://linkedin.com/company/linewise-ai)|N/A|56|3k|Research Services|
+|[Innate](https://innate.bot)|[Link](https://linkedin.com/company/innate-bot)|N/A|6|2.7k|IT Services and IT Consulting|
+|[Pivot Robotics](https://pivotrobotics.com)|[Link](https://linkedin.com/company/pivot-robotics)|2023|10|2.7k|IT Services and IT Consulting|
+|[RamAIn (YC W26)](https://ramain.ai/)|[Link](https://linkedin.com/company/ramain)|2026|6|2.6k|Software Development|
+|[Skyvern (YC S23)](https://www.skyvern.com)|[Link](https://linkedin.com/company/skyvern)|2023|12|2.2k|Software Development|
+|[Zeon Systems](http://www.zeonsystems.ai)|[Link](https://linkedin.com/company/zeon-systems)|N/A|11|1.9k|IT Services and IT Consulting|
+|[Saphira AI (YC S24)](http://www.saphira.ai/)|[Link](https://linkedin.com/company/saphira-ai)|2024|10|1.9k|Software Development|
+|[Almond Robotics](https://almond.bot)|[Link](https://linkedin.com/company/almondbot)|2025|7|1.3k|IT Services and IT Consulting|
+|[Tensr](http://tensr.com)|[Link](https://linkedin.com/company/tensr-industries)|2026|6|1.1k|Manufacturing|
+
+### San Francisco - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Innovaccer](https://www.innovaccer.com)|[Link](https://linkedin.com/company/innovaccer)|2014|1.6k|268k|Hospitals and Health Care|
+|[Abridge](https://www.abridge.com)|[Link](https://linkedin.com/company/abridgehq)|2018|703|90k|Software Development|
+|[Viz.ai](http://www.viz.ai)|[Link](https://linkedin.com/company/viz-ai)|2016|323|52k|Hospitals and Health Care|
+|[Ambience Healthcare](https://www.ambiencehealthcare.com/)|[Link](https://linkedin.com/company/ambiencehealthcare)|2020|266|44k|Hospitals and Health Care|
+|[Rad AI](https://www.radai.com/)|[Link](https://linkedin.com/company/radai)|2018|256|43k|Software Development|
+|[Chai Discovery](https://chaidiscovery.com)|[Link](https://linkedin.com/company/chaidiscovery)|N/A|45|25k|Software Development|
+|[Atomwise](http://www.atomwise.com)|[Link](https://linkedin.com/company/atomwise)|2012|13|25k|Biotechnology Research|
+|[Verge Labs](http://www.vergelabs.com)|[Link](https://linkedin.com/company/verge-analytics)|N/A|26|18k|Biotechnology Research|
+|[Ankr Health](https://ankrhealth.com)|[Link](https://linkedin.com/company/ankr-us)|N/A|14|16k|Hospitals and Health Care|
+|[Latent](https://latenthealth.com)|[Link](https://linkedin.com/company/latent-health)|2022|137|12k|Software Development|
+|[Tamarind Bio](https://www.tamarind.bio)|[Link](https://linkedin.com/company/tamarind-bio)|N/A|21|11k|Software Development|
+|[Mito Health](https://www.mitohealth.com/)|[Link](https://linkedin.com/company/mitohealth)|2023|16|8.2k|Hospitals and Health Care|
+|[Synthio Labs](http://synthiolabs.com)|[Link](https://linkedin.com/company/synthiolabs)|N/A|39|7.4k|Software Development|
+|[Invert](https://www.invertbio.com)|[Link](https://linkedin.com/company/invertinc)|2021|38|6.8k|Biotechnology Research|
+|[Probably Genetic](http://www.probablygenetic.com)|[Link](https://linkedin.com/company/probablygenetic)|N/A|28|6.6k|Biotechnology Research|
+|[Ava](http://www.ava.me/)|[Link](https://linkedin.com/company/ava)|2014|150|6.2k|Software Development|
+|[Bunkerhill Health](http://www.bunkerhillhealth.com/)|[Link](https://linkedin.com/company/bunkerhill-health)|2021|33|6k|Hospitals and Health Care|
+|[Legion Health](https://www.legionhealth.com)|[Link](https://linkedin.com/company/legionhealth)|2021|40|5.9k|Mental Health Care|
+|[Segmed AI](https://segmed.ai)|[Link](https://linkedin.com/company/segmed-ai)|2019|50|5.7k|Hospitals and Health Care|
+|[Parallel Bio](https://www.parallel.bio)|[Link](https://linkedin.com/company/parallelbio)|N/A|22|5.3k|Biotechnology Research|
+|[Sonia Health](https://www.soniahealth.com)|[Link](https://linkedin.com/company/sonia-health)|2023|26|5.3k|Wellness and Fitness Services|
+|[Vera Health](https://www.verahealth.ai)|[Link](https://linkedin.com/company/vera-health-ai)|2024|34|5k|Software Development|
+|[Metriport](https://metriport.com)|[Link](https://linkedin.com/company/metriport)|2022|38|4.8k|Hospitals and Health Care|
+|[CombineHealth](https://www.combinehealth.ai/)|[Link](https://linkedin.com/company/combine-health)|N/A|19|4.7k|Software Development|
+|[Abalone Bio](https://www.abalonebio.com)|[Link](https://linkedin.com/company/abalone-bio-inc)|2017|25|4k|Biotechnology Research|
+|[Datasaur](http://www.datasaur.ai)|[Link](https://linkedin.com/company/datasaur)|2019|64|3.8k|Software Development|
+|[Mindstate Design Labs](https://www.mindstate.design/)|[Link](https://linkedin.com/company/mindstate-design-labs)|2021|23|3.7k|Biotechnology Research|
+|[Anthrogen](http://anthrogen.com)|[Link](https://linkedin.com/company/anthrogen)|2024|11|3.3k|Biotechnology Research|
+|[AgileMD](https://agilemd.com)|[Link](https://linkedin.com/company/agilemd)|2011|20|3.1k|Hospitals and Health Care|
+|[Adni](https://www.adni.co/)|[Link](https://linkedin.com/company/adniapp)|2021|56|2.7k|Software Development|
+|[Decoda Health](https://decodahealth.com/)|[Link](https://linkedin.com/company/decoda-health)|2023|17|2.6k|Software Development|
+|[Pelica Health](https://go.pelica.com/site)|[Link](https://linkedin.com/company/pelica-health)|N/A|6|2.5k|Hospitals and Health Care|
+|[Careforce](https://www.careforce.ai)|[Link](https://linkedin.com/company/careforceai)|N/A|12|2.3k|Software Development|
+|[Arini](https://www.arini.ai)|[Link](https://linkedin.com/company/ariniai)|2024|16|2.3k|Software Development|
+|[Serif Health](https://www.serifhealth.com)|[Link](https://linkedin.com/company/serif-health)|2020|29|2.2k|Software Development|
+|[BrainKey](http://brainkey.ai/)|[Link](https://linkedin.com/company/brainkeyai)|2018|16|2.2k|Software Development|
+|[Quinn](http://www.quinnbio.com)|[Link](https://linkedin.com/company/quinnbio)|2022|6|2.1k|Biotechnology Research|
+|[Altay Therapeutics](http://www.altaytherapeutics.com)|[Link](https://linkedin.com/company/altay-therapeutics)|2019|7|2.1k|Biotechnology Research|
+|[Andy AI (W24)](https://with-andy.com)|[Link](https://linkedin.com/company/with-andy)|N/A|19|1.9k|Hospitals and Health Care|
+|[RTHM](https://www.direct.rthm.com/intelligence)|[Link](https://linkedin.com/company/rthm)|N/A|37|1.9k|Hospitals and Health Care|
+|[YouShift](https://you-shift.com/)|[Link](https://linkedin.com/company/you-shift)|2024|17|1.8k|Software Development|
+|[Lamar Health](http://www.lamarhealth.com)|[Link](https://linkedin.com/company/lamarhealth)|2022|9|1.7k|Hospitals and Health Care|
+|[MediSearch](https://medisearch.io)|[Link](https://linkedin.com/company/medisearchio)|2023|16|1.6k|Software Development|
+|[Adentris (Y Combinator P25)](http://www.adentris.com)|[Link](https://linkedin.com/company/adentris)|2025|18|1.5k|Hospitals and Health Care|
+|[Numen](https://www.numen.com)|[Link](https://linkedin.com/company/numenbio)|N/A|17|1.5k|Biotechnology Research|
+|[SafeBeat Rx](https://www.safebeatrx.com/)|[Link](https://linkedin.com/company/safebeatrx)|2020|34|1.5k|Wellness and Fitness Services|
+|[10x Science (YC W26)](https://10xscience.com)|[Link](https://linkedin.com/company/10xscience)|2025|5|1.5k|Software Development|
+|[MDalgorithms](http://www.mdalgorithms.com)|[Link](https://linkedin.com/company/mdalgorithms)|2017|13|1.4k|Wellness and Fitness Services|
+|[datrics.ai](https://datrics.ai)|[Link](https://linkedin.com/company/datrics-ai)|2019|15|1.4k|IT Services and IT Consulting|
+|[Toothy AI (YC W25)](https://www.toothy.ai/)|[Link](https://linkedin.com/company/toothy-ai)|N/A|11|1.4k|Medical Practices|
+|[Readily](https://readily.co)|[Link](https://linkedin.com/company/readilyai)|2023|24|1.3k|Information Services|
+|[Dodo](https://www.dodo.ai)|[Link](https://linkedin.com/company/dodoinc)|N/A|11|1.3k|Software Development|
+|[Origin](https://origin.bio/)|[Link](https://linkedin.com/company/origin-bio-inc)|2025|5|1.3k|Biotechnology Research|
+|[Pharos](https://pharos.health/)|[Link](https://linkedin.com/company/pharoshealth)|N/A|7|1.1k|Hospitals and Health Care|
+
+### San Francisco - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Murf AI](https://murf.ai/falcon)|[Link](https://linkedin.com/company/murf-ai)|2020|114|139k|Software Development|
+|[Gnani AI](https://www.gnani.ai/)|[Link](https://linkedin.com/company/gnani-ai)|2016|340|127k|Software Development|
+|[Wispr Flow](https://wisprflow.ai/)|[Link](https://linkedin.com/company/wisprflow)|2021|170|92k|Software Development|
+|[AssemblyAI](http://www.assemblyai.com)|[Link](https://linkedin.com/company/assemblyai)|2017|116|49k|Software Development|
+|[smallest.ai](https://smallest.ai/)|[Link](https://linkedin.com/company/smallest)|2023|104|39k|Software Development|
+|[Descript](http://www.descript.com)|[Link](https://linkedin.com/company/descript)|2017|175|37k|Software Development|
+|[Cartesia](https://cartesia.ai)|[Link](https://linkedin.com/company/cartesia-ai)|2023|174|32k|Software Development|
+|[Vapi](https://vapi.ai)|[Link](https://linkedin.com/company/vapi-ai)|2023|150|28k|Software Development|
+|[Sesame](http://sesame.com)|[Link](https://linkedin.com/company/sesameai)|2023|156|27k|Computers and Electronics Manufacturing|
+|[LiveKit](https://livekit.com)|[Link](https://linkedin.com/company/livekitco)|2021|196|18k|Software Development|
+|[Ocular AI (YC W24)](https://www.useocular.com/)|[Link](https://linkedin.com/company/use-ocular)|2024|9|3.7k|Software Development|
+|[LIV](https://liv.tv)|[Link](https://linkedin.com/company/liv)|2016|95|1.7k|Software Development|
+|[Cochl](https://www.cochl.ai/)|[Link](https://linkedin.com/company/cochl)|2017|28|1.2k|Software Development|
+
+### San Francisco - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Zendesk](http://zdsk.co/46mVi8h)|[Link](https://linkedin.com/company/zendesk)|2007|7.7k|697k|Software Development|
+|[Talkdesk](https://www.talkdesk.com)|[Link](https://linkedin.com/company/talkdesk)|2011|1.4k|386k|Software Development|
+|[Intercom](https://www.intercom.com)|[Link](https://linkedin.com/company/intercom)|2011|1k|192k|Software Development|
+|[Sierra](https://sierra.ai/)|[Link](https://linkedin.com/company/sierra)|N/A|1.2k|113k|Software Development|
+|[PolyAI](https://poly.ai)|[Link](https://linkedin.com/company/polyai)|N/A|358|97k|Software Development|
+|[Decagon](https://decagon.ai)|[Link](https://linkedin.com/company/decagon-ai)|2023|646|86k|Software Development|
+|[Jasper](https://jasper.ai)|[Link](https://linkedin.com/company/heyjasperai)|2020|1k|76k|Software Development|
+|[Gupshup](https://www.gupshup.ai/)|[Link](https://linkedin.com/company/gupshup)|2004|928|54k|IT Services and IT Consulting|
+|[Super.com](https://www.super.com/)|[Link](https://linkedin.com/company/superdotcom)|2016|1.3k|45k|Financial Services|
+|[Pylon](https://usepylon.com)|[Link](https://linkedin.com/company/usepylon)|N/A|183|40k|Software Development|
+|[Giga](https://giga.ai)|[Link](https://linkedin.com/company/gigaml)|N/A|128|36k|Software Development|
+|[Rasa](https://rasa.com)|[Link](https://linkedin.com/company/rasa)|2016|190|26k|Software Development|
+|[Voiceflow](https://www.voiceflow.com/)|[Link](https://linkedin.com/company/voiceflowhq)|2019|89|25k|Software Development|
+|[Conversica](https://www.conversica.com)|[Link](https://linkedin.com/company/conversica)|2007|106|22k|Software Development|
+|[Bolna (YC F25)](https://www.bolna.ai/)|[Link](https://linkedin.com/company/bolna-ai)|2024|62|18k|Software Development|
+|[SigmaMind AI](https://sigmamind.ai/)|[Link](https://linkedin.com/company/sigmamind-ai)|2023|21|17k|Software Development|
+|[Clueso](https://www.clueso.io/)|[Link](https://linkedin.com/company/clueso)|N/A|41|17k|Software Development|
+|[Hyperbound](https://hyperbound.ai/)|[Link](https://linkedin.com/company/hyperbound-ai)|2023|69|16k|Software Development|
+|[Replicant](http://www.replicant.com)|[Link](https://linkedin.com/company/replicant)|2017|177|16k|Software Development|
+|[Community Phone](https://www.communityphone.org)|[Link](https://linkedin.com/company/community-phone)|2018|265|12k|Telecommunications|
+|[Terrakotta](http://terrakotta.ai/)|[Link](https://linkedin.com/company/terrakotta-ai)|N/A|18|10k|Software Development|
+|[Replika](https://replika.com)|[Link](https://linkedin.com/company/replikaai)|2015|120|9.8k|Software Development|
+|[Parahelp](https://parahelp.com)|[Link](https://linkedin.com/company/parahelp-ai)|2024|17|7.7k|Software Development|
+|[Bluejay](https://getbluejay.ai/)|[Link](https://linkedin.com/company/get-bluejay)|N/A|16|6.2k|Software Development|
+|[Leaping AI](https://leapingai.com/)|[Link](https://linkedin.com/company/leaping-ai)|2023|16|5.1k|Software Development|
+|[Cozmo AI (YC W22)](https://www.hellocozmo.ai/)|[Link](https://linkedin.com/company/cozmo-ai)|2025|10|4.6k|Software Development|
+|[Yuma AI (YC W23)](https://yuma.ai/)|[Link](https://linkedin.com/company/yuma-ai)|2023|28|4.2k|Software Development|
+|[Zep AI](https://www.getzep.com/)|[Link](https://linkedin.com/company/zep-ai)|2023|10|4.1k|Software Development|
+|[Inkeep](https://go.inkeep.com/INK-LN-PROF)|[Link](https://linkedin.com/company/inkeep)|2023|20|3.6k|Software Development|
+|[Surface Labs](https://www.withsurface.com/)|[Link](https://linkedin.com/company/surface-labs)|2023|9|2.5k|Software Development|
+|[ego AI (YC W24)](http://egoai.com)|[Link](https://linkedin.com/company/ego-ai)|2023|28|2.3k|Software Development|
+|[Sona8 (YC F26)](http://sona8.com/)|[Link](https://linkedin.com/company/sona8)|2026|7|1.6k|Software Development|
+|[careCycle (YC W25)](https://careCycle.ai)|[Link](https://linkedin.com/company/carecycle-yc-w25)|N/A|7|1k|Software Development|
+
+### San Francisco - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|Instabase|[Link](https://linkedin.com/company/instabase)|N/A|131|102k|Software Development|
+|[Truora Inc.](http://www.truora.com)|[Link](https://linkedin.com/company/truora)|2018|218|64k|IT Services and IT Consulting|
+|[Reducto](http://reducto.ai/)|[Link](https://linkedin.com/company/reducto-ai)|N/A|99|17k|Software Development|
+|[Inscribe AI](https://www.inscribe.ai/)|[Link](https://linkedin.com/company/inscribeai)|2017|46|5.9k|Software Development|
+
+### San Francisco - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Glean](https://glean-it.com/glean)|[Link](https://linkedin.com/company/gleanwork)|2019|1.8k|250k|Software Development|
+|[Exa](https://exa.ai)|[Link](https://linkedin.com/company/exa-ai)|N/A|243|42k|Software Development|
+|[You.com](https://you.com/home)|[Link](https://linkedin.com/company/youdotcom)|2020|334|41k|Software Development|
+|[Marqo](https://www.marqo.ai/)|[Link](https://linkedin.com/company/marqo-ai)|N/A|38|11k|Software Development|
+
+### San Francisco - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[KoBold Metals](https://www.koboldmetals.com/)|[Link](https://linkedin.com/company/koboldmetals)|2018|377|70k|Mining|
+|[Waterplan](http://waterplan.com)|[Link](https://linkedin.com/company/waterplan-ai)|2020|102|15k|IT Services and IT Consulting|
+|[Profluent](https://profluent.bio/)|[Link](https://linkedin.com/company/profluent-bio)|2022|83|14k|Biotechnology Research|
+|[Numerai](https://numer.ai)|[Link](https://linkedin.com/company/numerai)|2015|57|12k|Financial Services|
+|[EARTH AI](http://www.earth-ai.com)|[Link](https://linkedin.com/company/earth-ai)|2017|44|9.1k|Mining|
+|[Agave](https://www.useagave.com)|[Link](https://linkedin.com/company/agave-api)|2021|101|8.2k|Software Development|
+|[molecule.one](https://molecule.one)|[Link](https://linkedin.com/company/molecule-one)|2019|37|6.3k|Pharmaceutical Manufacturing|
+|[Atmo](http://atmo.ai)|[Link](https://linkedin.com/company/atmo-ai)|2020|27|5.5k|Software Development|
+|[Potion AI](https://www.potion.ai)|[Link](https://linkedin.com/company/potionai)|2019|10|5.2k|Software Development|
+|[Lumari](https://www.lumari.ai/)|[Link](https://linkedin.com/company/lumari-io)|2024|8|4.8k|Software Development|
+|[Cactus Compute (YC S25)](https://www.cactuscompute.com)|[Link](https://linkedin.com/company/cactus-compute)|2025|24|4.4k|Research Services|
+|[Navier AI](https://www.navier.ai)|[Link](https://linkedin.com/company/navier-ai)|2023|11|4k|Software Development|
+|[Carma Technologies, Inc.](https://www.joincarma.com/)|[Link](https://linkedin.com/company/carma-com)|2024|9|3.9k|Software Development|
+|[MOVEdot AI (YC F25)](https://www.movedot.ai/)|[Link](https://linkedin.com/company/move-dot-ai)|2024|14|3.8k|Software Development|
+|[Emobi](https://www.emobi.ai)|[Link](https://linkedin.com/company/emobi-ai)|2020|9|2.7k|Software Development|
+|[Alloovium (YC S26)](http://alloovium.com)|[Link](https://linkedin.com/company/alloovium)|N/A|5|2.7k|Construction|
+|[Aikido Technologies (F26)](http://www.aikidotechnologies.com)|[Link](https://linkedin.com/company/aikido-technologies)|2022|8|2.2k|IT Services and IT Consulting|
+|[Godela (YC X25)](https://godela.ai/)|[Link](https://linkedin.com/company/godela-ai)|N/A|11|2.1k|Research Services|
+|[Enhanced Radar](http://www.enhancedradar.com)|[Link](https://linkedin.com/company/enhanced-radar)|N/A|22|1.7k|Airlines and Aviation|
+|[Piris Labs](http://pirislabs.io)|[Link](https://linkedin.com/company/pirislabs)|2026|11|1.7k|Software Development|
+|[Bronco AI](https://bronco.ai)|[Link](https://linkedin.com/company/bronco-ai)|2023|16|1.2k|Software Development|
+
+### San Francisco - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mercor](http://mercor.com)|[Link](https://linkedin.com/company/mercor-ai)|2023|13k|862k|Software Development|
+|[Rippling](https://www.rippling.com/)|[Link](https://linkedin.com/company/rippling)|2016|7.9k|507k|Software Development|
+|[Zapier](https://zapier.com/)|[Link](https://linkedin.com/company/zapier)|N/A|1.5k|401k|Software Development|
+|[Gong](http://www.gong.io)|[Link](https://linkedin.com/company/gong-io)|2015|2.1k|350k|Software Development|
+|[Harvey](http://www.harvey.ai)|[Link](https://linkedin.com/company/harvey-ai)|2022|2k|233k|Software Development|
+|[Domestika](http://domestika.org)|[Link](https://linkedin.com/company/domestika)|2010|1.4k|225k|Software Development|
+|[Mindtickle](https://bit.ly/3zW7XMU)|[Link](https://linkedin.com/company/mindtickle)|2012|670|209k|Software Development|
+|[Airtable](https://airtable.com)|[Link](https://linkedin.com/company/airtable)|N/A|1.2k|200k|Software Development|
+|[Leena AI](https://leena.ai/)|[Link](https://linkedin.com/company/leena-ai)|2018|327|176k|Software Development|
+|[CleverTap](https://clevertap.com)|[Link](https://linkedin.com/company/clevertap)|2013|643|92k|Software Development|
+|[Cyble](https://cyble.com/)|[Link](https://linkedin.com/company/cyble-global)|2019|230|89k|Computer and Network Security|
+|[Artisan](http://artisan.co)|[Link](https://linkedin.com/company/artisanai)|N/A|342|82k|Software Development|
+|[Benchling](https://benchling.com)|[Link](https://linkedin.com/company/benchling)|N/A|813|69k|Software Development|
+|[Humand](http://humand.co)|[Link](https://linkedin.com/company/humand-co)|2019|752|60k|Software Development|
+|[Hightouch](http://www.hightouch.com)|[Link](https://linkedin.com/company/hightouchio)|N/A|658|59k|Software Development|
+|[Metaview](https://www.metaview.ai/)|[Link](https://linkedin.com/company/metaview-technologies)|2018|153|47k|Software Development|
+|[Simplify](http://simplify.jobs)|[Link](https://linkedin.com/company/simplifyjobs)|2020|117|44k|Software Development|
+|[Pump.co](https://pump.co/)|[Link](https://linkedin.com/company/pumpcloud)|2022|111|38k|Software Development|
+|[Ridecell](http://www.ridecell.com)|[Link](https://linkedin.com/company/ridecell)|2009|162|37k|Software Development|
+|[Juicebox](https://juicebox.ai/)|[Link](https://linkedin.com/company/juicebox-work)|2022|158|33k|Software Development|
+|[EvenUp](https://www.evenuplaw.com)|[Link](https://linkedin.com/company/evenup)|2019|850|33k|Software Development|
+|[Campfire](https://campfire.ai/)|[Link](https://linkedin.com/company/meetcampfire)|2023|199|31k|Software Development|
+|[People.ai](http://www.backstory.ai)|[Link](https://linkedin.com/company/people.ai)|2016|116|30k|Software Development|
+|[AfterQuery](http://www.afterquery.com)|[Link](https://linkedin.com/company/afterquery)|2025|286|28k|Software Development|
+|[Pibit.AI](https://pibit.ai/)|[Link](https://linkedin.com/company/pibitai)|2020|167|26k|Insurance|
+|[Mutiny](http://mutinyhq.com)|[Link](https://linkedin.com/company/mutinyhq)|2018|52|24k|Software Development|
+|[Fieldguide](http://www.fieldguide.com)|[Link](https://linkedin.com/company/fieldguide-inc)|2020|257|18k|Software Development|
+|[Pragmatic Leaders (YC W21)](https://pragmaticleaders.io/)|[Link](https://linkedin.com/company/pragmaticleaders)|2018|16|14k|E-Learning Providers|
+|[Slope](https://www.slopepay.com)|[Link](https://linkedin.com/company/slope-tech)|2021|37|14k|Financial Services|
+|[Outset](https://www.outset.ai/)|[Link](https://linkedin.com/company/outset-ai)|2022|113|14k|Software Development|
+|[Within](https://www.within.ai)|[Link](https://linkedin.com/company/withinai)|2017|77|13k|Software Development|
+|[Sorce](https://sorce.jobs)|[Link](https://linkedin.com/company/sorcejobs)|2024|15|13k|Software Development|
+|[Willow](https://go.willowvoice.com/li)|[Link](https://linkedin.com/company/willowvoice)|N/A|18|13k|Software Development|
+|[Eloquent AI](https://eloquentai.co/)|[Link](https://linkedin.com/company/eloquentai)|2025|13|12k|Software Development|
+|[Curacel (YC 22)](https://curacel.ai)|[Link](https://linkedin.com/company/curacel)|2019|58|11k|IT Services and IT Consulting|
+|[Fondo](https://fondo.com)|[Link](https://linkedin.com/company/fondohq)|2020|117|11k|Software Development|
+|[Paid](https://paid.ai/)|[Link](https://linkedin.com/company/paid-ai)|2024|33|11k|Software Development|
+|[Taskade](https://www.taskade.com)|[Link](https://linkedin.com/company/taskade)|2017|16|11k|Software Development|
+|[Arnata](http://www.arnata.com)|[Link](https://linkedin.com/company/arnata)|2017|11|11k|Software Development|
+|[Alai (YC W24)](https://getalai.com)|[Link](https://linkedin.com/company/getalai)|N/A|3|10k|Software Development|
+|[Alex AI](https://www.alex.com)|[Link](https://linkedin.com/company/hire-alex)|N/A|47|9.9k|Software Development|
+|[GetCrux](https://bit.ly/scalefasterwithcrux)|[Link](https://linkedin.com/company/getcruxai)|N/A|24|9.4k|Software Development|
+|[Promise](https://www.joinpromise.com)|[Link](https://linkedin.com/company/joinpromise)|2017|252|9.1k|Software Development|
+|[Casca](https://www.cascading.ai)|[Link](https://linkedin.com/company/cascading-ai)|2023|60|8.9k|Software Development|
+|[Short Story](https://shortstorybox.com)|[Link](https://linkedin.com/company/shortstorybox)|2019|190|8.7k|Retail Apparel and Fashion|
+|[Topo (YC W24)](https://www.topo.io)|[Link](https://linkedin.com/company/topo-sales)|2023|38|8.3k|Software Development|
+|[Goodfin](https://www.goodfin.com)|[Link](https://linkedin.com/company/getgoodfin)|N/A|12|8.1k|Financial Services|
+|[PredictHQ](http://www.predicthq.com/)|[Link](https://linkedin.com/company/predicthq)|2015|54|7.9k|Software Development|
+|[Nowadays](https://nowadays.ai)|[Link](https://linkedin.com/company/nowadays-ai)|2023|19|7.8k|Software Development|
+|[LiveFlow](https://www.liveflow.com)|[Link](https://linkedin.com/company/liveflow)|2022|36|7.7k|Software Development|
+|[ShortLoop](https://www.shortloop.dev/)|[Link](https://linkedin.com/company/shortloop)|2023|18|7.6k|Software Development|
+|[TaxGPT](https://taxgpt.com)|[Link](https://linkedin.com/company/taxgpt)|2023|52|7.3k|Financial Services|
+|[Contrario](https://www.contrario.ai/)|[Link](https://linkedin.com/company/contrario-ai)|2025|62|7.2k|Software Development|
+|[Toma](https://www.toma.com)|[Link](https://linkedin.com/company/toma-inc)|N/A|62|7.2k|Software Development|
+|[LegalOn](http://www.legalontech.com)|[Link](https://linkedin.com/company/legalon-technologies)|2017|132|7.1k|Software Development|
+|[Woz (YC W25)](https://www.wozcode.com/)|[Link](https://linkedin.com/company/withwoz)|N/A|8|6.9k|Software Development|
+|[Truewind](https://www.truewind.ai/)|[Link](https://linkedin.com/company/truewindai)|2023|32|6.9k|Accounting|
+|[Letterdrop](https://letterdrop.com)|[Link](https://linkedin.com/company/letterdrop)|2021|24|6.4k|Software Development|
+|[AiSDR](https://aisdr.com/)|[Link](https://linkedin.com/company/aisdrapp)|2023|50|6.4k|Software Development|
+|[Nimble](http://www.hirenimble.com)|[Link](https://linkedin.com/company/hirenimble)|2016|45|6.3k|Education Administration Programs|
+|[Jestor](https://jestor.com)|[Link](https://linkedin.com/company/jestor)|2019|23|6.1k|Software Development|
+|[Weave](https://weaveos.com/)|[Link](https://linkedin.com/company/weave-dev)|2024|25|6k|Software Development|
+|[Fazeshift](https://www.fazeshift.com/)|[Link](https://linkedin.com/company/fazeshift)|N/A|44|6k|Software Development|
+|[Simple AI](https://www.usesimple.ai)|[Link](https://linkedin.com/company/simple-ai-lab)|2024|33|5.9k|Software Development|
+|[QualGent](https://qualgent.link/CF3UB6h)|[Link](https://linkedin.com/company/qualgent)|N/A|8|5.8k|Software Development|
+|[Openmart](https://www.openmart.com/)|[Link](https://linkedin.com/company/openmartai)|2023|10|5.6k|Information Services|
+|[The Forecasting Company](https://www.theforecastingcompany.com)|[Link](https://linkedin.com/company/the-forecasting-company)|2024|12|5.6k|Software Development|
+|[Lighthouz AI](https://lighthouz.ai)|[Link](https://linkedin.com/company/lighthouz-ai)|2023|8|5.6k|Software Development|
+|[Anara](https://anara.com)|[Link](https://linkedin.com/company/anaralabs)|N/A|30|5.5k|Software Development|
+|[BetterBasket](http://betterbasket.com)|[Link](https://linkedin.com/company/betterbasket)|2023|8|5.4k|Software Development|
+|[Uplane](https://uplane.com/)|[Link](https://linkedin.com/company/uplane-com)|N/A|23|5.3k|Software Development|
+|[Monumint](https://monumint.com)|[Link](https://linkedin.com/company/monumintcom)|2024|10|5.2k|Software Development|
+|[Vesence](https://vesence.com)|[Link](https://linkedin.com/company/vesence)|2025|13|5.2k|Software Development|
+|[Leadbay (YC F25)](https://leadbay.ai/)|[Link](https://linkedin.com/company/leadbay)|N/A|27|5.1k|Software Development|
+|[Astor](http://www.astor.app)|[Link](https://linkedin.com/company/joinastor)|N/A|7|4.7k|Software Development|
+|[Bolto](https://www.bolto.com/)|[Link](https://linkedin.com/company/boltohq)|2023|22|4.7k|Software Development|
+|[Serra](https://www.serra.io)|[Link](https://linkedin.com/company/serraio)|2023|28|4.7k|Software Development|
+|[Raindrop](https://www.raindrop.ai/)|[Link](https://linkedin.com/company/raindrop-ai)|N/A|19|4.7k|Software Development|
+|Youverify|[Link](https://linkedin.com/company/youverifyai)|2018|61|4.6k|Software Development|
+|[Flair Labs](https://flairlabs.ai)|[Link](https://linkedin.com/company/flair-labs-ai)|2023|10|4.5k|Software Development|
+|[Lanesurf](http://www.lanesurf.com)|[Link](https://linkedin.com/company/lane-surf)|2023|14|4.4k|Truck Transportation|
+|[Reacher](https://reacherapp.com/)|[Link](https://linkedin.com/company/reacherapp)|2024|33|4.3k|Software Development|
+|[Ergo](https://joinergo.com/)|[Link](https://linkedin.com/company/ergoai)|2024|11|4.2k|Software Development|
+|[Strada](https://www.getstrada.com)|[Link](https://linkedin.com/company/getstrada)|2023|22|4.2k|Software Development|
+|[Lexi (YC F25)](https://getlexi.io)|[Link](https://linkedin.com/company/getlexi)|2025|8|4.1k|Software Development|
+|[OneSchema](http://www.oneschema.co)|[Link](https://linkedin.com/company/oneschema)|2021|16|3.9k|Software Development|
+|[Finlens - month-end close automation](https://finlens.app)|[Link](https://linkedin.com/company/finlenshq)|2024|8|3.9k|Software Development|
+|[Clean (YC F26)](https://www.tryclean.ai)|[Link](https://linkedin.com/company/cleanailabs)|N/A|10|3.8k|Software Development|
+|[Growbots](http://www.growbots.com)|[Link](https://linkedin.com/company/growbots)|2014|32|3.8k|Software Development|
+|[Invofox (YC S22)](http://invofox.com)|[Link](https://linkedin.com/company/invofox)|2020|29|3.8k|IT Services and IT Consulting|
+|[Alguna](https://alguna.io)|[Link](https://linkedin.com/company/algunahq)|2023|83|3.7k|Software Development|
+|[Telmai](https://www.telm.ai/)|[Link](https://linkedin.com/company/telmai)|2021|16|3.7k|Software Development|
+|[Two Dots](https://www.twodots.com/)|[Link](https://linkedin.com/company/two-dots-financial)|2022|61|3.5k|Software Development|
+|[LedgerUp](https://ledgerup.ai)|[Link](https://linkedin.com/company/ledgerup-ai)|N/A|8|3.5k|Software Development|
+|[AgentCollect (YC S23)](https://agentcollect.com)|[Link](https://linkedin.com/company/agentcollect)|2020|20|3.5k|Software Development|
+|[ProhostAI](https://www.prohost.ai)|[Link](https://linkedin.com/company/prohostai)|N/A|7|3.4k|Software Development|
+|[Workflow86](https://www.workflow86.com)|[Link](https://linkedin.com/company/workflow86)|2021|2|3.3k|IT Services and IT Consulting|
+|superglue (YC W25)|[Link](https://linkedin.com/company/superglue-ai)|N/A|9|3.3k|Software Development|
+|[Sivo (YC W21)](https://sivo.com)|[Link](https://linkedin.com/company/headlessfinance)|2020|40|3.3k|Financial Services|
+|[Olark](https://www.olark.com)|[Link](https://linkedin.com/company/olark)|2008|16|3.3k|Software Development|
+|[SalesPatriot](http://www.salespatriot.com)|[Link](https://linkedin.com/company/salespatriot)|2024|26|3.2k|Wholesale|
+|[Zalos](http://www.zalos.ai/)|[Link](https://linkedin.com/company/zalos)|N/A|11|3.1k|Accounting|
+|[Specific Labs (YC F25)](https://withspecific.com/)|[Link](https://linkedin.com/company/specificlabs)|2026|17|3.1k|Software Development|
+|[Syncly (YC W23)](https://syncly.app)|[Link](https://linkedin.com/company/synclyyc)|2022|16|3k|Software Development|
+|[GREP.AI (YC F26)](https://grep.ai)|[Link](https://linkedin.com/company/grep-ai)|N/A|16|2.9k|Software Development|
+|[Imagine AI](https://useimagine.ai)|[Link](https://linkedin.com/company/ai-imagine)|2025|8|2.8k|Software Development|
+|[Gauge](https://withgauge.com)|[Link](https://linkedin.com/company/withgauge)|2024|7|2.8k|Software Development|
+|[Recurrency](https://www.recurrency.com)|[Link](https://linkedin.com/company/recurrency)|N/A|22|2.8k|Software Development|
+|[Namecard.ai](https://namecard.ai/)|[Link](https://linkedin.com/company/namecardai)|2022|7|2.6k|Software Development|
+|[MTailor](http://www.mtailor.com)|[Link](https://linkedin.com/company/mtailor)|2012|53|2.6k|Retail Apparel and Fashion|
+|[HUD](https://www.hud.ai/)|[Link](https://linkedin.com/company/hud-evals)|2025|16|2.4k|Software Development|
+|[Context.dev (YC S26)](https://context.dev/)|[Link](https://linkedin.com/company/contextdev)|2025|7|2.4k|Software Development|
+|[Veritus](http://www.veritus.com)|[Link](https://linkedin.com/company/veritus-agent)|2025|23|2.3k|Financial Services|
+|[CommodityAI](http://www.commodityai.com)|[Link](https://linkedin.com/company/commodityai)|2024|12|2.3k|Software Development|
+|[Sprites.ai - Autonomous Performance Marketing](https://www.sprites.ai/)|[Link](https://linkedin.com/company/sprites-ai)|2025|10|2.2k|Software Development|
+|[Foundation](https://buildwithfoundation.com/)|[Link](https://linkedin.com/company/foundation-tech)|2023|15|2.2k|Software Development|
+|[Conduit](http://www.helloconduit.com)|[Link](https://linkedin.com/company/getconduit)|2023|24|2.2k|Truck Transportation|
+|[CTGT](https://ctgt.ai/)|[Link](https://linkedin.com/company/ctgt)|N/A|13|2.1k|Research Services|
+|[Spine AI (YC S23)](https://medley.sh)|[Link](https://linkedin.com/company/spine-ai)|N/A|6|2.1k|Software Development|
+|[Apten (YC S24)](https://www.apten.ai/)|[Link](https://linkedin.com/company/apten)|2023|6|2k|Software Development|
+|[Laminar](https://laminar.com)|[Link](https://linkedin.com/company/laminar)|N/A|19|2k|Software Development|
+|[Kimpton (YC P26)](https://www.kimpton.ai)|[Link](https://linkedin.com/company/kimptonai)|2025|8|1.8k|Financial Services|
+|[Kenley](https://kenley.ai/)|[Link](https://linkedin.com/company/kenley)|N/A|11|1.7k|Software Development|
+|[item](https://www.item.app)|[Link](https://linkedin.com/company/useitem)|2024|18|1.6k|Software Development|
+|[Trelium (YC F25)](https://www.trelium.com/)|[Link](https://linkedin.com/company/trelium)|2025|12|1.6k|Software Development|
+|[Theta](https://thetasoftware.com/)|[Link](https://linkedin.com/company/try-theta-software)|N/A|15|1.6k|Software Development|
+|[CambioML (YC S23)](https://www.cambioml.com)|[Link](https://linkedin.com/company/cambioml)|2023|6|1.6k|Software Development|
+|[Certus AI](http://certus-ai.com)|[Link](https://linkedin.com/company/certus-ai)|2025|11|1.5k|Software Development|
+|[Patent Watch (YC F25)](https://www.patentwatch.ai/)|[Link](https://linkedin.com/company/patentwatch-ai)|N/A|4|1.4k|Software Development|
+|[Syntra](https://www.syntra.com)|[Link](https://linkedin.com/company/syntra-24)|2024|16|1.4k|Hospitals and Health Care|
+|[Dart](https://www.dartai.com)|[Link](https://linkedin.com/company/dart-ai)|2022|18|1.3k|Software Development|
+|[Cognition IP](https://www.cognitionip.com)|[Link](https://linkedin.com/company/cognitionip)|2018|11|1.2k|Law Practice|
+|[Serve AI](https://www.tryserve.ai)|[Link](https://linkedin.com/company/tryserveai)|2026|4|1.1k|Software Development|
+|[GetDot](https://getdot.ai)|[Link](https://linkedin.com/company/getdot-ai)|N/A|6|1.1k|IT Services and IT Consulting|
+|[Liva AI](https://www.theliva.ai/)|[Link](https://linkedin.com/company/thelivaai)|N/A|9|1k|Software Development|
+|[Cheers (YC S24)](https://www.cheers.tech)|[Link](https://linkedin.com/company/cheers-software)|2023|5|1k|Software Development|
+
+### San Francisco - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Anthropic](https://www.anthropic.com/)|[Link](https://linkedin.com/company/anthropicresearch)|N/A|6.2k|5.4M|Research Services|
+|[Databricks](https://databricks.com)|[Link](https://linkedin.com/company/databricks)|N/A|14k|1.4M|Software Development|
+|[LangChain](http://langchain.com)|[Link](https://linkedin.com/company/langchain)|N/A|469|561k|Software Development|
+|[Cursor](http://cursor.com)|[Link](https://linkedin.com/company/cursorai)|N/A|742|500k|Software Development|
+|[Scale](https://scale.com)|[Link](https://linkedin.com/company/scaleai)|2016|7.5k|406k|Software Development|
+|[Thinking Machines Lab](https://thinkingmachines.ai)|[Link](https://linkedin.com/company/thinkingmachinesai)|N/A|250|164k|Software Development|
+|[Cognition](https://www.cognition.ai)|[Link](https://linkedin.com/company/cognition-ai-labs)|N/A|642|113k|Software Development|
+|[TRM Labs](http://trmlabs.com)|[Link](https://linkedin.com/company/trmlabs)|2018|481|106k|Information Services|
+|[Nanonets](https://nanonets.com)|[Link](https://linkedin.com/company/nanonets)|2017|327|96k|Software Development|
+|[Snorkel AI](https://snorkel.ai)|[Link](https://linkedin.com/company/snorkel-ai)|2019|1.5k|88k|Software Development|
+|[Sama](http://www.sama.com)|[Link](https://linkedin.com/company/sama-ai)|2008|4.3k|66k|IT Services and IT Consulting|
+|[Checkr, Inc.](http://www.checkr.com)|[Link](https://linkedin.com/company/checkr-com)|N/A|1.8k|66k|Software Development|
+|[Anyscale](https://anyscale.com)|[Link](https://linkedin.com/company/joinanyscale)|2019|885|64k|Software Development|
+|[Anakin (YC S21)](https://www.anakin.io/)|[Link](https://linkedin.com/company/anakintech)|2019|160|62k|Software Development|
+|[Lambda](http://lambda.ai/linkedin)|[Link](https://linkedin.com/company/lambda-cloud)|2012|831|61k|Software Development|
+|[Deepgram](https://deepgram.com)|[Link](https://linkedin.com/company/deepgram)|2015|387|51k|Software Development|
+|[Unsloth AI](https://unsloth.ai)|[Link](https://linkedin.com/company/unsloth)|2023|21|51k|Software Development|
+|[Baseten](https://www.baseten.co/)|[Link](https://linkedin.com/company/baseten)|N/A|487|50k|Software Development|
+|[Gigs](http://www.gigs.com)|[Link](https://linkedin.com/company/meetgigs)|2020|318|49k|Software Development|
+|[Relevance AI](https://relevanceai.com)|[Link](https://linkedin.com/company/relevanceai)|2020|107|44k|Software Development|
+|[TrueFoundry](https://truefoundry.com)|[Link](https://linkedin.com/company/truefoundry)|2021|139|42k|Software Development|
+|[Labelbox](https://labelbox.com/)|[Link](https://linkedin.com/company/labelbox)|2018|490|41k|Software Development|
+|[Airbyte](https://airbyte.com)|[Link](https://linkedin.com/company/airbytehq)|2020|116|40k|Software Development|
+|[Factory](https://www.factory.ai)|[Link](https://linkedin.com/company/factory-hq)|N/A|1.7k|38k|Software Development|
+|[Surge AI](https://www.surgehq.ai)|[Link](https://linkedin.com/company/surge-ai)|2020|553|36k|Software Development|
+|[Poolside](https://poolside.ai)|[Link](https://linkedin.com/company/poolsideai)|2023|302|33k|Software Development|
+|[Flagright](https://link.flagright.com/LinkedIn)|[Link](https://linkedin.com/company/flagright)|2021|63|26k|Software Development|
+|[Decart](https://decart.ai)|[Link](https://linkedin.com/company/decart-ai)|2023|143|25k|Software Development|
+|[Simplismart](https://connect.simplismart.ai/linkedin)|[Link](https://linkedin.com/company/simplismart)|2022|50|24k|Software Development|
+|[Reflex](https://reflex.dev/)|[Link](https://linkedin.com/company/reflex-dev)|2023|60|21k|Software Development|
+|[Glide (glideapps.com)](https://glideapps.com)|[Link](https://linkedin.com/company/glideapps)|2018|95|21k|Software Development|
+|[Mem0](https://mem0.ai/)|[Link](https://linkedin.com/company/mem0)|2024|26|20k|Software Development|
+|[Holistic AI](https://www.holisticai.com/)|[Link](https://linkedin.com/company/holisticai)|2020|84|19k|Software Development|
+|[Braintrust](https://braintrust.dev/)|[Link](https://linkedin.com/company/braintrust-data)|2023|179|17k|Software Development|
+|[Recall.ai](https://www.recall.ai/)|[Link](https://linkedin.com/company/recall-ai)|N/A|43|17k|Software Development|
+|[Replo](https://www.replo.app/)|[Link](https://linkedin.com/company/replohq)|2021|74|17k|Software Development|
+|[Naïve](https://usenaive.ai/)|[Link](https://linkedin.com/company/usenaive)|N/A|15|16k|Software Development|
+|[Activepieces](https://www.activepieces.com)|[Link](https://linkedin.com/company/activepieces)|2022|31|16k|Software Development|
+|[LiteLLM AI Gateway](https://www.litellm.ai/)|[Link](https://linkedin.com/company/litellm)|2023|27|16k|Software Development|
+|[Deepnote](https://www.deepnote.com)|[Link](https://linkedin.com/company/deepnote)|N/A|22|13k|Software Development|
+|[LanceDB](http://lancedb.com)|[Link](https://linkedin.com/company/lancedb)|2022|66|13k|Information Services|
+|[Browserbase](https://browserbase.com)|[Link](https://linkedin.com/company/browserbasehq)|N/A|84|13k|Software Development|
+|Sauna by Wordware|[Link](https://linkedin.com/company/saunabywordware)|N/A|53|12k|Software Development|
+|[Affogato AI](https://affogato.ai)|[Link](https://linkedin.com/company/aiaffogato)|N/A|10|12k|Software Development|
+|[Greptile](http://www.greptile.com)|[Link](https://linkedin.com/company/greptile)|2024|45|11k|Software Development|
+|[Middleware](https://middleware.io)|[Link](https://linkedin.com/company/middleware-labs)|2022|46|11k|Software Development|
+|[Unlayer (YC W22)](https://unlayer.com)|[Link](https://linkedin.com/company/unlayer)|N/A|20|11k|Software Development|
+|[Dynamo AI](https://www.dynamo.ai/)|[Link](https://linkedin.com/company/dynamofl)|2021|58|10k|Software Development|
+|[Chroma](https://www.trychroma.com/)|[Link](https://linkedin.com/company/trychroma)|N/A|106|10k|Software Development|
+|[Entangl, Inc.](https://www.entangl.com)|[Link](https://linkedin.com/company/entangl)|N/A|14|9.8k|Software Development|
+|[Browser Use](https://browser-use.com)|[Link](https://linkedin.com/company/browser-use)|N/A|18|9.6k|Software Development|
+|[Bretton AI](https://bretton.com)|[Link](https://linkedin.com/company/bretton-ai)|2023|107|9.3k|Software Development|
+|[Mastra](https://github.com/mastra-ai/mastra)|[Link](https://linkedin.com/company/mastra-ai)|N/A|62|8.3k|Software Development|
+|[Embedder](https://www.embedder.com)|[Link](https://linkedin.com/company/embedder-dev)|2025|12|7.9k|Software Development|
+|[Coval](https://coval.ai)|[Link](https://linkedin.com/company/covaldev)|N/A|26|7.8k|Software Development|
+|[Thunder Compute](https://www.thundercompute.com)|[Link](https://linkedin.com/company/thundercompute)|2024|14|7.6k|Software Development|
+|[Waydev](https://waydev.co)|[Link](https://linkedin.com/company/waydev)|2017|41|7.4k|Software Development|
+|[Bifrost (by Maxim AI)](https://www.getmaxim.ai)|[Link](https://linkedin.com/company/bifrost-ai-gateway)|2023|35|7.4k|Software Development|
+|[Momentic](https://momentic.ai)|[Link](https://linkedin.com/company/momentic-ai)|2023|55|7.3k|Software Development|
+|[Domu](https://www.domu.ai/)|[Link](https://linkedin.com/company/domu-ai)|2022|68|7.3k|Software Development|
+|[Andon Labs](https://andonlabs.com/)|[Link](https://linkedin.com/company/andonlabs)|N/A|16|6.9k|Information Services|
+|[Lingo.dev](https://lingo.dev)|[Link](https://linkedin.com/company/lingodotdev)|2024|7|6.8k|Software Development|
+|[Daily](https://daily.co)|[Link](https://linkedin.com/company/dailyco)|2016|168|6.2k|Software Development|
+|[Respan](https://www.respan.ai)|[Link](https://linkedin.com/company/respan-ai)|2023|22|6.1k|Software Development|
+|[OpenHive](https://open-hive.com/)|[Link](https://linkedin.com/company/openhivehq)|2025|50|5.8k|Software Development|
+|[Velt](https://velt.dev/)|[Link](https://linkedin.com/company/veltjs)|2020|13|5.7k|Software Development|
+|[Orca ADE](https://www.onorca.dev)|[Link](https://linkedin.com/company/stably-ai)|N/A|10|5.4k|Software Development|
+|[Firstwork (YC S24)](http://firstwork.com)|[Link](https://linkedin.com/company/firstworkhr)|2024|47|5.1k|Software Development|
+|[Openlayer](https://openlayer.com)|[Link](https://linkedin.com/company/openlayerco)|2021|33|5k|Software Development|
+|[Usul](http://usul.com)|[Link](https://linkedin.com/company/usulmafia)|2024|12|4.9k|Software Development|
+|[64x Bio](http://www.64xbio.com)|[Link](https://linkedin.com/company/64xbio)|2018|21|4.9k|Biotechnology Research|
+|[Manufact (YC S25)](https://manufact.com)|[Link](https://linkedin.com/company/mcp-use)|N/A|5|4.9k|Software Development|
+|[Dedalus Labs](https://www.dedaluslabs.ai/)|[Link](https://linkedin.com/company/dedalus-labs)|2025|15|4.8k|Software Development|
+|[Tint](http://www.tint.ai)|[Link](https://linkedin.com/company/heytint)|2018|64|4.6k|Insurance|
+|[Rosebud AI](http://rosebud.ai/l)|[Link](https://linkedin.com/company/rosebud-ai)|N/A|13|4.6k|Software Development|
+|[RetailReady](http://retailreadyai.com)|[Link](https://linkedin.com/company/retailreadyai)|2024|22|4.5k|Software Development|
+|[Corgea](http://corgea.com)|[Link](https://linkedin.com/company/corgea)|2023|8|4.3k|Computer and Network Security|
+|[VESSL AI](http://vessl.ai/)|[Link](https://linkedin.com/company/vesslai)|2020|51|4.2k|Software Development|
+|[Conductor](https://www.ycombinator.com/companies/conductor)|[Link](https://linkedin.com/company/conductor-build)|2024|25|4.2k|Software Development|
+|[Confident AI](http://www.confident-ai.com)|[Link](https://linkedin.com/company/confident-ai)|N/A|11|4.1k|Software Development|
+|[MindFort AI (YC X25)](https://mindfort.ai/)|[Link](https://linkedin.com/company/mindfort-ai)|2025|6|4k|Software Development|
+|[RunAnywhere (YC W26)](https://runanywhere.ai/)|[Link](https://linkedin.com/company/runanywhere)|2025|8|3.9k|Software Development|
+|[Ubicloud](https://ubicloud.com/)|[Link](https://linkedin.com/company/ubicloud)|2023|20|3.9k|Software Development|
+|[Moss (YC F25)](https://moss.dev)|[Link](https://linkedin.com/company/mossdev)|2024|9|3.8k|Software Development|
+|[KERNEL](https://www.kernel.sh)|[Link](https://linkedin.com/company/trykernel)|2025|24|3.6k|Software Development|
+|[Spellbrush](https://spellbrush.com)|[Link](https://linkedin.com/company/spellbrush)|2018|33|3.6k|Computer Games|
+|[Oway](https://www.oway.io)|[Link](https://linkedin.com/company/oway)|2023|25|3.5k|Software Development|
+|[Hyperspell](https://www.hyperspell.com)|[Link](https://linkedin.com/company/hyperspell)|N/A|11|3.5k|Software Development|
+|[ZeroPath](https://zeropath.com)|[Link](https://linkedin.com/company/zeropathai)|2024|13|3.5k|Computer and Network Security|
+|[Cartage](https://www.cartage.ai/)|[Link](https://linkedin.com/company/cartage-ai)|N/A|26|3.3k|Truck Transportation|
+|[Dataleap (YC S24)](https://dataleap.ai/)|[Link](https://linkedin.com/company/dataleap-inc)|2023|7|2.8k|Software Development|
+|[Autosana (YC S25)](https://autosana.ai)|[Link](https://linkedin.com/company/autosana)|2025|8|2.8k|Software Development|
+|[Luminal](https://luminal.com)|[Link](https://linkedin.com/company/luminalai)|N/A|13|2.6k|Software Development|
+|[Variance](https://www.variance.com)|[Link](https://linkedin.com/company/variancesafety)|N/A|20|2.6k|Software Development|
+|[Ready.net](https://www.ready.net)|[Link](https://linkedin.com/company/readynet)|2020|71|2.4k|Software Development|
+|[Besimple AI](https://besimple.ai/)|[Link](https://linkedin.com/company/besimple-ai)|2025|18|2.3k|Software Development|
+|[Trellis AI](https://runtrellis.com/)|[Link](https://linkedin.com/company/runtrellis)|N/A|20|2.2k|Hospitals and Health Care|
+|Tess|[Link](https://linkedin.com/company/tess-us)|N/A|36|2.2k|Software Development|
+|[Variant](https://variant.ai)|[Link](https://linkedin.com/company/variantui)|N/A|9|2.1k|Software Development|
+|[Trillion Labs](http://trillionlabs.co)|[Link](https://linkedin.com/company/trillion-labs)|2024|23|2.1k|Software Development|
+|[Sixtyfour](https://sixtyfour.ai)|[Link](https://linkedin.com/company/sixtyfourai)|2025|13|2k|Research Services|
+|[Nitrode (YC W25)](https://www.nitrode.com)|[Link](https://linkedin.com/company/nitrode)|2024|5|1.9k|Software Development|
+|Ohm|[Link](https://linkedin.com/company/ohm)|2025|19|1.9k|Software Development|
+|[Reform](https://reformhq.com)|[Link](https://linkedin.com/company/reformhq)|N/A|18|1.8k|Software Development|
+|[Abundant](https://www.abundant.ai/)|[Link](https://linkedin.com/company/abundant-ai)|2024|33|1.7k|Research Services|
+|[SID.ai](https://sid.ai)|[Link](https://linkedin.com/company/sidai)|2022|5|1.7k|Software Development|
+|[Revyl](https://www.revyl.com)|[Link](https://linkedin.com/company/revylai)|2024|12|1.7k|Software Development|
+|[WarpBuild](https://www.warpbuild.com)|[Link](https://linkedin.com/company/warpbuild)|N/A|12|1.6k|Software Development|
+|[Notte](https://www.notte.cc/)|[Link](https://linkedin.com/company/nottelabsinc)|2025|5|1.6k|Software Development|
+|[Osmosis (YC W25)](http://osmosis.ai)|[Link](https://linkedin.com/company/osmosis-ai)|N/A|8|1.6k|Software Development|
+|[Cedalio (YC S23)](http://cedalio.com)|[Link](https://linkedin.com/company/cedalio)|2022|6|1.5k|Software Development|
+|[Skypher](https://skypher.co)|[Link](https://linkedin.com/company/skypher)|2022|10|1.5k|Software Development|
+|[Archil](https://archil.com)|[Link](https://linkedin.com/company/archil)|2024|17|1.5k|Software Development|
+|[Tinfoil](https://tinfoil.sh)|[Link](https://linkedin.com/company/tinfoil)|2024|9|1.4k|Software Development|
+|[Fastagger](https://fastagger.com)|[Link](https://linkedin.com/company/fastagger)|2019|4|1.4k|Software Development|
+|[Chima](https://www.withchima.com/)|[Link](https://linkedin.com/company/withchima)|2022|11|1.4k|Software Development|
+|[Overshoot (YC W26)](https://overshoot.ai)|[Link](https://linkedin.com/company/overshootai)|N/A|3|1.4k|Software Development|
+|[HelixDB](https://helix-db.com)|[Link](https://linkedin.com/company/helixdb)|2025|3|1.3k|Software Development|
+|[Maitai](https://trymaitai.ai)|[Link](https://linkedin.com/company/maitai-inc)|N/A|9|1.2k|Software Development|
+|[TrainLoop](https://trainloop.ai/)|[Link](https://linkedin.com/company/trainloopai)|N/A|8|1.1k|Software Development|
+|[Integuru (YC W24)](https://integuru.com)|[Link](https://linkedin.com/company/integuru-ai)|2024|5|1.1k|Software Development|
+
+### San Francisco - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Discord](http://www.discord.com)|[Link](https://linkedin.com/company/discord)|N/A|5.2k|489k|Software Development|
+|[Prezi](http://prezi.com/)|[Link](https://linkedin.com/company/prezi)|2009|188|69k|Software Development|
+|[HappyRobot](https://www.happyrobot.ai/)|[Link](https://linkedin.com/company/happyrobot)|2023|260|51k|Software Development|
+|[Gumloop](https://www.gumloop.com/)|[Link](https://linkedin.com/company/gumloop)|2023|51|31k|Software Development|
+|[Broccoli AI](https://www.broccoli.com/)|[Link](https://linkedin.com/company/broccoli-com)|N/A|124|30k|Software Development|
+|[Speak](https://www.speak.com/)|[Link](https://linkedin.com/company/usespeak)|N/A|319|29k|Software Development|
+|[Julius AI](https://julius.ai)|[Link](https://linkedin.com/company/julius-ai)|N/A|21|22k|Software Development|
+|[Ello](https://www.ello.com)|[Link](https://linkedin.com/company/elloinc)|N/A|102|11k|Higher Education|
+|[Wafer](https://www.wafer.ai/)|[Link](https://linkedin.com/company/wafer-ai)|N/A|18|6.6k|Software Development|
+|[NOSO LABS(YC S25)](https://noso.so)|[Link](https://linkedin.com/company/noso-labs)|2025|11|5k|Information Services|
+|[FleetWorks](http://www.fleetworks.ai)|[Link](https://linkedin.com/company/fleetworksai)|2023|33|4.6k|Truck Transportation|
+|[Gym Class](https://gymclass.com)|[Link](https://linkedin.com/company/gymclassvr)|2021|107|4.6k|Computer Games|
+|[Piramidal (YC W24)](https://piramidal.ai/)|[Link](https://linkedin.com/company/piramidalai)|2024|11|2.7k|Software Development|
+|[Unbound](https://getunbound.ai)|[Link](https://linkedin.com/company/unboundsec)|2024|12|2.6k|Software Development|
+|[Compose AI](https://www.compose.ai/)|[Link](https://linkedin.com/company/compose-ai)|2020|4|2.5k|Software Development|
+|[Educato AI (YC S24)](https://www.educato.ai)|[Link](https://linkedin.com/company/educato-ai)|2024|25|2k|Higher Education|
+|Callbook AI (YC S26)|[Link](https://linkedin.com/company/callbook-ai)|2025|11|1.9k|Software Development|
+|[Capy](https://capy.ai)|[Link](https://linkedin.com/company/capydotai)|N/A|7|1.9k|Software Development|
+|[Antigen](https://antigen.sh/)|[Link](https://linkedin.com/company/antigenco)|2026|7|1.7k|Computer and Network Security|
+|[Narrative](https://trynarrative.com/)|[Link](https://linkedin.com/company/trynarrative)|N/A|3|1.7k|Software Development|
+|[Rejoy Health](https://www.rejoyhealth.com)|[Link](https://linkedin.com/company/rejoyhealthusa)|2021|8|1.7k|Hospitals and Health Care|
+|[Guide Labs](https://www.guidelabs.ai)|[Link](https://linkedin.com/company/guide-labs)|2023|13|1.5k|Research Services|
+|[Whip](https://whip.run/)|[Link](https://linkedin.com/company/joinwhip)|N/A|7|1.3k|Software Development|
+|[Oki](https://okihome.ai/)|[Link](https://linkedin.com/company/oki-ai)|N/A|6|1.1k|Software Development|
+|[CreativeMode (YC S24)](https://creativemode.net)|[Link](https://linkedin.com/company/creativemode1)|2024|8|1.1k|Software Development|
+
+## Santiago
+### Santiago - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Zippedi](http://www.zippedi.com)|[Link](https://linkedin.com/company/zippedi)|2017|82|5.2k|Software Development|
+
+### Santiago - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[NotCo](https://www.notco.ai/)|[Link](https://linkedin.com/company/the-not-co-)|2015|738|261k|Software Development|
+|[Instacrops Inc (YC S21)](http://www.instacrops.com)|[Link](https://linkedin.com/company/instacrops)|2015|20|11k|Farming|
+
+### Santiago - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Buk](https://hubs.la/Q016By_80)|[Link](https://linkedin.com/company/buk-cl)|N/A|2.7k|265k|Software Development|
+|[Fintual](https://www.fintual.com)|[Link](https://linkedin.com/company/fintual)|2016|149|93k|Financial Services|
+|[Talana](https://www.talana.com/)|[Link](https://linkedin.com/company/talana-rrhh)|2015|342|77k|Human Resources Services|
+|[Wherex](https://www.wherex.com/)|[Link](https://linkedin.com/company/wherex)|2016|164|16k|Software Development|
+|[Destacame](http://www.destacame.cl)|[Link](https://linkedin.com/company/destacame)|2014|82|8.9k|Financial Services|
+|[Cero (YC S21)](https://cero.ai)|[Link](https://linkedin.com/company/ceroai)|2020|41|6.6k|IT Services and IT Consulting|
+|[Yom](https://yom.ai)|[Link](https://linkedin.com/company/yom-ia)|2017|51|3.4k|Software Development|
+
+### Santiago - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[NeuralWorks](https://neuralworks.cl/)|[Link](https://linkedin.com/company/neuralworks-cl)|N/A|78|8.5k|IT Services and IT Consulting|
+
+## São Paulo
+### São Paulo - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Unico ID](https://unico.io/)|[Link](https://linkedin.com/company/unicoio)|N/A|649|182k|IT Services and IT Consulting|
+
+### São Paulo - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|Letrus|[Link](https://linkedin.com/company/letrus)|2015|108|23k|IT Services and IT Consulting|
+
+### São Paulo - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Portal Telemedicina](http://www.portaltelemedicina.com.br)|[Link](https://linkedin.com/company/portal-telemedicina)|2013|145|17k|IT Services and IT Consulting|
+|[NeuralMed](http://www.neuralmed.ai)|[Link](https://linkedin.com/company/neuralmed01)|2018|14|14k|Hospitals and Health Care|
+|[Voa Health](https://voa.health)|[Link](https://linkedin.com/company/voahealth)|2023|23|4.9k|Software Development|
+
+### São Paulo - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[QuintoAndar](https://carreiras.quintoandar.com.br/)|[Link](https://linkedin.com/company/quintoandar-com-br)|2012|5.9k|724k|Software Development|
+
+### São Paulo - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Agrotools](https://agrotools.com.br/)|[Link](https://linkedin.com/company/agrotools-gestao-e-monitoramento-geoespacial)|2007|180|38k|IT Services and IT Consulting|
+
+### São Paulo - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Gupy](https://www.gupy.io)|[Link](https://linkedin.com/company/gupy)|2015|1.3k|1.7M|Software Development|
+|[Creditas](https://creditas.gupy.io/)|[Link](https://linkedin.com/company/creditasbr)|N/A|2k|359k|Financial Services|
+|[Clara](https://www.clara.com/)|[Link](https://linkedin.com/company/claracc)|2020|704|108k|Financial Services|
+|[Cortex](http://cortex-intelligence.com/)|[Link](https://linkedin.com/company/cortex-intelligence)|2003|455|81k|Software Development|
+|Enter|[Link](https://linkedin.com/company/getenter)|2023|295|32k|Software Development|
+|Magie|[Link](https://linkedin.com/company/magiebr)|N/A|50|17k|Software Development|
+|[Abstra (YC S21)](https://www.abstra.io/)|[Link](https://linkedin.com/company/abstra-tech)|2020|22|4.2k|Software Development|
+
+### São Paulo - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DATA H - Artificial Intelligence Inc.](http://www.datah.ai)|[Link](https://linkedin.com/company/data-h)|2016|11|6.5k|IT Services and IT Consulting|
+
+### São Paulo - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Semantix](https://semantix.ai)|[Link](https://linkedin.com/company/semantixai)|2010|1.5k|74k|Software Development|
+|[Lexter](https://www.lexter.ai)|[Link](https://linkedin.com/company/lexter-ai)|2020|27|3.5k|IT Services and IT Consulting|
 
 ## Seattle
-### Seattle - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Xnor.ai|[Link](https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/)|[Link](https://www.linkedin.com/company/xnor-ai)|2016|[24](https://www.linkedin.com/company/xnor-ai/people/)|3k|[Series A](//www.crunchbase.com/organization/xnor-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Seattle - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Wyze](http://www.wyze.com)|[Link](https://linkedin.com/company/wyzelabs)|2017|244|17k|Computers and Electronics Manufacturing|
+|[Lumotive](https://www.lumotive.com/)|[Link](https://linkedin.com/company/lumotive)|2017|83|14k|Semiconductor Manufacturing|
 
 ### Seattle - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Xnor.ai|[Link](https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/)|[Link](https://www.linkedin.com/company/xnor-ai)|2016|[24](https://www.linkedin.com/company/xnor-ai/people/)|3k|[Series A](//www.crunchbase.com/organization/xnor-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Textio|[Link](https://textio.com/?utm_source=linkedin&utm_medium=page&utm_campaign=company-page&utm_content=visit-website-button)|[Link](https://www.linkedin.com/company/textio)|2014|[99](https://www.linkedin.com/company/textio/people/)|26k|[Series Unknown](//www.crunchbase.com/organization/textio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Textio](https://textio.com)|[Link](https://linkedin.com/company/textio)|2014|105|27k|Software Development|
 
 ### Seattle - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Relay Robotics|[Link](https://www.relayrobotics.com/relay-plus)|[Link](https://www.linkedin.com/company/relayrobotics)|2013|[44](https://www.linkedin.com/company/savioke/people/)|9k|[Series A](//www.crunchbase.com/organization/relay-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Carbon Robotics](https://carbonrobotics.com/)|[Link](https://linkedin.com/company/carbonrobotics)|2018|306|43k|Automation Machinery Manufacturing|
+|[Relay Robotics](http://www.relayrobotics.com)|[Link](https://linkedin.com/company/relayrobotics)|2013|52|10k|Hospitals and Health Care|
+|[Aigen](http://www.aigen.io)|[Link](https://linkedin.com/company/aigeninc)|2020|44|9.9k|Industrial Machinery Manufacturing|
+|[Intuned](https://intunedhq.com)|[Link](https://linkedin.com/company/intunedhq)|2022|11|1.7k|IT Services and IT Consulting|
 
 ### Seattle - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Ozette|[Link](https://ozette.com/?utm_source=linkedin&utm_medium=social)|[Link](https://www.linkedin.com/company/ozette)|2021|[29](https://www.linkedin.com/company/ozette/people/)|2k|[Series A](//www.crunchbase.com/organization/ozette-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Truveta](http://www.truveta.com)|[Link](https://linkedin.com/company/truveta)|2020|475|106k|Hospitals and Health Care|
+|[Proprio](http://www.proprio.ai)|[Link](https://linkedin.com/company/proprio-vision)|2016|3.1k|14k|Medical Equipment Manufacturing|
+|[A-Alpha Bio](https://www.aalphabio.com/)|[Link](https://linkedin.com/company/aalphabio)|2017|50|14k|Biotechnology Research|
+|[Outpace Bio](http://www.outpacebio.com)|[Link](https://linkedin.com/company/outpace-bio)|2020|74|7.7k|Biotechnology Research|
+|[Variant Bio](http://www.variantbio.com)|[Link](https://linkedin.com/company/variantbio)|2018|40|6.7k|Biotechnology Research|
+|[VetRec](https://vetrec.io)|[Link](https://linkedin.com/company/tryvetrec)|2023|28|4.1k|Software Development|
+|[Ozette](https://www.ozette.com/)|[Link](https://linkedin.com/company/ozette)|2021|25|3k|Biotechnology Research|
 
 ### Seattle - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Argo AI|[Link](http://www.argo.ai)|[Link](https://www.linkedin.com/company/argo-ai)|N/A|[215](https://www.linkedin.com/company/argo-ai/people/)|103k|[Corporate Round](//www.crunchbase.com/organization/argo-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|Starsky Robotics|[Link](http://starsky.io)|[Link](https://www.linkedin.com/company/starsky-robotics)|N/A|[7](https://www.linkedin.com/company/starsky-robotics/people/)|3k|[Series A](//www.crunchbase.com/organization/starsky-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Overland AI](https://overland.ai/)|[Link](https://linkedin.com/company/overland-ai)|N/A|146|38k|Defense and Space Manufacturing|
 
-### Seattle - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ada CX|[Link](https://www.ada.cx/)|[Link](https://www.linkedin.com/company/ada-cx)|N/A|[652](https://www.linkedin.com/company/ada-cx/people/)|48k|-|Software Development|
+### Seattle - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Yoodli](http://www.yoodli.ai)|[Link](https://linkedin.com/company/yoodli)|2021|135|20k|Software Development|
+|[Hiya Inc.](https://www.hiya.com)|[Link](https://linkedin.com/company/hiyainc)|2016|242|16k|Software Development|
+|[WellSaid](https://www.wellsaid.io/)|[Link](https://linkedin.com/company/wellsaidlabs)|2018|52|7.7k|Software Development|
 
 ### Seattle - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Textio|[Link](https://textio.com/?utm_source=linkedin&utm_medium=page&utm_campaign=company-page&utm_content=visit-website-button)|[Link](https://www.linkedin.com/company/textio)|2014|[99](https://www.linkedin.com/company/textio/people/)|26k|[Series Unknown](//www.crunchbase.com/organization/textio?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Docusign|[Link](https://trial.docusign.com/)|[Link](https://www.linkedin.com/company/docusign)|2003|[8411](https://www.linkedin.com/company/docusign/people/)|562k|[Secondary Market](//www.crunchbase.com/organization/docusign?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Icertis](http://www.icertis.com)|[Link](https://linkedin.com/company/icertis)|2009|2.4k|163k|Software Development|
+|[Docugami](https://www.docugami.com/)|[Link](https://linkedin.com/company/docugami)|2017|23|3k|IT Services and IT Consulting|
+
+### Seattle - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[OfferUp](http://offerup.com)|[Link](https://linkedin.com/company/offerup)|2011|339|17k|Software Development|
 
 ### Seattle - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Blue Origin|[Link](http://www.blueorigin.com)|[Link](https://www.linkedin.com/company/blue-origin)|N/A|[11255](https://www.linkedin.com/company/blue-origin/people/)|620k|[Secondary Market](//www.crunchbase.com/organization/blue-origin?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Aviation and Aerospace Component Manufacturing|
-|SpaceX|[Link](http://www.spacex.com)|[Link](https://www.linkedin.com/company/spacex)|2002|[17818](https://www.linkedin.com/company/spacex/people/)|3496k|[Secondary Market](//www.crunchbase.com/organization/space-exploration-technologies?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Aviation and Aerospace Component Manufacturing|
-|Icertis|[Link](http://www.icertis.com)|[Link](https://www.linkedin.com/company/icertis)|2009|[2366](https://www.linkedin.com/company/icertis/people/)|147k|[Series Unknown](//www.crunchbase.com/organization/icertis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Blue Origin](https://www.blueorigin.com/)|[Link](https://linkedin.com/company/blue-origin)|N/A|13k|711k|Aviation and Aerospace Component Manufacturing|
+|[Starcloud](https://www.starcloud.com/)|[Link](https://linkedin.com/company/starcloudinc)|2024|66|44k|Defense and Space Manufacturing|
+|[Seeq Corporation](http://www.seeq.com)|[Link](https://linkedin.com/company/seeqcorporation)|2013|337|44k|Software Development|
+|[Arzeda](http://www.arzeda.com)|[Link](https://linkedin.com/company/arzeda-corp)|N/A|79|9.6k|Biotechnology Research|
+|[Silurian AI](https://silurian.ai/)|[Link](https://linkedin.com/company/silurianai)|2024|11|3.1k|Information Services|
 
 ### Seattle - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Avalara|[Link](http://www.avalara.com)|[Link](https://www.linkedin.com/company/avalara)|N/A|[5729](https://www.linkedin.com/company/avalara/people/)|264k|-|Software Development|
-|Zillow|[Link](http://www.zillow.com)|[Link](https://www.linkedin.com/company/zillow)|2006|[9838](https://www.linkedin.com/company/zillow/people/)|513k|[Post Ipo Equity](//www.crunchbase.com/organization/zillow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Real Estate|
-|Redfin|[Link](http://www.redfin.com)|[Link](https://www.linkedin.com/company/redfin)|N/A|[5634](https://www.linkedin.com/company/redfin/people/)|156k|[Post Ipo Debt](//www.crunchbase.com/organization/redfin?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Real Estate|
-|Remitly|[Link](https://www.remitly.com)|[Link](https://www.linkedin.com/company/remitly)|2011|[3369](https://www.linkedin.com/company/remitly/people/)|79k|[Post Ipo Debt](//www.crunchbase.com/organization/remitly?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Highspot|[Link](http://www.highspot.com)|[Link](https://www.linkedin.com/company/highspot)|2012|[1061](https://www.linkedin.com/company/highspot/people/)|59k|[Secondary Market](//www.crunchbase.com/organization/highspot-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Icertis|[Link](http://www.icertis.com)|[Link](https://www.linkedin.com/company/icertis)|2009|[2366](https://www.linkedin.com/company/icertis/people/)|147k|[Series Unknown](//www.crunchbase.com/organization/icertis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Outreach](http://www.outreach.ai/)|[Link](https://linkedin.com/company/outreach-saas)|2014|1.9k|363k|Software Development|
+|[Keka HR](https://www.keka.com)|[Link](https://linkedin.com/company/keka-hr)|2015|1.3k|255k|Software Development|
+|[SeekOut](http://seekout.com)|[Link](https://linkedin.com/company/seek0ut)|2017|149|38k|Software Development|
+|[Aurelian](https://www.aurelian.com)|[Link](https://linkedin.com/company/aureliansystem)|N/A|69|4.8k|Software Development|
+|[Strac](https://strac.io)|[Link](https://linkedin.com/company/securewithstrac)|2021|12|3.8k|Computer and Network Security|
+|[Feather](https://featherhq.com)|[Link](https://linkedin.com/company/featherhq)|2022|14|2.2k|Software Development|
+|[Manifold](https://www.getmanifold.ai/)|[Link](https://linkedin.com/company/manifold-freight)|2024|9|1.1k|Software Development|
+
+### Seattle - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Artefact](http://www.artefactgroup.com)|[Link](https://linkedin.com/company/artefact)|2006|57|18k|Design Services|
+
+### Seattle - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Defined.ai](http://www.defined.ai)|[Link](https://linkedin.com/company/definedai)|2015|216|42k|IT Services and IT Consulting|
+|[Union.ai](https://union.ai)|[Link](https://linkedin.com/company/union-ai)|2021|67|8.9k|Software Development|
+|[adyn](https://adyn.com/)|[Link](https://linkedin.com/company/adyn)|2020|10|2.7k|Biotechnology Research|
+|[Clearly AI](https://clearly-ai.com)|[Link](https://linkedin.com/company/clearly-ai)|N/A|25|2.4k|Computer and Network Security|
+|[Qbeast](https://qbeast.io/)|[Link](https://linkedin.com/company/qbeast)|2020|19|2.2k|Software Development|
+|[Boundary](https://boundaryml.com)|[Link](https://linkedin.com/company/boundaryml)|N/A|8|2k|Software Development|
 
 ### Seattle - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Amazon|[Link](https://www.aboutamazon.com/)|[Link](https://www.linkedin.com/company/amazon)|N/A|[766112](https://www.linkedin.com/company/amazon/people/)|36178k|[Post Ipo Debt](//www.crunchbase.com/organization/amazon?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Microsoft|[Link](http://news.microsoft.com/)|[Link](https://www.linkedin.com/company/microsoft)|N/A|[227185](https://www.linkedin.com/company/microsoft/people/)|27473k|[Post Ipo Equity](//www.crunchbase.com/organization/microsoft?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Meta|[Link](http://www.facebook.com/careers)|[Link](https://www.linkedin.com/company/meta)|N/A|[147998](https://www.linkedin.com/company/meta/people/)|11735k|[Post Ipo Equity](//www.crunchbase.com/organization/facebook?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Google|[Link](https://goo.gle/3DLEokh)|[Link](https://www.linkedin.com/company/google)|N/A|[332526](https://www.linkedin.com/company/google/people/)|40595k|[Series Unknown](//www.crunchbase.com/organization/google?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Apple|[Link](http://www.apple.com/careers)|[Link](https://www.linkedin.com/company/apple)|1976|[170015](https://www.linkedin.com/company/apple/people/)|18078k|[Post Ipo Debt](//www.crunchbase.com/organization/apple?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|F5|[Link](https://www.f5.com)|[Link](https://www.linkedin.com/company/f5)|N/A|[6151](https://www.linkedin.com/company/f5-networks/people/)|384k|[Post Ipo Equity](//www.crunchbase.com/organization/f5-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Tableau|[Link](http://www.tableau.com)|[Link](https://www.linkedin.com/company/tableau-software)|2003|[2265](https://www.linkedin.com/company/tableau-software/people/)|1125k|[Series Unknown](//www.crunchbase.com/organization/tableau?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|T-Mobile|[Link](https://bit.ly/3IK6i13)|[Link](https://www.linkedin.com/company/t-mobile)|N/A|[96105](https://www.linkedin.com/company/t-mobile/people/)|640k|[Post Ipo Debt](//www.crunchbase.com/organization/t-mobile?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Starbucks|[Link](https://www.starbucks.com/careers?utm_source=linkedin&utm_medium=organic&utm_campaign=company_page)|[Link](https://www.linkedin.com/company/starbucks)|N/A|[184332](https://www.linkedin.com/company/starbucks/people/)|3109k|[Post Ipo Debt](//www.crunchbase.com/organization/starbucks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Dropzone AI](https://dropzone.ai)|[Link](https://linkedin.com/company/dropzone-ai)|2023|89|10k|Computer and Network Security|
 
 ## Seoul
-### Seoul - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|NAVER LABS Corp.|[Link](http://www.naverlabs.com)|[Link](https://www.linkedin.com/company/naverlabs)|2017|[242](https://www.linkedin.com/company/naverlabs/people/)|47k|-|Software Development|
-|카카오모빌리티(Kakaomobility)|[Link](https://www.kakaomobility-recruit.com)|[Link](https://www.linkedin.com/company/kakaomobility)|2017|[703](https://www.linkedin.com/company/kakaomobility/people/)|13k|[Corporate Round](//www.crunchbase.com/organization/kakao-mobility?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Lunit Cancer Screening|[Link](https://www.lunit.io)|[Link](https://www.linkedin.com/company/lunit)|N/A|[374](https://www.linkedin.com/company/lunit/people/)|25k|[Post Ipo Debt](//www.crunchbase.com/organization/lunit-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|STRADVISION|[Link](https://stradvision.com/)|[Link](https://www.linkedin.com/company/stradvision)|2014|[198](https://www.linkedin.com/company/stradvision/people/)|5k|[Corporate Round](//www.crunchbase.com/organization/stradvision-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Allganize|[Link](https://www.allganize.ai/en/contact-us)|[Link](https://www.linkedin.com/company/allganize)|2017|[60](https://www.linkedin.com/company/allganize/people/)|4k|[Series B](//www.crunchbase.com/organization/allganize?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Seoul - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|NAVER Corp|[Link](https://www.navercorp.com/naver/company)|[Link](https://www.linkedin.com/company/naver)|1999|[5024](https://www.linkedin.com/company/naver/people/)|117k|[Post Ipo Equity](//www.crunchbase.com/organization/naver-corporation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Kakao Brain|[Link](https://careers.kakaobrain.com/)|[Link](https://www.linkedin.com/company/kakaobrain)|2017|[58](https://www.linkedin.com/company/kakaobrain/people/)|18k|-|Software Development|
-|Whitewall|[Link](http://www.whitewallcreative.com)|[Link](https://www.linkedin.com/company/whitewallcreative)|N/A|[59](https://www.linkedin.com/company/upstage/people/)|3k|-|Advertising Services|
+### Seoul - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Beeble](https://www.beeble.ai/)|[Link](https://linkedin.com/company/beeble-ai)|2022|13|4.5k|Software Development|
 
 ### Seoul - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Samsung Research|[Link](https://research.samsung.com/)|[Link](https://www.linkedin.com/showcase/samsungresearch/)|2017|[1](https://www.linkedin.com/company/samsung-research/people/)|8k|-|Research Services|
-|LG CLOi|[Link](https://www.lg.com/global/business/robot)|[Link](https://www.linkedin.com/company/lg-cloi)|N/A|[5](https://www.linkedin.com/company/lg-cloi/people/)|1k|-|IT Services and IT Consulting|
-|Doosan Robotics|[Link](http://www.doosanrobotics.com)|[Link](https://www.linkedin.com/company/doosan-robotics)|N/A|[138](https://www.linkedin.com/company/doosan-robotics/people/)|38k|[Private Equity](//www.crunchbase.com/organization/doosan-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Rainbow Robotics|[Link](https://www.rainbow-robotics.com/)|[Link](https://www.linkedin.com/company/rainbow-robotics)|2011|[47](https://www.linkedin.com/company/rainbow-robotics/people/)|4k|[Post Ipo Equity](//www.crunchbase.com/organization/rainbow-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|NAVER LABS Corp.|[Link](http://www.naverlabs.com)|[Link](https://www.linkedin.com/company/naverlabs)|2017|[242](https://www.linkedin.com/company/naverlabs/people/)|47k|-|Software Development|
-|카카오모빌리티(Kakaomobility)|[Link](https://www.kakaomobility-recruit.com)|[Link](https://www.linkedin.com/company/kakaomobility)|2017|[703](https://www.linkedin.com/company/kakaomobility/people/)|13k|[Corporate Round](//www.crunchbase.com/organization/kakao-mobility?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Neubility](https://www.neubility.co.kr/)|[Link](https://linkedin.com/company/neubility)|2017|57|2.7k|IT Services and IT Consulting|
 
 ### Seoul - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Lunit Cancer Screening|[Link](https://www.lunit.io)|[Link](https://www.linkedin.com/company/lunit)|N/A|[374](https://www.linkedin.com/company/lunit/people/)|25k|[Post Ipo Debt](//www.crunchbase.com/organization/lunit-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|AIRS Medical|[Link](http://airsmed.com/en)|[Link](https://www.linkedin.com/company/airsmed)|2018|[133](https://www.linkedin.com/company/airs-medical/people/)|5k|-|Medical Equipment Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AIRS Medical](http://airsmed.com/en)|[Link](https://linkedin.com/company/airsmed)|2018|162|9.5k|Medical Equipment Manufacturing|
+|[Standigm](https://www.standigm.com)|[Link](https://linkedin.com/company/standigm)|2015|23|1.8k|Pharmaceutical Manufacturing|
 
 ### Seoul - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|42dot|[Link](http://42dot.ai)|[Link](https://www.linkedin.com/company/42dot)|2019|[835](https://www.linkedin.com/company/42dot/people/)|19k|[Corporate Round](//www.crunchbase.com/organization/42dot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Hyundai MOBIS|[Link](http://www.mobis.co.kr)|[Link](https://www.linkedin.com/company/hyundai-mobis)|N/A|[8077](https://www.linkedin.com/company/hyundai-mobis/people/)|98k|[Grant](//www.crunchbase.com/organization/hyundai-mobis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|STRADVISION|[Link](https://stradvision.com/)|[Link](https://www.linkedin.com/company/stradvision)|2014|[198](https://www.linkedin.com/company/stradvision/people/)|5k|[Corporate Round](//www.crunchbase.com/organization/stradvision-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Seoul Robotics](https://seoulrobotics.tech)|[Link](https://linkedin.com/company/seoul-robotics)|2017|74|14k|Software Development|
+|[Mars Auto](https://marsauto.com)|[Link](https://linkedin.com/company/marsauto)|N/A|16|1.7k|IT Services and IT Consulting|
 
-### Seoul - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Skelter Labs|[Link](http://www.skelterlabs.com)|[Link](https://www.linkedin.com/company/skelter-labs)|2015|[28](https://www.linkedin.com/company/skelter-labs/people/)|2k|[Series B](//www.crunchbase.com/organization/skelter-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Typecast (Neosapience, Inc.)|[Link](https://typecast.ai)|[Link](https://www.linkedin.com/company/typecastai)|2017|[65](https://www.linkedin.com/company/neosapience/people/)|1k|-|Software Development|
-
-### Seoul - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Skelter Labs|[Link](http://www.skelterlabs.com)|[Link](https://www.linkedin.com/company/skelter-labs)|2015|[28](https://www.linkedin.com/company/skelter-labs/people/)|2k|[Series B](//www.crunchbase.com/organization/skelter-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|DeepBrain AI|[Link](https://www.aistudios.com/company/contact)|[Link](https://www.linkedin.com/company/deepbrain-global)|2016|[76](https://www.linkedin.com/company/moneybrain/people/)|7k|[Series B](//www.crunchbase.com/organization/moneybrain?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Seoul - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[wrtn technologies](https://wrtn.io/)|[Link](https://linkedin.com/company/wrtn-technologies-inc)|2021|161|4.2k|Software Development|
+|[Scatter Lab](https://scatterlab.co.kr/)|[Link](https://linkedin.com/company/scatterlab-inc)|2011|46|1.3k|IT Services and IT Consulting|
 
 ### Seoul - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Whitewall|[Link](http://www.whitewallcreative.com)|[Link](https://www.linkedin.com/company/whitewallcreative)|N/A|[59](https://www.linkedin.com/company/upstage/people/)|3k|-|Advertising Services|
-|Skelter Labs|[Link](http://www.skelterlabs.com)|[Link](https://www.linkedin.com/company/skelter-labs)|2015|[28](https://www.linkedin.com/company/skelter-labs/people/)|2k|[Series B](//www.crunchbase.com/organization/skelter-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lomin (로민)](https://www.lomin.ai)|[Link](https://linkedin.com/company/lomin)|2018|37|1.4k|IT Services and IT Consulting|
 
 ### Seoul - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|NAVER Corp|[Link](https://www.navercorp.com/naver/company)|[Link](https://www.linkedin.com/company/naver)|1999|[5024](https://www.linkedin.com/company/naver/people/)|117k|[Post Ipo Equity](//www.crunchbase.com/organization/naver-corporation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|KAKAO (IWILAB)|[Link](http://www.kakaocorp.com/)|[Link](https://www.linkedin.com/company/kakao)|2006|[90](https://www.linkedin.com/company/kakao/people/)|2k|-|Technology, Information and Internet|
-|Coupang|[Link](https://www.coupang.jobs/en/why-coupang/)|[Link](https://www.linkedin.com/company/coupang)|2010|[8837](https://www.linkedin.com/company/coupang/people/)|244k|[Post Ipo Equity](//www.crunchbase.com/organization/coupang?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Yanolja|[Link](https://www.yanoljagroup.com/)|[Link](https://www.linkedin.com/company/yanolja)|N/A|[2384](https://www.linkedin.com/company/yanolja/people/)|25k|[Series Unknown](//www.crunchbase.com/organization/yanolja?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Seoul - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Samsung Research|[Link](https://research.samsung.com/)|[Link](https://www.linkedin.com/showcase/samsungresearch/)|2017|[1](https://www.linkedin.com/company/samsung-research/people/)|8k|-|Research Services|
-|LG CLOi|[Link](https://www.lg.com/global/business/robot)|[Link](https://www.linkedin.com/company/lg-cloi)|N/A|[5](https://www.linkedin.com/company/lg-cloi/people/)|1k|-|IT Services and IT Consulting|
-|SK Telecom|[Link](http://www.sktelecom.com/en)|[Link](https://www.linkedin.com/company/sk-telecom)|N/A|[7159](https://www.linkedin.com/company/sk-telecom/people/)|48k|-|Telecommunications|
-|NAVER LABS Corp.|[Link](http://www.naverlabs.com)|[Link](https://www.linkedin.com/company/naverlabs)|2017|[242](https://www.linkedin.com/company/naverlabs/people/)|47k|-|Software Development|
-|Kakao Brain|[Link](https://careers.kakaobrain.com/)|[Link](https://www.linkedin.com/company/kakaobrain)|2017|[58](https://www.linkedin.com/company/kakaobrain/people/)|18k|-|Software Development|
-|KAIST AI|-|[Link](https://www.linkedin.com/company/kaist-ai)|2019|[88](https://www.linkedin.com/company/kaist-ai/people/)|1k|-|Higher Education|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Yanolja](https://www.yanoljagroup.com/)|[Link](https://linkedin.com/company/yanolja)|N/A|2.3k|27k|IT Services and IT Consulting|
 
 ### Seoul - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Samsung SDS|[Link](http://www.samsungsds.com)|[Link](https://www.linkedin.com/company/samsung-sds)|N/A|[14870](https://www.linkedin.com/company/samsung-sds/people/)|204k|-|IT Services and IT Consulting|
-|LG CNS|[Link](https://www.lgcns.com/)|[Link](https://www.linkedin.com/company/lgcns)|N/A|[6153](https://www.linkedin.com/company/lgcns/people/)|31k|-|IT Services and IT Consulting|
-|NAVER Corp|[Link](https://www.navercorp.com/naver/company)|[Link](https://www.linkedin.com/company/naver)|1999|[5024](https://www.linkedin.com/company/naver/people/)|117k|[Post Ipo Equity](//www.crunchbase.com/organization/naver-corporation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|KAKAO (IWILAB)|[Link](http://www.kakaocorp.com/)|[Link](https://www.linkedin.com/company/kakao)|2006|[90](https://www.linkedin.com/company/kakao/people/)|2k|-|Technology, Information and Internet|
-|Coupang|[Link](https://www.coupang.jobs/en/why-coupang/)|[Link](https://www.linkedin.com/company/coupang)|2010|[8837](https://www.linkedin.com/company/coupang/people/)|244k|[Post Ipo Equity](//www.crunchbase.com/organization/coupang?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Yanolja|[Link](https://www.yanoljagroup.com/)|[Link](https://www.linkedin.com/company/yanolja)|N/A|[2384](https://www.linkedin.com/company/yanolja/people/)|25k|[Series Unknown](//www.crunchbase.com/organization/yanolja?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Toss|[Link](https://career.toss.im/)|[Link](https://www.linkedin.com/company/tossglobal)|N/A|[3080](https://www.linkedin.com/company/viva-republica/people/)|90k|-|Financial Services|
-|두나무 (Dunamu)|-|[Link](https://www.linkedin.com/company/dunamu)|2012|[440](https://www.linkedin.com/company/dunamu/people/)|13k|[Series Unknown](//www.crunchbase.com/organization/dunamu?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Kurly|[Link](http://www.kurly.com/)|[Link](https://www.linkedin.com/company/kurly)|2015|[621](https://www.linkedin.com/company/kurly/people/)|23k|-|Food and Beverage Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Toss](https://toss.im/en)|[Link](https://linkedin.com/company/tossglobal)|N/A|3.4k|100k|Financial Services|
+|[Kurly](http://www.kurly.com/)|[Link](https://linkedin.com/company/kurly)|2014|677|26k|Retail|
+|두나무 (Dunamu)|[Link](https://linkedin.com/company/dunamu)|2012|478|15k|IT Services and IT Consulting|
 
-### Seoul - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Samsung SDS|[Link](http://www.samsungsds.com)|[Link](https://www.linkedin.com/company/samsung-sds)|N/A|[14870](https://www.linkedin.com/company/samsung-sds/people/)|204k|-|IT Services and IT Consulting|
-|LG CNS|[Link](https://www.lgcns.com/)|[Link](https://www.linkedin.com/company/lgcns)|N/A|[6153](https://www.linkedin.com/company/lgcns/people/)|31k|-|IT Services and IT Consulting|
+### Seoul - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DEEPX](https://deepx.ai/)|[Link](https://linkedin.com/company/deepx-corp)|2018|162|56k|Semiconductor Manufacturing|
+|[Rebellions](https://rebellions.ai/)|[Link](https://linkedin.com/company/rebellions-ai)|2020|324|21k|Semiconductor Manufacturing|
+|[FuriosaAI](https://www.furiosa.ai)|[Link](https://linkedin.com/company/furiosaai)|2017|228|21k|Semiconductor Manufacturing|
+|[Moreh](https://moreh.io/)|[Link](https://linkedin.com/company/moreh-inc)|2020|76|2.5k|Software Development|
 
 ### Seoul - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Samsung Electronics|[Link](http://www.samsung.com)|[Link](https://www.linkedin.com/company/samsung-electronics)|N/A|[169919](https://www.linkedin.com/company/samsung-electronics/people/)|4968k|-|Computers and Electronics Manufacturing|
-|LG Electronics|[Link](http://www.lg.com/global)|[Link](https://www.linkedin.com/company/lg-electronics)|N/A|[64148](https://www.linkedin.com/company/lg-electronics/people/)|1405k|[Post Ipo Debt](//www.crunchbase.com/organization/lg?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|SK|[Link](http://www.skcareers.com)|[Link](https://www.linkedin.com/company/sk)|1953|[3337](https://www.linkedin.com/company/sk/people/)|24k|-|Telecommunications|
-|Hyundai Motor Group|[Link](https://www.hyundaimotorgroup.com)|[Link](https://www.linkedin.com/company/hyundai-motor-group)|N/A|[1478](https://www.linkedin.com/company/hyundai-motor/people/)|278k|-|Motor Vehicle Manufacturing|
-|Manufacturing AI|[Link](http://www.guden.org/analyse-ai)|[Link](https://www.linkedin.com/company/manufacturing-ai)|N/A|[1260](https://www.linkedin.com/company/kia-motors/people/)|9k|-|Software Development|
-|NAVER Corp|[Link](https://www.navercorp.com/naver/company)|[Link](https://www.linkedin.com/company/naver)|1999|[5024](https://www.linkedin.com/company/naver/people/)|117k|[Post Ipo Equity](//www.crunchbase.com/organization/naver-corporation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|KAKAO (IWILAB)|[Link](http://www.kakaocorp.com/)|[Link](https://www.linkedin.com/company/kakao)|2006|[90](https://www.linkedin.com/company/kakao/people/)|2k|-|Technology, Information and Internet|
-|Coupang|[Link](https://www.coupang.jobs/en/why-coupang/)|[Link](https://www.linkedin.com/company/coupang)|2010|[8837](https://www.linkedin.com/company/coupang/people/)|244k|[Post Ipo Equity](//www.crunchbase.com/organization/coupang?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|POSCO HOLDINGS|[Link](http://newsroom.posco.com/en)|[Link](https://www.linkedin.com/company/posco)|N/A|[3938](https://www.linkedin.com/company/posco/people/)|120k|[Post Ipo Debt](//www.crunchbase.com/organization/posco-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Construction|
-|Hanwha Group|[Link](https://www.hanwha.com/en.html)|[Link](https://www.linkedin.com/company/hanwha-group)|N/A|[7193](https://www.linkedin.com/company/hanwha-group/people/)|80k|-|Chemical Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[QueryPie AI](https://www.querypie.com/plans)|[Link](https://linkedin.com/company/querypie-ai)|2016|63|1.9k|IT Services and IT Consulting|
 
 ## Shanghai
-### Shanghai - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|MEGVII旷视|[Link](http://www.megvii.com)|[Link](https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86)|2011|[536](https://www.linkedin.com/company/megvii/people/)|13k|-|IT Services and IT Consulting|
-|Cloudwalk|[Link](http://www.cloudwalk.com/)|[Link](https://www.linkedin.com/company/cloudwalk)|2015|[274](https://www.linkedin.com/company/cloudwalk/people/)|2k|[Series C](//www.crunchbase.com/organization/cloudwalk-technology?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Shanghai - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[YITUTech](http://www.yitutech.com/)|[Link](https://linkedin.com/company/yitutech)|2012|390|15k|IT Services and IT Consulting|
 
 ### Shanghai - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Gaussian Robotics|[Link](https://www.gaussianrobotics.com)|[Link](https://www.linkedin.com/company/gaussianrobotics)|2017|[71](https://www.linkedin.com/company/gaussian-robotics/people/)|18k|-|Automation Machinery Manufacturing|
-|XYZ Robotics|[Link](https://www.xyzrobotics.com/)|[Link](https://www.linkedin.com/company/xyz-robotics)|2018|[225](https://www.linkedin.com/company/xyz-robotics/people/)|10k|-|Automation Machinery Manufacturing|
-|Hikrobot|[Link](http://www.hikrobotics.com/en)|[Link](https://www.linkedin.com/company/hikrobot)|N/A|[277](https://www.linkedin.com/company/hikrobot/people/)|39k|-|Automation Machinery Manufacturing|
-
-### Shanghai - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Infervision|[Link](https://global.infervision.com/)|[Link](https://www.linkedin.com/company/infervision)|2016|[72](https://www.linkedin.com/company/infervision/people/)|3k|[Series D](//www.crunchbase.com/organization/infervision?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|United Imaging|[Link](https://www.unitedimaging.com)|[Link](https://www.linkedin.com/company/united-imaging)|1986|[69](https://www.linkedin.com/company/united-imaging/people/)|1k|-|Retail Office Equipment|
-|Healthcare AI|[Link](http://www.thehealthmarketing.com/)|[Link](https://www.linkedin.com/company/healthcare-ai)|N/A|[3369](https://www.linkedin.com/company/healthcare-ai/people/)|11k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AGIBOT](https://www.agibot.com/)|[Link](https://linkedin.com/company/agibotofficial)|N/A|287|24k|Automation Machinery Manufacturing|
+|[Gausium Official](https://gausium.com/)|[Link](https://linkedin.com/company/gausium-official)|2013|63|19k|Automation Machinery Manufacturing|
+|[XYZ Robotics](https://www.xyzrobotics.com/)|[Link](https://linkedin.com/company/xyz-robotics)|2018|240|15k|Automation Machinery Manufacturing|
 
 ### Shanghai - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Pony.ai|[Link](https://www.pony.ai/)|[Link](https://www.linkedin.com/company/pony-ai)|2016|[511](https://www.linkedin.com/company/pony-ai/people/)|60k|[Corporate Round](//www.crunchbase.com/organization/pony-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|autoX|[Link](https://www.autox.com)|[Link](https://www.linkedin.com/company/autox)|2006|[35](https://www.linkedin.com/company/autox/people/)|2k|-|Book and Periodical Publishing|
-|Momenta|[Link](http://www.momenta.ai)|[Link](https://www.linkedin.com/company/momenta-ai)|2016|[602](https://www.linkedin.com/company/momenta-ai/people/)|23k|-|Software Development|
-|SAIC Motor|[Link](http://www.saicmotor.com)|[Link](https://www.linkedin.com/company/saic-motor)|1940|[2605](https://www.linkedin.com/company/saic-motor/people/)|14k|-|Motor Vehicle Manufacturing|
-|NIO|[Link](https://www.nio.com/careers)|[Link](https://www.linkedin.com/company/nio)|N/A|[5073](https://www.linkedin.com/company/nio/people/)|471k|-|Motor Vehicle Manufacturing|
-
-### Shanghai - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Mobvoi|[Link](http://www.mobvoi.com)|[Link](https://www.linkedin.com/company/mobvoi)|2012|[245](https://www.linkedin.com/company/mobvoi/people/)|4k|[Series Unknown](//www.crunchbase.com/organization/mobvoi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Westwell](https://en.westwell-lab.com/)|[Link](https://linkedin.com/company/%E8%A5%BF%E4%BA%95%E7%A7%91%E6%8A%80westwell)|2015|193|49k|IT Services and IT Consulting|
 
 ### Shanghai - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|JD|-|[Link](https://www.linkedin.com/company/jd)|N/A|[1313](https://www.linkedin.com/company/jd/people/)|3k|-|N/A|
-|bilibili Group|[Link](https://www.bilibili.com/)|[Link](https://www.linkedin.com/company/bilibili)|N/A|[2486](https://www.linkedin.com/company/bilibili/people/)|71k|[Post Ipo Debt](//www.crunchbase.com/organization/bilibili-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Shanghai - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|4Paradigm 第四范式|[Link](https://www.4paradigm.com)|[Link](https://www.linkedin.com/company/4paradigm)|2014|[302](https://www.linkedin.com/company/4paradigm/people/)|4k|[Post Ipo Equity](//www.crunchbase.com/organization/4paradigm?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|MEGVII旷视|[Link](http://www.megvii.com)|[Link](https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86)|2011|[536](https://www.linkedin.com/company/megvii/people/)|13k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Xiaohongshu](http://www.xiaohongshu.com/en)|[Link](https://linkedin.com/company/xiaohongshu)|N/A|3.8k|53k|Software Development|
 
 ### Shanghai - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|JD|-|[Link](https://www.linkedin.com/company/jd)|N/A|[1313](https://www.linkedin.com/company/jd/people/)|3k|-|N/A|
-|Trip.com|[Link](http://www.trip.com)|[Link](https://www.linkedin.com/company/trip-com)|N/A|[1270](https://www.linkedin.com/company/trip-com/people/)|94k|[Post Ipo Debt](//www.crunchbase.com/organization/ctrip?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|bilibili Group|[Link](https://www.bilibili.com/)|[Link](https://www.linkedin.com/company/bilibili)|N/A|[2486](https://www.linkedin.com/company/bilibili/people/)|71k|[Post Ipo Debt](//www.crunchbase.com/organization/bilibili-inc?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|SHEIN|[Link](https://careers.shein.com/)|[Link](https://www.linkedin.com/company/shein)|2012|[10719](https://www.linkedin.com/company/shein/people/)|782k|[Private Equity](//www.crunchbase.com/organization/shein-b79e?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail Apparel and Fashion|
-|Meituan|[Link](https://www.meituan.com/en-US/about-us)|[Link](https://www.linkedin.com/company/meituan)|N/A|[40597](https://www.linkedin.com/company/meituan/people/)|282k|-|Software Development|
-|NIO|[Link](https://www.nio.com/careers)|[Link](https://www.linkedin.com/company/nio)|N/A|[5073](https://www.linkedin.com/company/nio/people/)|471k|-|Motor Vehicle Manufacturing|
-|Alipay|[Link](https://global.alipay.com/)|[Link](https://www.linkedin.com/company/alipay)|2004|[2938](https://www.linkedin.com/company/alipay/people/)|131k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Tezign 特赞](http://www.tezign.com)|[Link](https://linkedin.com/company/tezign)|2015|156|1.8k|Technology, Information and Internet|
 
 ### Shanghai - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|JD|-|[Link](https://www.linkedin.com/company/jd)|N/A|[1313](https://www.linkedin.com/company/jd/people/)|3k|-|N/A|
-|SAIC Motor|[Link](http://www.saicmotor.com)|[Link](https://www.linkedin.com/company/saic-motor)|1940|[2605](https://www.linkedin.com/company/saic-motor/people/)|14k|-|Motor Vehicle Manufacturing|
-|ICBC (Insurance Corporation of British Columbia)|[Link](https://www.icbc.com/about-icbc/careers)|[Link](https://www.linkedin.com/company/icbc)|1973|[5937](https://www.linkedin.com/company/icbc/people/)|47k|-|Insurance|
-|China Mobile|[Link](http://www.chinamobileltd.com)|[Link](https://www.linkedin.com/company/china-mobile)|N/A|[43129](https://www.linkedin.com/company/china-mobile/people/)|46k|[Post Ipo Equity](//www.crunchbase.com/organization/china-mobile?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[miHoYo](http://www.mihoyo.com)|[Link](https://linkedin.com/company/mihoyo)|2011|897|32k|Computer Games|
+|[Squirrel Ai Learning](http://www.squirrelai.com)|[Link](https://linkedin.com/company/squirrelai)|2014|46|8.5k|E-Learning Providers|
+|[Liulishuo](http://www.liulishuo.com)|[Link](https://linkedin.com/company/liulishuo)|2012|341|4.9k|Software Development|
 
 ## Shenzhen
-### Shenzhen - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DJI|[Link](https://enterprise.dji.com/)|[Link](https://www.linkedin.com/company/dji)|2006|[5101](https://www.linkedin.com/company/dji/people/)|346k|[Secondary Market](//www.crunchbase.com/organization/dji?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|Ping An Technology|[Link](http://tech.pingan.com)|[Link](https://www.linkedin.com/company/ping-an-technology)|2008|[3638](https://www.linkedin.com/company/ping-an-technology/people/)|15k|-|Software Development|
-|RoboSense|[Link](https://www.robosense.ai/)|[Link](https://www.linkedin.com/company/robosense)|2014|[164](https://www.linkedin.com/company/robosense/people/)|15k|[Series G](//www.crunchbase.com/organization/robosense?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-
-### Shenzhen - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Ping An Technology|[Link](http://tech.pingan.com)|[Link](https://www.linkedin.com/company/ping-an-technology)|2008|[3638](https://www.linkedin.com/company/ping-an-technology/people/)|15k|-|Software Development|
-|ZTE Corporation|[Link](http://www.zte.com.cn/global)|[Link](https://www.linkedin.com/company/zte)|1985|[30989](https://www.linkedin.com/company/zte/people/)|695k|[Post Ipo Debt](//www.crunchbase.com/organization/zte-corporation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-
 ### Shenzhen - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DJI|[Link](https://enterprise.dji.com/)|[Link](https://www.linkedin.com/company/dji)|2006|[5101](https://www.linkedin.com/company/dji/people/)|346k|[Secondary Market](//www.crunchbase.com/organization/dji?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|Huayan Robotics|[Link](http://www.hansrobot.net/)|[Link](https://www.linkedin.com/company/huayanrobotics)|2017|[39](https://www.linkedin.com/company/hansrobot/people/)|25k|-|Automation Machinery Manufacturing|
-|Pudu Robotics|[Link](https://www.pudutech.com/en?source=linkedin)|[Link](https://www.linkedin.com/company/pudurobotics)|2016|[236](https://www.linkedin.com/company/pudu/people/)|38k|-|Automation Machinery Manufacturing|
-|Elephant Robotics|[Link](https://www.elephantrobotics.com/en/)|[Link](https://www.linkedin.com/company/elephantrobotics)|2016|[36](https://www.linkedin.com/company/elephantrobotics/people/)|3k|[Series B](//www.crunchbase.com/organization/elephant-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Hai Robotics](https://www.hairobotics.com)|[Link](https://linkedin.com/company/hai-robotics)|2016|657|101k|Automation Machinery Manufacturing|
+|[Pudu Robotics](http://www.pudurobotics.com)|[Link](https://linkedin.com/company/pudurobotics)|2016|317|53k|Automation Machinery Manufacturing|
+|[Autel Robotics](http://autelrobotics.com)|[Link](https://linkedin.com/company/autel-robotics)|N/A|138|34k|Aviation and Aerospace Component Manufacturing|
+|[Youibot Robotics](http://en.youibot.com)|[Link](https://linkedin.com/company/youibot)|2017|55|21k|Automation Machinery Manufacturing|
+|[LimX Dynamics](https://www.limxdynamics.com/en)|[Link](https://linkedin.com/company/limx-dynamics)|2022|41|11k|IT Services and IT Consulting|
+|[Elephant Robotics](https://www.elephantrobotics.com/)|[Link](https://linkedin.com/company/elephantrobotics)|2016|37|4.8k|Automation Machinery Manufacturing|
+|[X Square Robot (自变量机器人)](https://x2robot.com/en)|[Link](https://linkedin.com/company/x-square-robot)|2023|53|3.5k|Software Development|
+|[LEJU ROBOTICS](http://www.lejurobot.com)|[Link](https://linkedin.com/company/lejurobotics)|2016|18|1.2k|Computers and Electronics Manufacturing|
+|[AllSome Fulfillment (YC W19)](https://www.allsome.com)|[Link](https://linkedin.com/company/allsome)|2018|28|1.1k|Truck Transportation|
 
-### Shenzhen - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Ping An Good Doctor|[Link](http://www.pagd.net/home/home?lang=EN_US)|[Link](https://www.linkedin.com/company/ping-an-health)|2014|[53](https://www.linkedin.com/company/ping-an-good-doctor/people/)|3k|-|Software Development|
-|iCarbonX|[Link](https://www.icarbonx.com/en/)|[Link](https://www.linkedin.com/company/icarbonx)|2015|[61](https://www.linkedin.com/company/icarbonx/people/)|2k|[Series A](//www.crunchbase.com/organization/icarbonx?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|WeDoctor (微医集团)|[Link](https://www.guahao.com)|[Link](https://www.linkedin.com/company/wedoctor)|2010|[345](https://www.linkedin.com/company/wedoctor/people/)|2k|[Series F](//www.crunchbase.com/organization/guahao?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|BGI|[Link](http://www.jbryant.eu/bgi.htm)|[Link](https://www.linkedin.com/company/bgi)|2009|[237](https://www.linkedin.com/company/bgi/people/)|2k|-|Appliances, Electrical, and Electronics Manufacturing|
-|Mindray|[Link](http://www.mindray.com/en)|[Link](https://www.linkedin.com/company/mindray)|1991|[4668](https://www.linkedin.com/company/mindray/people/)|431k|-|Hospitals and Health Care|
-
-### Shenzhen - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|BYD|[Link](http://www.byd.com)|[Link](https://www.linkedin.com/company/byd)|1995|[17773](https://www.linkedin.com/company/byd/people/)|655k|[Post Ipo Equity](//www.crunchbase.com/organization/byd-company?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|autoX|[Link](https://www.autox.com)|[Link](https://www.linkedin.com/company/autox)|2006|[35](https://www.linkedin.com/company/autox/people/)|2k|-|Book and Periodical Publishing|
-|RoboSense|[Link](https://www.robosense.ai/)|[Link](https://www.linkedin.com/company/robosense)|2014|[164](https://www.linkedin.com/company/robosense/people/)|15k|[Series G](//www.crunchbase.com/organization/robosense?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-
-### Shenzhen - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DJI|[Link](https://enterprise.dji.com/)|[Link](https://www.linkedin.com/company/dji)|2006|[5101](https://www.linkedin.com/company/dji/people/)|346k|[Secondary Market](//www.crunchbase.com/organization/dji?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-
-### Shenzhen - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tencent Cloud|[Link](https://www.tencentcloud.com/)|[Link](https://www.linkedin.com/company/tencent-cloud)|2013|[492](https://www.linkedin.com/company/tencent-cloud/people/)|30k|-|IT Services and IT Consulting|
-|Ping An Technology|[Link](http://tech.pingan.com)|[Link](https://www.linkedin.com/company/ping-an-technology)|2008|[3638](https://www.linkedin.com/company/ping-an-technology/people/)|15k|-|Software Development|
-
-### Shenzhen - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tencent|[Link](https://www.tencent.com/en-us)|[Link](https://www.linkedin.com/company/tencentglobal)|1998|[89218](https://www.linkedin.com/company/tencent/people/)|1264k|[Post Ipo Debt](//www.crunchbase.com/organization/tencent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Kuaishou Technology|[Link](https://www.kuaishou.com/en)|[Link](https://www.linkedin.com/company/kuaishou)|2011|[6033](https://www.linkedin.com/company/kuaishou/people/)|142k|-|Software Development|
-
-### Shenzhen - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Huawei|[Link](http://www.huawei.com/en/)|[Link](https://www.linkedin.com/company/huawei)|N/A|[134991](https://www.linkedin.com/company/huawei/people/)|5384k|[Seed](//www.crunchbase.com/organization/huawei?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Tencent|[Link](https://www.tencent.com/en-us)|[Link](https://www.linkedin.com/company/tencentglobal)|1998|[89218](https://www.linkedin.com/company/tencent/people/)|1264k|[Post Ipo Debt](//www.crunchbase.com/organization/tencent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ZTE Corporation|[Link](http://www.zte.com.cn/global)|[Link](https://www.linkedin.com/company/zte)|1985|[30989](https://www.linkedin.com/company/zte/people/)|695k|[Post Ipo Debt](//www.crunchbase.com/organization/zte-corporation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|BYD|[Link](http://www.byd.com)|[Link](https://www.linkedin.com/company/byd)|1995|[17773](https://www.linkedin.com/company/byd/people/)|655k|[Post Ipo Equity](//www.crunchbase.com/organization/byd-company?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|DJI|[Link](https://enterprise.dji.com/)|[Link](https://www.linkedin.com/company/dji)|2006|[5101](https://www.linkedin.com/company/dji/people/)|346k|[Secondary Market](//www.crunchbase.com/organization/dji?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|BGI|[Link](http://www.jbryant.eu/bgi.htm)|[Link](https://www.linkedin.com/company/bgi)|2009|[237](https://www.linkedin.com/company/bgi/people/)|2k|-|Appliances, Electrical, and Electronics Manufacturing|
-
-### Shenzhen - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tencent|[Link](https://www.tencent.com/en-us)|[Link](https://www.linkedin.com/company/tencentglobal)|1998|[89218](https://www.linkedin.com/company/tencent/people/)|1264k|[Post Ipo Debt](//www.crunchbase.com/organization/tencent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|PING AN|[Link](https://group.pingan.com/)|[Link](https://www.linkedin.com/company/ping-an)|1988|[51278](https://www.linkedin.com/company/ping-an/people/)|90k|[Post Ipo Debt](//www.crunchbase.com/organization/ping-an-insurance-group-co-of-china?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Webank|[Link](http://www.webank.it)|[Link](https://www.linkedin.com/company/webank)|1999|[132](https://www.linkedin.com/company/webank/people/)|8k|-|Banking|
-|ZTE Corporation|[Link](http://www.zte.com.cn/global)|[Link](https://www.linkedin.com/company/zte)|1985|[30989](https://www.linkedin.com/company/zte/people/)|695k|[Post Ipo Debt](//www.crunchbase.com/organization/zte-corporation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Shenzhen Stock Exchange|[Link](http://www.szse.cn)|[Link](https://www.linkedin.com/company/szse)|1990|[155](https://www.linkedin.com/company/szse/people/)|1k|-|Financial Services|
-|China Merchants Bank|[Link](http://www.cmbchina.com)|[Link](https://www.linkedin.com/company/china-merchants-bank)|1987|[13183](https://www.linkedin.com/company/china-merchants-bank/people/)|43k|-|Banking|
-
-### Shenzhen - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tencent Cloud|[Link](https://www.tencentcloud.com/)|[Link](https://www.linkedin.com/company/tencent-cloud)|2013|[492](https://www.linkedin.com/company/tencent-cloud/people/)|30k|-|IT Services and IT Consulting|
-|Ping An Technology|[Link](http://tech.pingan.com)|[Link](https://www.linkedin.com/company/ping-an-technology)|2008|[3638](https://www.linkedin.com/company/ping-an-technology/people/)|15k|-|Software Development|
+### Shenzhen - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[DJI](http://www.dji.com)|[Link](https://linkedin.com/company/dji)|2006|5.7k|386k|Computers and Electronics Manufacturing|
 
 ### Shenzhen - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tencent|[Link](https://www.tencent.com/en-us)|[Link](https://www.linkedin.com/company/tencentglobal)|1998|[89218](https://www.linkedin.com/company/tencent/people/)|1264k|[Post Ipo Debt](//www.crunchbase.com/organization/tencent?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Huawei|[Link](http://www.huawei.com/en/)|[Link](https://www.linkedin.com/company/huawei)|N/A|[134991](https://www.linkedin.com/company/huawei/people/)|5384k|[Seed](//www.crunchbase.com/organization/huawei?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|DJI|[Link](https://enterprise.dji.com/)|[Link](https://www.linkedin.com/company/dji)|2006|[5101](https://www.linkedin.com/company/dji/people/)|346k|[Secondary Market](//www.crunchbase.com/organization/dji?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|BYD|[Link](http://www.byd.com)|[Link](https://www.linkedin.com/company/byd)|1995|[17773](https://www.linkedin.com/company/byd/people/)|655k|[Post Ipo Equity](//www.crunchbase.com/organization/byd-company?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|ZTE Corporation|[Link](http://www.zte.com.cn/global)|[Link](https://www.linkedin.com/company/zte)|1985|[30989](https://www.linkedin.com/company/zte/people/)|695k|[Post Ipo Debt](//www.crunchbase.com/organization/zte-corporation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|OnePlus|[Link](http://oneplus.com)|[Link](https://www.linkedin.com/company/oneplus)|2013|[3230](https://www.linkedin.com/company/oneplus/people/)|438k|-|Computers and Electronics Manufacturing|
-|VIVO|[Link](http://www.vivoartgallery.com)|[Link](https://www.linkedin.com/company/vivo)|2019|[1692](https://www.linkedin.com/company/vivo/people/)|4k|-|Artists and Writers|
-|OPPO|[Link](http://www.oppo.com/en)|[Link](https://www.linkedin.com/company/oppo)|N/A|[53403](https://www.linkedin.com/company/oppo/people/)|627k|-|Telecommunications|
-|TCL|[Link](http://www.tcl-global.com)|[Link](https://www.linkedin.com/company/tcl)|2000|[2537](https://www.linkedin.com/company/tcl/people/)|6k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Seeed Studio](http://seeedstudio.com)|[Link](https://linkedin.com/company/seeedstudio)|N/A|266|77k|Software Development|
 
 ## Singapore
-### Singapore - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ViSenze(a Rezolve Ai Company)|[Link](https://www.visenze.com/)|[Link](https://www.linkedin.com/company/visenze)|2012|[43](https://www.linkedin.com/company/visenze/people/)|28k|[Series Unknown](//www.crunchbase.com/organization/visenze?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Grab (Grab a Grub Services Ltd)|[Link](http://www.grab.in/)|[Link](https://www.linkedin.com/company/grab)|N/A|[2155](https://www.linkedin.com/company/grab/people/)|48k|-|Truck Transportation|
+### Singapore - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PixVerse](https://pixverse.ai)|[Link](https://linkedin.com/company/pixverse)|2023|109|5.3k|Software Development|
+|[StaTwig](http://www.statwig.com)|[Link](https://linkedin.com/company/statwig)|2016|18|3.3k|Software Development|
 
 ### Singapore - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Patsnap|[Link](http://www.patsnap.com/)|[Link](https://www.linkedin.com/company/patsnap)|N/A|[536](https://www.linkedin.com/company/patsnap/people/)|54k|[Series E](//www.crunchbase.com/organization/patsnap?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Carousell Group|[Link](http://careers.carousell.com/)|[Link](https://www.linkedin.com/company/carousellgroup)|2012|[1218](https://www.linkedin.com/company/carousell/people/)|132k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Carousell Group](http://careers.carousell.com/)|[Link](https://linkedin.com/company/carousellgroup)|2012|1.2k|149k|Software Development|
+|[Omniscien Technologies](http://www.omniscien.com)|[Link](https://linkedin.com/company/omniscien)|2007|23|1.2k|Software Development|
 
 ### Singapore - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|HOPE Technik|[Link](https://www.hopetechnik.com)|[Link](https://www.linkedin.com/company/hope-technik)|2006|[84](https://www.linkedin.com/company/hope-technik/people/)|13k|-|Industrial Machinery Manufacturing|
-|LionsBot International|[Link](http://www.lionsbot.com)|[Link](https://www.linkedin.com/company/lionsbot)|2018|[159](https://www.linkedin.com/company/lionsbot/people/)|25k|[Series Unknown](//www.crunchbase.com/organization/lionsbot?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[LionsBot International](http://www.lionsbot.com)|[Link](https://linkedin.com/company/lionsbot)|2018|176|34k|Automation Machinery Manufacturing|
+|[Botsync](https://www.botsync.co)|[Link](https://linkedin.com/company/botsync)|2017|92|25k|Automation Machinery Manufacturing|
+|[HOPE Technik](https://www.hopetechnik.com)|[Link](https://linkedin.com/company/hope-technik)|2006|88|16k|IT Services and IT Consulting|
+|[SESTO Robotics](https://www.sestorobotics.com)|[Link](https://linkedin.com/company/sesto-robotics)|N/A|19|6.9k|Automation Machinery Manufacturing|
+|[Movel AI](http://www.movel.ai)|[Link](https://linkedin.com/company/movel-ai)|2016|8|3k|IT Services and IT Consulting|
 
 ### Singapore - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Holmusk|[Link](https://www.holmusk.com/)|[Link](https://www.linkedin.com/company/holmusk)|2015|[93](https://www.linkedin.com/company/holmusk/people/)|26k|[Corporate Round](//www.crunchbase.com/organization/holmusk?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Mental Health Care|
-|Biofourmis|[Link](http://www.biofourmis.com)|[Link](https://www.linkedin.com/company/biofourmis)|2015|[133](https://www.linkedin.com/company/biofourmis/people/)|43k|[Series D](//www.crunchbase.com/organization/biofourmis-pte-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Doctor Anywhere|[Link](https://doctoranywhere.com/?utm_campaign=page_cta&utm_source=linkedin&utm_content=learnmore&utm_medium=social)|[Link](https://www.linkedin.com/company/doctoranywhere)|2017|[1903](https://www.linkedin.com/company/doctoranywhere/people/)|41k|-|Hospitals and Health Care|
-|UCARE.AI|[Link](https://www.ucare.ai)|[Link](https://www.linkedin.com/company/ucareai)|2016|[7](https://www.linkedin.com/company/ucareai/people/)|1k|[Series A](//www.crunchbase.com/organization/ucare-io?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Lucence|[Link](http://www.lucence.com)|[Link](https://www.linkedin.com/company/lucence)|2016|[98](https://www.linkedin.com/company/lucence/people/)|15k|[Series A](//www.crunchbase.com/organization/lucence-diagnostics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Doctor Anywhere](https://doctoranywhere.com/)|[Link](https://linkedin.com/company/doctoranywhere)|2017|2k|43k|Hospitals and Health Care|
+|[Naluri - Employee Health & Wellness](https://www.naluri.life/)|[Link](https://linkedin.com/company/naluri)|2017|311|18k|Wellness and Fitness Services|
+|[Mesh Bio](http://www.meshbio.com)|[Link](https://linkedin.com/company/meshbio)|2018|27|6.2k|IT Services and IT Consulting|
+|[Engine Biosciences](http://www.enginebio.com)|[Link](https://linkedin.com/company/engine-biosciences)|N/A|34|5.8k|Biotechnology Research|
+|[Qritive](https://www.qritive.com)|[Link](https://linkedin.com/company/qritive)|2017|11|3.2k|Software Development|
+|[AlemHealth](https://www.alemhealth.com)|[Link](https://linkedin.com/company/alemhealthltd)|2014|17|1.7k|Hospitals and Health Care|
+|[UCARE.AI](http://www.ucare.ai)|[Link](https://linkedin.com/company/ucareai)|2016|7|1.4k|IT Services and IT Consulting|
+|[KroniKare Pte Ltd](http://www.kronikare.ai)|[Link](https://linkedin.com/company/kronikare)|2017|13|1.2k|Hospitals and Health Care|
 
 ### Singapore - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|nuTonomy|[Link](http://www.nutonomy.com)|[Link](https://www.linkedin.com/company/nutonomy)|2013|[8](https://www.linkedin.com/company/nutonomy/people/)|15k|[Series A](//www.crunchbase.com/organization/nutonomy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|Grab (Grab a Grub Services Ltd)|[Link](http://www.grab.in/)|[Link](https://www.linkedin.com/company/grab)|N/A|[2155](https://www.linkedin.com/company/grab/people/)|48k|-|Truck Transportation|
-|ST Engineering|[Link](https://www.stengg.com/)|[Link](https://www.linkedin.com/company/st-engineering)|1967|[17783](https://www.linkedin.com/company/st-engineering/people/)|425k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[MooVita Pte Ltd](http://www.moovita.com)|[Link](https://linkedin.com/company/moovita)|2016|32|5.5k|Motor Vehicle Manufacturing|
 
-### Singapore - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|KeyReply|[Link](https://keyreply.com)|[Link](https://www.linkedin.com/company/keyreply)|2016|[43](https://www.linkedin.com/company/keyreply/people/)|8k|[Seed](//www.crunchbase.com/organization/keyreply?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+### Singapore - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AI Rudder](https://www.airudder.com)|[Link](https://linkedin.com/company/airudder)|2019|332|66k|Software Development|
+|[WIZ.AI](http://www.wiz.ai)|[Link](https://linkedin.com/company/wiz-ai)|2019|169|53k|IT Services and IT Consulting|
+
+### Singapore - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[SleekFlow](https://www.sleekflow.io)|[Link](https://linkedin.com/company/sleekflow)|2019|203|120k|Software Development|
+|[Pand.ai](http://www.pand.ai)|[Link](https://linkedin.com/company/pand.ai)|2016|17|13k|IT Services and IT Consulting|
+|[KeyReply](https://keyreply.com)|[Link](https://linkedin.com/company/keyreply)|2016|16|8.6k|IT Services and IT Consulting|
 
 ### Singapore - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tessaract.io|[Link](https://tessaract.io/)|[Link](https://www.linkedin.com/company/tessaracttech)|2018|[35](https://www.linkedin.com/company/tessaract-io/people/)|4k|[Series Unknown](//www.crunchbase.com/organization/tessaract-io?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ADVANCE.AI](http://advance.ai)|[Link](https://linkedin.com/company/advanceai-aai)|2016|348|108k|IT Services and IT Consulting|
+|[Tessaract.io](https://tessaract.io/)|[Link](https://linkedin.com/company/tessaracttech)|2018|41|4.8k|IT Services and IT Consulting|
 
 ### Singapore - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Carousell Group|[Link](http://careers.carousell.com/)|[Link](https://www.linkedin.com/company/carousellgroup)|2012|[1218](https://www.linkedin.com/company/carousell/people/)|132k|-|Software Development|
-|PropertyGuru Group|[Link](https://www.propertygurugroup.com)|[Link](https://www.linkedin.com/company/propertyguru)|2007|[2453](https://www.linkedin.com/company/propertyguru/people/)|85k|[Post Ipo Equity](//www.crunchbase.com/organization/propertyguru?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ShopBack|[Link](http://corporate.shopback.com)|[Link](https://www.linkedin.com/company/shopback)|2014|[936](https://www.linkedin.com/company/shopback/people/)|91k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Klook](http://www.klook.com)|[Link](https://linkedin.com/company/klook)|2014|2.1k|279k|Software Development|
+|[ShopBack](http://corporate.shopback.com)|[Link](https://linkedin.com/company/shopback)|2014|961|96k|Software Development|
+|[PropertyGuru Group](https://www.propertygurugroup.com/)|[Link](https://linkedin.com/company/propertyguru)|2007|2.6k|89k|Software Development|
+|[Patsnap](http://www.patsnap.com/)|[Link](https://linkedin.com/company/patsnap)|2007|588|63k|Software Development|
+|[Crayon Data](https://crayondata.ai/)|[Link](https://linkedin.com/company/crayondata)|2012|126|53k|Software Development|
+|[CloudMile](https://cloudmile.ai)|[Link](https://linkedin.com/company/cloudmile)|2017|262|39k|IT Services and IT Consulting|
 
 ### Singapore - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|foodpanda|[Link](http://careers.foodpanda.com)|[Link](https://www.linkedin.com/company/foodpanda)|2012|[17110](https://www.linkedin.com/company/foodpanda/people/)|548k|[Private Equity](//www.crunchbase.com/organization/foodpanda?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Technology, Information and Internet|
-|RedMart|[Link](https://www.lazada.com/work-at-lazada/)|[Link](https://www.linkedin.com/company/redmart)|2011|[527](https://www.linkedin.com/company/redmart/people/)|17k|[Series C](//www.crunchbase.com/organization/redmart?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|StashAway|[Link](https://www.stashaway.com)|[Link](https://www.linkedin.com/company/stashaway)|2016|[210](https://www.linkedin.com/company/stashaway/people/)|42k|[Series D](//www.crunchbase.com/organization/stashaway?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[StashAway](https://www.stashaway.com)|[Link](https://linkedin.com/company/stashaway)|2016|194|44k|Financial Services|
+|[Axross](http://www.axross.co)|[Link](https://linkedin.com/company/axross-sg)|2021|11|3.1k|Software Development|
 
 ### Singapore - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Grab (Grab a Grub Services Ltd)|[Link](http://www.grab.in/)|[Link](https://www.linkedin.com/company/grab)|N/A|[2155](https://www.linkedin.com/company/grab/people/)|48k|-|Truck Transportation|
-|Shopee|[Link](http://careers.shopee.sg/)|[Link](https://www.linkedin.com/company/shopee)|N/A|[61089](https://www.linkedin.com/company/shopee/people/)|2345k|-|Software Development|
-|Lazada|[Link](https://group.lazada.com/en/)|[Link](https://www.linkedin.com/company/lazada)|2012|[21551](https://www.linkedin.com/company/lazada/people/)|1282k|[Corporate Round](//www.crunchbase.com/organization/lazada-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Razer Inc.|[Link](https://www.razer.com)|[Link](https://www.linkedin.com/company/razer)|2005|[1836](https://www.linkedin.com/company/razer/people/)|244k|[Series Unknown](//www.crunchbase.com/organization/razer?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|Ninja Van|[Link](http://www.ninjavan.co)|[Link](https://www.linkedin.com/company/ninja-van)|2014|[4981](https://www.linkedin.com/company/ninja-van/people/)|113k|[Debt Financing](//www.crunchbase.com/organization/ninja-van-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
-|StashAway|[Link](https://www.stashaway.com)|[Link](https://www.linkedin.com/company/stashaway)|2016|[210](https://www.linkedin.com/company/stashaway/people/)|42k|[Series D](//www.crunchbase.com/organization/stashaway?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|AMTD PolicyPal|[Link](http://www.policypal.com)|[Link](https://www.linkedin.com/company/amtdpolicypal)|2016|[4](https://www.linkedin.com/company/policypal/people/)|3k|[Undisclosed](//www.crunchbase.com/organization/policypal?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ninja Van](http://www.ninjavan.co)|[Link](https://linkedin.com/company/ninja-van)|2014|4.8k|116k|Truck Transportation|
+|[Dyna.Ai](https://www.dyna.ai/)|[Link](https://linkedin.com/company/dynaai)|2024|119|46k|Software Development|
+|[Tookitaki](https://www.tookitaki.com)|[Link](https://linkedin.com/company/tookitaki)|2015|129|41k|Software Development|
+|[Cosmose, Inc.](http://cosmose.co/)|[Link](https://linkedin.com/company/cosmoseai)|2014|76|19k|Software Development|
+|[Trusting Social](http://www.trustingsocial.com)|[Link](https://linkedin.com/company/trustingsocial)|2013|336|17k|Financial Services|
+|[Silent Eight](http://www.silenteight.com)|[Link](https://linkedin.com/company/silenteight)|2013|107|14k|Software Development|
+|[MindFi (YC S21)](http://mindfi.co)|[Link](https://linkedin.com/company/mindfi.co)|2017|170|13k|Mental Health Care|
+|[Fintelite (YC W22)](https://fintelite.ai/)|[Link](https://linkedin.com/company/fintelite)|2020|19|12k|IT Services and IT Consulting|
 
 ### Singapore - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|AI Singapore|[Link](http://www.aisingapore.org)|[Link](https://www.linkedin.com/company/aisingapore)|2017|[292](https://www.linkedin.com/company/aisingapore/people/)|33k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Temus](http://www.temus.com)|[Link](https://linkedin.com/company/temus)|2021|433|56k|Business Consulting and Services|
+
+### Singapore - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sapient Intelligence](https://sapient.inc/)|[Link](https://linkedin.com/company/sapientinc)|N/A|12|5.2k|Software Development|
+|[Sentient.io](http://www.sentient.io)|[Link](https://linkedin.com/company/sentientio)|2017|14|1.3k|Software Development|
 
 ### Singapore - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Grab (Grab a Grub Services Ltd)|[Link](http://www.grab.in/)|[Link](https://www.linkedin.com/company/grab)|N/A|[2155](https://www.linkedin.com/company/grab/people/)|48k|-|Truck Transportation|
-|Razer Inc.|[Link](https://www.razer.com)|[Link](https://www.linkedin.com/company/razer)|2005|[1836](https://www.linkedin.com/company/razer/people/)|244k|[Series Unknown](//www.crunchbase.com/organization/razer?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computers and Electronics Manufacturing|
-|Singapore Airlines|[Link](http://singaporeair.com/)|[Link](https://www.linkedin.com/company/singapore-airlines)|1972|[16086](https://www.linkedin.com/company/singapore-airlines/people/)|771k|[Post Ipo Debt](//www.crunchbase.com/organization/singapore-airlines?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Airlines and Aviation|
-|DBS Bank|[Link](https://www.dbs.com/default.page)|[Link](https://www.linkedin.com/company/dbs-bank)|1968|[33814](https://www.linkedin.com/company/dbs-bank/people/)|1078k|[Post Ipo Debt](//www.crunchbase.com/organization/dbs-bank-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Banking|
-|Singtel|[Link](http://www.singtel.com)|[Link](https://www.linkedin.com/company/singtel)|1879|[8304](https://www.linkedin.com/company/singtel/people/)|290k|[Post Ipo Debt](//www.crunchbase.com/organization/singtel?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Temasek|[Link](http://www.temasek.com.sg)|[Link](https://www.linkedin.com/company/temasek-holdings)|1974|[1599](https://www.linkedin.com/company/temasek-holdings/people/)|212k|[Debt Financing](//www.crunchbase.com/organization/temasek?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[invideo](https://invideo.io/)|[Link](https://linkedin.com/company/invideoio)|2017|253|41k|Software Development|
+|[InMobi](https://www.inmobi.com/)|[Link](https://linkedin.com/company/inmobi)|2007|518|26k|Software Development|
+|[Nansen](https://nsn.ai/explore)|[Link](https://linkedin.com/company/nansen)|2020|117|24k|IT Services and IT Consulting|
+|[Eskwelabs](https://learningsprints.eskwelabs.com/)|[Link](https://linkedin.com/company/eskwelabs)|2019|123|7.4k|Professional Training and Coaching|
+|[Designs.ai](https://www.designs.ai)|[Link](https://linkedin.com/company/designs-ai)|2019|5|1.6k|IT Services and IT Consulting|
+
+## Sofia
+### Sofia - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Imagga](http://imagga.com)|[Link](https://linkedin.com/company/imagga)|2011|8|1.3k|IT Services and IT Consulting|
+
+### Sofia - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sensika Technologies](http://sensika.com)|[Link](https://linkedin.com/company/sensika-technologies)|2012|26|2.1k|Software Development|
+
+### Sofia - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Releva](https://releva.ai/)|[Link](https://linkedin.com/company/releva-ai)|2020|21|2.1k|Software Development|
+
+### Sofia - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Transmetrics](https://www.transmetrics.ai/)|[Link](https://linkedin.com/company/transmetrics)|2013|41|4.2k|Software Development|
+
+### Sofia - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Scalefocus](https://www.scalefocus.com)|[Link](https://linkedin.com/company/scalefocus)|2012|487|47k|Software Development|
 
 ## Stockholm
-### Stockholm - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Tobii|[Link](https://www.tobii.com/)|[Link](https://www.linkedin.com/company/tobii)|N/A|[488](https://www.linkedin.com/company/tobii/people/)|39k|[Post Ipo Equity](//www.crunchbase.com/organization/tobii-technology?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Univrses|[Link](https://univrses.com)|[Link](https://www.linkedin.com/company/univrses)|2015|[55](https://www.linkedin.com/company/univrses/people/)|3k|[Seed](//www.crunchbase.com/organization/univrses?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Neko Health|[Link](https://www.nekohealth.com/en/scan)|[Link](https://www.linkedin.com/company/nekohealth)|2018|[476](https://www.linkedin.com/company/nekohealth/people/)|57k|[Series B](//www.crunchbase.com/organization/neko-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-
-### Stockholm - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Sana|[Link](https://www.sanalabs.com)|[Link](https://www.linkedin.com/company/sana-labs)|2016|[591](https://www.linkedin.com/company/sana-labs/people/)|82k|[Series C](//www.crunchbase.com/organization/sana-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Recorded Future|[Link](http://www.recordedfuture.com)|[Link](https://www.linkedin.com/company/recorded-future)|2009|[1142](https://www.linkedin.com/company/recorded-future/people/)|82k|[Series Unknown](//www.crunchbase.com/organization/recorded-future?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer and Network Security|
+### Stockholm - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Neko Health](https://www.nekohealth.com)|[Link](https://linkedin.com/company/nekohealth)|2018|801|92k|Hospitals and Health Care|
+|[Univrses](http://univrses.com)|[Link](https://linkedin.com/company/univrses)|2015|55|3.7k|Software Development|
 
 ### Stockholm - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Einride|[Link](https://www.einride.tech)|[Link](https://www.linkedin.com/company/einride)|2016|[422](https://www.linkedin.com/company/einride/people/)|64k|[Series Unknown](//www.crunchbase.com/organization/einride?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
-|Furhat Robotics|[Link](https://furhatrobotics.com)|[Link](https://www.linkedin.com/company/furhat-robotics)|N/A|[30](https://www.linkedin.com/company/furhat-robotics/people/)|8k|[Seed](//www.crunchbase.com/organization/furhat-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Furhat Robotics](https://furhatrobotics.com)|[Link](https://linkedin.com/company/furhat-robotics)|N/A|27|9.8k|IT Services and IT Consulting|
 
 ### Stockholm - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Neko Health|[Link](https://www.nekohealth.com/en/scan)|[Link](https://www.linkedin.com/company/nekohealth)|2018|[476](https://www.linkedin.com/company/nekohealth/people/)|57k|[Series B](//www.crunchbase.com/organization/neko-health?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Karolinska Development|[Link](http://www.karolinskadevelopment.com)|[Link](https://www.linkedin.com/company/karolinska-development)|2003|[26](https://www.linkedin.com/company/karolinska-development/people/)|1k|-|Venture Capital and Private Equity Principals|
-|Ambea|[Link](http://www.ambea.se)|[Link](https://www.linkedin.com/company/ambea)|N/A|[3816](https://www.linkedin.com/company/ambea/people/)|5k|[Post Ipo Secondary](//www.crunchbase.com/organization/ambea?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Doctrin|[Link](http://www.doctrin.se)|[Link](https://www.linkedin.com/company/doctrin)|2016|[44](https://www.linkedin.com/company/doctrin/people/)|5k|[Series C](//www.crunchbase.com/organization/doctrin?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Kry](https://career.kry.se/)|[Link](https://linkedin.com/company/kry)|2015|930|39k|Hospitals and Health Care|
+|[Doctrin](http://www.doctrin.se)|[Link](https://linkedin.com/company/doctrin)|2016|41|5.4k|Hospitals and Health Care|
+|[Bemlo](https://www.bemlo.com/)|[Link](https://linkedin.com/company/bemlo)|2020|17|1.7k|Software Development|
 
-### Stockholm - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Zenseact|[Link](http://www.zenseact.com)|[Link](https://www.linkedin.com/company/zenseact)|2020|[615](https://www.linkedin.com/company/zenseact/people/)|15k|-|Software Development|
-|Einride|[Link](https://www.einride.tech)|[Link](https://www.linkedin.com/company/einride)|2016|[422](https://www.linkedin.com/company/einride/people/)|64k|[Series Unknown](//www.crunchbase.com/organization/einride?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
+### Stockholm - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Epidemic Sound](http://www.epidemicsound.com)|[Link](https://linkedin.com/company/epidemic-sound)|2009|619|48k|Software Development|
+|[Whispr Group](http://www.whisprgroup.com/)|[Link](https://linkedin.com/company/whispr-group)|2006|22|3.1k|Market Research|
 
-### Stockholm - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Spotify|[Link](http://www.lifeatspotify.com)|[Link](https://www.linkedin.com/company/spotify)|2006|[18293](https://www.linkedin.com/company/spotify/people/)|4456k|[Post Ipo Equity](//www.crunchbase.com/organization/spotify?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Musicians|
-|Epidemic Sound|[Link](http://www.epidemicsound.com)|[Link](https://www.linkedin.com/company/epidemic-sound)|2009|[713](https://www.linkedin.com/company/epidemic-sound/people/)|43k|[Private Equity](//www.crunchbase.com/organization/epidemic-sound?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Musicians|
-
-### Stockholm - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SESTEK|[Link](http://www.sestek.com)|[Link](https://www.linkedin.com/company/sestek)|2000|[201](https://www.linkedin.com/company/sestek/people/)|24k|-|Software Development|
-
-### Stockholm - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Trustly|[Link](https://trustly.com/)|[Link](https://www.linkedin.com/company/trustly)|2008|[885](https://www.linkedin.com/company/trustly/people/)|76k|[Series Unknown](//www.crunchbase.com/organization/trustly-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Zettle by PayPal|[Link](https://www.zettle.com)|[Link](https://www.linkedin.com/company/zettlebypaypal)|N/A|[234](https://www.linkedin.com/company/izettle/people/)|39k|-|Financial Services|
+### Stockholm - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mavenoid](https://www.mavenoid.com)|[Link](https://linkedin.com/company/mavenoid)|2017|64|5.1k|Software Development|
 
 ### Stockholm - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Spotify|[Link](http://www.lifeatspotify.com)|[Link](https://www.linkedin.com/company/spotify)|2006|[18293](https://www.linkedin.com/company/spotify/people/)|4456k|[Post Ipo Equity](//www.crunchbase.com/organization/spotify?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Musicians|
-|Soundtrack|[Link](https://www.soundtrack.io?utm_source=linkedin&utm_medium=organic&utm_campaign=profile)|[Link](https://www.linkedin.com/company/soundtrackio)|2013|[257](https://www.linkedin.com/company/soundtrackyourbrand/people/)|11k|-|Entertainment Providers|
-|Mentimeter|[Link](https://www.mentimeter.com/enterprise)|[Link](https://www.linkedin.com/company/mentimeter)|2014|[412](https://www.linkedin.com/company/mentimeter/people/)|38k|[Secondary Market](//www.crunchbase.com/organization/mentimeter?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mentimeter](https://www.mentimeter.com/)|[Link](https://linkedin.com/company/mentimeter)|2014|440|42k|Software Development|
+|[Soundtrack](http://soundtrack.io)|[Link](https://linkedin.com/company/soundtrackio)|2013|293|13k|Entertainment Providers|
+|[Vionlabs](http://www.vionlabs.com)|[Link](https://linkedin.com/company/vionlabs)|2010|34|9.8k|Software Development|
 
 ### Stockholm - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Ericsson|[Link](http://www.ericsson.com)|[Link](https://www.linkedin.com/company/ericsson)|1876|[107326](https://www.linkedin.com/company/ericsson/people/)|2271k|[Post Ipo Equity](//www.crunchbase.com/organization/ericsson?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Scania Group|[Link](https://www.scania.com/)|[Link](https://www.linkedin.com/company/scania)|N/A|[36753](https://www.linkedin.com/company/scania/people/)|690k|-|Motor Vehicle Manufacturing|
-|Atlas Copco|[Link](https://www.atlascopco.com/en-uk/sys/in-your-country)|[Link](https://www.linkedin.com/company/atlas-copco)|1873|[35280](https://www.linkedin.com/company/atlas-copco/people/)|1116k|-|Machinery Manufacturing|
-|Saab|[Link](https://saab.com)|[Link](https://www.linkedin.com/company/saab)|N/A|[19607](https://www.linkedin.com/company/saab/people/)|326k|[Grant](//www.crunchbase.com/organization/saab?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Defense and Space Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Brickanta](https://www.brickanta.com/)|[Link](https://linkedin.com/company/brickanta)|2025|29|4.9k|Software Development|
+|[CanaryBit](https://www.canarybit.eu/)|[Link](https://linkedin.com/company/canarybit)|2020|11|1.4k|Computer and Network Security|
 
 ### Stockholm - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Klarna|[Link](https://www.klarna.com/international/enterprise/)|[Link](https://www.linkedin.com/company/klarna)|2005|[4660](https://www.linkedin.com/company/klarna/people/)|392k|[Debt Financing](//www.crunchbase.com/organization/klarna?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Spotify|[Link](http://www.lifeatspotify.com)|[Link](https://www.linkedin.com/company/spotify)|2006|[18293](https://www.linkedin.com/company/spotify/people/)|4456k|[Post Ipo Equity](//www.crunchbase.com/organization/spotify?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Musicians|
-|Zettle by PayPal|[Link](https://www.zettle.com)|[Link](https://www.linkedin.com/company/zettlebypaypal)|N/A|[234](https://www.linkedin.com/company/izettle/people/)|39k|-|Financial Services|
-|Trustly|[Link](https://trustly.com/)|[Link](https://www.linkedin.com/company/trustly)|2008|[885](https://www.linkedin.com/company/trustly/people/)|76k|[Series Unknown](//www.crunchbase.com/organization/trustly-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Bambora|[Link](http://www.bambora.com)|[Link](https://www.linkedin.com/company/bambora)|N/A|[87](https://www.linkedin.com/company/bambora/people/)|12k|-|Financial Services|
-|Tink|[Link](https://www.tink.ca)|[Link](https://www.linkedin.com/company/tink)|1995|[190](https://www.linkedin.com/company/tink/people/)|18k|-|IT Services and IT Consulting|
-|Fortnox|[Link](http://www.fortnox.se)|[Link](https://www.linkedin.com/company/fortnox)|2001|[894](https://www.linkedin.com/company/fortnox/people/)|29k|[Series Unknown](//www.crunchbase.com/organization/fortnox?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Epidemic Sound|[Link](http://www.epidemicsound.com)|[Link](https://www.linkedin.com/company/epidemic-sound)|2009|[713](https://www.linkedin.com/company/epidemic-sound/people/)|43k|[Private Equity](//www.crunchbase.com/organization/epidemic-sound?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Musicians|
-|Soundtrack|[Link](https://www.soundtrack.io?utm_source=linkedin&utm_medium=organic&utm_campaign=profile)|[Link](https://www.linkedin.com/company/soundtrackio)|2013|[257](https://www.linkedin.com/company/soundtrackyourbrand/people/)|11k|-|Entertainment Providers|
-|Mentimeter|[Link](https://www.mentimeter.com/enterprise)|[Link](https://www.linkedin.com/company/mentimeter)|2014|[412](https://www.linkedin.com/company/mentimeter/people/)|38k|[Secondary Market](//www.crunchbase.com/organization/mentimeter?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Volta Trucks|[Link](https://voltatrucks.com/contact_us)|[Link](https://www.linkedin.com/company/voltatrucks)|2019|[88](https://www.linkedin.com/company/volta-trucks/people/)|70k|[Series C](//www.crunchbase.com/organization/volta-trucks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Trustly](https://trustly.com)|[Link](https://linkedin.com/company/trustly)|2008|830|84k|Financial Services|
+|[Vetnio (YC W25)](https://vetnio.com/)|[Link](https://linkedin.com/company/vetnio)|N/A|14|2.5k|Non-profit Organizations|
+|[Zaplar (YC S26)](http://www.zaplar.com)|[Link](https://linkedin.com/company/zaplar)|N/A|9|1.8k|Software Development|
 
-### Stockholm - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|AI Sweden|[Link](https://ai.se)|[Link](https://www.linkedin.com/company/aisweden)|2019|[196](https://www.linkedin.com/company/aisweden/people/)|75k|-|Research Services|
-
-### Stockholm - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Spotify|[Link](http://www.lifeatspotify.com)|[Link](https://www.linkedin.com/company/spotify)|2006|[18293](https://www.linkedin.com/company/spotify/people/)|4456k|[Post Ipo Equity](//www.crunchbase.com/organization/spotify?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Musicians|
-|Ericsson|[Link](http://www.ericsson.com)|[Link](https://www.linkedin.com/company/ericsson)|1876|[107326](https://www.linkedin.com/company/ericsson/people/)|2271k|[Post Ipo Equity](//www.crunchbase.com/organization/ericsson?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|King|[Link](https://careers.king.com/)|[Link](https://www.linkedin.com/company/king)|2003|[6412](https://www.linkedin.com/company/king/people/)|201k|[Series A](//www.crunchbase.com/organization/king?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|Mojang Studios|[Link](http://jobs.mojang.com)|[Link](https://www.linkedin.com/company/mojangstudios)|2009|[1471](https://www.linkedin.com/company/mojang/people/)|59k|-|Computer Games|
-|Scania Group|[Link](https://www.scania.com/)|[Link](https://www.linkedin.com/company/scania)|N/A|[36753](https://www.linkedin.com/company/scania/people/)|690k|-|Motor Vehicle Manufacturing|
-|Skype|[Link](http://www.microsoft.com)|[Link](https://www.linkedin.com/company/skype)|2003|[668](https://www.linkedin.com/company/skype/people/)|120k|[Series Unknown](//www.crunchbase.com/organization/skype?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|IKEA|[Link](https://about.ikea.com/)|[Link](https://www.linkedin.com/company/ikea)|N/A|[93727](https://www.linkedin.com/company/ikea/people/)|3515k|-|Retail|
-|Northvolt|[Link](http://www.northvolt.com)|[Link](https://www.linkedin.com/company/northvolt)|N/A|[1960](https://www.linkedin.com/company/northvolt/people/)|274k|[Debt Financing](//www.crunchbase.com/organization/northvolt-ab?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Industrial Machinery Manufacturing|
+### Stockholm - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lovable](https://lovable.dev)|[Link](https://linkedin.com/company/lovable-dev)|N/A|1.2k|587k|Software Development|
+|Legora|[Link](https://linkedin.com/company/wearelegora)|2023|980|196k|Software Development|
+|[evroc](https://evroc.com/)|[Link](https://linkedin.com/company/evroc)|N/A|78|10k|Software Development|
+|[Hopsworks](http://www.hopsworks.ai)|[Link](https://linkedin.com/company/hopsworks)|2018|30|7.3k|Software Development|
+|[Scape](https://scape.app)|[Link](https://linkedin.com/company/wearescape)|2024|8|3.4k|Software Development|
 
 ## Sydney
-### Sydney - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Seeing Machines|[Link](http://www.seeingmachines.com)|[Link](https://www.linkedin.com/company/seeingmachines)|2001|[405](https://www.linkedin.com/company/seeingmachines/people/)|16k|[Post Ipo Equity](//www.crunchbase.com/organization/seeing-machines?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Harrison.ai|[Link](https://www.harrison.ai)|[Link](https://www.linkedin.com/company/harrison-ai)|N/A|[198](https://www.linkedin.com/company/harrison-ai/people/)|48k|[Series C](//www.crunchbase.com/organization/harrison-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
+### Sydney - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Nearmap](https://www.nearmap.com)|[Link](https://linkedin.com/company/nearmap-com)|2009|1.8k|94k|Software Development|
+|[Harrison.ai](https://www.harrison.ai)|[Link](https://linkedin.com/company/harrison-ai)|N/A|198|54k|Hospitals and Health Care|
+|[Propeller](https://www.propelleraero.com)|[Link](https://linkedin.com/company/propeller-aero)|2014|379|32k|Software Development|
+|[Tiliter](https://www.tiliter.com)|[Link](https://linkedin.com/company/tilitertech)|N/A|14|6k|Software Development|
+|[Presien](http://www.presien.com)|[Link](https://linkedin.com/company/presien)|2020|23|2.4k|Automation Machinery Manufacturing|
 
 ### Sydney - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Appen|[Link](https://appen.com/)|[Link](https://www.linkedin.com/company/appen)|1996|[19619](https://www.linkedin.com/company/appen/people/)|1058k|-|IT Services and IT Consulting|
-|Canva|[Link](http://www.canva.com)|[Link](https://www.linkedin.com/company/canva)|2012|[12852](https://www.linkedin.com/company/canva/people/)|2449k|[Secondary Market](//www.crunchbase.com/organization/canva?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Kasada|[Link](https://www.kasada.io)|[Link](https://www.linkedin.com/company/kasada)|2015|[115](https://www.linkedin.com/company/kasada/people/)|6k|[Series C](//www.crunchbase.com/organization/kasada?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer and Network Security|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[daisee](http://www.daisee.com)|[Link](https://linkedin.com/company/daisee)|2017|15|4k|Software Development|
 
 ### Sydney - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Advanced Navigation|[Link](https://www.advancednavigation.com)|[Link](https://www.linkedin.com/company/advanced-navigation)|2012|[190](https://www.linkedin.com/company/advanced-navigation/people/)|30k|[Grant](//www.crunchbase.com/organization/advanced-navigation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Advanced Navigation](https://www.advancednavigation.com)|[Link](https://linkedin.com/company/advanced-navigation)|2012|219|35k|IT Services and IT Consulting|
 
 ### Sydney - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Harrison.ai|[Link](https://www.harrison.ai)|[Link](https://www.linkedin.com/company/harrison-ai)|N/A|[198](https://www.linkedin.com/company/harrison-ai/people/)|48k|[Series C](//www.crunchbase.com/organization/harrison-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Resmed|[Link](https://www.resmed.com/)|[Link](https://www.linkedin.com/company/resmed)|N/A|[8717](https://www.linkedin.com/company/resmed/people/)|245k|[Post Ipo Debt](//www.crunchbase.com/organization/resmed?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Medical Equipment Manufacturing|
-|Seer Medical|[Link](https://www.seermedical.com/)|[Link](https://www.linkedin.com/company/seer-medical)|2017|[100](https://www.linkedin.com/company/seer-medical/people/)|19k|[Corporate Round](//www.crunchbase.com/organization/seer-5904?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Coviu Global|[Link](http://www.coviu.com)|[Link](https://www.linkedin.com/company/coviu)|2015|[37](https://www.linkedin.com/company/coviu/people/)|9k|[Series A](//www.crunchbase.com/organization/coviu?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-
-### Sydney - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Cohda Wireless|[Link](http://www.cohdawireless.com)|[Link](https://www.linkedin.com/company/cohda-wireless)|2004|[40](https://www.linkedin.com/company/cohda-wireless/people/)|5k|[Series A](//www.crunchbase.com/organization/cohda-wireless?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Motor Vehicle Manufacturing|
-|Seeing Machines|[Link](http://www.seeingmachines.com)|[Link](https://www.linkedin.com/company/seeingmachines)|2001|[405](https://www.linkedin.com/company/seeingmachines/people/)|16k|[Post Ipo Equity](//www.crunchbase.com/organization/seeing-machines?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Sydney - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Dubber|[Link](https://www.dubber.net)|[Link](https://www.linkedin.com/company/dubber)|2011|[109](https://www.linkedin.com/company/dubber/people/)|9k|[Post Ipo Debt](//www.crunchbase.com/organization/dubber?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Verbit.ai|[Link](http://www.verbit.ai)|[Link](https://www.linkedin.com/company/verbit-ai)|2017|[1619](https://www.linkedin.com/company/verbit/people/)|26k|-|IT Services and IT Consulting|
-|Akooda (acquired by Tulip)|[Link](https://www.akooda.co)|[Link](https://www.linkedin.com/company/akooda)|2021|[5](https://www.linkedin.com/company/akooda/people/)|2k|[Seed](//www.crunchbase.com/organization/akooda?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Sydney - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Alteryx Auto Insights|[Link](https://www.alteryx.com/products/auto-insights)|[Link](https://www.linkedin.com/company/alteryx-auto-insights)|2016|[2](https://www.linkedin.com/company/hyper-anna/people/)|6k|-|Software Development|
-|Appen|[Link](https://appen.com/)|[Link](https://www.linkedin.com/company/appen)|1996|[19619](https://www.linkedin.com/company/appen/people/)|1058k|-|IT Services and IT Consulting|
-
-### Sydney - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Canva|[Link](http://www.canva.com)|[Link](https://www.linkedin.com/company/canva)|2012|[12852](https://www.linkedin.com/company/canva/people/)|2449k|[Secondary Market](//www.crunchbase.com/organization/canva?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Atlassian|[Link](https://atlassian.com/)|[Link](https://www.linkedin.com/company/atlassian)|2002|[21967](https://www.linkedin.com/company/atlassian/people/)|2366k|[Secondary Market](//www.crunchbase.com/organization/atlassian?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|REA Group|[Link](https://careers.rea-group.com/au/en/jointalentcommunity/?utm_campaign=087_TalCom_LinkedIn_MainPage_Button&utm_source=LinkedIn&utm_medium=Organic&utm_term=REA&utm_content=CTA)|[Link](https://www.linkedin.com/company/rea-group)|N/A|[3930](https://www.linkedin.com/company/rea-group/people/)|121k|[Post Ipo Debt](//www.crunchbase.com/organization/rea-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Prospection](http://www.prospection.com)|[Link](https://linkedin.com/company/prospection-au)|2012|56|12k|Software Development|
+|[Coviu Global](https://www.coviu.com)|[Link](https://linkedin.com/company/coviu)|2015|34|11k|Hospitals and Health Care|
+|[Care GP](https://caregp.com.au)|[Link](https://linkedin.com/company/caregp)|2024|16|7.5k|Software Development|
+|[Incepto](https://incepto.ai)|[Link](https://linkedin.com/company/incepto)|2012|5|6k|IT Services and IT Consulting|
 
 ### Sydney - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Atlassian|[Link](https://atlassian.com/)|[Link](https://www.linkedin.com/company/atlassian)|2002|[21967](https://www.linkedin.com/company/atlassian/people/)|2366k|[Secondary Market](//www.crunchbase.com/organization/atlassian?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Canva|[Link](http://www.canva.com)|[Link](https://www.linkedin.com/company/canva)|2012|[12852](https://www.linkedin.com/company/canva/people/)|2449k|[Secondary Market](//www.crunchbase.com/organization/canva?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Quantum Brilliance|[Link](https://quantumbrilliance.com/)|[Link](https://www.linkedin.com/company/quantum-brilliance)|2019|[110](https://www.linkedin.com/company/quantum-brilliance/people/)|14k|[Series A](//www.crunchbase.com/organization/quantum-brilliance?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer Hardware Manufacturing|
-|Q-CTRL|[Link](http://q-ctrl.com)|[Link](https://www.linkedin.com/company/q-ctrl)|2017|[186](https://www.linkedin.com/company/q-ctrl/people/)|26k|[Series B](//www.crunchbase.com/organization/q-ctrl?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Q-CTRL](http://q-ctrl.com)|[Link](https://linkedin.com/company/q-ctrl)|2017|217|33k|Software Development|
+|[Archistar](https://www.archistar.ai)|[Link](https://linkedin.com/company/archistarai)|2010|68|17k|Software Development|
+|[Quantum Brilliance](https://quantumbrilliance.com/)|[Link](https://linkedin.com/company/quantum-brilliance)|2019|104|16k|Computer Hardware Manufacturing|
+|[Neara](https://neara.com/)|[Link](https://linkedin.com/company/neara)|2016|265|16k|Software Development|
 
 ### Sydney - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Atlassian|[Link](https://atlassian.com/)|[Link](https://www.linkedin.com/company/atlassian)|2002|[21967](https://www.linkedin.com/company/atlassian/people/)|2366k|[Secondary Market](//www.crunchbase.com/organization/atlassian?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Canva|[Link](http://www.canva.com)|[Link](https://www.linkedin.com/company/canva)|2012|[12852](https://www.linkedin.com/company/canva/people/)|2449k|[Secondary Market](//www.crunchbase.com/organization/canva?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|REA Group|[Link](https://careers.rea-group.com/au/en/jointalentcommunity/?utm_campaign=087_TalCom_LinkedIn_MainPage_Button&utm_source=LinkedIn&utm_medium=Organic&utm_term=REA&utm_content=CTA)|[Link](https://www.linkedin.com/company/rea-group)|N/A|[3930](https://www.linkedin.com/company/rea-group/people/)|121k|[Post Ipo Debt](//www.crunchbase.com/organization/rea-group?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Nafham by Tyro|[Link](http://nafhambytyro.com)|[Link](https://www.linkedin.com/company/nafhambytyro)|2015|[117](https://www.linkedin.com/company/tyro/people/)|14k|[Non Equity Assistance](//www.crunchbase.com/organization/nafham-by-tyro?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|E-Learning Providers|
-|Employment Hero|[Link](https://employmenthero.com?utm_source=linkedin&utm_medium=organic&utm_campaign=page-visitor)|[Link](https://www.linkedin.com/company/employment-hero)|N/A|[1773](https://www.linkedin.com/company/employment-hero/people/)|322k|[Secondary Market](//www.crunchbase.com/organization/employment-hero?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Human Resources Services|
-|Airwallex|[Link](http://www.airwallex.com/)|[Link](https://www.linkedin.com/company/airwallex)|2015|[2242](https://www.linkedin.com/company/airwallex/people/)|147k|[Series F](//www.crunchbase.com/organization/airwallex?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Culture Amp|[Link](https://www.cultureamp.com/request-demo?utm_source=linkedin&utm_medium=organicsocial&utm_campaign=AP%3AGlobal-Content-LinkedInProfile%7CR%3Aglobal%7CD%3A2023_06_14%7CTe%3Abrand%7CT%3Ageneral)|[Link](https://www.linkedin.com/company/cultureamp)|2010|[997](https://www.linkedin.com/company/cultureamp/people/)|118k|[Series F](//www.crunchbase.com/organization/cultureamp?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Sydney - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Quantium|[Link](http://www.quantium.com)|[Link](https://www.linkedin.com/company/quantium)|2002|[1319](https://www.linkedin.com/company/quantium/people/)|55k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Employment Hero](https://www.employmenthero.com)|[Link](https://linkedin.com/company/employment-hero)|N/A|1.9k|389k|Human Resources Services|
+|[Airwallex](http://www.airwallex.com)|[Link](https://linkedin.com/company/airwallex)|2015|3k|202k|Financial Services|
+|[Dovetail](https://dovetail.com)|[Link](https://linkedin.com/company/heydovetail)|2017|169|33k|Software Development|
+|[Mutinex](https://www.mutinex.co)|[Link](https://linkedin.com/company/mutinex)|2017|103|12k|Software Development|
 
 ### Sydney - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Atlassian|[Link](https://atlassian.com/)|[Link](https://www.linkedin.com/company/atlassian)|2002|[21967](https://www.linkedin.com/company/atlassian/people/)|2366k|[Secondary Market](//www.crunchbase.com/organization/atlassian?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Canva|[Link](http://www.canva.com)|[Link](https://www.linkedin.com/company/canva)|2012|[12852](https://www.linkedin.com/company/canva/people/)|2449k|[Secondary Market](//www.crunchbase.com/organization/canva?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Westpac|[Link](https://www.westpac.com.au/contact-us/)|[Link](https://www.linkedin.com/company/westpac)|1817|[15921](https://www.linkedin.com/company/westpac/people/)|340k|-|Banking|
-|Telstra|[Link](https://www.telstra.com.au/careers)|[Link](https://www.linkedin.com/company/telstra)|1901|[35253](https://www.linkedin.com/company/telstra/people/)|437k|[Post Ipo Debt](//www.crunchbase.com/organization/telstra?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Qantas|[Link](http://qantas.com)|[Link](https://www.linkedin.com/company/qantas)|1920|[17871](https://www.linkedin.com/company/qantas/people/)|645k|[Post Ipo Debt](//www.crunchbase.com/organization/qantas?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Airlines and Aviation|
-|News Corp Australia|[Link](http://www.newscorpaustralia.com)|[Link](https://www.linkedin.com/company/news-corp-australia)|N/A|[2723](https://www.linkedin.com/company/news-corp-australia/people/)|62k|-|Media Production|
-|Woolworths|[Link](http://www.woolworths.co.za)|[Link](https://www.linkedin.com/company/woolworths)|N/A|[36221](https://www.linkedin.com/company/woolworths/people/)|864k|[Series Unknown](//www.crunchbase.com/organization/woolworths?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail|
-|Wesfarmers|[Link](http://www.wesfarmers.com.au)|[Link](https://www.linkedin.com/company/wesfarmers)|N/A|[24606](https://www.linkedin.com/company/wesfarmers/people/)|78k|[Post Ipo Debt](//www.crunchbase.com/organization/wesfarmers?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Retail|
-
-## Taichung
-### Taichung - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Axiomtek|[Link](http://www.axiomtek.com)|[Link](https://www.linkedin.com/company/axiomtek)|N/A|[277](https://www.linkedin.com/company/axiomtek/people/)|9k|-|Computer Hardware Manufacturing|
-
-### Taichung - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Acer Medical|[Link](https://www.acer-medical.com/)|[Link](https://www.linkedin.com/company/acer-medical)|2018|[28](https://www.linkedin.com/company/acer-medical/people/)|5k|-|Medical Equipment Manufacturing|
-|iXensor|[Link](https://www.ixensor.com/ixensor_web/pixotest-poct-covid-19-antigen-test/)|[Link](https://www.linkedin.com/company/ixensor)|2012|[27](https://www.linkedin.com/company/ixensor/people/)|1k|-|Medical Equipment Manufacturing|
-
-### Taichung - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Docutech®|[Link](http://www.docutech.com)|[Link](https://www.linkedin.com/company/docutech)|1991|[143](https://www.linkedin.com/company/docutech/people/)|3k|[Series Unknown](//www.crunchbase.com/organization/docutech?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-
-### Taichung - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|TXOne Networks|[Link](https://www.txone.com/)|[Link](https://www.linkedin.com/company/txone-networks)|N/A|[285](https://www.linkedin.com/company/txone-networks/people/)|23k|[Series B](//www.crunchbase.com/organization/txone-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer and Network Security|
-|CloudMile|[Link](https://www.mile.cloud/)|[Link](https://www.linkedin.com/company/cloudmile)|2017|[220](https://www.linkedin.com/company/cloudmile/people/)|30k|[Series C](//www.crunchbase.com/organization/cloud-mile-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Taichung - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Winbond|[Link](https://www.winbond.com)|[Link](https://www.linkedin.com/company/winbond)|1987|[1508](https://www.linkedin.com/company/winbond/people/)|21k|-|Semiconductor Manufacturing|
-
-### Taichung - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|TXOne Networks|[Link](https://www.txone.com/)|[Link](https://www.linkedin.com/company/txone-networks)|N/A|[285](https://www.linkedin.com/company/txone-networks/people/)|23k|[Series B](//www.crunchbase.com/organization/txone-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Computer and Network Security|
-|SYSTEX|[Link](https://tw.systex.com/)|[Link](https://www.linkedin.com/company/systex)|1997|[1605](https://www.linkedin.com/company/systex/people/)|7k|-|IT Services and IT Consulting|
-|CloudMile|[Link](https://www.mile.cloud/)|[Link](https://www.linkedin.com/company/cloudmile)|2017|[220](https://www.linkedin.com/company/cloudmile/people/)|30k|[Series C](//www.crunchbase.com/organization/cloud-mile-ltd?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Taichung - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SYSTEX|[Link](https://tw.systex.com/)|[Link](https://www.linkedin.com/company/systex)|1997|[1605](https://www.linkedin.com/company/systex/people/)|7k|-|IT Services and IT Consulting|
-
-### Taichung - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Winbond|[Link](https://www.winbond.com)|[Link](https://www.linkedin.com/company/winbond)|1987|[1508](https://www.linkedin.com/company/winbond/people/)|21k|-|Semiconductor Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mitti by SafetyCulture](https://mitti.com/)|[Link](https://linkedin.com/company/mittihq)|2004|471|60k|Software Development|
 
 ## Taipei
-### Taipei - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|CyberLink|[Link](http://www.cyberlink.com/faceme)|[Link](https://www.linkedin.com/company/cyberlink)|1996|[741](https://www.linkedin.com/company/cyberlink/people/)|10k|-|Software Development|
-|Industrial Technology Research Institute (ITRI)(工業技術研究院, 工研院)|[Link](https://www.itri.org.tw/english/index.aspx)|[Link](https://www.linkedin.com/company/itri)|1973|[5802](https://www.linkedin.com/company/itri/people/)|75k|[Grant](//www.crunchbase.com/organization/industrial-technology-research-institute?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
+### Taipei - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Linker Vision](https://linkervision.com)|[Link](https://linkedin.com/company/linker-vision)|2021|64|1.4k|Software Development|
 
 ### Taipei - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Appier|[Link](https://bit.ly/3I98Ju0)|[Link](https://www.linkedin.com/company/appier)|2012|[863](https://www.linkedin.com/company/appier/people/)|82k|[Series Unknown](//www.crunchbase.com/organization/appier?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|MoBagel|[Link](https://mobagel.com/)|[Link](https://www.linkedin.com/company/mobagel)|2009|[76](https://www.linkedin.com/company/mobagel/people/)|2k|[Undisclosed](//www.crunchbase.com/organization/mobagel?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Rosetta.ai|[Link](https://www.rosetta.ai/?utm_source=ln&utm_medium=prof)|[Link](https://www.linkedin.com/company/rosetta-ai)|2017|[8](https://www.linkedin.com/company/rosetta-ai/people/)|1k|[Seed](//www.crunchbase.com/organization/rosetta-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Rosetta.ai](https://www.rosetta.ai/)|[Link](https://linkedin.com/company/rosetta-ai)|2017|8|1.1k|IT Services and IT Consulting|
 
-### Taipei - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Industrial Technology Research Institute (ITRI)(工業技術研究院, 工研院)|[Link](https://www.itri.org.tw/english/index.aspx)|[Link](https://www.linkedin.com/company/itri)|1973|[5802](https://www.linkedin.com/company/itri/people/)|75k|[Grant](//www.crunchbase.com/organization/industrial-technology-research-institute?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|Delta Electronics|[Link](http://www.deltaww.com)|[Link](https://www.linkedin.com/company/delta-electronics)|N/A|[16103](https://www.linkedin.com/company/delta-electronics/people/)|191k|-|Appliances, Electrical, and Electronics Manufacturing|
-
-### Taipei - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|MaiCoin, Ltd.|[Link](https://www.maicoin.com/about)|[Link](https://www.linkedin.com/company/maicoin)|2013|[49](https://www.linkedin.com/company/maicoin/people/)|3k|[Series B](//www.crunchbase.com/organization/maicoin?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Taipei - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Cybersoft|[Link](http://www.cs.com.tr)|[Link](https://www.linkedin.com/company/cybersoft)|1995|[307](https://www.linkedin.com/company/cybersoft/people/)|19k|-|IT Services and IT Consulting|
+### Taipei - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[MaiCoin, Ltd.](https://www.maicoin.com/about)|[Link](https://linkedin.com/company/maicoin)|2013|50|4.5k|Software Development|
 
 ### Taipei - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Appier|[Link](https://bit.ly/3I98Ju0)|[Link](https://www.linkedin.com/company/appier)|2012|[863](https://www.linkedin.com/company/appier/people/)|82k|[Series Unknown](//www.crunchbase.com/organization/appier?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Rosetta.ai|[Link](https://www.rosetta.ai/?utm_source=ln&utm_medium=prof)|[Link](https://www.linkedin.com/company/rosetta-ai)|2017|[8](https://www.linkedin.com/company/rosetta-ai/people/)|1k|[Seed](//www.crunchbase.com/organization/rosetta-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Taipei - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Industrial Technology Research Institute (ITRI)(工業技術研究院, 工研院)|[Link](https://www.itri.org.tw/english/index.aspx)|[Link](https://www.linkedin.com/company/itri)|1973|[5802](https://www.linkedin.com/company/itri/people/)|75k|[Grant](//www.crunchbase.com/organization/industrial-technology-research-institute?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|MediaTek|[Link](http://www.mediatek.com)|[Link](https://www.linkedin.com/company/mediatek)|1997|[14187](https://www.linkedin.com/company/mediatek/people/)|509k|-|Semiconductor Manufacturing|
-|Advantech|[Link](https://www.advantech.com/contact)|[Link](https://www.linkedin.com/company/advantech)|N/A|[3369](https://www.linkedin.com/company/advantech/people/)|119k|-|Automation Machinery Manufacturing|
-|Delta Electronics|[Link](http://www.deltaww.com)|[Link](https://www.linkedin.com/company/delta-electronics)|N/A|[16103](https://www.linkedin.com/company/delta-electronics/people/)|191k|-|Appliances, Electrical, and Electronics Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Pinkoi](https://en.pinkoi.com/about)|[Link](https://linkedin.com/company/pinkoi)|2011|111|20k|Software Development|
 
 ### Taipei - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Appier|[Link](https://bit.ly/3I98Ju0)|[Link](https://www.linkedin.com/company/appier)|2012|[863](https://www.linkedin.com/company/appier/people/)|82k|[Series Unknown](//www.crunchbase.com/organization/appier?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|MoBagel|[Link](https://mobagel.com/)|[Link](https://www.linkedin.com/company/mobagel)|2009|[76](https://www.linkedin.com/company/mobagel/people/)|2k|[Undisclosed](//www.crunchbase.com/organization/mobagel?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|CyberLink|[Link](http://www.cyberlink.com/faceme)|[Link](https://www.linkedin.com/company/cyberlink)|1996|[741](https://www.linkedin.com/company/cyberlink/people/)|10k|-|Software Development|
-|Gogolook|[Link](https://gogolook.com/)|[Link](https://www.linkedin.com/company/gogolook)|2012|[217](https://www.linkedin.com/company/gogolook/people/)|10k|-|Software Development|
-|KKday|[Link](http://www.kkday.com)|[Link](https://www.linkedin.com/company/kkday)|N/A|[972](https://www.linkedin.com/company/kkday/people/)|68k|[Series Unknown](//www.crunchbase.com/organization/kkday?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Travel Arrangements|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[KKday](https://www.kkday.com)|[Link](https://linkedin.com/company/kkday)|N/A|926|69k|Travel Arrangements|
+|[iKala](https://ikala.ai)|[Link](https://linkedin.com/company/ikala-global-online-corp-)|2011|163|15k|Software Development|
+|[awoo Intelligence Inc.](https://awoo.ai/)|[Link](https://linkedin.com/company/awoo)|2015|108|1.7k|IT Services and IT Consulting|
 
-### Taipei - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Institute for Information Industry|[Link](http://www.iii.org.tw/)|[Link](https://www.linkedin.com/company/institute-for-information-industry)|1979|[1680](https://www.linkedin.com/company/institute-for-information-industry/people/)|5k|-|Research Services|
-|SYSTEX|[Link](https://tw.systex.com/)|[Link](https://www.linkedin.com/company/systex)|1997|[1605](https://www.linkedin.com/company/systex/people/)|7k|-|IT Services and IT Consulting|
+### Taipei - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[KKCompany Technologies](https://www.kkcompany.com/en-us/)|[Link](https://linkedin.com/company/kkcompany)|N/A|500|8.7k|IT Services and IT Consulting|
+
+## Tallinn
+### Tallinn - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Hepta Insights](https://heptainsights.com/)|[Link](https://linkedin.com/company/heptainsights)|2017|17|2.1k|Software Development|
+
+### Tallinn - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[KrattWorks](https://krattworks.com/)|[Link](https://linkedin.com/company/krattworks)|2019|16|4.6k|Defense and Space Manufacturing|
+
+### Tallinn - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Better Medicine](https://www.bettermedicine.ai/)|[Link](https://linkedin.com/company/better-medicine-ai)|N/A|24|3.2k|Medical Equipment Manufacturing|
+
+### Tallinn - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Auve Tech](https://auve.tech)|[Link](https://linkedin.com/company/auve-tech)|2019|31|8.5k|Motor Vehicle Manufacturing|
+
+### Tallinn - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Feelingstream](https://www.feelingstream.com)|[Link](https://linkedin.com/company/feelingstream)|2015|10|1.3k|IT Services and IT Consulting|
+
+### Tallinn - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Nortal](http://www.nortal.com)|[Link](https://linkedin.com/company/nortal)|N/A|2.2k|102k|IT Services and IT Consulting|
+|[MindTitan](https://www.mindtitan.com/)|[Link](https://linkedin.com/company/mindtitan)|2016|19|1.8k|Software Development|
+
+### Tallinn - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bolt](http://bolt.eu)|[Link](https://linkedin.com/company/bolt-eu)|2013|16k|357k|Software Development|
+|[Lingvist](http://lingvist.com)|[Link](https://linkedin.com/company/lingvist)|2013|29|3.7k|E-Learning Providers|
+
+## Tel Aviv
+### Tel Aviv - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Trigo](https://www.trigoretail.com)|[Link](https://linkedin.com/company/trigoretail)|2018|214|21k|Software Development|
+|[Taranis](http://www.taranis.com)|[Link](https://linkedin.com/company/taranis-visual)|2015|194|20k|Farming|
+|[OrCam](http://www.orcam.com)|[Link](https://linkedin.com/company/orcam)|2010|168|16k|Wellness and Fitness Services|
+|[Corsight AI](https://corsight.ai)|[Link](https://linkedin.com/company/corsight)|2019|53|9.8k|Security and Investigations|
+|[Cortica](http://www.cortica.com)|[Link](https://linkedin.com/company/cortica)|2007|28|7k|Software Development|
+
+### Tel Aviv - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ibex Medical Analytics](https://ibex-ai.com/)|[Link](https://linkedin.com/company/ibexmedicalanalytics)|2016|95|15k|Hospitals and Health Care|
+|[CytoReason](http://www.cytoreason.com)|[Link](https://linkedin.com/company/cytoreason)|2016|106|14k|Biotechnology Research|
+|[QuantHealth](https://quanthealth.ai)|[Link](https://linkedin.com/company/quanthealthlabs)|2020|89|7.6k|Software Development|
+|[Medial EarlySign](https://earlysign.com)|[Link](https://linkedin.com/company/medial-earlysign)|2013|8|2.1k|Hospitals and Health Care|
+
+### Tel Aviv - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Foretellix](https://www.foretellix.com)|[Link](https://linkedin.com/company/foretellix)|2018|118|23k|Software Development|
+|[Cognata](http://www.cognata.com)|[Link](https://linkedin.com/company/cognata-ltd)|2016|20|6.4k|Software Development|
+|[MOV.AI - The Robotics Engine Platform™](http://mov.ai)|[Link](https://linkedin.com/company/movai)|2016|27|5.5k|Automation Machinery Manufacturing|
+
+### Tel Aviv - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[aiola](http://www.aiola.ai)|[Link](https://linkedin.com/company/aiola)|N/A|52|6.5k|Software Development|
+|[Voiceitt](https://www.voiceitt.com)|[Link](https://linkedin.com/company/voiceitt)|2012|23|5.4k|Software Development|
+|[Kardome](https://www.kardome.com/)|[Link](https://linkedin.com/company/kardome)|2019|35|3.7k|Software Development|
+
+### Tel Aviv - 🔎 Search & Recommendation
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lightricks](http://www.lightricks.com)|[Link](https://linkedin.com/company/lightricks)|N/A|499|68k|Software Development|
+
+### Tel Aviv - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Pecan AI](http://www.pecan.ai)|[Link](https://linkedin.com/company/pecan-ai)|2018|89|15k|Software Development|
+|[Sherloq AI](https://sherloqdata.io/)|[Link](https://linkedin.com/company/sherloqdata)|N/A|1|1.2k|IT Services and IT Consulting|
+
+### Tel Aviv - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AI21 Labs](http://www.ai21.com)|[Link](https://linkedin.com/company/ai21)|2017|156|37k|Software Development|
+|[Anima](https://animaapp.com/)|[Link](https://linkedin.com/company/anima-app)|2017|45|12k|Software Development|
+|[SUPERWISE®](https://superwise.ai)|[Link](https://linkedin.com/company/superwiseai)|2017|84|5.6k|IT Services and IT Consulting|
 
 ## Tokyo
-### Tokyo - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Preferred Networks, Inc.|[Link](https://www.preferred.jp/)|[Link](https://www.linkedin.com/company/preferred-networks)|2014|[324](https://www.linkedin.com/company/preferred-networks/people/)|5k|[Debt Financing](//www.crunchbase.com/organization/preferred-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Sony|[Link](https://www.sony.com/en/)|[Link](https://www.linkedin.com/company/sony)|N/A|[23399](https://www.linkedin.com/company/sony/people/)|1321k|[Post Ipo Equity](//www.crunchbase.com/organization/sony?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|Morpho Communications|[Link](http://www.morpho.hu)|[Link](https://www.linkedin.com/company/morpho)|2002|[89](https://www.linkedin.com/company/morpho/people/)|1k|-|Public Relations and Communications Services|
-
 ### Tokyo - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Preferred Networks, Inc.|[Link](https://www.preferred.jp/)|[Link](https://www.linkedin.com/company/preferred-networks)|2014|[324](https://www.linkedin.com/company/preferred-networks/people/)|5k|[Debt Financing](//www.crunchbase.com/organization/preferred-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mantra Inc.](https://en.mantra.co.jp/)|[Link](https://linkedin.com/company/mantra-inc-japan)|2020|85|1.4k|Software Development|
 
 ### Tokyo - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Preferred Networks, Inc.|[Link](https://www.preferred.jp/)|[Link](https://www.linkedin.com/company/preferred-networks)|2014|[324](https://www.linkedin.com/company/preferred-networks/people/)|5k|[Debt Financing](//www.crunchbase.com/organization/preferred-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|SoftBank Robotics America|[Link](http://us.softbankrobotics.com)|[Link](https://www.linkedin.com/company/softbankrobotics)|2005|[86](https://www.linkedin.com/company/softbankrobotics/people/)|19k|-|Automation Machinery Manufacturing|
-|Kawasaki Robotics|[Link](http://www.kawasakirobotics.com)|[Link](https://www.linkedin.com/company/kawasaki-robotics)|N/A|[377](https://www.linkedin.com/company/kawasaki-robotics/people/)|116k|-|Automation Machinery Manufacturing|
-|YASKAWA Europe|[Link](http://www.yaskawa.eu.com)|[Link](https://www.linkedin.com/company/yaskawa)|1915|[535](https://www.linkedin.com/company/yaskawa/people/)|60k|-|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Rapyuta Robotics](https://www.rapyuta-robotics.com/)|[Link](https://linkedin.com/company/rapyutarobotics)|2014|232|68k|Automation Machinery Manufacturing|
+|[GITAI](http://gitai.tech/)|[Link](https://linkedin.com/company/gitai)|2016|70|25k|Defense and Space Manufacturing|
 
 ### Tokyo - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Medicaroid|[Link](http://www.medicaroid.com)|[Link](https://www.linkedin.com/company/medicaroid)|2013|[19](https://www.linkedin.com/company/medicaroid/people/)|2k|-|Medical Equipment Manufacturing|
-|CureApp, Inc.|[Link](https://cureapp.co.jp/en/index.html)|[Link](https://www.linkedin.com/company/cureapp-inc)|2014|[59](https://www.linkedin.com/company/cureapp-inc/people/)|1k|[Series G](//www.crunchbase.com/organization/cureapp?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[CureApp, Inc.](https://cureapp.co.jp/en/index.html)|[Link](https://linkedin.com/company/cureapp-inc)|2014|51|1.7k|Hospitals and Health Care|
+|[AI Medical Service Inc.](https://www.ai-ms.com/)|[Link](https://linkedin.com/company/aimedicalserviceinc)|2017|40|1.2k|Medical Equipment Manufacturing|
 
 ### Tokyo - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Toyota Research Institute|[Link](http://tri.global/)|[Link](https://www.linkedin.com/company/toyota-research-institute)|2016|[441](https://www.linkedin.com/company/toyota-research-institute/people/)|103k|-|Research Services|
-|Woven by Toyota|[Link](https://woven.toyota)|[Link](https://www.linkedin.com/company/wovenbytoyota)|2023|[2332](https://www.linkedin.com/company/woven-planet/people/)|66k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Turing株式会社](https://tur.ing/)|[Link](https://linkedin.com/company/turing-motors)|2021|74|2.7k|Software Development|
+
+### Tokyo - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Kotoba](http://kotoba.tech)|[Link](https://linkedin.com/company/kotoba-tech)|2023|19|1.4k|Software Development|
 
 ### Tokyo - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|LayerX|[Link](https://layerx.co.jp/)|[Link](https://www.linkedin.com/company/layerx)|2018|[270](https://www.linkedin.com/company/layerx/people/)|2k|[Series B](//www.crunchbase.com/organization/layerx?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Tokyo - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Rakuten|[Link](https://corp.rakuten.co.jp/careers/)|[Link](https://www.linkedin.com/company/rakuten)|N/A|[10981](https://www.linkedin.com/company/rakuten/people/)|339k|[Post Ipo Debt](//www.crunchbase.com/organization/rakuten?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cinnamon AI](https://cinnamon.ai/)|[Link](https://linkedin.com/company/cinnamoninc)|2012|81|11k|Software Development|
+|[LayerX](https://layerx.co.jp/)|[Link](https://linkedin.com/company/layerx)|2018|354|3.3k|Software Development|
 
 ### Tokyo - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Preferred Networks, Inc.|[Link](https://www.preferred.jp/)|[Link](https://www.linkedin.com/company/preferred-networks)|2014|[324](https://www.linkedin.com/company/preferred-networks/people/)|5k|[Debt Financing](//www.crunchbase.com/organization/preferred-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|HACARUS|[Link](https://hacarus.com)|[Link](https://www.linkedin.com/company/hacarusinc)|2014|[35](https://www.linkedin.com/company/hacarus/people/)|1k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[HACARUS](https://check.hacarus.com/)|[Link](https://linkedin.com/company/hacarusinc)|2014|32|1.5k|IT Services and IT Consulting|
 
 ### Tokyo - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Rakuten|[Link](https://corp.rakuten.co.jp/careers/)|[Link](https://www.linkedin.com/company/rakuten)|N/A|[10981](https://www.linkedin.com/company/rakuten/people/)|339k|[Post Ipo Debt](//www.crunchbase.com/organization/rakuten?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Sony|[Link](https://www.sony.com/en/)|[Link](https://www.linkedin.com/company/sony)|N/A|[23399](https://www.linkedin.com/company/sony/people/)|1321k|[Post Ipo Equity](//www.crunchbase.com/organization/sony?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|Money Forward, Inc.|[Link](https://corp.moneyforward.com/)|[Link](https://www.linkedin.com/company/money-forward)|2012|[1074](https://www.linkedin.com/company/money-forward/people/)|13k|[Series D](//www.crunchbase.com/organization/money-forward?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Uzabase|[Link](https://www.uzabase.com/)|[Link](https://www.linkedin.com/company/uzabase)|2008|[402](https://www.linkedin.com/company/uzabase/people/)|7k|[Series Unknown](//www.crunchbase.com/organization/uzabase?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|RAKSUL|[Link](https://corp.raksul.com/en/)|[Link](https://www.linkedin.com/company/raksul)|2009|[168](https://www.linkedin.com/company/raksul/people/)|3k|[Corporate Round](//www.crunchbase.com/organization/raksul?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Uzabase](https://www.uzabase.com/)|[Link](https://linkedin.com/company/uzabase)|2008|433|8k|IT Services and IT Consulting|
 
-### Tokyo - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Preferred Networks, Inc.|[Link](https://www.preferred.jp/)|[Link](https://www.linkedin.com/company/preferred-networks)|2014|[324](https://www.linkedin.com/company/preferred-networks/people/)|5k|[Debt Financing](//www.crunchbase.com/organization/preferred-networks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Tokyo - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Sony|[Link](https://www.sony.com/en/)|[Link](https://www.linkedin.com/company/sony)|N/A|[23399](https://www.linkedin.com/company/sony/people/)|1321k|[Post Ipo Equity](//www.crunchbase.com/organization/sony?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Entertainment Providers|
-|Toyota Motor Corporation|[Link](https://global.toyota/en/)|[Link](https://www.linkedin.com/company/toyota)|1937|[35385](https://www.linkedin.com/company/toyota/people/)|2302k|-|Motor Vehicle Manufacturing|
-|Honda|[Link](https://global.honda/)|[Link](https://www.linkedin.com/company/honda)|N/A|[22992](https://www.linkedin.com/company/honda/people/)|119k|-|Motor Vehicle Manufacturing|
-|Panasonic|[Link](https://holdings.panasonic/global/)|[Link](https://www.linkedin.com/company/panasonic)|1918|[29963](https://www.linkedin.com/company/panasonic/people/)|322k|[Seed](//www.crunchbase.com/organization/panasonic?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Appliances, Electrical, and Electronics Manufacturing|
-|Hitachi|[Link](https://www.hitachi.com)|[Link](https://www.linkedin.com/company/hitachi)|1910|[37609](https://www.linkedin.com/company/hitachi/people/)|1608k|-|IT Services and IT Consulting|
-|Toshiba Corporation|[Link](https://www.global.toshiba/ww/top.html)|[Link](https://www.linkedin.com/company/toshiba-corporation)|N/A|[1960](https://www.linkedin.com/company/toshiba-corporation/people/)|398k|-|Appliances, Electrical, and Electronics Manufacturing|
-|NEC Corporation|[Link](https://www.nec.com/en/)|[Link](https://www.linkedin.com/company/nec)|N/A|[17893](https://www.linkedin.com/company/nec/people/)|255k|[Post Ipo Equity](//www.crunchbase.com/organization/nec?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Fujitsu|[Link](https://www2.fujitsu.com/global/uvance/)|[Link](https://www.linkedin.com/company/fujitsu)|N/A|[59709](https://www.linkedin.com/company/fujitsu/people/)|1199k|-|IT Services and IT Consulting|
-|NTT|[Link](https://www.global.ntt/)|[Link](https://www.linkedin.com/company/ntt)|N/A|[6387](https://www.linkedin.com/company/ntt/people/)|258k|-|IT Services and IT Consulting|
+### Tokyo - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sakana AI](https://sakana.ai/)|[Link](https://linkedin.com/company/sakana-ai)|2023|280|67k|Software Development|
+|[EdgeCortix](https://www.edgecortix.com)|[Link](https://linkedin.com/company/edgecortix)|2019|64|8.6k|Semiconductor Manufacturing|
+|[Preferred Networks, Inc.](https://www.preferred.jp/)|[Link](https://linkedin.com/company/preferred-networks)|2014|397|7.4k|Software Development|
+|[Ubitus K.K.](https://www.ubitus.net)|[Link](https://linkedin.com/company/ubitus)|2012|132|2.3k|Software Development|
 
 ## Toronto
-### Toronto - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Darwin Software|[Link](https://darwinsoftware.io)|[Link](https://www.linkedin.com/company/darwin-iq-software)|2018|[56](https://www.linkedin.com/company/darwin-ai/people/)|10k|-|Software Development|
-|Deep Genomics|[Link](http://www.deepgenomics.com)|[Link](https://www.linkedin.com/company/deep-genomics)|2014|[107](https://www.linkedin.com/company/deep-genomics/people/)|29k|[Series C](//www.crunchbase.com/organization/deep-genomics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
+### Toronto - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ideogram](https://ideogram.ai/)|[Link](https://linkedin.com/company/ideogram-ai)|2022|70|18k|Software Development|
+|[Moonvalley](https://www.moonvalley.com)|[Link](https://linkedin.com/company/moonvalley-ai)|2023|94|18k|Software Development|
+|[Ecopia AI](http://www.ecopia.ai)|[Link](https://linkedin.com/company/ecopia-ai)|2013|48|8.6k|Software Development|
 
 ### Toronto - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Cohere|[Link](http://cohere.com)|[Link](https://www.linkedin.com/company/cohere-ai)|2019|[837](https://www.linkedin.com/company/cohere-ai/people/)|223k|[Series D](//www.crunchbase.com/organization/cohere-82b8?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ada CX|[Link](https://www.ada.cx/)|[Link](https://www.linkedin.com/company/ada-cx)|N/A|[652](https://www.linkedin.com/company/ada-cx/people/)|48k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Limina](https://getlimina.ai/)|[Link](https://linkedin.com/company/getlimina)|N/A|34|10k|Software Development|
 
 ### Toronto - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Clearpath Robotics by Rockwell Automation|[Link](http://www.clearpathrobotics.com)|[Link](https://www.linkedin.com/company/clearpath-robotics)|N/A|[70](https://www.linkedin.com/company/clearpath-robotics/people/)|45k|-|Automation Machinery Manufacturing|
-|OTTO by Rockwell Automation|[Link](http://www.ottomotors.com)|[Link](https://www.linkedin.com/company/otto-motors)|N/A|[251](https://www.linkedin.com/company/otto-motors/people/)|19k|[Series C](//www.crunchbase.com/organization/otto-motors-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Forge Automation (YC W25)](https://www.forgeautomation.ca)|[Link](https://linkedin.com/company/forge-automation)|2022|17|1k|Machinery Manufacturing|
 
 ### Toronto - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Deep Genomics|[Link](http://www.deepgenomics.com)|[Link](https://www.linkedin.com/company/deep-genomics)|2014|[107](https://www.linkedin.com/company/deep-genomics/people/)|29k|[Series C](//www.crunchbase.com/organization/deep-genomics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|BenchSci|[Link](http://www.benchsci.com)|[Link](https://www.linkedin.com/company/benchsci)|2015|[274](https://www.linkedin.com/company/benchsci/people/)|31k|[Series D](//www.crunchbase.com/organization/benchsci?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Winterlight Labs|[Link](http://www.winterlightlabs.com)|[Link](https://www.linkedin.com/company/winterlight-labs)|2015|[13](https://www.linkedin.com/company/winterlight-labs/people/)|2k|[Series A](//www.crunchbase.com/organization/winterlight?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|Cyclica (acquired by Recursion, Nasdaq: RXRX)|[Link](https://beacons.ai/cyclica)|[Link](https://www.linkedin.com/company/cyclica)|2013|[4](https://www.linkedin.com/company/cyclica/people/)|13k|[Grant](//www.crunchbase.com/organization/cyclica?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Atomwise|[Link](http://www.atomwise.com)|[Link](https://www.linkedin.com/company/atomwise)|2012|[21](https://www.linkedin.com/company/atomwise/people/)|23k|[Series C](//www.crunchbase.com/organization/atomwise?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[BenchSci](http://www.benchsci.com)|[Link](https://linkedin.com/company/benchsci)|2015|191|34k|Software Development|
+|[Deep Genomics](http://www.deepgenomics.com)|[Link](https://linkedin.com/company/deep-genomics)|2014|110|33k|Biotechnology Research|
+|[Synaptive Medical](http://synaptivemedical.com)|[Link](https://linkedin.com/company/synaptive-medical)|2012|57|32k|Medical Equipment Manufacturing|
+|[BlueDot](https://bluedot.global)|[Link](https://linkedin.com/company/bluedotinc)|2013|91|17k|IT Services and IT Consulting|
+|[Muse® by Interaxon Inc.](http://www.musehealth.ai)|[Link](https://linkedin.com/company/interaxon-inc)|N/A|57|13k|Mental Health Care|
+|[ProteinQure](https://www.proteinqure.com/)|[Link](https://linkedin.com/company/proteinqure)|2017|33|8k|Biotechnology Research|
+|[Phenomic](https://phenomic.ai)|[Link](https://linkedin.com/company/phenomic)|2017|13|6.9k|Biotechnology Research|
+|[NuraLogix Corporation](https://www.nuralogix.ai/)|[Link](https://linkedin.com/company/nuralogix-corporation)|2015|38|6.4k|Wellness and Fitness Services|
+|[Signal 1](https://signal1.ai)|[Link](https://linkedin.com/company/signal-1-ai)|2022|40|4.5k|Software Development|
+|[Revolve Surgical](https://www.revolvesurgical.com)|[Link](https://linkedin.com/company/revolve-surgical)|2019|7|2.5k|Medical Equipment Manufacturing|
 
 ### Toronto - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Waabi|[Link](http://www.waabi.ai)|[Link](https://www.linkedin.com/company/waabi)|2021|[261](https://www.linkedin.com/company/waabi/people/)|26k|[Series B](//www.crunchbase.com/organization/waabi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
-|Waabi|[Link](http://www.waabi.ai)|[Link](https://www.linkedin.com/company/waabi)|2021|[261](https://www.linkedin.com/company/waabi/people/)|26k|[Series B](//www.crunchbase.com/organization/waabi?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Truck Transportation|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Waabi](http://www.waabi.ai)|[Link](https://linkedin.com/company/waabi)|2021|366|35k|Truck Transportation|
 
-### Toronto - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Lyrebird AI|[Link](http://lyrebird.ai)|[Link](https://www.linkedin.com/company/lyrebird-ai)|2017|[0](https://www.linkedin.com/company/lyrebird-ai/people/)|1k|-|Research Services|
-|WellSaid|[Link](http://wellsaidlabs.com)|[Link](https://www.linkedin.com/company/wellsaidlabs)|2018|[63](https://www.linkedin.com/company/wellsaidlabs/people/)|7k|[Series A](//www.crunchbase.com/organization/wellsaid-labs?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Toronto - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ada CX|[Link](https://www.ada.cx/)|[Link](https://www.linkedin.com/company/ada-cx)|N/A|[652](https://www.linkedin.com/company/ada-cx/people/)|48k|-|Software Development|
-|Super.com|[Link](http://www.super.com)|[Link](https://www.linkedin.com/company/superdotcom)|2016|[798](https://www.linkedin.com/company/snapcommerce-inc/people/)|39k|[Series C](//www.crunchbase.com/organization/superdotcom?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
+### Toronto - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ada CX](https://www.ada.cx/)|[Link](https://linkedin.com/company/ada-cx)|N/A|804|53k|Software Development|
 
 ### Toronto - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Blue J|[Link](https://www.bluej.com)|[Link](https://www.linkedin.com/company/bluejlegal)|2015|[122](https://www.linkedin.com/company/bluejlegal/people/)|9k|[Series D](//www.crunchbase.com/organization/blue-j-legal?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Blue J](https://www.bluej.com)|[Link](https://linkedin.com/company/bluejlegal)|2015|189|13k|Software Development|
+|[Provision](https://provision.com/)|[Link](https://linkedin.com/company/provision-software-co)|2022|51|2.6k|Software Development|
 
 ### Toronto - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Vector Institute|[Link](https://vectorinstitute.ai/)|[Link](https://www.linkedin.com/company/vector-institute)|2017|[571](https://www.linkedin.com/company/vector-institute/people/)|50k|[Grant](//www.crunchbase.com/organization/vector-institute?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
-|Darwin Software|[Link](https://darwinsoftware.io)|[Link](https://www.linkedin.com/company/darwin-iq-software)|2018|[56](https://www.linkedin.com/company/darwin-ai/people/)|10k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[KorrAI](https://www.korrai.com/)|[Link](https://linkedin.com/company/korrai)|2020|24|12k|IT Services and IT Consulting|
+|[Draftaid](https://draftaid.io/)|[Link](https://linkedin.com/company/draftaid)|2023|25|2.7k|Software Development|
 
 ### Toronto - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Shopify|[Link](https://www.shopify.com)|[Link](https://www.linkedin.com/company/shopify)|2006|[27317](https://www.linkedin.com/company/shopify/people/)|1058k|[Series C](//www.crunchbase.com/organization/shopify?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Wealthsimple|[Link](https://www.wealthsimple.com)|[Link](https://www.linkedin.com/company/wealthsimple)|2014|[1901](https://www.linkedin.com/company/wealthsimple/people/)|242k|[Series E](//www.crunchbase.com/organization/wealthsimple?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|TouchBistro|[Link](http://www.touchbistro.com)|[Link](https://www.linkedin.com/company/touchbistro)|2011|[397](https://www.linkedin.com/company/touchbistro/people/)|22k|[Private Equity](//www.crunchbase.com/organization/touchbistro?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|PointClickCare|[Link](http://www.pointclickcare.com)|[Link](https://www.linkedin.com/company/pointclickcare)|2000|[2297](https://www.linkedin.com/company/pointclickcare/people/)|360k|[Secondary Market](//www.crunchbase.com/organization/pointclickcare?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PointClickCare](http://www.pointclickcare.com)|[Link](https://linkedin.com/company/pointclickcare)|2000|2.3k|439k|Software Development|
+|[Wealthsimple](http://www.wealthsimple.com)|[Link](https://linkedin.com/company/wealthsimple)|2014|2.5k|304k|Financial Services|
+|[StackAdapt](https://go.stackadapt.com/r30mo7ny)|[Link](https://linkedin.com/company/stackadapt)|2014|1.9k|126k|Software Development|
+|[Alida](https://www.alida.com/)|[Link](https://linkedin.com/company/alidainc)|2000|338|37k|Software Development|
+|[Spellbook](https://www.spellbook.com/)|[Link](https://linkedin.com/company/spellbookai)|2018|236|26k|Software Development|
+|[TouchBistro](http://www.touchbistro.com)|[Link](https://linkedin.com/company/touchbistro)|2011|344|24k|Software Development|
+|[AfterShip](http://www.aftership.com)|[Link](https://linkedin.com/company/aftership)|2012|435|22k|Software Development|
+|[Alexi](https://www.alexi.com)|[Link](https://linkedin.com/company/alexilawhq)|2017|119|14k|Software Development|
+|[Armilla AI](http://armilla.ai)|[Link](https://linkedin.com/company/armilla-ai)|2020|15|5.5k|Insurance|
+|[Arima](https://www.arimadata.com/)|[Link](https://linkedin.com/company/arimadata)|2020|45|5.2k|Software Development|
+|[Daisy Intelligence](http://www.daisyintelligence.com)|[Link](https://linkedin.com/company/daisyintelligence)|2003|16|4.8k|IT Services and IT Consulting|
+|[Basedash](https://www.basedash.com)|[Link](https://linkedin.com/company/basedash)|N/A|4|3.6k|Software Development|
+|[Hudson Labs](https://www.hudson-labs.com/)|[Link](https://linkedin.com/company/hudson-labs)|2019|9|2.9k|Financial Services|
+|[Tilt](https://tilt.io)|[Link](https://linkedin.com/company/tiltai)|N/A|21|2.8k|Financial Services|
+|[Riskfuel](https://riskfuel.com)|[Link](https://linkedin.com/company/riskfuel)|2019|9|2.2k|Capital Markets|
+|[Clearline](https://useclearline.com)|[Link](https://linkedin.com/company/teamclearline)|N/A|6|1.3k|Software Development|
 
-### Toronto - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Vector Institute|[Link](https://vectorinstitute.ai/)|[Link](https://www.linkedin.com/company/vector-institute)|2017|[571](https://www.linkedin.com/company/vector-institute/people/)|50k|[Grant](//www.crunchbase.com/organization/vector-institute?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Research Services|
+### Toronto - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cohere](https://cohere.com)|[Link](https://linkedin.com/company/cohere-ai)|2019|1.3k|305k|Software Development|
+|[Senso](http://www.senso.ai)|[Link](https://linkedin.com/company/senso.ai)|2018|30|3.7k|Software Development|
 
 ### Toronto - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Thomson Reuters|[Link](https://www.thomsonreuters.com/en.html)|[Link](https://www.linkedin.com/company/thomson-reuters)|N/A|[36317](https://www.linkedin.com/company/thomson-reuters/people/)|1889k|-|Software Development|
-|RBC Borealis|[Link](https://www.borealisai.com/join-us/)|[Link](https://www.linkedin.com/company/rbc-borealis)|2024|[322](https://www.linkedin.com/company/rbc-borealis/people/)|38k|-|Research Services|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Geotab](https://www.geotab.com/)|[Link](https://linkedin.com/company/geotab)|2000|3.2k|123k|Software Development|
+|[Trexo Robotics](http://trexorobotics.com)|[Link](https://linkedin.com/company/trexo-robotics)|2016|41|11k|Medical Equipment Manufacturing|
+
+## Turin
+### Turin - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Focoos AI](https://focoos.ai/)|[Link](https://linkedin.com/company/focoosai)|2022|14|4.2k|Software Development|
+
+### Turin - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Algor](http://www.algoreducation.com)|[Link](https://linkedin.com/company/algorlab)|2021|23|3.4k|Software Development|
+
+### Turin - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AIKO - Infinite ways to autonomy](https://www.aikospace.com)|[Link](https://linkedin.com/company/aikospace)|2017|73|12k|Aviation and Aerospace Component Manufacturing|
+|[Newired](http://www.newired.com)|[Link](https://linkedin.com/company/newired-srl)|2017|21|2.3k|Software Development|
+
+### Turin - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Synesthesia](https://synesthesia.it)|[Link](https://linkedin.com/company/synesthesia)|N/A|150|9.7k|Software Development|
+
+### Turin - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[aizoOn Technology Consulting](http://www.aizoongroup.com)|[Link](https://linkedin.com/company/aizoon-technology-consulting)|N/A|717|104k|IT Services and IT Consulting|
+|[Agile Lab](http://www.agilelab.it)|[Link](https://linkedin.com/company/agile-lab)|2013|331|17k|Software Development|
+
+### Turin - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ermes - AI & Browser Security](https://www.ermes.company)|[Link](https://linkedin.com/company/ermescybersecurity)|2017|40|7.4k|Computer and Network Security|
+|[Kopjra](https://www.kopjra.com/)|[Link](https://linkedin.com/company/kopjra)|2014|16|1.4k|Software Development|
+
+## Vancouver
+### Vancouver - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lumen5](http://lumen5.com)|[Link](https://linkedin.com/company/lumen5)|N/A|39|7.5k|Software Development|
+|[OnDeck AI (YC S25)](https://www.ondeckai.com)|[Link](https://linkedin.com/company/ondeckai)|2022|5|4.1k|Software Development|
+
+### Vancouver - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sanctuary AI](https://www.sanctuary.ai/)|[Link](https://linkedin.com/company/sanctuaryai)|2018|155|37k|Software Development|
+|[Novarc Technologies Inc.](http://www.novarctech.com/)|[Link](https://linkedin.com/company/novarc-technologies-inc-)|2013|163|15k|IT Services and IT Consulting|
+
+### Vancouver - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Variational AI](https://variational.ai)|[Link](https://linkedin.com/company/variational-ai)|2019|23|7.8k|Biotechnology Research|
+
+### Vancouver - 🧾 Document Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Trulioo](https://www.trulioo.com/)|[Link](https://linkedin.com/company/trulioo)|2011|387|46k|Software Development|
+
+### Vancouver - 🔬 Science & Engineering
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[1QBit](http://www.1qbit.com)|[Link](https://linkedin.com/company/1qbit)|2012|52|14k|IT Services and IT Consulting|
+|[Clir Renewables](http://www.clir.eco)|[Link](https://linkedin.com/company/clir-renewables)|2017|47|9.6k|Renewable Energy Semiconductor Manufacturing|
+
+### Vancouver - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Hootsuite](https://ow.ly/h3uR50VFTu9)|[Link](https://linkedin.com/company/hootsuite)|2008|1.8k|546k|Software Development|
+|[Unbounce](http://unbounce.com)|[Link](https://linkedin.com/company/unbounce)|2009|125|52k|Advertising Services|
+|[Visier Inc.](https://www.visier.com)|[Link](https://linkedin.com/company/visier-analytics)|2010|530|47k|Software Development|
+
+### Vancouver - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[TTT Studios](https://bit.ly/3V7IsT3)|[Link](https://linkedin.com/company/tttstudios)|2010|145|13k|IT Services and IT Consulting|
+
+### Vancouver - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Mundo AI](https://mundoai.world/)|[Link](https://linkedin.com/company/mundoai)|2024|44|2.1k|IT Services and IT Consulting|
+
+### Vancouver - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Fatigue Science](https://www.fatiguescience.com)|[Link](https://linkedin.com/company/fatigue-science)|N/A|44|6.5k|Software Development|
 
 ## Vienna
-### Vienna - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|contextflow|[Link](http://contextflow.com)|[Link](https://www.linkedin.com/company/contextflow)|2016|[33](https://www.linkedin.com/company/contextflow/people/)|8k|[Series A](//www.crunchbase.com/organization/contextflow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Anyline|[Link](http://www.anyline.com?utm_medium=social&utm_source=linkedin&utm_campaign=cta)|[Link](https://www.linkedin.com/company/anyline)|2013|[239](https://www.linkedin.com/company/anyline/people/)|8k|[Series B](//www.crunchbase.com/organization/anyline?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Vienna - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Cortical.io|[Link](https://cortical.io)|[Link](https://www.linkedin.com/company/cortical-io)|2011|[17](https://www.linkedin.com/company/cortical-io/people/)|6k|[Series A](//www.crunchbase.com/organization/cept-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Anyline|[Link](http://www.anyline.com?utm_medium=social&utm_source=linkedin&utm_campaign=cta)|[Link](https://www.linkedin.com/company/anyline)|2013|[239](https://www.linkedin.com/company/anyline/people/)|8k|[Series B](//www.crunchbase.com/organization/anyline?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|WordLift|[Link](https://wordlift.io/enterprise-seo-platform/)|[Link](https://www.linkedin.com/company/wordlift)|2017|[34](https://www.linkedin.com/company/wordlift/people/)|4k|[Seed](//www.crunchbase.com/organization/wordlift?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Vienna - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Anyline](https://anyline.com/)|[Link](https://linkedin.com/company/anyline)|2013|274|9.7k|IT Services and IT Consulting|
 
 ### Vienna - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|AIRSKIN|[Link](https://www.airskin.io/)|[Link](https://www.linkedin.com/company/airskin-by-blue-danube-robotics)|2013|[11](https://www.linkedin.com/company/blue-danube-robotics/people/)|7k|[Series A](//www.crunchbase.com/organization/blue-danube-robotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
-|Robo Wunderkind|[Link](https://www.robowunderkind.com)|[Link](https://www.linkedin.com/company/robowunderkind)|2015|[13](https://www.linkedin.com/company/robowunderkind/people/)|3k|-|E-Learning Providers|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Robo Wunderkind](https://www.robowunderkind.com)|[Link](https://linkedin.com/company/robowunderkind)|2015|13|3.2k|E-Learning Providers|
 
 ### Vienna - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|contextflow|[Link](http://contextflow.com)|[Link](https://www.linkedin.com/company/contextflow)|2016|[33](https://www.linkedin.com/company/contextflow/people/)|8k|[Series A](//www.crunchbase.com/organization/contextflow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Symptoma|[Link](https://www.symptoma.com)|[Link](https://www.linkedin.com/company/symptoma)|2006|[7](https://www.linkedin.com/company/symptoma/people/)|2k|-|Hospitals and Health Care|
-|Diagnosia|[Link](http://www.diagnosia.com)|[Link](https://www.linkedin.com/company/diagnosia)|2011|[1](https://www.linkedin.com/company/diagnosia/people/)|1k|-|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ImageBiopsy Lab](http://www.imagebiopsy.com)|[Link](https://linkedin.com/company/imagebiopsy-lab)|2016|25|4.9k|Hospitals and Health Care|
+|[Symptoma](https://www.symptoma.com)|[Link](https://linkedin.com/company/symptoma)|2006|7|2.7k|Hospitals and Health Care|
+|[cogvis software und consulting GmbH](http://www.cogvis.ai)|[Link](https://linkedin.com/company/cogvis-gmbh)|2018|24|1.9k|IT Services and IT Consulting|
 
-### Vienna - 🚗 Self-Driving Cars
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|TTTech Auto|[Link](https://www.tttech-auto.com/)|[Link](https://www.linkedin.com/company/tttech-auto)|2018|[1381](https://www.linkedin.com/company/tttech-auto/people/)|51k|[Corporate Round](//www.crunchbase.com/organization/tttech-auto?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-
-### Vienna - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|contextflow|[Link](http://contextflow.com)|[Link](https://www.linkedin.com/company/contextflow)|2016|[33](https://www.linkedin.com/company/contextflow/people/)|8k|[Series A](//www.crunchbase.com/organization/contextflow?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|ONDEWO|[Link](https://www.ondewo.com)|[Link](https://www.linkedin.com/company/ondewo)|2017|[8](https://www.linkedin.com/company/ondewo/people/)|1k|[Non Equity Assistance](//www.crunchbase.com/organization/ondewo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Outsourcing and Offshoring Consulting|
-
-### Vienna - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ONDEWO|[Link](https://www.ondewo.com)|[Link](https://www.linkedin.com/company/ondewo)|2017|[8](https://www.linkedin.com/company/ondewo/people/)|1k|[Non Equity Assistance](//www.crunchbase.com/organization/ondewo?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Outsourcing and Offshoring Consulting|
-
-### Vienna - 🧾 Document Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Cortical.io|[Link](https://cortical.io)|[Link](https://www.linkedin.com/company/cortical-io)|2011|[17](https://www.linkedin.com/company/cortical-io/people/)|6k|[Series A](//www.crunchbase.com/organization/cept-systems?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Anyline|[Link](http://www.anyline.com?utm_medium=social&utm_source=linkedin&utm_campaign=cta)|[Link](https://www.linkedin.com/company/anyline)|2013|[239](https://www.linkedin.com/company/anyline/people/)|8k|[Series B](//www.crunchbase.com/organization/anyline?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Vienna - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|sclable|[Link](https://sclable.com)|[Link](https://www.linkedin.com/company/sclable)|2012|[36](https://www.linkedin.com/company/sclable/people/)|2k|-|IT Services and IT Consulting|
+### Vienna - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ONDEWO](https://ondewo.com)|[Link](https://linkedin.com/company/ondewo)|2017|9|1.4k|Outsourcing and Offshoring Consulting|
 
 ### Vienna - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|kompany - A Moody's Company|[Link](https://www.kompany.com/)|[Link](https://www.linkedin.com/company/kompany)|N/A|[63](https://www.linkedin.com/company/kompany/people/)|3k|[Series Unknown](//www.crunchbase.com/organization/kompany?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Bitpanda|[Link](https://www.bitpanda.com)|[Link](https://www.linkedin.com/company/bitpanda)|2014|[909](https://www.linkedin.com/company/bitpanda/people/)|81k|[Series C](//www.crunchbase.com/organization/bitpanda?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|enspired|[Link](https://hubs.la/Q03B4pnx0)|[Link](https://www.linkedin.com/company/enspired)|2020|[106](https://www.linkedin.com/company/enspired/people/)|15k|[Series B](//www.crunchbase.com/organization/enspired?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Bitpanda](https://www.bitpanda.com)|[Link](https://linkedin.com/company/bitpanda)|2014|966|91k|Financial Services|
+|[Prewave](http://www.prewave.com)|[Link](https://linkedin.com/company/prewave)|2017|198|53k|Software Development|
+|[Adverity](https://www.adverity.com/)|[Link](https://linkedin.com/company/myadverity)|2015|326|29k|Software Development|
+|[enspired](https://www.enspired-trading.com)|[Link](https://linkedin.com/company/enspired)|2020|115|19k|IT Services and IT Consulting|
+
+### Vienna - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[EnliteAI](https://www.enlite.ai)|[Link](https://linkedin.com/company/enliteai)|2017|14|4.9k|Software Development|
+|[craftworks GmbH](https://craftworks.ai)|[Link](https://linkedin.com/company/craftworks-gmbh)|2014|35|3.1k|Software Development|
+|[sclable](https://sclable.com)|[Link](https://linkedin.com/company/sclable)|2012|33|2.5k|IT Services and IT Consulting|
+
+### Vienna - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[GoStudent](http://www.gostudent.at)|[Link](https://linkedin.com/company/gostudent-gmbh)|2016|2.6k|69k|Education Administration Programs|
+|[PlanRadar](http://www.planradar.com)|[Link](https://linkedin.com/company/planradar)|2013|411|43k|Software Development|
+
+## Vilnius
+### Vilnius - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PIXEVIA](http://www.pixevia.com)|[Link](https://linkedin.com/company/magma-solutions-uab)|2015|4|1.9k|Software Development|
+
+### Vilnius - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ligence](https://www.ligence.io/)|[Link](https://linkedin.com/company/ligence)|2019|30|4.4k|Software Development|
+
+### Vilnius - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Omnisend](https://www.omnisend.com)|[Link](https://linkedin.com/company/omnisend)|2014|277|20k|Software Development|
+|[Sintra](https://sintra.ai/careers)|[Link](https://linkedin.com/company/sintradotai)|N/A|60|13k|Software Development|
+|[Exacaster](http://www.exacaster.com)|[Link](https://linkedin.com/company/exacaster)|2011|92|10k|IT Services and IT Consulting|
+
+### Vilnius - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Oxylabs.io](https://oxylabs.io)|[Link](https://linkedin.com/company/oxylabs-io)|2015|500|34k|IT Services and IT Consulting|
+
+### Vilnius - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vinted](https://careers.vinted.com)|[Link](https://linkedin.com/company/vinted)|2008|4.7k|180k|Software Development|
+|[CGTrader](https://www.cgtrader.com/)|[Link](https://linkedin.com/company/cgtrader)|2011|494|17k|Software Development|
+
+## Warsaw
+### Warsaw - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ReSpo.Vision](https://respo.vision)|[Link](https://linkedin.com/company/respovision)|2020|22|7k|IT Services and IT Consulting|
+
+### Warsaw - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Nomagic](https://nomagic.ai)|[Link](https://linkedin.com/company/nomagic)|2017|197|16k|IT Services and IT Consulting|
+|[Robotec.ai](http://www.robotec.ai)|[Link](https://linkedin.com/company/robotec-ai)|2019|53|11k|Software Development|
+
+### Warsaw - 🗣️ Voice & Sound
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Talkie.ai](http://talkie.ai)|[Link](https://linkedin.com/company/talkieai)|2018|29|2.6k|Hospitals and Health Care|
+
+### Warsaw - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Quickchat AI](https://quickchat.ai)|[Link](https://linkedin.com/company/quickchatai)|N/A|9|2.4k|Software Development|
+
+### Warsaw - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[RTB House](http://www.rtbhouse.com)|[Link](https://linkedin.com/company/rtb-house)|2012|1.5k|53k|Software Development|
+|[Algolytics Technologies](http://www.algolytics.com)|[Link](https://linkedin.com/company/algolytics)|2018|16|3.6k|Software Development|
+
+### Warsaw - 👔 Consulting
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Lingaro](https://lingarogroup.com/)|[Link](https://linkedin.com/company/lingaro)|2008|1.3k|112k|IT Services and IT Consulting|
+|[Appsilon](https://go.appsilon.com/website)|[Link](https://linkedin.com/company/appsilon)|2013|85|12k|IT Services and IT Consulting|
+|[deepsense.ai](http://deepsense.ai/)|[Link](https://linkedin.com/company/deepsense-ai)|2014|148|10k|IT Services and IT Consulting|
+|[MIM Solutions](https://www.mim.ai)|[Link](https://linkedin.com/company/mim-solutions)|2015|12|2k|IT Services and IT Consulting|
+
+## Washington DC
+### Washington DC - 📚 Natural Language Processing
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Babel Street](http://www.babelstreet.com)|[Link](https://linkedin.com/company/babelstreet)|2009|248|11k|Software Development|
+|[Mantis Analytics](https://mantisanalytics.com/)|[Link](https://linkedin.com/company/mantisanalytics)|2023|17|3.5k|Software Development|
+
+### Washington DC - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Auterion](http://www.auterion.com)|[Link](https://linkedin.com/company/auterion)|2017|205|43k|Software Development|
+
+### Washington DC - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sayari](http://www.sayari.com)|[Link](https://linkedin.com/company/sayarilabs)|2015|386|31k|Software Development|
+|[Quorum](http://www.quorum.us)|[Link](https://linkedin.com/company/quorum-analytics-inc-)|N/A|476|23k|Software Development|
+|[interos.ai](https://www.interos.ai/request-contact/)|[Link](https://linkedin.com/company/interos-ai)|2005|126|15k|Software Development|
+
+### Washington DC - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Seekr](https://www.seekr.com/)|[Link](https://linkedin.com/company/seekrtechnologies)|2021|190|15k|Software Development|
+
+### Washington DC - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Two Six Technologies](http://www.twosixtech.com)|[Link](https://linkedin.com/company/twosixtechnologies)|2021|653|13k|Software Development|
+|[Shift5](http://shift5.io)|[Link](https://linkedin.com/company/shift5)|2019|142|12k|Software Development|
+|[Black Cape](http://blackcape.io)|[Link](https://linkedin.com/company/black-cape)|2019|222|4.1k|Software Development|
+
+## Waterloo
+### Waterloo - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Miovision](http://miovision.com/)|[Link](https://linkedin.com/company/miovision-technologies)|2005|514|75k|Software Development|
+
+### Waterloo - 🤖 Robotics
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Avidbots Corp.](https://avidbots.com)|[Link](https://linkedin.com/company/avidbots-corp)|2014|175|17k|Automation Machinery Manufacturing|
+|[Swap Robotics](https://www.swaprobotics.com/)|[Link](https://linkedin.com/company/swaprobotics)|2019|40|3.7k|Automation Machinery Manufacturing|
+
+### Waterloo - 💉 Medicine
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Intellijoint Surgical Inc.](https://www.intellijointsurgical.com)|[Link](https://linkedin.com/company/intellijointsurgical)|2010|71|28k|Medical Equipment Manufacturing|
+
+### Waterloo - 💰 Business
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vidyard](https://www.vidyard.com/)|[Link](https://linkedin.com/company/vidyard)|2011|148|45k|Online Audio and Video Media|
+|[Scispot](https://www.scispot.com)|[Link](https://linkedin.com/company/scispot-com)|2020|24|15k|Biotechnology Research|
+
+### Waterloo - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Applied Brain Research](https://www.appliedbrainresearch.com/)|[Link](https://linkedin.com/company/applied-brain-research)|2013|14|2.5k|Software Development|
+
+### Waterloo - 🚀 Other
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[eSentire](http://www.esentire.com)|[Link](https://linkedin.com/company/esentire)|2001|547|78k|Computer and Network Security|
 
 ## Zurich
-### Zurich - 👁 Computer Vision
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Scandit|[Link](https://www.scandit.com/?utm_source=linkedin&utm_medium=organic-social&utm_campaign=bio)|[Link](https://www.linkedin.com/company/scandit)|2009|[355](https://www.linkedin.com/company/scandit/people/)|80k|[Series D](//www.crunchbase.com/organization/scandit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|PXL Vision|[Link](https://www.pxl-vision.com/en/contact/?utm_campaign=&utm_source=linkedin&utm_medium=social&utm_term=not_set&&utm_content=)|[Link](https://www.linkedin.com/company/pxl-vision)|2017|[34](https://www.linkedin.com/company/pxl-vision/people/)|3k|[Seed](//www.crunchbase.com/organization/pxl-vision-ag?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-
-### Zurich - 📚 Natural Language Processing
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|DeepJudge|[Link](https://deepjudge.ai)|[Link](https://www.linkedin.com/company/deepjudge)|N/A|[78](https://www.linkedin.com/company/deepjudge/people/)|15k|-|Software Development|
-|Textshuttle (now Supertext)|[Link](https://www.supertext.com)|[Link](https://www.linkedin.com/company/textshuttle)|N/A|[2](https://www.linkedin.com/company/textshuttle/people/)|1k|[Grant](//www.crunchbase.com/organization/textshuttle?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Zurich - 👁️ Computer Vision
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Scandit](https://www.scandit.com)|[Link](https://linkedin.com/company/scandit)|2009|367|89k|Software Development|
+|[Cerrion](http://www.cerrion.com)|[Link](https://linkedin.com/company/cerrion)|2021|54|10k|Software Development|
 
 ### Zurich - 🤖 Robotics
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|ANYbotics|[Link](http://www.anybotics.com)|[Link](https://www.linkedin.com/company/anybotics)|2016|[236](https://www.linkedin.com/company/anybotics/people/)|103k|[Series Unknown](//www.crunchbase.com/organization/anybotics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Automation Machinery Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ANYbotics](http://www.anybotics.com)|[Link](https://linkedin.com/company/anybotics)|2016|261|116k|Automation Machinery Manufacturing|
+|[Wingtra](https://wingtra.com)|[Link](https://linkedin.com/company/wingtra)|2016|128|48k|Aviation and Aerospace Component Manufacturing|
+|[Voliro](https://voliro.com)|[Link](https://linkedin.com/company/voliro-ch)|2019|49|25k|IT Services and IT Consulting|
+|[mimic](https://www.mimicrobotics.com/)|[Link](https://linkedin.com/company/mimicrobotics)|2024|90|23k|IT Services and IT Consulting|
+|[Verity](https://www.verity.net)|[Link](https://linkedin.com/company/verity-ag)|2014|136|22k|Software Development|
+|Flexion|[Link](https://linkedin.com/company/flexion-ai)|N/A|75|16k|IT Services and IT Consulting|
+|[Fixposition](https://www.fixposition.com)|[Link](https://linkedin.com/company/fixposition)|2017|24|4.7k|Software Development|
+|[TINAMU](https://www.tinamu-labs.com)|[Link](https://linkedin.com/company/tinamu-labs)|2018|11|3.4k|Automation Machinery Manufacturing|
 
 ### Zurich - 💉 Medicine
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|SOPHiA GENETICS|[Link](https://www.sophiagenetics.com/company/contact/)|[Link](https://www.linkedin.com/company/sophiagenetics)|2011|[526](https://www.linkedin.com/company/sophiagenetics/people/)|133k|[Post Ipo Debt](//www.crunchbase.com/organization/sophia-genetics?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Ava|[Link](https://calendly.com/d/dqg-mgv-b74?utm_source=LinkedInAva&utm_medium=social&utm_campaign=homepage&utm_content=cta)|[Link](https://www.linkedin.com/company/ava)|2014|[155](https://www.linkedin.com/company/ava/people/)|6k|[Series A](//www.crunchbase.com/organization/ava-6?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|InSphero|[Link](https://insphero.com/?utm_source=linkedin&utm_medium=organic&utm_campaign=custom_button_premiumpage)|[Link](https://www.linkedin.com/company/insphero)|2009|[80](https://www.linkedin.com/company/insphero/people/)|17k|[Series Unknown](//www.crunchbase.com/organization/insphero?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|MindMaze|[Link](http://www.mindmaze.com)|[Link](https://www.linkedin.com/company/mindmaze)|2012|[95](https://www.linkedin.com/company/mindmaze/people/)|34k|[Series Unknown](//www.crunchbase.com/organization/mindmaze?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Biotechnology Research|
-|Oviva|-|[Link](https://www.linkedin.com/company/oviva)|2013|[861](https://www.linkedin.com/company/oviva/people/)|30k|[Series C](//www.crunchbase.com/organization/oviva?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Hospitals and Health Care|
-|Versantis|[Link](https://www.versantis.ch)|[Link](https://www.linkedin.com/company/versantis)|2015|[2](https://www.linkedin.com/company/versantis/people/)|2k|[Grant](//www.crunchbase.com/organization/versantis?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Pharmaceutical Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|Oviva|[Link](https://linkedin.com/company/oviva)|2013|949|36k|Hospitals and Health Care|
+|[InSphero](http://www.insphero.com)|[Link](https://linkedin.com/company/insphero)|2009|82|20k|Biotechnology Research|
 
-### Zurich - 🗣 Voice & Sound
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Scandit|[Link](https://www.scandit.com/?utm_source=linkedin&utm_medium=organic-social&utm_campaign=bio)|[Link](https://www.linkedin.com/company/scandit)|2009|[355](https://www.linkedin.com/company/scandit/people/)|80k|[Series D](//www.crunchbase.com/organization/scandit?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|SONOVA|[Link](https://www.sonova.com.hk)|[Link](https://www.linkedin.com/company/sonova)|2020|[19](https://www.linkedin.com/company/sonova/people/)|1k|-|Advertising Services|
+### Zurich - 🚗 Self-Driving Cars
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Embotech](http://www.embotech.ai)|[Link](https://linkedin.com/company/embotech)|2013|111|16k|Software Development|
 
-### Zurich - 🤖 Chatbots & Customer Service
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|GUURU Solutions|[Link](https://www.guuru.com/en/book-a-demo/)|[Link](https://www.linkedin.com/company/guuru)|2016|[48](https://www.linkedin.com/company/guuru/people/)|3k|[Series A](//www.crunchbase.com/organization/guuru-io?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|BOTfriends|[Link](https://botfriends.de)|[Link](https://www.linkedin.com/company/botfriends)|2017|[25](https://www.linkedin.com/company/botfriends/people/)|3k|[Non Equity Assistance](//www.crunchbase.com/organization/botfriends?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Enterprise Bot|[Link](https://enterprisebot.ai/)|[Link](https://www.linkedin.com/company/enterprise-bot)|2016|[103](https://www.linkedin.com/company/enterprise-bot/people/)|27k|-|IT Services and IT Consulting|
-
-### Zurich - 🔎 Search & Recommendation
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Releva|[Link](https://releva.ai)|[Link](https://www.linkedin.com/company/releva-ai)|2021|[19](https://www.linkedin.com/company/releva-ai/people/)|2k|[Seed](//www.crunchbase.com/organization/releva-ai?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+### Zurich - 💬 Chatbots & Customer Service
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Enterprise Bot](https://enterprisebot.ai/)|[Link](https://linkedin.com/company/enterprise-bot)|2016|101|43k|IT Services and IT Consulting|
+|[GUURU Solutions](https://www.guuru.com)|[Link](https://linkedin.com/company/guuru)|2016|54|3.5k|IT Services and IT Consulting|
 
 ### Zurich - 🔬 Science & Engineering
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|LatticeFlow AI|[Link](https://latticeflow.ai)|[Link](https://www.linkedin.com/company/latticeflowai)|2020|[39](https://www.linkedin.com/company/latticeflow/people/)|12k|-|Software Development|
-|Fixposition|[Link](https://www.fixposition.com)|[Link](https://www.linkedin.com/company/fixposition)|2017|[27](https://www.linkedin.com/company/fixposition/people/)|4k|[Non Equity Assistance](//www.crunchbase.com/organization/fixposition?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Celeroton AG|[Link](https://www.celeroton.com/en/startseite/)|[Link](https://www.linkedin.com/company/celeroton)|2008|[41](https://www.linkedin.com/company/celeroton/people/)|2k|[Grant](//www.crunchbase.com/organization/celeroton?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Industrial Machinery Manufacturing|
-|Synthara AG|[Link](http://www.synthara.ai)|[Link](https://www.linkedin.com/company/synthara)|2019|[28](https://www.linkedin.com/company/synthara/people/)|4k|[Seed](//www.crunchbase.com/organization/synthara?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Semiconductor Manufacturing|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Ethon](https://www.ethon.com/)|[Link](https://linkedin.com/company/ethonai)|N/A|61|9.3k|Software Development|
+|[Synthara AG](http://www.synthara.ai)|[Link](https://linkedin.com/company/synthara)|2019|31|6k|Semiconductor Manufacturing|
 
 ### Zurich - 💰 Business
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Vyntra Global|[Link](https://vyntra.com/)|[Link](https://www.linkedin.com/company/vyntraglobal)|N/A|[155](https://www.linkedin.com/company/netguardians/people/)|10k|-|Software Development|
-|Squirro|[Link](https://squirro.com/book-a-demo)|[Link](https://www.linkedin.com/company/squirroag)|2012|[98](https://www.linkedin.com/company/squirro/people/)|14k|[Private Equity](//www.crunchbase.com/organization/squirro?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Apiax|[Link](https://www.apiax.com/contact-us/?utm_source=linkedin&utm_medium=organic&utm_campaign=contact_us_button)|[Link](https://www.linkedin.com/company/apiax)|2017|[31](https://www.linkedin.com/company/apiax/people/)|6k|[Series Unknown](//www.crunchbase.com/organization/apiax?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|IT Services and IT Consulting|
-|Yokoy|[Link](https://www.yokoy.io?utm_source=linkedin&utm_medium=organic_social)|[Link](https://www.linkedin.com/company/yokoy)|N/A|[110](https://www.linkedin.com/company/yokoy/people/)|25k|[Series B](//www.crunchbase.com/organization/yokoy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Yokoy|[Link](https://www.yokoy.io?utm_source=linkedin&utm_medium=organic_social)|[Link](https://www.linkedin.com/company/yokoy)|N/A|[110](https://www.linkedin.com/company/expense-robot/people/)|25k|[Series B](//www.crunchbase.com/organization/yokoy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[PriceHubble](https://pricehubble.com)|[Link](https://linkedin.com/company/pricehubble-ag)|2016|117|32k|Real Estate|
+|[Unique AI](http://www.unique.ai)|[Link](https://linkedin.com/company/unique-zurich)|N/A|184|24k|Software Development|
+|[DeepJudge](https://deepjudge.ai)|[Link](https://linkedin.com/company/deepjudge)|N/A|92|21k|Software Development|
+|[Squirro](https://squirro.com/)|[Link](https://linkedin.com/company/squirroag)|2012|90|15k|Software Development|
+|[Apiax](https://www.apiax.com)|[Link](https://linkedin.com/company/apiax)|2017|28|6.3k|IT Services and IT Consulting|
+|[Legartis](http://www.legartis.ai)|[Link](https://linkedin.com/company/legartistech)|2017|38|6.2k|IT Services and IT Consulting|
 
 ### Zurich - 👔 Consulting
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Unit8|[Link](https://unit8.com)|[Link](https://www.linkedin.com/company/unit8)|2017|[158](https://www.linkedin.com/company/unit8/people/)|28k|-|IT Services and IT Consulting|
-|Adnovum|[Link](https://www.adnovum.com)|[Link](https://www.linkedin.com/company/adnovum)|1988|[640](https://www.linkedin.com/company/adnovum/people/)|14k|-|IT Services and IT Consulting|
-|TIM|[Link](https://www.gruppotim.it/it.html)|[Link](https://www.linkedin.com/company/tim)|N/A|[22284](https://www.linkedin.com/company/tim/people/)|215k|[Post Ipo Debt](//www.crunchbase.com/organization/telecom-italia?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Telecommunications|
-|Adnovum|[Link](https://www.adnovum.com)|[Link](https://www.linkedin.com/company/adnovum)|1988|[640](https://www.linkedin.com/company/adnovum/people/)|14k|-|IT Services and IT Consulting|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Sustainaccount](http://www.sustainaccount.com)|[Link](https://linkedin.com/company/sustainaccount)|2021|12|1.3k|IT Services and IT Consulting|
+
+### Zurich - 🧠 AI Infrastructure
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[LatticeFlow AI](https://latticeflow.ai)|[Link](https://linkedin.com/company/latticeflowai)|2020|41|14k|Software Development|
+|[Modulos](http://www.modulos.ai)|[Link](https://linkedin.com/company/modulos-ag)|2018|19|8.5k|Software Development|
+|[Lightly](https://www.lightly.ai/)|[Link](https://linkedin.com/company/lightly-tech)|2019|38|8.3k|Software Development|
+|[Typewise](https://typewise.app)|[Link](https://linkedin.com/company/typewise)|2020|24|6.4k|Software Development|
 
 ### Zurich - 🚀 Other
-|Name|Website|LinkedIn|Founded|Employees|Followers|Funding Round|Industry|
-|-|-|-|-|-|-|-|-|
-|Climeworks|[Link](https://info.climeworks.com/climeworks-contact-form)|[Link](https://www.linkedin.com/company/climeworks)|2009|[409](https://www.linkedin.com/company/climeworks/people/)|113k|[Private Equity](//www.crunchbase.com/organization/climeworks?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Environmental Services|
-|DFINITY Foundation|[Link](http://dfinity.org)|[Link](https://www.linkedin.com/company/dfinity)|2016|[233](https://www.linkedin.com/company/dfinity/people/)|24k|[Series Unknown](//www.crunchbase.com/organization/dfinity?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Ledgy|[Link](https://ledgy.com/?utm_source=linkedin)|[Link](https://www.linkedin.com/company/ledgy)|2017|[74](https://www.linkedin.com/company/ledgy/people/)|27k|[Series B](//www.crunchbase.com/organization/ledgy?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Financial Services|
-|Beekeeper by LumApps|[Link](https://www.beekeeper.io/?utm_source=linkedin&utm_medium=profile&utm_campaign=7010e000000sll3aao&utm_term=linkedin&utm_content=linkedin_profile)|[Link](https://www.linkedin.com/company/beekeeper)|2012|[402](https://www.linkedin.com/company/beekeeper/people/)|24k|[Series Unknown](//www.crunchbase.com/organization/beekeeper?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
-|Nexthink|[Link](https://nexthink.com/?utm_content=page&utm_medium=social%20media&utm_source=linkedin)|[Link](https://www.linkedin.com/company/nexthink)|2004|[1142](https://www.linkedin.com/company/nexthink/people/)|278k|[Series D](//www.crunchbase.com/organization/nexthink?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta)|Software Development|
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Climeworks](http://climeworks.com)|[Link](https://linkedin.com/company/climeworks)|2009|394|121k|Environmental Services|
+|[wefox](http://www.wefox.com)|[Link](https://linkedin.com/company/wefox)|2015|296|40k|Insurance|
+

@@ -5,7 +5,7 @@ List of 2.2k startups doing AI &amp; ML across 98 cities: independent private co
 
 Missing a startup? [Open an issue](https://github.com/gmberton/awesome-machine-learning-startups/issues/new) with its LinkedIn page. This file is generated, so edits to it get overwritten. 
 
-Fields: 👁️ Computer Vision, 📚 Natural Language Processing, 🤖 Robotics, 💉 Medicine, 🚗 Self-Driving Cars, 🗣️ Voice & Sound, 💬 Chatbots & Customer Service, 🧾 Document Processing, 🔎 Search & Recommendation, 🔬 Science & Engineering, 💰 Business, 👔 Consulting, 🧠 AI Infrastructure, 🚀 Other 
+Fields: 👁️ Computer Vision, 📚 Natural Language Processing, 🤖 Robotics, 💉 Medicine, 🚗 Self-Driving Cars, 🛰️ Geospatial, 🗣️ Voice & Sound, 💬 Chatbots & Customer Service, 🧾 Document Processing, 🔎 Search & Recommendation, 🔬 Science & Engineering, 💰 Business, 👔 Consulting, 🧠 AI Infrastructure, 🚀 Other 
 
 Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [Atlanta](#atlanta), [Auckland](#auckland), [Austin](#austin), [Bangalore](#bangalore), [Bangkok](#bangkok), [Barcelona](#barcelona), [Beijing](#beijing), [Berlin](#berlin), [Bogotá](#bogotá), [Boston](#boston), [Brussels](#brussels), [Bucharest](#bucharest), [Budapest](#budapest), [Buenos Aires](#buenos-aires), [Cairo](#cairo), [Cambridge UK](#cambridge-uk), [Cape Town](#cape-town), [Chennai](#chennai), [Chicago](#chicago), [Copenhagen](#copenhagen), [Dallas](#dallas), [Delhi NCR](#delhi-ncr), [Denver](#denver), [Dubai](#dubai), [Dublin](#dublin), [Edinburgh](#edinburgh), [Eindhoven](#eindhoven), [Geneva](#geneva), [Hamburg](#hamburg), [Hangzhou](#hangzhou), [Helsinki](#helsinki), [Ho Chi Minh City](#ho-chi-minh-city), [Hong Kong](#hong-kong), [Houston](#houston), [Hyderabad](#hyderabad), [Istanbul](#istanbul), [Jakarta](#jakarta), [Kraków](#kraków), [Kuala Lumpur](#kuala-lumpur), [Kyiv](#kyiv), [Lagos](#lagos), [Lausanne](#lausanne), [Lisbon](#lisbon), [London](#london), [Los Angeles](#los-angeles), [Madrid](#madrid), [Manchester](#manchester), [Manila](#manila), [Melbourne](#melbourne), [Mexico City](#mexico-city), [Miami](#miami), [Milan](#milan), [Montreal](#montreal), [Mumbai](#mumbai), [Munich](#munich), [Nairobi](#nairobi), [New York](#new-york), [Oslo](#oslo), [Oxford](#oxford), [Palo Alto](#palo-alto), [Paris](#paris), [Philadelphia](#philadelphia), [Pittsburgh](#pittsburgh), [Prague](#prague), [Pune](#pune), [Raleigh-Durham](#raleigh-durham), [Riyadh](#riyadh), [Rome](#rome), [Rotterdam](#rotterdam), [Salt Lake City](#salt-lake-city), [San Diego](#san-diego), [San Francisco](#san-francisco), [Santiago](#santiago), [São Paulo](#são-paulo), [Seattle](#seattle), [Seoul](#seoul), [Shanghai](#shanghai), [Shenzhen](#shenzhen), [Singapore](#singapore), [Sofia](#sofia), [Stockholm](#stockholm), [Sydney](#sydney), [Taipei](#taipei), [Tallinn](#tallinn), [Tel Aviv](#tel-aviv), [Tokyo](#tokyo), [Toronto](#toronto), [Turin](#turin), [Vancouver](#vancouver), [Vienna](#vienna), [Vilnius](#vilnius), [Warsaw](#warsaw), [Washington DC](#washington-dc), [Waterloo](#waterloo), [Zurich](#zurich)
 
@@ -169,11 +169,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Auror](http://www.auror.co)|[Link](https://linkedin.com/company/auror)|2012|307|25k|Software Development|
 
 ## Austin
-### Austin - 👁️ Computer Vision
-|Name|LinkedIn|Founded|Employees|Followers|Industry|
-|-|-|-|-|-|-|
-|[AI Clearing](https://aiclearing.com/)|[Link](https://linkedin.com/company/ai-clearing)|2020|148|13k|Construction|
-
 ### Austin - 📚 Natural Language Processing
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -197,6 +192,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[Harmattan AI](https://www.harmattan.ai/)|[Link](https://linkedin.com/company/harmattan-ai)|2024|287|52k|Defense and Space Manufacturing|
+
+### Austin - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[AI Clearing](https://aiclearing.com/)|[Link](https://linkedin.com/company/ai-clearing)|2020|148|13k|Construction|
 
 ### Austin - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -251,7 +251,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Bangalore - 👁️ Computer Vision
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[SatSure](http://www.satsure.co)|[Link](https://linkedin.com/company/satsure)|2017|152|83k|Defense and Space Manufacturing|
 |[NeuralGarage](https://visualdub.ai)|[Link](https://linkedin.com/company/neuralgarage)|2021|54|15k|Software Development|
 |[Aindra Systems](http://www.aindra.in)|[Link](https://linkedin.com/company/aindra-systems)|2012|25|12k|Medical Equipment Manufacturing|
 |[AllGoVision](https://www.allgovision.com)|[Link](https://linkedin.com/company/allgovision)|2010|71|7.7k|Software Development|
@@ -265,7 +264,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Bangalore - 🤖 Robotics
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[Skylark Drones](https://www.skylarkdrones.com/)|[Link](https://linkedin.com/company/skylark-drones)|2015|121|51k|Software Development|
 |[Ati Robotics](https://www.atirobotics.ai/)|[Link](https://linkedin.com/company/atirobotics)|2018|102|17k|Automation Machinery Manufacturing|
 
 ### Bangalore - 💉 Medicine
@@ -285,6 +283,13 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Flux Auto](https://fluxauto.ai/)|[Link](https://linkedin.com/company/fluxauto)|2017|60|15k|Motor Vehicle Manufacturing|
 |[AutoNxt](http://autonxt.in)|[Link](https://linkedin.com/company/autonxt-automation)|2016|64|8.1k|Motor Vehicle Manufacturing|
 
+### Bangalore - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Cropin](http://www.cropin.com/)|[Link](https://linkedin.com/company/cropin-technology)|2010|167|109k|Software Development|
+|[SatSure](http://www.satsure.co)|[Link](https://linkedin.com/company/satsure)|2017|152|83k|Defense and Space Manufacturing|
+|[Skylark Drones](https://www.skylarkdrones.com/)|[Link](https://linkedin.com/company/skylark-drones)|2015|121|51k|Software Development|
+
 ### Bangalore - 💬 Chatbots & Customer Service
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -302,7 +307,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[Bellatrix Aerospace](http://www.bellatrix.aero)|[Link](https://linkedin.com/company/bellatrix-aerospace)|2015|104|184k|Defense and Space Manufacturing|
 |[Fasal - Grow More, Grow Better™](https://www.fasal.co/)|[Link](https://linkedin.com/company/fasal)|2018|179|115k|Software Development|
-|[Cropin](http://www.cropin.com/)|[Link](https://linkedin.com/company/cropin-technology)|2010|167|109k|Software Development|
 |[Numocity](http://numocity.com)|[Link](https://linkedin.com/company/numocity)|2018|44|8.4k|Software Development|
 |[Coulomb AI](https://coulomb.ai/)|[Link](https://linkedin.com/company/coulomb-ai)|2021|9|3.2k|Truck Transportation|
 
@@ -383,6 +387,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[Bettair Cities](https://bettaircities.com/)|[Link](https://linkedin.com/company/bettair-cities)|2017|17|2.3k|Retail Office Equipment|
 
+### Barcelona - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Aistech Space](http://www.aistechspace.com)|[Link](https://linkedin.com/company/aistech-space)|2015|62|15k|Defense and Space Manufacturing|
+
 ### Barcelona - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -399,7 +408,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[Worldsensing](http://www.worldsensing.com)|[Link](https://linkedin.com/company/worldsensing)|2008|127|27k|Telecommunications|
 |[Mitiga Solutions](https://www.mitigasolutions.com)|[Link](https://linkedin.com/company/mitigasolutions)|2018|72|26k|IT Services and IT Consulting|
-|[Aistech Space](http://www.aistechspace.com)|[Link](https://linkedin.com/company/aistech-space)|2015|62|15k|Defense and Space Manufacturing|
 
 ### Barcelona - 💰 Business
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -449,7 +457,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Berlin - 👁️ Computer Vision
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[LiveEO](https://www.live-eo.com)|[Link](https://linkedin.com/company/liveeo)|2018|167|25k|Software Development|
 |[autarc (YC S24)](https://www.autarc.energy)|[Link](https://linkedin.com/company/autarc-energy)|2023|75|5k|IT Services and IT Consulting|
 |[nyris GmbH](https://nyris.io)|[Link](https://linkedin.com/company/nyris)|2015|34|4.8k|Software Development|
 |[Pupil Labs](https://pupil-labs.com)|[Link](https://linkedin.com/company/pupil-labs)|2014|39|4.2k|Research Services|
@@ -485,6 +492,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[Vay](https://vay.io/)|[Link](https://linkedin.com/company/vaytechnology)|2018|224|21k|Software Development|
+
+### Berlin - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[LiveEO](https://www.live-eo.com)|[Link](https://linkedin.com/company/liveeo)|2018|167|25k|Software Development|
 
 ### Berlin - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -826,8 +838,12 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Cape Town - 👁️ Computer Vision
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[Aerobotics](http://www.aerobotics.com)|[Link](https://linkedin.com/company/aerobotics)|2014|97|17k|Software Development|
 |[Contactable](https://www.contactable.co.za/)|[Link](https://linkedin.com/company/staycontactable)|2009|57|2.8k|IT Services and IT Consulting|
+
+### Cape Town - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Aerobotics](http://www.aerobotics.com)|[Link](https://linkedin.com/company/aerobotics)|2014|97|17k|Software Development|
 
 ### Cape Town - 🔬 Science & Engineering
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -1068,11 +1084,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Evalueserve](http://www.evalueserve.com)|[Link](https://linkedin.com/company/evalueserve)|2000|6k|537k|Business Consulting and Services|
 
 ## Denver
-### Denver - 👁️ Computer Vision
-|Name|LinkedIn|Founded|Employees|Followers|Industry|
-|-|-|-|-|-|-|
-|[Albedo](https://albedo.com)|[Link](https://linkedin.com/company/albedo-space)|2020|78|14k|Aviation and Aerospace Component Manufacturing|
-
 ### Denver - 🤖 Robotics
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -1090,6 +1101,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[Outrider](http://www.outrider.ai)|[Link](https://linkedin.com/company/outridertech)|2017|167|19k|Software Development|
+
+### Denver - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Albedo](https://albedo.com)|[Link](https://linkedin.com/company/albedo-space)|2020|78|14k|Aviation and Aerospace Component Manufacturing|
 
 ### Denver - 🔬 Science & Engineering
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -1147,11 +1163,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Seez](http://www.seez.co)|[Link](https://linkedin.com/company/seez-pw)|2016|68|13k|Software Development|
 
 ## Dublin
-### Dublin - 👁️ Computer Vision
-|Name|LinkedIn|Founded|Employees|Followers|Industry|
-|-|-|-|-|-|-|
-|[Ubotica Technologies](https://ubotica.com/)|[Link](https://linkedin.com/company/ubotica)|2016|69|8.6k|Defense and Space Manufacturing|
-
 ### Dublin - 🤖 Robotics
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -1163,6 +1174,12 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[Deciphex](https://deciphex.com/)|[Link](https://linkedin.com/company/deciphex)|2017|174|11k|Software Development|
 
+### Dublin - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[XOCEAN](http://www.xocean.com)|[Link](https://linkedin.com/company/xocean)|2017|221|43k|IT Services and IT Consulting|
+|[Ubotica Technologies](https://ubotica.com/)|[Link](https://linkedin.com/company/ubotica)|2016|69|8.6k|Defense and Space Manufacturing|
+
 ### Dublin - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -1171,7 +1188,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Dublin - 🔬 Science & Engineering
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[XOCEAN](http://www.xocean.com)|[Link](https://linkedin.com/company/xocean)|2017|221|43k|IT Services and IT Consulting|
 |[Nuritas](http://www.nuritas.com)|[Link](https://linkedin.com/company/nuritas)|2014|71|20k|Biotechnology Research|
 
 ### Dublin - 💰 Business
@@ -1280,9 +1296,7 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Helsinki - 👁️ Computer Vision
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[ICEYE](https://www.iceye.com)|[Link](https://linkedin.com/company/iceye)|2015|1.2k|214k|Defense and Space Manufacturing|
 |[Varjo](https://www.varjo.com)|[Link](https://linkedin.com/company/varjo)|2016|215|47k|Computer Hardware Manufacturing|
-|[Kuva Space](https://kuvaspace.com/)|[Link](https://linkedin.com/company/kuva-space)|2016|60|13k|Defense and Space Manufacturing|
 |[Dispelix](https://www.dispelix.com/)|[Link](https://linkedin.com/company/dispelix)|2015|93|8.9k|Computers and Electronics Manufacturing|
 
 ### Helsinki - 🤖 Robotics
@@ -1294,6 +1308,12 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[Sensible 4](http://www.sensible4.fi)|[Link](https://linkedin.com/company/sensible4)|2024|14|7.6k|Software Development|
+
+### Helsinki - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[ICEYE](https://www.iceye.com)|[Link](https://linkedin.com/company/iceye)|2015|1.2k|214k|Defense and Space Manufacturing|
+|[Kuva Space](https://kuvaspace.com/)|[Link](https://linkedin.com/company/kuva-space)|2016|60|13k|Defense and Space Manufacturing|
 
 ### Helsinki - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -1443,6 +1463,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[UrbanKisaan](http://www.urbankisaan.com)|[Link](https://linkedin.com/company/urbankisaan)|2019|73|13k|Food and Beverage Services|
 |[Aganitha](https://aganitha.ai/)|[Link](https://linkedin.com/company/aganitha)|2017|124|9.8k|Biotechnology Research|
 
+### Hyderabad - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Vassar Labs](https://vassarlabs.com)|[Link](https://linkedin.com/company/vassar-labs)|2014|359|16k|IT Services and IT Consulting|
+
 ### Hyderabad - 💬 Chatbots & Customer Service
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -1459,11 +1484,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[CricClubs](https://www.cricclubs.com)|[Link](https://linkedin.com/company/cricclubs)|N/A|41|9.7k|Spectator Sports|
 |[AiMunshi- High Performance Enterprise Automation](https://aimunshi.ai/)|[Link](https://linkedin.com/company/aimunshi)|2019|12|4.3k|IT Services and IT Consulting|
-
-### Hyderabad - 🔬 Science & Engineering
-|Name|LinkedIn|Founded|Employees|Followers|Industry|
-|-|-|-|-|-|-|
-|[Vassar Labs](https://vassarlabs.com)|[Link](https://linkedin.com/company/vassar-labs)|2014|359|16k|IT Services and IT Consulting|
 
 ### Hyderabad - 💰 Business
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -1676,7 +1696,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Lausanne - 👁️ Computer Vision
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[Picterra](https://picterra.ai/)|[Link](https://linkedin.com/company/picterra)|2016|26|12k|Software Development|
 |[IMVERSE](https://www.imverse.com/)|[Link](https://linkedin.com/company/imverse3d)|2017|3|2.5k|Software Development|
 |[Eyeware](https://eyeware.tech)|[Link](https://linkedin.com/company/eyeware)|2016|14|2.2k|Software Development|
 
@@ -1704,6 +1723,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[SwissDrones](http://www.swissdrones.com)|[Link](https://linkedin.com/company/swissdrones)|2013|39|13k|Airlines and Aviation|
+
+### Lausanne - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Picterra](https://picterra.ai/)|[Link](https://linkedin.com/company/picterra)|2016|26|12k|Software Development|
 
 ### Lausanne - 🧾 Document Processing
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -1997,7 +2021,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Bdeo](https://www.bdeo.io)|[Link](https://linkedin.com/company/bdeo)|2017|71|12k|IT Services and IT Consulting|
 |[CounterCraft​​](https://www.countercraftsec.com)|[Link](https://linkedin.com/company/countercraft)|2015|48|8.6k|Computer and Network Security|
 |[Kenmei](https://www.kenmei.ai/)|[Link](https://linkedin.com/company/kenmei-ai)|2018|69|6.6k|Telecommunications|
-|[visualNACert](https://www.visualnacert.com)|[Link](https://linkedin.com/company/visualnacert)|N/A|40|2.6k|Software Development|
 
 ### Madrid - 📚 Natural Language Processing
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -2020,6 +2043,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Medicsen](https://www.medicsen.com/en)|[Link](https://linkedin.com/company/medicsen)|2015|21|3.6k|Medical Equipment Manufacturing|
 |[WOOM](https://woomhealth.com/)|[Link](https://linkedin.com/company/woom-health)|2015|5|3.3k|Wellness and Fitness Services|
 |[Gtb AI](https://genetracerai-fxgovj3.gamma.site)|[Link](https://linkedin.com/company/genetracer)|N/A|2|1.1k|Business Consulting and Services|
+
+### Madrid - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[visualNACert](https://www.visualnacert.com)|[Link](https://linkedin.com/company/visualnacert)|N/A|40|2.6k|Software Development|
 
 ### Madrid - 💬 Chatbots & Customer Service
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -2380,6 +2408,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[QCraft AI](https://www.qcraft.ai/en)|[Link](https://linkedin.com/company/qcraft)|2019|141|14k|Software Development|
 |[DeepScenario](https://www.deepscenario.com)|[Link](https://linkedin.com/company/deepscenario)|2021|12|12k|Software Development|
 
+### Munich - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[OroraTech](https://www.ororatech.com)|[Link](https://linkedin.com/company/ororatech)|2018|203|26k|Software Development|
+
 ### Munich - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -2399,7 +2432,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Munich - 🔬 Science & Engineering
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[OroraTech](https://www.ororatech.com)|[Link](https://linkedin.com/company/ororatech)|2018|203|26k|Software Development|
 |[CELUS](https://www.celus.io)|[Link](https://linkedin.com/company/celus)|2018|97|24k|Software Development|
 |[TWAICE](http://www.twaice.com)|[Link](https://linkedin.com/company/twaice)|2018|100|19k|IT Services and IT Consulting|
 |[KONUX](http://www.konux.com)|[Link](https://linkedin.com/company/konux)|2014|92|15k|Software Development|
@@ -2473,9 +2505,7 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Mirage](https://mirage.app)|[Link](https://linkedin.com/company/trymirage)|N/A|138|19k|Software Development|
 |[Nexar Inc.](https://www.nexar-ai.com/)|[Link](https://linkedin.com/company/nexar-inc-)|2015|97|18k|Software Development|
 |[Nanit](http://www.nanit.com)|[Link](https://linkedin.com/company/nanit)|N/A|210|16k|Computers and Electronics Manufacturing|
-|[SpaceKnow Inc.](https://www.spaceknow.com/)|[Link](https://linkedin.com/company/spaceknow)|2015|39|10k|Software Development|
 |[Structured AI](http://www.getstructured.ai)|[Link](https://linkedin.com/company/getstructured-ai)|N/A|11|6k|Software Development|
-|[Tensorflight](https://tensorflight.com)|[Link](https://linkedin.com/company/tensorflight)|2016|2|2.2k|Software Development|
 |[True3D](https://true3d.com/)|[Link](https://linkedin.com/company/true3dco)|N/A|6|1.3k|Software Development|
 
 ### New York - 📚 Natural Language Processing
@@ -2529,6 +2559,13 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Harmonic Discovery](http://www.harmonicdiscovery.com)|[Link](https://linkedin.com/company/harmonicdiscovery)|2021|5|1.5k|Biotechnology Research|
 |[Raycaster](https://raycaster.ai)|[Link](https://linkedin.com/company/raycasterai)|2025|3|1.3k|Software Development|
 
+### New York - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[CARTO](https://carto.com)|[Link](https://linkedin.com/company/carto)|2012|349|57k|Software Development|
+|[SpaceKnow Inc.](https://www.spaceknow.com/)|[Link](https://linkedin.com/company/spaceknow)|2015|39|10k|Software Development|
+|[Tensorflight](https://tensorflight.com)|[Link](https://linkedin.com/company/tensorflight)|2016|2|2.2k|Software Development|
+
 ### New York - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -2569,7 +2606,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[AlphaSense](http://www.alpha-sense.com)|[Link](https://linkedin.com/company/alphasense)|N/A|3.5k|147k|Software Development|
 |[Sisense](http://www.sisense.com)|[Link](https://linkedin.com/company/sisense)|N/A|511|71k|Software Development|
-|[CARTO](https://carto.com)|[Link](https://linkedin.com/company/carto)|2012|349|57k|Software Development|
 |[Linkup](http://www.linkup.so)|[Link](https://linkedin.com/company/linkup-platform)|2024|39|8.4k|Software Development|
 |[Streamoid](https://streamoid.com)|[Link](https://linkedin.com/company/streamoid)|N/A|59|5.5k|Software Development|
 
@@ -2725,6 +2761,10 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[Zivid](https://www.zivid.com)|[Link](https://linkedin.com/company/zividlabs)|2015|101|10k|Automation Machinery Manufacturing|
 |[Spoor](https://www.spoor.ai/)|[Link](https://linkedin.com/company/spoorai)|2020|50|5.5k|Software Development|
+
+### Oslo - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
 |[VAKE](https://www.vake.ai/)|[Link](https://linkedin.com/company/vake-ai)|2019|30|1.8k|Software Development|
 
 ### Oslo - 🗣️ Voice & Sound
@@ -3009,6 +3049,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Wintics](http://wintics.com/)|[Link](https://linkedin.com/company/wintics)|2017|18|3.8k|IT Services and IT Consulting|
 |[Mobility Tech Green Europe](http://www.mobilitytechgreen.com)|[Link](https://linkedin.com/company/mobility-tech-green)|2009|31|2.3k|IT Services and IT Consulting|
 
+### Paris - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Plume (YC S24)](https://www.plumefinder.com)|[Link](https://linkedin.com/company/plumefinder)|2024|12|2.9k|IT Services and IT Consulting|
+
 ### Paris - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -3030,7 +3075,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[Dessia Technologies](https://www.dessia.io/)|[Link](https://linkedin.com/company/dessia)|2017|32|3k|Software Development|
-|[Plume (YC S24)](https://www.plumefinder.com)|[Link](https://linkedin.com/company/plumefinder)|2024|12|2.9k|IT Services and IT Consulting|
 
 ### Paris - 💰 Business
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -3903,15 +3947,15 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[NeuralMed](http://www.neuralmed.ai)|[Link](https://linkedin.com/company/neuralmed01)|2018|14|14k|Hospitals and Health Care|
 |[Voa Health](https://voa.health)|[Link](https://linkedin.com/company/voahealth)|2023|23|4.9k|Software Development|
 
+### São Paulo - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Agrotools](https://agrotools.com.br/)|[Link](https://linkedin.com/company/agrotools-gestao-e-monitoramento-geoespacial)|2007|180|38k|IT Services and IT Consulting|
+
 ### São Paulo - 🔎 Search & Recommendation
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[QuintoAndar](https://carreiras.quintoandar.com.br/)|[Link](https://linkedin.com/company/quintoandar-com-br)|2012|5.9k|724k|Software Development|
-
-### São Paulo - 🔬 Science & Engineering
-|Name|LinkedIn|Founded|Employees|Followers|Industry|
-|-|-|-|-|-|-|
-|[Agrotools](https://agrotools.com.br/)|[Link](https://linkedin.com/company/agrotools-gestao-e-monitoramento-geoespacial)|2007|180|38k|IT Services and IT Consulting|
 
 ### São Paulo - 💰 Business
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -4342,9 +4386,7 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Sydney - 👁️ Computer Vision
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[Nearmap](https://www.nearmap.com)|[Link](https://linkedin.com/company/nearmap-com)|2009|1.8k|94k|Software Development|
 |[Harrison.ai](https://www.harrison.ai)|[Link](https://linkedin.com/company/harrison-ai)|N/A|198|54k|Hospitals and Health Care|
-|[Propeller](https://www.propelleraero.com)|[Link](https://linkedin.com/company/propeller-aero)|2014|379|32k|Software Development|
 |[Tiliter](https://www.tiliter.com)|[Link](https://linkedin.com/company/tilitertech)|N/A|14|6k|Software Development|
 |[Presien](http://www.presien.com)|[Link](https://linkedin.com/company/presien)|2020|23|2.4k|Automation Machinery Manufacturing|
 
@@ -4365,6 +4407,12 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Coviu Global](https://www.coviu.com)|[Link](https://linkedin.com/company/coviu)|2015|34|11k|Hospitals and Health Care|
 |[Care GP](https://caregp.com.au)|[Link](https://linkedin.com/company/caregp)|2024|16|7.5k|Software Development|
 |[Incepto](https://incepto.ai)|[Link](https://linkedin.com/company/incepto)|2012|5|6k|IT Services and IT Consulting|
+
+### Sydney - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Nearmap](https://www.nearmap.com)|[Link](https://linkedin.com/company/nearmap-com)|2009|1.8k|94k|Software Development|
+|[Propeller](https://www.propelleraero.com)|[Link](https://linkedin.com/company/propeller-aero)|2014|379|32k|Software Development|
 
 ### Sydney - 🔬 Science & Engineering
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -4463,7 +4511,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[Trigo](https://www.trigoretail.com)|[Link](https://linkedin.com/company/trigoretail)|2018|214|21k|Software Development|
-|[Taranis](http://www.taranis.com)|[Link](https://linkedin.com/company/taranis-visual)|2015|194|20k|Farming|
 |[OrCam](http://www.orcam.com)|[Link](https://linkedin.com/company/orcam)|2010|168|16k|Wellness and Fitness Services|
 |[Corsight AI](https://corsight.ai)|[Link](https://linkedin.com/company/corsight)|2019|53|9.8k|Security and Investigations|
 |[Cortica](http://www.cortica.com)|[Link](https://linkedin.com/company/cortica)|2007|28|7k|Software Development|
@@ -4482,6 +4529,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |[Foretellix](https://www.foretellix.com)|[Link](https://linkedin.com/company/foretellix)|2018|118|23k|Software Development|
 |[Cognata](http://www.cognata.com)|[Link](https://linkedin.com/company/cognata-ltd)|2016|20|6.4k|Software Development|
 |[MOV.AI - The Robotics Engine Platform™](http://mov.ai)|[Link](https://linkedin.com/company/movai)|2016|27|5.5k|Automation Machinery Manufacturing|
+
+### Tel Aviv - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Taranis](http://www.taranis.com)|[Link](https://linkedin.com/company/taranis-visual)|2015|194|20k|Farming|
 
 ### Tel Aviv - 🗣️ Voice & Sound
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -4566,7 +4618,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[Ideogram](https://ideogram.ai/)|[Link](https://linkedin.com/company/ideogram-ai)|2022|70|18k|Software Development|
 |[Moonvalley](https://www.moonvalley.com)|[Link](https://linkedin.com/company/moonvalley-ai)|2023|94|18k|Software Development|
-|[Ecopia AI](http://www.ecopia.ai)|[Link](https://linkedin.com/company/ecopia-ai)|2013|48|8.6k|Software Development|
 
 ### Toronto - 📚 Natural Language Processing
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
@@ -4597,6 +4648,12 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |-|-|-|-|-|-|
 |[Waabi](http://www.waabi.ai)|[Link](https://linkedin.com/company/waabi)|2021|366|35k|Truck Transportation|
 
+### Toronto - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[KorrAI](https://www.korrai.com/)|[Link](https://linkedin.com/company/korrai)|2020|24|12k|IT Services and IT Consulting|
+|[Ecopia AI](http://www.ecopia.ai)|[Link](https://linkedin.com/company/ecopia-ai)|2013|48|8.6k|Software Development|
+
 ### Toronto - 💬 Chatbots & Customer Service
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
@@ -4611,7 +4668,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 ### Toronto - 🔬 Science & Engineering
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
-|[KorrAI](https://www.korrai.com/)|[Link](https://linkedin.com/company/korrai)|2020|24|12k|IT Services and IT Consulting|
 |[Draftaid](https://draftaid.io/)|[Link](https://linkedin.com/company/draftaid)|2023|25|2.7k|Software Development|
 
 ### Toronto - 💰 Business
@@ -4915,7 +4971,6 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[ANYbotics](http://www.anybotics.com)|[Link](https://linkedin.com/company/anybotics)|2016|261|116k|Automation Machinery Manufacturing|
-|[Wingtra](https://wingtra.com)|[Link](https://linkedin.com/company/wingtra)|2016|128|48k|Aviation and Aerospace Component Manufacturing|
 |[Voliro](https://voliro.com)|[Link](https://linkedin.com/company/voliro-ch)|2019|49|25k|IT Services and IT Consulting|
 |[mimic](https://www.mimicrobotics.com/)|[Link](https://linkedin.com/company/mimicrobotics)|2024|90|23k|IT Services and IT Consulting|
 |[Verity](https://www.verity.net)|[Link](https://linkedin.com/company/verity-ag)|2014|136|22k|Software Development|
@@ -4933,6 +4988,11 @@ Jump to: [Abu Dhabi](#abu-dhabi), [Amsterdam](#amsterdam), [Athens](#athens), [A
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
 |-|-|-|-|-|-|
 |[Embotech](http://www.embotech.ai)|[Link](https://linkedin.com/company/embotech)|2013|111|16k|Software Development|
+
+### Zurich - 🛰️ Geospatial
+|Name|LinkedIn|Founded|Employees|Followers|Industry|
+|-|-|-|-|-|-|
+|[Wingtra](https://wingtra.com)|[Link](https://linkedin.com/company/wingtra)|2016|128|48k|Aviation and Aerospace Component Manufacturing|
 
 ### Zurich - 💬 Chatbots & Customer Service
 |Name|LinkedIn|Founded|Employees|Followers|Industry|
